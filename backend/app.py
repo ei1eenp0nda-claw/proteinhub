@@ -12,7 +12,7 @@ app = Flask(__name__)
 CORS(app)
 
 # 配置
-app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv('DATABASE_URL', 'postgresql://user:pass@localhost/proteinhub')
+app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv('DATABASE_URL', 'sqlite:///proteinhub.db')
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 db = SQLAlchemy(app)
@@ -201,6 +201,23 @@ def require_auth(f):
 
 # ==================== API 路由 ====================
 
+@app.route('/')
+def home():
+    """首页"""
+    return jsonify({
+        'service': 'ProteinHub API',
+        'version': '1.0.0',
+        'status': 'running',
+        'endpoints': {
+            'health': '/api/health',
+            'content_test': '/api/content/test',
+            'content_generate': 'POST /api/content/generate',
+            'content_preview': 'POST /api/content/preview'
+        },
+        'docs': '/swagger'
+    })
+
+
 @app.route('/api/health', methods=['GET'])
 def health_check():
     """健康检查端点"""
@@ -361,3 +378,115 @@ if __name__ == '__main__':
     with app.app_context():
         db.create_all()
     app.run(debug=True, host='0.0.0.0', port=5000)
+
+
+# ==================== 内容生成 API - 新增 ====================
+
+@app.route('/api/content/test', methods=['GET'])
+def content_test():
+    """测试内容生成"""
+    try:
+        from crawler.content_generator_v2 import ContentGenerator
+        
+        generator = ContentGenerator()
+        
+        article = {
+            'title': 'The rhythmic coupling of Egr-1 and Cidea regulates age-related metabolic dysfunction',
+            'abstract': 'Study reveals mechanism...',
+            'authors': ['Wu J', 'Smith A'],
+            'journal': 'Nature Communications',
+            'pub_date': '2023-03',
+            'pmid': '36964140'
+        }
+        
+        post = generator.generate_xiaohongshu_post(article, 'CIDEA')
+        
+        return jsonify({
+            'success': True,
+            'data': post,
+            'note': '这是模拟数据，实际使用时会搜索PubMed'
+        })
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+
+@app.route('/api/content/generate', methods=['POST'])
+@require_auth
+def content_generate(current_user):
+    """生成小红书风格内容"""
+    data = request.get_json()
+    
+    if not data or not data.get('protein_name'):
+        return jsonify({'error': '请提供蛋白名称'}), 400
+    
+    protein_name = data.get('protein_name')
+    
+    try:
+        from crawler.content_generator_v2 import ContentGenerator
+        from crawler.pubmed_crawler import PubMedCrawler
+        
+        # 搜索文献
+        crawler = PubMedCrawler()
+        articles = crawler.search_protein_interactions(protein_name, max_results=1)
+        
+        if not articles:
+            return jsonify({
+                'error': f'未找到 {protein_name} 的相关文献',
+                'suggestion': '请检查蛋白名称是否正确'
+            }), 404
+        
+        # 获取摘要
+        article = articles[0]
+        abstract = crawler.fetch_abstract(article['pmid'])
+        if abstract:
+            article['abstract'] = abstract
+        
+        # 生成内容
+        generator = ContentGenerator()
+        post = generator.generate_xiaohongshu_post(article, protein_name)
+        
+        return jsonify({
+            'success': True,
+            'data': post,
+            'protein_name': protein_name,
+            'generated_at': datetime.utcnow().isoformat()
+        })
+        
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+
+@app.route('/api/content/preview', methods=['POST'])
+def content_preview():
+    """预览内容生成（无需登录）"""
+    data = request.get_json()
+    
+    if not data or not data.get('protein_name'):
+        return jsonify({'error': '请提供蛋白名称'}), 400
+    
+    protein_name = data.get('protein_name')
+    
+    try:
+        from crawler.content_generator_v2 import ContentGenerator
+        
+        # 使用模拟数据预览
+        article = {
+            'title': data.get('article', {}).get('title', f'{protein_name} regulates metabolic processes'),
+            'abstract': data.get('article', {}).get('abstract', 'Study reveals mechanism...'),
+            'authors': data.get('article', {}).get('authors', ['Research Team']),
+            'journal': data.get('article', {}).get('journal', 'Scientific Journal'),
+            'pub_date': data.get('article', {}).get('pub_date', '2024'),
+            'pmid': data.get('article', {}).get('pmid', '00000000')
+        }
+        
+        generator = ContentGenerator()
+        post = generator.generate_xiaohongshu_post(article, protein_name)
+        
+        return jsonify({
+            'success': True,
+            'data': post,
+            'note': '预览模式，使用提供的文章数据'
+        })
+        
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500

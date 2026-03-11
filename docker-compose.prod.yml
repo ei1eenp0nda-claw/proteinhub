@@ -1,0 +1,51 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: proteinhub-backend
+    restart: always
+    environment:
+      - DATABASE_URL=sqlite:///data/proteinhub.db
+      - SECRET_KEY=${SECRET_KEY:-your-secret-key}
+      - JWT_SECRET_KEY=${JWT_SECRET_KEY:-your-jwt-secret}
+    volumes:
+      - ./data:/app/data
+    ports:
+      - "5000:5000"
+    networks:
+      - proteinhub-net
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: proteinhub-frontend
+    restart: always
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+    networks:
+      - proteinhub-net
+
+  nginx:
+    image: nginx:alpine
+    container_name: proteinhub-nginx
+    restart: always
+    ports:
+      - "443:443"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf
+      - ./ssl:/etc/nginx/ssl
+    depends_on:
+      - backend
+      - frontend
+    networks:
+      - proteinhub-net
+
+networks:
+  proteinhub-net:
+    driver: bridge
