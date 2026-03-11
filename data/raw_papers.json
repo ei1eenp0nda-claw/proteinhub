@@ -60683,5 +60683,63 @@
       }
     ],
     "abstract": "Non-alcoholic fatty liver disease (NAFLD) is the most prevalent hepatic disease characterized as lipid accumulation, yet without any approved drug. And development of therapeutic molecules is obstructed by low efficiency and organ toxicity. Herein, we develop a long-term, low-toxic and liver-selected nano candidate, nabCK, to alleviate NAFLD. NabCK is simply composed by natural compound ginsenoside compound K (CK) and albumin. As a major metabolite of ginseng, ginsenoside CK has excellently modulating functions for lipid metabolism, but accompanied by an extremely poor bioavailability <1%. Albumin is a key lipid carrier secreted and metabolized by livers. Thereby, it can improve solubility and liver-localization of CK. In adipocytes and hepatocytes, nabCK prevents lipid deposition and eliminates lipid droplets. Transcriptomic analysis reveals that nabCK rectifies various pathways that involved in steatosis development, including lipid absorption, lipid export, fatty acid biosynthesis, lipid storage and inflammation. All these pathways are modulated by mTOR, the pivotal feedback sensor that is hyperactive in NAFLD. NabCK suppresses mTOR activation to restores lipid homeostasis. In high-fat diet (HFD) induced NAFLD mice, nabCK retards development of steatosis and fibrosis, coupling a protective effect on cardiac tissues from lipotoxicity. Together, nabCK is a safe and potent candidate to offer benefits for NAFLD treatment."
+  },
+  {
+    "paperId": "981f145340eb4c6639d2ad6c505605d429fd8ea1",
+    "externalIds": {
+      "PubMedCentral": "12302294",
+      "DOI": "10.1016/j.jlr.2025.100853",
+      "CorpusId": 279602344,
+      "PubMed": "40562101"
+    },
+    "title": "Daytime-restricted feeding induces lean MAFLD in high-fat diet-fed mice by upregulating CD36-mediated lipid accumulation",
+    "venue": "Journal of Lipid Research",
+    "year": 2025,
+    "citationCount": 0,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12302294, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2368562947",
+        "name": "Zhenyu Wang"
+      },
+      {
+        "authorId": "2368561026",
+        "name": "Mingyang Zhang"
+      },
+      {
+        "authorId": "2326558945",
+        "name": "Miao Chen"
+      },
+      {
+        "authorId": "2326831345",
+        "name": "Shuning Fu"
+      },
+      {
+        "authorId": "2368533961",
+        "name": "Yang Zhang"
+      },
+      {
+        "authorId": "2368674017",
+        "name": "Mengyue Chen"
+      },
+      {
+        "authorId": "2284208616",
+        "name": "Xiong Z Ruan"
+      },
+      {
+        "authorId": "123331677",
+        "name": "Yaxi Chen"
+      }
+    ],
+    "abstract": "Time-restricted feeding (TRF) may aid in weight loss and improve metabolic health; however, its long-term effects and applicability to all individuals remain unclear. This study investigated the impact of different dietary patterns on hepatic metabolism by subjecting mice to either a normal chow diet or a high-fat diet, allowing for ad libitum feeding, daytime restrictive feeding (DRF), or nighttime restrictive feeding (NRF). Using metabolic cages to assess energy intake, we found that the fuel utilization rhythms of DRF mice were disrupted compared to ad libitum-fed mice. Mice on normal chow DRF exhibited only dyslipidemia, while those on high-fat DRF developed lean metabolic dysfunction-associated fatty liver disease (MAFLD), characterized by more pronounced dyslipidemia, weight loss, and hepatic lipid accumulation. RNA seq revealed that CD36 plays a crucial role in the development of lean MAFLD induced by high-fat DRF by inhibiting AMPK phosphorylation, disrupting the balance between lipogenesis and oxidation. Mechanistic validation was performed in CD36 liver-specific knockout mice and Liposomal nanoparticle injection models. These findings provide new insights into the potential mechanisms linking feeding patterns to lean MAFLD. Additionally, CD36 emerges as a potential therapeutic target for high-fat-induced lean MAFLD. Clarifying the relationship between DRF and lean MAFLD may inform guidelines for specific populations, such as individuals practicing intermittent fasting or those working night shifts, while also suggesting potential therapeutic strategies for clinical management."
   }
 ]
