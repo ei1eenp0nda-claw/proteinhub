@@ -57167,5 +57167,538 @@
       }
     ],
     "abstract": null
+  },
+  {
+    "paperId": "1a21c7331174cc2910af8f86bfbbe50810c15cc9",
+    "externalIds": {
+      "DOI": "10.1152/ajpgi.00076.2025",
+      "CorpusId": 276895733,
+      "PubMed": "40063038"
+    },
+    "title": "Key Mechanisms in Alcohol-Associated Liver Disease: Hepatic ADH Deficiency, Dysregulated Hepatic Lipid Metabolism and Nonoxidative Ethanol Metabolites.",
+    "venue": "American Journal of Physiology - Gastrointestinal and Liver Physiology",
+    "year": 2025,
+    "citationCount": 3,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1152/ajpgi.00076.2025?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1152/ajpgi.00076.2025, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2339641453",
+        "name": "Seol Hee Park"
+      },
+      {
+        "authorId": "2268740965",
+        "name": "Wonhyo Seo"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "ac7153cb5a5662ffe5f8f51fc9ee80f51246bd48",
+    "externalIds": {
+      "MAG": "2562039591",
+      "DOI": "10.1016/j.mce.2016.12.022",
+      "CorpusId": 21694354,
+      "PubMed": "28017785"
+    },
+    "title": "Hepatic lipid metabolism and non-alcoholic fatty liver disease in aging.",
+    "venue": "Molecular and Cellular Endocrinology",
+    "year": 2017,
+    "citationCount": 129,
+    "influentialCitationCount": 6,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.mce.2016.12.022?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.mce.2016.12.022, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "40384322",
+        "name": "Zhenwei Gong"
+      },
+      {
+        "authorId": "5712352",
+        "name": "Emir Tas"
+      },
+      {
+        "authorId": "5698844",
+        "name": "S. Yakar"
+      },
+      {
+        "authorId": "5804169",
+        "name": "R. Muzumdar"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "cff468bb0de79145661298914defe41aa0251054",
+    "externalIds": {
+      "MAG": "2021550232",
+      "DOI": "10.1016/j.clnu.2015.01.021",
+      "CorpusId": 27733436,
+      "PubMed": "25736031"
+    },
+    "title": "Effect of specific amino acids on hepatic lipid metabolism in fructose-induced non-alcoholic fatty liver disease.",
+    "venue": "Clinical Nutrition",
+    "year": 2016,
+    "citationCount": 86,
+    "influentialCitationCount": 5,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.clnu.2015.01.021?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.clnu.2015.01.021, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "38142161",
+        "name": "P. Jegatheesan"
+      },
+      {
+        "authorId": "6564616",
+        "name": "Stéphanie Beutheu"
+      },
+      {
+        "authorId": "9994964",
+        "name": "G. Ventura"
+      },
+      {
+        "authorId": "49486067",
+        "name": "G. Sarfati"
+      },
+      {
+        "authorId": "14135992",
+        "name": "E. Nubret"
+      },
+      {
+        "authorId": "4783504",
+        "name": "N. Kapel"
+      },
+      {
+        "authorId": "1402203703",
+        "name": "A. Waligora-Dupriet"
+      },
+      {
+        "authorId": "50449616",
+        "name": "I. Bergheim"
+      },
+      {
+        "authorId": "5443765",
+        "name": "L. Cynober"
+      },
+      {
+        "authorId": "1403223082",
+        "name": "Jean-Pascal De-Bandt"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "905ddc907032932a1446077527fccc6caf305406",
+    "externalIds": {
+      "MAG": "1978543495",
+      "DOI": "10.1016/S1499-3872(15)60355-1",
+      "CorpusId": 10664260,
+      "PubMed": "25865685"
+    },
+    "title": "Beneficial mechanisms of aerobic exercise on hepatic lipid metabolism in non-alcoholic fatty liver disease.",
+    "venue": "Hepatobiliary & Pancreatic Diseases International",
+    "year": 2015,
+    "citationCount": 70,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/S1499-3872(15)60355-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/S1499-3872(15)60355-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2541375",
+        "name": "R. Guo"
+      },
+      {
+        "authorId": "4290890",
+        "name": "E. Liong"
+      },
+      {
+        "authorId": "144630638",
+        "name": "K. So"
+      },
+      {
+        "authorId": "144687195",
+        "name": "M. Fung"
+      },
+      {
+        "authorId": "144181037",
+        "name": "G. Tipoe"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "2aea491705106bee897a7864ce0a7e15d0d11f93",
+    "externalIds": {
+      "MAG": "2057545989",
+      "DOI": "10.1161/ATVBAHA.113.301948",
+      "CorpusId": 6223239,
+      "PubMed": "24030551"
+    },
+    "title": "Apolipoprotein A-IV Expression in Mouse Liver Enhances Triglyceride Secretion and Reduces Hepatic Lipid Content by Promoting Very Low Density Lipoprotein Particle Expansion",
+    "venue": "Arteriosclerosis, Thrombosis and Vascular Biology",
+    "year": 2013,
+    "citationCount": 109,
+    "influentialCitationCount": 3,
+    "openAccessPdf": {
+      "url": "https://www.ahajournals.org/doi/pdf/10.1161/ATVBAHA.113.301948",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1161/ATVBAHA.113.301948?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1161/ATVBAHA.113.301948, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2375175809",
+        "name": "Melissa A. VerHague"
+      },
+      {
+        "authorId": "2774938",
+        "name": "Dongmei Cheng"
+      },
+      {
+        "authorId": "32963792",
+        "name": "R. Weinberg"
+      },
+      {
+        "authorId": "3596741",
+        "name": "G. S. Shelness"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "0c6a8cf9f9c50854b11733888c9ea977a2b9591d",
+    "externalIds": {
+      "MAG": "2791933046",
+      "DOI": "10.1002/lipd.12023",
+      "CorpusId": 4016020,
+      "PubMed": "29488640"
+    },
+    "title": "Curcumin Attenuates Lipopolysaccharide-Induced Hepatic Lipid Metabolism Disorder by Modification of m6 A RNA Methylation in Piglets.",
+    "venue": "Lipids",
+    "year": 2018,
+    "citationCount": 105,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "https://aocs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lipd.12023",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/lipd.12023?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/lipd.12023, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2054646486",
+        "name": "Na Lu"
+      },
+      {
+        "authorId": "48569916",
+        "name": "Xingmei Li"
+      },
+      {
+        "authorId": "2338221808",
+        "name": "Jiayao Yu"
+      },
+      {
+        "authorId": "2153682680",
+        "name": "Yi Li"
+      },
+      {
+        "authorId": "35790861",
+        "name": "Chao Wang"
+      },
+      {
+        "authorId": "121860517",
+        "name": "Lili Zhang"
+      },
+      {
+        "authorId": "37555327",
+        "name": "Tian Wang"
+      },
+      {
+        "authorId": "145865722",
+        "name": "X. Zhong"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "e639e62105b1ae7be81b6ba597eb4db99b6f48ea",
+    "externalIds": {
+      "MAG": "2018265574",
+      "DOI": "10.1002/hep.22220",
+      "CorpusId": 5055433,
+      "PubMed": "18393289"
+    },
+    "title": "Noninvasive assessment of hepatic lipid composition: Advancing understanding and management of fatty liver disorders",
+    "venue": "Hepatology",
+    "year": 2008,
+    "citationCount": 171,
+    "influentialCitationCount": 6,
+    "openAccessPdf": {
+      "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hep.22220",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/hep.22220?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/hep.22220, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2069626995",
+        "name": "N. Johnson"
+      },
+      {
+        "authorId": "31903459",
+        "name": "D. Walton"
+      },
+      {
+        "authorId": "6996163",
+        "name": "T. Sachinwalla"
+      },
+      {
+        "authorId": "2156404402",
+        "name": "C. H. Thompson"
+      },
+      {
+        "authorId": "145543982",
+        "name": "Kate Smith"
+      },
+      {
+        "authorId": "3915736",
+        "name": "P. Ruell"
+      },
+      {
+        "authorId": "6416118",
+        "name": "S. Stannard"
+      },
+      {
+        "authorId": "143937583",
+        "name": "J. George"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "e76445c6ef97093fdacbf4cf5f6510af005207a9",
+    "externalIds": {
+      "MAG": "2633755875",
+      "PubMedCentral": "5535825",
+      "DOI": "10.3390/ijms18071330",
+      "CorpusId": 4148648,
+      "PubMed": "28640194"
+    },
+    "title": "Moringa Leaves Prevent Hepatic Lipid Accumulation and Inflammation in Guinea Pigs by Reducing the Expression of Genes Involved in Lipid Metabolism",
+    "venue": "International Journal of Molecular Sciences",
+    "year": 2017,
+    "citationCount": 57,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "https://www.mdpi.com/1422-0067/18/7/1330/pdf?version=1498547974",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5535825, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "18105198",
+        "name": "M. Almatrafi"
+      },
+      {
+        "authorId": "1422389622",
+        "name": "M. Vergara-Jiménez"
+      },
+      {
+        "authorId": "2053534",
+        "name": "A. Murillo"
+      },
+      {
+        "authorId": "12135452",
+        "name": "Gregory H. Norris"
+      },
+      {
+        "authorId": "3803659",
+        "name": "C. Blesso"
+      },
+      {
+        "authorId": "145315181",
+        "name": "M. Fernández"
+      }
+    ],
+    "abstract": "To investigate the mechanisms by which Moringa oleifera leaves (ML) modulate hepatic lipids, guinea pigs were allocated to either control (0% ML), 10% Low Moringa (LM) or 15% High Moringa (HM) diets with 0.25% dietary cholesterol to induce hepatic steatosis. After 6 weeks, guinea pigs were sacrificed and liver and plasma were collected to determine plasma lipids, hepatic lipids, cytokines and the expression of genes involved in hepatic cholesterol (CH) and triglyceride (TG) metabolism. There were no differences in plasma lipids among groups. A dose-response effect of ML was observed in hepatic lipids (CH and TG) with the lowest concentrations in the HM group (p < 0.001), consistent with histological evaluation of lipid droplets. Hepatic gene expression of diglyceride acyltransferase-2 and peroxisome proliferator activated receptor-γ, as well as protein concentrations interleukin (IL)-1β and interferon-γ, were lowest in the HM group (p < 0.005). Hepatic gene expression of cluster of differentiation-68 and sterol regulatory element binding protein-1c were 60% lower in both the LM and HM groups compared to controls (p < 0.01). This study demonstrates that ML may prevent hepatic steatosis by affecting gene expression related to hepatic lipids synthesis resulting in lower concentrations of cholesterol and triglycerides and reduced inflammation in the liver."
+  },
+  {
+    "paperId": "8ee8ea36bc16ab8917b588feb90ddd2aa1fb3080",
+    "externalIds": {
+      "PubMedCentral": "6586634",
+      "MAG": "2949364854",
+      "DOI": "10.1038/s41467-019-10684-1",
+      "CorpusId": 195189286,
+      "PubMed": "31222048"
+    },
+    "title": "Brain leptin reduces liver lipids by increasing hepatic triglyceride secretion and lowering lipogenesis",
+    "venue": "Nature Communications",
+    "year": 2019,
+    "citationCount": 93,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "https://www.nature.com/articles/s41467-019-10684-1.pdf",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6586634, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "14255558",
+        "name": "M. Hackl"
+      },
+      {
+        "authorId": "3757576",
+        "name": "C. Fürnsinn"
+      },
+      {
+        "authorId": "5436995",
+        "name": "C. Schuh"
+      },
+      {
+        "authorId": "2227533",
+        "name": "M. Krššák"
+      },
+      {
+        "authorId": "153790968",
+        "name": "F. Carli"
+      },
+      {
+        "authorId": "31712243",
+        "name": "Sara Guerra"
+      },
+      {
+        "authorId": "3783666",
+        "name": "A. Freudenthaler"
+      },
+      {
+        "authorId": "1399201687",
+        "name": "S. Baumgartner-Parzer"
+      },
+      {
+        "authorId": "144993459",
+        "name": "T. Helbich"
+      },
+      {
+        "authorId": "6018708",
+        "name": "A. Luger"
+      },
+      {
+        "authorId": "6559036",
+        "name": "M. Zeyda"
+      },
+      {
+        "authorId": "2445839",
+        "name": "A. Gastaldelli"
+      },
+      {
+        "authorId": "35057477",
+        "name": "C. Buettner"
+      },
+      {
+        "authorId": "145807396",
+        "name": "T. Scherer"
+      }
+    ],
+    "abstract": "Hepatic steatosis develops when lipid influx and production exceed the liver’s ability to utilize/export triglycerides. Obesity promotes steatosis and is characterized by leptin resistance. A role of leptin in hepatic lipid handling is highlighted by the observation that recombinant leptin reverses steatosis of hypoleptinemic patients with lipodystrophy by an unknown mechanism. Since leptin mainly functions via CNS signaling, we here examine in rats whether leptin regulates hepatic lipid flux via the brain in a series of stereotaxic infusion experiments. We demonstrate that brain leptin protects from steatosis by promoting hepatic triglyceride export and decreasing de novo lipogenesis independently of caloric intake. Leptin’s anti-steatotic effects are generated in the dorsal vagal complex, require hepatic vagal innervation, and are preserved in high-fat-diet-fed rats when the blood brain barrier is bypassed. Thus, CNS leptin protects from ectopic lipid accumulation via a brain-vagus-liver axis and may be a therapeutic strategy to ameliorate obesity-related steatosis. Obesity is associated with leptin resistance and rising blood leptin levels while central leptin exposure may be limited. Here, the authors show that brain leptin infusion reduces hepatic lipid content in rats by increasing hepatic VLDL secretion and lowering liver de novo lipogenesis via a vagal mechanism."
+  },
+  {
+    "paperId": "4462ff968422143f932537671f0ef3104dc0cba9",
+    "externalIds": {
+      "DOI": "10.1152/ajpgi.00153.2025",
+      "CorpusId": 279600983,
+      "PubMed": "40560816"
+    },
+    "title": "Inhibition of SREBP-1c Rescues Hepatic CYP7B1 Expression and Bile Acid Synthesis in Malnourished Mice.",
+    "venue": "American Journal of Physiology - Gastrointestinal and Liver Physiology",
+    "year": 2025,
+    "citationCount": 1,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1152/ajpgi.00153.2025?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1152/ajpgi.00153.2025, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2368548397",
+        "name": "Xioyang Wan"
+      },
+      {
+        "authorId": "2268928220",
+        "name": "Krishnakant G. Soni"
+      },
+      {
+        "authorId": "2283130522",
+        "name": "Jong Min Choi"
+      },
+      {
+        "authorId": "2283264060",
+        "name": "Sung Yun Jung"
+      },
+      {
+        "authorId": "2268922342",
+        "name": "Margaret E. Conner"
+      },
+      {
+        "authorId": "6522011",
+        "name": "Geoffrey A. Preidis"
+      }
+    ],
+    "abstract": "Malnutrition decreases intestinal bile acids, resulting in inefficient nutrient absorption and impaired catch-up growth. Mechanisms by which bile acid depletion occurs in malnutrition are unknown. Using a mouse model of early-life malnutrition, we explored bile acid homeostasis, focusing on transcriptional repression of CYP7B1, a rate-limiting enzyme in the alternative pathway of bile acid biosynthesis, by SREBP-1c, a master regulator of lipid metabolism. Mice were maintained on a low-protein low-fat or isocaloric control chow until eight weeks of age when livers were harvested for proteome profiling, western blot, RT-qPCR, and chromatin immunoprecipitation. Cultured hepatocytes and mice were treated with the SREBP-1c inhibitors fatostatin and betulin to determine whether this therapeutic strategy rescues CYP7B1 expression and bile acid synthesis in malnutrition. Malnutrition decreased the bile acid pool size and altered the expression of multiple hepatic cytochrome P450 enzymes, with profound depletion of CYP7B1, in males but not females. Malnutrition activated SREBP-1c and led to its enrichment at a Cyp7b1 gene regulatory region that featured loss of binding by the basal transcriptional activator SP1. Treatment of cultured hepatocytes or malnourished mice with the SREBP-1c inhibitors fatostatin or betulin increased CYP7B1 expression. Both drugs rescued the bile acid pool size in malnourished mice. These results suggest that malnutrition impairs bile acid synthesis via transcriptional repression of Cyp7b1 by SREBP-1c. SREBP-1c inhibitors restore hepatic CYP7B1 expression and bile acid synthesis."
   }
 ]
