@@ -83998,5 +83998,315 @@
       "doi": "10.xxxx/protein.79705"
     },
     "created_at": "2026-03-11T21:00:01.596430"
+  },
+  {
+    "id": 3001,
+    "title": "🔬 What activates thermogenesis when lipid droplet lipolys...",
+    "author": "Lipid研究组",
+    "avatar": "🧪",
+    "likes": "2390",
+    "emoji": "🧪",
+    "gradient": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+    "protein": "Lipid",
+    "angle": "机制解析",
+    "content": "发现一篇 2018 年的真实研究！📄\n\n【论文标题】\nWhat activates thermogenesis when lipid droplet lipolysis is absent in brown adipocytes?\n\n【研究团队】\nHyunsu Shin, Hang Shi, B. Xue et al.\n\n【发表期刊】\nAdipocyte (2018)\n\n【被引次数】23\n\n【研究摘要】\nABSTRACT Cold exposure activates the sympathetic nervous system. It is generally thought that this sympathetic activation induces heat production by stimulating lipolysis of cytosolic lipid droplets (LDs) in brown adipocytes. However, this concept was not examined in vivo due to lack of appropriate animal models. Recently, we and others have demonstrated that LD lipolysis in brown adipocytes is not required for cold-induced nonshivering thermogenesis. Our studies uncovered an essential role of white adipose tissue (WAT) lipolysis in fueling thermogenesis during fasting. In addition, we showed ...\n\n【涉及蛋白】Lipid\n\n【原文链接】\nhttps://www.semanticscholar.org/paper/9a8d4fed276b9d359ff7ef17c64e53ee63bb33b5\nPubMed: https://pubmed.ncbi.nlm.nih.gov/29620433/",
+    "tags": [
+      "#Lipid",
+      "#2018",
+      "#Adipocyte"
+    ],
+    "date": "03-11",
+    "location": "广州",
+    "paper": {
+      "title": "What activates thermogenesis when lipid droplet lipolysis is absent in brown adipocytes?",
+      "authors": "Hyunsu Shin, Hang Shi, B. Xue et al.",
+      "journal": "Adipocyte",
+      "year": 2018,
+      "doi": "10.1080/21623945.2018.1453769",
+      "pmid": "29620433",
+      "paperId": "9a8d4fed276b9d359ff7ef17c64e53ee63bb33b5",
+      "citationCount": 23
+    },
+    "created_at": "2026-03-11T21:43:54.735379",
+    "source": "Semantic Scholar (本地库)"
+  },
+  {
+    "id": 3002,
+    "title": "📖 Vacuolar protein sorting 13C is a novel lipid droplet p...",
+    "author": "ATGL研究组",
+    "avatar": "⚔️",
+    "likes": "1551",
+    "emoji": "⚔️",
+    "gradient": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+    "protein": "ATGL",
+    "angle": "研究故事",
+    "content": "发现一篇 2017 年的真实研究！📄\n\n【论文标题】\nVacuolar protein sorting 13C is a novel lipid droplet protein that inhibits lipolysis in brown adipocytes\n\n【研究团队】\nV. D. Ramseyer, V. Kimler, J. Granneman\n\n【发表期刊】\nMolecular Metabolism (2017)\n\n【被引次数】27\n\n【研究摘要】\nObjective Brown adipose tissue (BAT) thermogenesis depends on the mobilization and oxidation of fatty acids from intracellular lipid droplets (LD) within brown adipocytes (BAs); however, the identity and function of LD proteins that control BAT lipolysis remain incomplete. Proteomic analysis of mouse BAT subcellular fractions identified vacuolar protein sorting 13C (VPS13C) as a novel LD protein. The aim of this work was to investigate the role of VPS13C on BA LDs. Methods Biochemical fractionation and high resolution confocal and immuno-transmission electron microscopy (TEM) were used to dete...\n\n【涉及蛋白】ATGL\n\n【原文链接】\nhttps://www.semanticscholar.org/paper/dcc77d7a59955773d3a30200a3a2387cc331f6cc\nPubMed: https://pubmed.ncbi.nlm.nih.gov/29175050/",
+    "tags": [
+      "#ATGL",
+      "#2017",
+      "#MolecularMetab"
+    ],
+    "date": "03-11",
+    "location": "杭州",
+    "paper": {
+      "title": "Vacuolar protein sorting 13C is a novel lipid droplet protein that inhibits lipolysis in brown adipocytes",
+      "authors": "V. D. Ramseyer, V. Kimler, J. Granneman",
+      "journal": "Molecular Metabolism",
+      "year": 2017,
+      "doi": "10.1016/j.molmet.2017.10.014",
+      "pmid": "29175050",
+      "paperId": "dcc77d7a59955773d3a30200a3a2387cc331f6cc",
+      "citationCount": 27
+    },
+    "created_at": "2026-03-11T21:43:54.735435",
+    "source": "Semantic Scholar (本地库)"
+  },
+  {
+    "id": 3003,
+    "title": "📖 Adipocyte‐Derived Anticancer Lipid Droplets",
+    "author": "Lipid研究组",
+    "avatar": "🧪",
+    "likes": "944",
+    "emoji": "🧪",
+    "gradient": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+    "protein": "Lipid",
+    "angle": "研究故事",
+    "content": "发现一篇 2021 年的真实研究！📄\n\n【论文标题】\nAdipocyte‐Derived Anticancer Lipid Droplets\n\n【研究团队】\nTingxizi Liang, Di Wen, Guojun Chen et al.\n\n【发表期刊】\nAdvances in Materials (2021)\n\n【被引次数】51\n\n【研究摘要】\nNo abstract available\n\n【涉及蛋白】Lipid\n\n【原文链接】\nhttps://www.semanticscholar.org/paper/2f892be7c14d8d8d04c765728fc1b51578d7b41b\nPubMed: https://pubmed.ncbi.nlm.nih.gov/33987883/",
+    "tags": [
+      "#Lipid",
+      "#2021",
+      "#AdvancesinMat"
+    ],
+    "date": "03-11",
+    "location": "南京",
+    "paper": {
+      "title": "Adipocyte‐Derived Anticancer Lipid Droplets",
+      "authors": "Tingxizi Liang, Di Wen, Guojun Chen et al.",
+      "journal": "Advances in Materials",
+      "year": 2021,
+      "doi": "10.1002/adma.202100629",
+      "pmid": "33987883",
+      "paperId": "2f892be7c14d8d8d04c765728fc1b51578d7b41b",
+      "citationCount": 51
+    },
+    "created_at": "2026-03-11T21:43:54.735457",
+    "source": "Semantic Scholar (本地库)"
+  },
+  {
+    "id": 3004,
+    "title": "🔬 Perilipin membrane-integration determines lipid droplet...",
+    "author": "PLIN1研究组",
+    "avatar": "🔥",
+    "likes": "986",
+    "emoji": "🔥",
+    "gradient": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+    "protein": "PLIN1",
+    "angle": "机制解析",
+    "content": "发现一篇 2024 年的真实研究！📄\n\n【论文标题】\nPerilipin membrane-integration determines lipid droplet heterogeneity in differentiating adipocytes\n\n【研究团队】\nMario Majchrzak, Ozren Stojanović, Dalila Ajjaji et al.\n\n【发表期刊】\nbioRxiv (2024)\n\n【被引次数】29\n\n【研究摘要】\nThe storage of fat within lipid droplets (LDs) of adipocytes is critical for whole-body health. Acute fatty acid (FA) uptake by differentiating adipocytes leads to the formation of at least two LD-classes marked by distinct perilipins (PLINs). How this LD-heterogeneity arises is an important yet unresolved cell biological problem. Here, we show that an unconventional integral membrane-segment (iMS) targets the adipocyte specific LD-surface factor PLIN1 to the endoplasmic reticulum (ER) and facilitates high affinity binding to the first LD-class. The other PLINs remain largely excluded from the...\n\n【涉及蛋白】PLIN1\n\n【原文链接】\nhttps://www.semanticscholar.org/paper/0e797e16c3803fcedff3a197768a4513b6346ea3\nPubMed: https://pubmed.ncbi.nlm.nih.gov/38602875/",
+    "tags": [
+      "#PLIN1",
+      "#2024",
+      "#bioRxiv"
+    ],
+    "date": "03-11",
+    "location": "广州",
+    "paper": {
+      "title": "Perilipin membrane-integration determines lipid droplet heterogeneity in differentiating adipocytes",
+      "authors": "Mario Majchrzak, Ozren Stojanović, Dalila Ajjaji et al.",
+      "journal": "bioRxiv",
+      "year": 2024,
+      "doi": "10.1101/2023.10.30.564726",
+      "pmid": "38602875",
+      "paperId": "0e797e16c3803fcedff3a197768a4513b6346ea3",
+      "citationCount": 29
+    },
+    "created_at": "2026-03-11T21:43:54.735478",
+    "source": "Semantic Scholar (本地库)"
+  },
+  {
+    "id": 3005,
+    "title": "💊 Phenotypic characteristics of adipocyte-like cells gene...",
+    "author": "CIDEA研究组",
+    "avatar": "🧬",
+    "likes": "4834",
+    "emoji": "🧬",
+    "gradient": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+    "protein": "CIDEA",
+    "angle": "临床意义",
+    "content": "发现一篇 2024 年的真实研究！📄\n\n【论文标题】\nPhenotypic characteristics of adipocyte-like cells generated from C2C12 myoblasts cultured with chicken serum.\n\n【研究团队】\nKiriko Nakamura, Rukana Kohrogi, Saki Shimamoto et al.\n\n【发表期刊】\nBiochemical and Biophysical Research Communications - BBRC (2024)\n\n【研究摘要】\nThe aim of this study was to clarify the transcriptional and metabolic characteristics of C2C12 myoblasts cultured in Dulbecco's Modified Eagle Medium (DMEM) containing 20 % chicken serum (CHS) (C2C12-CHS cells) compared with C2C12 myoblasts cultured in DMEM containing 20 % fetal bovine serum (FBS) (C2C12-FBS cells). After 3 days of culture, C2C12-CHS cells showed a marked accumulation of lipid droplets, accompanied by increased expression levels of brown adipocyte-related genes (i.e., Bmp7, Prdm16, Ucp1, Cidea, Pgc1α, Cox7a1, Cox8, and β3-adorenoceptor). Furthermore, stimulation of β3-adoreno...\n\n【涉及蛋白】CIDEA\n\n【原文链接】\nhttps://www.semanticscholar.org/paper/b10b2ff36e11de579275bbc9490210104da6173c\nPubMed: https://pubmed.ncbi.nlm.nih.gov/39447277/",
+    "tags": [
+      "#CIDEA",
+      "#2024",
+      "#Biochemicaland"
+    ],
+    "date": "03-11",
+    "location": "上海",
+    "paper": {
+      "title": "Phenotypic characteristics of adipocyte-like cells generated from C2C12 myoblasts cultured with chicken serum.",
+      "authors": "Kiriko Nakamura, Rukana Kohrogi, Saki Shimamoto et al.",
+      "journal": "Biochemical and Biophysical Research Communications - BBRC",
+      "year": 2024,
+      "doi": "10.1016/j.bbrc.2024.150843",
+      "pmid": "39447277",
+      "paperId": "b10b2ff36e11de579275bbc9490210104da6173c",
+      "citationCount": 0
+    },
+    "created_at": "2026-03-11T21:43:54.735498",
+    "source": "Semantic Scholar (本地库)"
+  },
+  {
+    "id": 3006,
+    "title": "🔬 Distinct mechanisms regulate ATGL-mediated adipocyte li...",
+    "author": "CIDEC研究组",
+    "avatar": "⚗️",
+    "likes": "2259",
+    "emoji": "⚗️",
+    "gradient": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+    "protein": "CIDEC",
+    "angle": "机制解析",
+    "content": "发现一篇 2013 年的真实研究！📄\n\n【论文标题】\nDistinct mechanisms regulate ATGL-mediated adipocyte lipolysis by lipid droplet coat proteins.\n\n【研究团队】\nXingyuan Yang, Bradlee L. Heckmann, Xiao-dong Zhang et al.\n\n【发表期刊】\nMolecular Endocrinology (2013)\n\n【被引次数】50\n\n【研究摘要】\nAdipose triglyceride lipase (ATGL) is the key triacylglycerol hydrolase in adipocytes. The precise mechanisms by which ATGL action is regulated by lipid droplet (LD) coat proteins and responds to hormonal stimulation are incompletely defined. By combining usage of loss- and gain-of-function approaches, we sought to determine the respective roles of perilipin 1 and fat-specific protein 27 (FSP27) in the control of ATGL-mediated lipolysis in adipocytes. Knockdown of endogenous perilipin 1 expression resulted in elevated basal lipolysis that was less responsive to β-adrenergic agonist isoproteren...\n\n【涉及蛋白】CIDEC\n\n【原文链接】\nhttps://www.semanticscholar.org/paper/b64d3320fefa53052b5e84ccdfec59c07342057d\nPubMed: https://pubmed.ncbi.nlm.nih.gov/23204327/",
+    "tags": [
+      "#CIDEC",
+      "#2013",
+      "#MolecularEndoc"
+    ],
+    "date": "03-11",
+    "location": "北京",
+    "paper": {
+      "title": "Distinct mechanisms regulate ATGL-mediated adipocyte lipolysis by lipid droplet coat proteins.",
+      "authors": "Xingyuan Yang, Bradlee L. Heckmann, Xiao-dong Zhang et al.",
+      "journal": "Molecular Endocrinology",
+      "year": 2013,
+      "doi": "10.1210/me.2012-1178",
+      "pmid": "23204327",
+      "paperId": "b64d3320fefa53052b5e84ccdfec59c07342057d",
+      "citationCount": 50
+    },
+    "created_at": "2026-03-11T21:43:54.735524",
+    "source": "Semantic Scholar (本地库)"
+  },
+  {
+    "id": 3007,
+    "title": "🔬 Adipocyte lipolysis affects Perilipin 5 and cristae org...",
+    "author": "PLIN2研究组",
+    "avatar": "💧",
+    "likes": "4779",
+    "emoji": "💧",
+    "gradient": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
+    "protein": "PLIN2",
+    "angle": "机制解析",
+    "content": "发现一篇 2019 年的真实研究！📄\n\n【论文标题】\nAdipocyte lipolysis affects Perilipin 5 and cristae organization at the cardiac lipid droplet-mitochondrial interface\n\n【研究团队】\nM. Varghese, V. Kimler, F. Ghazi et al.\n\n【发表期刊】\nScientific Reports (2019)\n\n【被引次数】39\n\n【研究摘要】\nThis study investigated the effects of elevated fatty acid (FA) supply from adipose tissue on the ultrastructure of cardiac lipid droplets (LDs) and the expression and organization of LD scaffold proteins perilipin-2 (PLIN2) and perilipin-5 (PLIN5). Stimulation of adipocyte lipolysis by fasting (24 h) or β3-adrenergic receptor activation by CL316, 243 (CL) increased cardiac triacylglycerol (TAG) levels and LD size, whereas CL treatment also increased LD number. LDs were tightly associated with mitochondria, which was maintained during LD expansion. Electron tomography (ET) studies revealed con...\n\n【涉及蛋白】PLIN2\n\n【原文链接】\nhttps://www.semanticscholar.org/paper/639b0de309719ec627d27ac6f2bf58af27fd8842\nPubMed: https://pubmed.ncbi.nlm.nih.gov/30894648/",
+    "tags": [
+      "#PLIN2",
+      "#2019",
+      "#ScientificRepo"
+    ],
+    "date": "03-11",
+    "location": "北京",
+    "paper": {
+      "title": "Adipocyte lipolysis affects Perilipin 5 and cristae organization at the cardiac lipid droplet-mitochondrial interface",
+      "authors": "M. Varghese, V. Kimler, F. Ghazi et al.",
+      "journal": "Scientific Reports",
+      "year": 2019,
+      "doi": "10.1038/s41598-019-41329-4",
+      "pmid": "30894648",
+      "paperId": "639b0de309719ec627d27ac6f2bf58af27fd8842",
+      "citationCount": 39
+    },
+    "created_at": "2026-03-11T21:43:54.735553",
+    "source": "Semantic Scholar (本地库)"
+  },
+  {
+    "id": 3008,
+    "title": "💊 Widespread expression of perilipin 5 in normal human ti...",
+    "author": "Lipid研究组",
+    "avatar": "🧪",
+    "likes": "1025",
+    "emoji": "🧪",
+    "gradient": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+    "protein": "Lipid",
+    "angle": "临床意义",
+    "content": "发现一篇 2018 年的真实研究！📄\n\n【论文标题】\nWidespread expression of perilipin 5 in normal human tissues and in diseases is restricted to distinct lipid droplet subpopulations\n\n【研究团队】\nM. Hashani, H. Witzel, L. M. Pawella et al.\n\n【发表期刊】\nCell and Tissue Research (2018)\n\n【被引次数】21\n\n【研究摘要】\nNo abstract available\n\n【涉及蛋白】Lipid\n\n【原文链接】\nhttps://www.semanticscholar.org/paper/6f6422c1ce9aeec2a83dc1f9073b9b5e64c48529\nPubMed: https://pubmed.ncbi.nlm.nih.gov/29752569/",
+    "tags": [
+      "#Lipid",
+      "#2018",
+      "#CellandTissue"
+    ],
+    "date": "03-11",
+    "location": "北京",
+    "paper": {
+      "title": "Widespread expression of perilipin 5 in normal human tissues and in diseases is restricted to distinct lipid droplet subpopulations",
+      "authors": "M. Hashani, H. Witzel, L. M. Pawella et al.",
+      "journal": "Cell and Tissue Research",
+      "year": 2018,
+      "doi": "10.1007/s00441-018-2845-7",
+      "pmid": "29752569",
+      "paperId": "6f6422c1ce9aeec2a83dc1f9073b9b5e64c48529",
+      "citationCount": 21
+    },
+    "created_at": "2026-03-11T21:43:54.735569",
+    "source": "Semantic Scholar (本地库)"
+  },
+  {
+    "id": 3009,
+    "title": "🔬 Stomatin modulates adipocyte differentiation through ER...",
+    "author": "CIDEA研究组",
+    "avatar": "🧬",
+    "likes": "4998",
+    "emoji": "🧬",
+    "gradient": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+    "protein": "CIDEA",
+    "angle": "机制解析",
+    "content": "发现一篇 2020 年的真实研究！📄\n\n【论文标题】\nStomatin modulates adipocyte differentiation through ERK pathway and regulates lipid droplet growth and function\n\n【研究团队】\nShao-Chin Wu, Yuan-Ming Lio, Jui-Hao Lee et al.\n\n【发表期刊】\n (2020)\n\n【研究摘要】\nControlling fatty acid uptake, lipid production and storage, and metabolism of lipid droplets (LDs), are closely related to lipid homeostasis, adipocyte hypertrophy and obesity. We report here that stomatin, a major constituent of the lipid raft, participate in adipogenesis and lipogenesis by preferentially recruiting effectors, such as perilipin for LD fusion or transporters for fatty acid uptake. Adipocyte-like cells having increased stomatin expressions exhibit higher levels of fatty acid uptake and LD growth or enlargements. Moreover, transgenic mice fed with a high-fat diet showed increas...\n\n【涉及蛋白】CIDEA\n\n【原文链接】\nhttps://www.semanticscholar.org/paper/552946f9897d1ae2868e274dc6e5838c4c92a176",
+    "tags": [
+      "#CIDEA",
+      "#2020",
+      "#"
+    ],
+    "date": "03-11",
+    "location": "深圳",
+    "paper": {
+      "title": "Stomatin modulates adipocyte differentiation through ERK pathway and regulates lipid droplet growth and function",
+      "authors": "Shao-Chin Wu, Yuan-Ming Lio, Jui-Hao Lee et al.",
+      "journal": "",
+      "year": 2020,
+      "doi": "10.21203/rs.3.rs-94915/v1",
+      "pmid": "",
+      "paperId": "552946f9897d1ae2868e274dc6e5838c4c92a176",
+      "citationCount": 0
+    },
+    "created_at": "2026-03-11T21:43:54.735632",
+    "source": "Semantic Scholar (本地库)"
+  },
+  {
+    "id": 3010,
+    "title": "🔬 An in vivo reporter for tracking lipid droplet dynamics...",
+    "author": "PLIN2研究组",
+    "avatar": "💧",
+    "likes": "4097",
+    "emoji": "💧",
+    "gradient": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+    "protein": "PLIN2",
+    "angle": "机制解析",
+    "content": "发现一篇 2020 年的真实研究！📄\n\n【论文标题】\nAn in vivo reporter for tracking lipid droplet dynamics in transparent zebrafish\n\n【研究团队】\nDianne Lumaquin, Eleanor Johns, Emily D. Montal et al.\n\n【发表期刊】\nbioRxiv (2020)\n\n【被引次数】23\n\n【研究摘要】\nLipid droplets are lipid storage organelles found in nearly all cell types from adipocytes to cancer cells. Although increasingly implicated in disease, current methods to study lipid droplets require fixation or static imaging which limits investigation of their rapid in vivo dynamics. To address this, we created a lipid droplet transgenic reporter in whole animals and cell culture by fusing tdTOMATO to Perilipin-2 (PLIN2), a lipid droplet structural protein. Expression of this transgene in transparent casper zebrafish enabled in vivo imaging of adipose depots responsive to nutrient deprivati...\n\n【涉及蛋白】PLIN2\n\n【原文链接】\nhttps://www.semanticscholar.org/paper/25ac9f42d627152ed57bd89b788fc74b4356b9f0\nPubMed: https://pubmed.ncbi.nlm.nih.gov/34114952/",
+    "tags": [
+      "#PLIN2",
+      "#2020",
+      "#bioRxiv"
+    ],
+    "date": "03-11",
+    "location": "北京",
+    "paper": {
+      "title": "An in vivo reporter for tracking lipid droplet dynamics in transparent zebrafish",
+      "authors": "Dianne Lumaquin, Eleanor Johns, Emily D. Montal et al.",
+      "journal": "bioRxiv",
+      "year": 2020,
+      "doi": "10.7554/eLife.64744",
+      "pmid": "34114952",
+      "paperId": "25ac9f42d627152ed57bd89b788fc74b4356b9f0",
+      "citationCount": 23
+    },
+    "created_at": "2026-03-11T21:43:54.735650",
+    "source": "Semantic Scholar (本地库)"
   }
 ]
