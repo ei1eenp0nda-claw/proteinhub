@@ -32248,5 +32248,1598 @@
       }
     ],
     "abstract": null
+  },
+  {
+    "paperId": "533ff7f39428790452c7031d37b6046178cef37c",
+    "externalIds": {
+      "MAG": "2113637800",
+      "DOI": "10.2337/DIABETES.53.5.1243",
+      "CorpusId": 30357986,
+      "PubMed": "15111493"
+    },
+    "title": "Adipose tissue expression of the lipid droplet-associating proteins S3-12 and perilipin is controlled by peroxisome proliferator-activated receptor-gamma.",
+    "venue": "Diabetes",
+    "year": 2004,
+    "citationCount": 223,
+    "influentialCitationCount": 8,
+    "openAccessPdf": {
+      "url": "https://diabetesjournals.org/diabetes/article-pdf/53/5/1243/647079/zdb00504001243.pdf",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.2337/DIABETES.53.5.1243?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2337/DIABETES.53.5.1243, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "6600647",
+        "name": "K. Dalen"
+      },
+      {
+        "authorId": "2665834",
+        "name": "K. Schoonjans"
+      },
+      {
+        "authorId": "6250755",
+        "name": "S. Ulven"
+      },
+      {
+        "authorId": "1403491649",
+        "name": "M. S. Weedon-Fekjaer"
+      },
+      {
+        "authorId": "32188829",
+        "name": "T. Bentzen"
+      },
+      {
+        "authorId": "4209120",
+        "name": "H. Koutnikova"
+      },
+      {
+        "authorId": "3035748",
+        "name": "J. Auwerx"
+      },
+      {
+        "authorId": "4452068",
+        "name": "H. Nebb"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "a78477015814880b4d2cf99252ed561f2cab1dc7",
+    "externalIds": {
+      "MAG": "2001944628",
+      "DOI": "10.1074/jbc.M500978200",
+      "CorpusId": 43643570,
+      "PubMed": "15731108"
+    },
+    "title": "S3-12, Adipophilin, and TIP47 Package Lipid in Adipocytes*",
+    "venue": "Journal of Biological Chemistry",
+    "year": 2005,
+    "citationCount": 347,
+    "influentialCitationCount": 20,
+    "openAccessPdf": {
+      "url": "http://www.jbc.org/article/S0021925820675640/pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1074/jbc.M500978200?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1074/jbc.M500978200, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "4800983",
+        "name": "N. Wolins"
+      },
+      {
+        "authorId": "5856235",
+        "name": "Benjamin K Quaynor"
+      },
+      {
+        "authorId": "153811383",
+        "name": "James R. Skinner"
+      },
+      {
+        "authorId": "3816344",
+        "name": "Marissa J. Schoenfish"
+      },
+      {
+        "authorId": "5811677",
+        "name": "A. Tzekov"
+      },
+      {
+        "authorId": "6835434",
+        "name": "P. Bickel"
+      }
+    ],
+    "abstract": "Animals have evolved mechanisms to maintain circulating nutrient levels when energy demands exceed feeding opportunities. Mammals store most of their energy as triacylglycerol in the perilipin-coated lipid droplets of adipocytes. How newly synthesized triacylglycerol is delivered to perilipin-coated lipid droplets is poorly understood. Perilipin is a member of the evolutionarily related family of PAT proteins (Perilipin, Adipophilin, TIP47), which is defined by sequence similarity and association with lipid droplets. We previously showed that S3-12, which is also a member of this family, associates with a separate pool of lipid droplets that emerge when triacylglycerol storage is driven by adding oleate to the culture medium of adipocytes. Our current data extend these findings to demonstrate that nascent lipid droplets emerge with a coat composed of S3-12, TIP47, and adipophilin. After 100 min of oleate treatment, the nascent lipid droplets are more heterogeneous: S3-12 and TIP47 coat smaller, peripheral droplets and adipophilin coats a more medial population of droplets. Fractionation of untreated and oleate-treated adipocytes shows oleate-dependent redistribution of TIP47 and adipophilin from cytosolic fractions to the lipid droplet fraction. Inhibition of protein synthesis with cycloheximide does not block the oleate-induced formation of the nascent lipid droplets, nor does it prevent TAG accumulation. We suggest that the non-lipid droplet pools of S3-12, adipophilin, and TIP47 constitute a ready reservoir of coat proteins to permit rapid packaging of newly synthesized triacylglycerol and to maximize energy storage during nutrient excess."
+  },
+  {
+    "paperId": "aa2772295359917d04c211a2cf7f9e3ccde39214",
+    "externalIds": {
+      "MAG": "2128693388",
+      "DOI": "10.1074/jbc.M304025200",
+      "CorpusId": 1591100,
+      "PubMed": "12840023"
+    },
+    "title": "Adipocyte Protein S3-12 Coats Nascent Lipid Droplets*",
+    "venue": "Journal of Biological Chemistry",
+    "year": 2003,
+    "citationCount": 224,
+    "influentialCitationCount": 11,
+    "openAccessPdf": {
+      "url": "http://www.jbc.org/article/S0021925820833365/pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1074/jbc.M304025200?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1074/jbc.M304025200, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "4800983",
+        "name": "N. Wolins"
+      },
+      {
+        "authorId": "153811383",
+        "name": "James R. Skinner"
+      },
+      {
+        "authorId": "3816344",
+        "name": "Marissa J. Schoenfish"
+      },
+      {
+        "authorId": "5811677",
+        "name": "A. Tzekov"
+      },
+      {
+        "authorId": "153716837",
+        "name": "K. Bensch"
+      },
+      {
+        "authorId": "6835434",
+        "name": "P. Bickel"
+      }
+    ],
+    "abstract": "Most animals store lipid intracellularly in protein-coated droplets. The protein coat usually contains at least one member of the PAT (perilipin, adipose differentiation-related protein, and TIP47) family. Evidence suggests that PAT proteins control access to the lipid they enclose. The protein S3-12, which has sequence similarity to the PAT proteins, was found in a screen for adipocyte-specific proteins. The adipocyte expression of S3-12 and its similarity to the PAT proteins suggest that S3-12 is involved in adipocyte lipid storage. To test this hypothesis, we supplemented 3T3-L1 adipocytes with fatty acids and assessed the distribution of S3-12 by immunofluorescence microscopy. Prior to fatty acid incubation, S3-12 was distributed diffusely throughout the cytoplasm on punctate structures of heterogeneous size. After 10 min of lipid loading, S3-12 localized to 500-nm structures concentrated at the adipocyte periphery. After longer incubations, S3-12 coated the surface of lipid droplets up to several micrometers in diameter. Initially, these droplets were distinct from those droplets surrounded by perilipin; but by 240 min, most perilipin-coated droplets had some S3-12 on the surface as well. We additionally report that the formation of S3-12-coated droplets 1) required glucose and fatty acids that can be incorporated into triacylglycerol, 2) was blocked by an inhibitor of triacylglycerol synthesis, and 3) was insulin-dependent. This study reports for the first time the early morphological events in the genesis and maturation of adipocyte lipid droplets."
+  },
+  {
+    "paperId": "49d59a351c1ec87d0ee991e3615d38bd7ec25d49",
+    "externalIds": {
+      "MAG": "2702211137",
+      "DOI": "10.1007/S00292-015-0082-3",
+      "CorpusId": 115230514
+    },
+    "title": "[Lipid droplet-associated proteins. Importance in steatosis, steatohepatitis and hepatocarcinogenesis].",
+    "venue": "",
+    "year": 2015,
+    "citationCount": 5,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/S00292-015-0082-3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/S00292-015-0082-3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "101325526",
+        "name": "Straub Bk"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "89f9c4d5af6dcfd7f9a39d725be86e48ec2e1281",
+    "externalIds": {
+      "DOI": "10.1007/s00292-015-0082-3",
+      "CorpusId": 115231216,
+      "PubMed": "26400566"
+    },
+    "title": "[Lipid droplet-associated proteins. Importance in steatosis, steatohepatitis and hepatocarcinogenesis].",
+    "venue": "Der Pathologe",
+    "year": 2015,
+    "citationCount": 0,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00292-015-0082-3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00292-015-0082-3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "4340192",
+        "name": "B. Straub"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "2c9f53d34a9a6a73a7d88036b4c9e819099c79ea",
+    "externalIds": {
+      "MAG": "1528140114",
+      "DOI": "10.1002/em.21768",
+      "CorpusId": 24531659,
+      "PubMed": "23536514"
+    },
+    "title": "Mice exposed in situ to urban air pollution exhibit pulmonary alterations in gene expression in the lipid droplet synthesis pathways",
+    "venue": "Environmental and Molecular Mutagenesis",
+    "year": 2013,
+    "citationCount": 14,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/em.21768?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/em.21768, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "1399514317",
+        "name": "A. Rowan-Carroll"
+      },
+      {
+        "authorId": "4565948",
+        "name": "S. Halappanavar"
+      },
+      {
+        "authorId": "65784138",
+        "name": "Andrew Williams"
+      },
+      {
+        "authorId": "4468963",
+        "name": "C. Somers"
+      },
+      {
+        "authorId": "2079337",
+        "name": "C. Yauk"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "be616d2c62b8192ebd9b513d5113bd5e31277a10",
+    "externalIds": {
+      "MAG": "2060905615",
+      "DOI": "10.1016/j.bbalip.2009.04.002",
+      "CorpusId": 33422907,
+      "PubMed": "19375517"
+    },
+    "title": "PAT proteins, an ancient family of lipid droplet proteins that regulate cellular lipid stores.",
+    "venue": "Biochimica et Biophysica Acta",
+    "year": 2009,
+    "citationCount": 685,
+    "influentialCitationCount": 43,
+    "openAccessPdf": {
+      "url": "https://europepmc.org/articles/pmc2782626?pdf=render",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.bbalip.2009.04.002?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.bbalip.2009.04.002, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "6835434",
+        "name": "P. Bickel"
+      },
+      {
+        "authorId": "48365492",
+        "name": "J. Tansey"
+      },
+      {
+        "authorId": "40441122",
+        "name": "Michael A. Welte"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "95b1751c42693ce6fd01e9b2b5b046db785d6784",
+    "externalIds": {
+      "MAG": "26979301",
+      "DOI": "10.14670/HH-26.631",
+      "CorpusId": 45456149,
+      "PubMed": "21432779"
+    },
+    "title": "Lipid droplet associated proteins: an emerging role in atherogenesis.",
+    "venue": "Histology and Histopathology",
+    "year": 2011,
+    "citationCount": 30,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.14670/HH-26.631?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.14670/HH-26.631, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "6219172",
+        "name": "I. Buers"
+      },
+      {
+        "authorId": "5368862",
+        "name": "Oliver Hofnagel"
+      },
+      {
+        "authorId": "115560358",
+        "name": "Anneke Ruebel"
+      },
+      {
+        "authorId": "3506845",
+        "name": "N. Severs"
+      },
+      {
+        "authorId": "4142695",
+        "name": "H. Robenek"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "cba05781854a86255e83d2e697586871a4bcb65e",
+    "externalIds": {
+      "MAG": "1968126541",
+      "DOI": "10.1016/j.febslet.2006.08.040",
+      "CorpusId": 45400873,
+      "PubMed": "16962104"
+    },
+    "title": "A proposed model of fat packaging by exchangeable lipid droplet proteins",
+    "venue": "FEBS Letters",
+    "year": 2006,
+    "citationCount": 407,
+    "influentialCitationCount": 23,
+    "openAccessPdf": {
+      "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1016/j.febslet.2006.08.040",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.febslet.2006.08.040?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.febslet.2006.08.040, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "4800983",
+        "name": "N. Wolins"
+      },
+      {
+        "authorId": "3704546",
+        "name": "D. Brasaemle"
+      },
+      {
+        "authorId": "6835434",
+        "name": "P. Bickel"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "415afd7b7b23770197c2c0e099e99bd3cee7888a",
+    "externalIds": {
+      "MAG": "2041210709",
+      "DOI": "10.1074/jbc.M608042200",
+      "CorpusId": 9657638,
+      "PubMed": "17118936"
+    },
+    "title": "Identification of Mouse Prp19p as a Lipid Droplet-associated Protein and Its Possible Involvement in the Biogenesis of Lipid Droplets*",
+    "venue": "Journal of Biological Chemistry",
+    "year": 2007,
+    "citationCount": 72,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "http://www.jbc.org/article/S0021925820721150/pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1074/jbc.M608042200?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1074/jbc.M608042200, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "4528391",
+        "name": "S. Cho"
+      },
+      {
+        "authorId": "5977424",
+        "name": "E. Shin"
+      },
+      {
+        "authorId": "145671320",
+        "name": "P. Park"
+      },
+      {
+        "authorId": "2149547660",
+        "name": "D. Shin"
+      },
+      {
+        "authorId": "2116909317",
+        "name": "Hui Kyoung Chang"
+      },
+      {
+        "authorId": "2144117098",
+        "name": "Dae-Kyum Kim"
+      },
+      {
+        "authorId": "48412399",
+        "name": "Hyoung Ho Lee"
+      },
+      {
+        "authorId": "2108425984",
+        "name": "J. H. Lee"
+      },
+      {
+        "authorId": "2119119666",
+        "name": "S. Kim"
+      },
+      {
+        "authorId": "2110311133",
+        "name": "M. Song"
+      },
+      {
+        "authorId": "23851831",
+        "name": "I. Chang"
+      },
+      {
+        "authorId": "34248036",
+        "name": "O. Lee"
+      },
+      {
+        "authorId": "2152473908",
+        "name": "T. Lee"
+      }
+    ],
+    "abstract": "Prp19p is an integral component of the heteromeric protein complex (the NineTeen complex) in the nucleus, and it is essential for the structural integrity of NineTeen complex and its subsequent activation of the spliceosome. We identified Prp19p, which has never been reported in relation to any function outside of the nucleus, as a member of proteins associated with lipid droplets. Down-regulation of Prp19p expression with RNA interference in 3T3-L1 cells repressed lipid droplet formation with the reduction in the level of expression of perilipin and S3-12. The levels of expression of SCD1 (stearoyl-CoA desaturase-1), DGAT-1 (acyl-CoA diacylglycerol acyltransferase-1), and glycerol-3-phosphate acyltransferase were also reduced in Prp19p down-regulated cells, and a significant decrease in triglycerides was observed. Unlike perilipin, which is one of the most extensively studied lipid droplet-associated proteins, Prp19p is not essential for cAMP- and hormone-sensitive lipase-dependent lipolysis pathways, even though Prp19p is a component of the lipid droplet phospholipid monolayer, and down-regulation of Prp19p represses fat accretion significantly. These results suggest that Prp19p or Prp19-interacting proteins during lipid droplet biogenesis in adipocytes may be considered as another class of potential targets for attacking obesity and obesity-related problems."
+  },
+  {
+    "paperId": "c7107468e1c92a0b8d9fb559028cdf5241beca74",
+    "externalIds": {
+      "MAG": "1989652805",
+      "DOI": "10.1007/S11906-008-0086-Y",
+      "CorpusId": 35573702,
+      "PubMed": "18959832"
+    },
+    "title": "The PAT family of lipid droplet proteins in heart and vascular cells",
+    "venue": "Current Hypertension Reports",
+    "year": 2008,
+    "citationCount": 62,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "https://europepmc.org/articles/pmc2892414?pdf=render",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/S11906-008-0086-Y?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/S11906-008-0086-Y, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "2150515009",
+        "name": "A. Paul"
+      },
+      {
+        "authorId": "145942985",
+        "name": "L. Chan"
+      },
+      {
+        "authorId": "6835434",
+        "name": "P. Bickel"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "e9f5fbbf0c9a65f832203cba6540976d5c37d29e",
+    "externalIds": {
+      "PubMedCentral": "10421775",
+      "DOI": "10.1007/s00415-023-11729-8",
+      "CorpusId": 258506796,
+      "PubMed": "37145156"
+    },
+    "title": "PLIN4-related myopathy: clinical, histological and imaging data in a large cohort of patients",
+    "venue": "Journal of Neurology",
+    "year": 2023,
+    "citationCount": 8,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://link.springer.com/content/pdf/10.1007/s00415-023-11729-8.pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10421775, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "40527303",
+        "name": "L. Maggi"
+      },
+      {
+        "authorId": "6548911",
+        "name": "S. Gibertini"
+      },
+      {
+        "authorId": "1717199785",
+        "name": "Eliana Iannibelli"
+      },
+      {
+        "authorId": "2175786786",
+        "name": "A. Gallone"
+      },
+      {
+        "authorId": "3918504",
+        "name": "S. Bonanno"
+      },
+      {
+        "authorId": "3755900",
+        "name": "D. Cazzato"
+      },
+      {
+        "authorId": "4445213",
+        "name": "S. Gerevini"
+      },
+      {
+        "authorId": "50000533",
+        "name": "M. Moscatelli"
+      },
+      {
+        "authorId": "6751250",
+        "name": "F. Blàsevich"
+      },
+      {
+        "authorId": "2215228188",
+        "name": "G. Riolo"
+      },
+      {
+        "authorId": "143735482",
+        "name": "R. Mantegazza"
+      },
+      {
+        "authorId": "3903428",
+        "name": "A. Ruggieri"
+      }
+    ],
+    "abstract": "In an Italian kindred composed of 19 individuals affected by a rare autophagic vacuolar myopathy linked to chromosome 19p13.3 [1] we formerly identified the genetic cause by means of a multi-omic approach [2]. Notably, with long-read sequencing we depicted a large expansion, unvaried among all patients, within the region of PLIN4 gene encoding for the amphipatic helix of perilipin 4, a protein member of the perilipins’ family. Perilipins coat and regulate the metabolism of lipid droplets (LDs) [3, 4] and perilipin 4 is the most represented in the muscle tissue [5], although its function is yet to be fully clarified [6]. We showed that in the affected patients, perilipin 4 is accumulating in the subsarcolemmal region of the fibers and within the vacuoles and this positivity is solely present in our patients and not in other tested vacuolar myopathies such as those caused by mutations in DNAJB6, VMA21, GAA , GNE and LAMP2 [2]. The accumulation of perilipin 4 within the fibers, triggers the activation of the aggrephagy pathway players p62/SQSTM1, NBR1 and WDFY3 [7–9], disrupting the organization of the fibers thus altering their contractile abilities. We here report the comprehensive clinical and muscle imaging characterization of 15 patients from this family, carrying the PLIN4 gene expansion. In this retrospective monocentric study, patients were considered as affected when showing muscle weakness at neurological examination and carrying the coding expansion in PLIN4 gene. Hence, an asymptomatic 23-year-old man (son of patient IV:17) displaying the expansion was excluded, showing a normal neurological examination and normal muscle MRI imaging at pelvis, thigh and leg levels. Patients’ pedigree is shown in Fig. 1. Disease severity at last visit was assessed according to Walton and Gardner and Medwin modified for proximal myopathy (WGM) [10] and inclusion body myositis-functional rating scale (IBMFRS) [11]. We included 15 affected patients presenting, at mean age of 46.1 ± 10.1 years (range 30–66), with lower and/or upper limb distal muscle weakness in 12/14 (85.7%) of them, mostly in lower limbs; only 2/14 (14.3%) patients reported scapular or pelvic weakness at onset, respectively. Patients’ clinical features are summarized in Table 1. Furthermore, patient V:13 reported left calf atrophy presenting at the age of 42 years, developing mild bilateral big toe extension muscle weakness only at the age of 44 years. In addition, 2 (13.3%) patients presented with minimal muscle weakness at neurological examination: patient V:14 showing mild (MRC 4/5) distal and neck flexor muscle weakness since the age of 32 years and patient IV:19 displaying minimal (MRC 4.5/5) weakness of left foot dorsiflexion, at the age of 53 years. Their muscle biopsies revealed the presence of rimmed vacuoles despite demonstrating no detectable muscle weakness. Predominant pattern of muscle involvement at last visit still included lower limb distal muscles in 13/15 (86.7%) patients, although often combined to other defects, as distal upper limb, scapular and pelvic muscle weakness; only 2 (13.3%) patients showed predominant scapular and pelvic * Alessandra Ruggieri alessandra.ruggieri@istituto-besta.it"
+  },
+  {
+    "paperId": "7495f324a27e3d76fe3d15f950cb9fe86097456f",
+    "externalIds": {
+      "MAG": "2059275312",
+      "DOI": "10.1074/JBC.M409340200",
+      "CorpusId": 8406788,
+      "PubMed": "15337753"
+    },
+    "title": "Proteomic Analysis of Proteins Associated with Lipid Droplets of Basal and Lipolytically Stimulated 3T3-L1 Adipocytes*",
+    "venue": "Journal of Biological Chemistry",
+    "year": 2004,
+    "citationCount": 789,
+    "influentialCitationCount": 29,
+    "openAccessPdf": {
+      "url": "http://www.jbc.org/article/S0021925820699008/pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1074/JBC.M409340200?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1074/JBC.M409340200, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "3704546",
+        "name": "D. Brasaemle"
+      },
+      {
+        "authorId": "6730756",
+        "name": "G. Dolios"
+      },
+      {
+        "authorId": "1817438",
+        "name": "L. Shapiro"
+      },
+      {
+        "authorId": "144588332",
+        "name": "Rong Wang"
+      }
+    ],
+    "abstract": "Adipocytes hold the body's major energy reserve as triacylglycerols packaged in large lipid droplets. Perilipins, the most abundant proteins on these lipid droplets, play a critical role in facilitating both triacylglycerol storage and hydrolysis. The stimulation of lipolysis by β-adrenergic agonists triggers rapid phosphorylation of perilipin and translocation of hormone-sensitive lipase to the surfaces of lipid droplets and more gradual fragmentation and dispersion of micro-lipid droplets. Because few lipid droplet-associated proteins have been identified in adipocytes, we isolated lipid droplets from basal and lipolytically stimulated 3T3-L1 adipocytes and identified the component proteins by mass spectrometry. Structural proteins identified in both preparations include perilipin, S3-12, vimentin, and TIP47; in contrast, adipophilin, caveolin-1, and tubulin selectively localized to droplets in lipolytically stimulated cells. Lipid metabolic enzymes identified in both preparations include hormone-sensitive lipase, lanosterol synthase, NAD(P)-dependent steroid dehydrogenase-like protein, acyl-CoA synthetase, long chain family member (ACSL) 1, and CGI-58. 17-β-Hydroxysteroid dehydrogenase, type 7, was identified only in basal preparations, whereas ACSL3 and 4 and two short-chain reductase/dehydrogenases were identified on droplets from lipolytically stimulated cells. Additionally, both preparations contained FSP27, ribophorin I, EHD2, diaphorase I, and ancient ubiquitous protein. Basal preparations contained CGI-49, whereas lipid droplets from lipolytically stimulated cells contained several Rab GTPases and tumor protein D54. A close association of mitochondria with lipid droplets was suggested by the identification of pyruvate carboxylase, prohibitin, and a subunit of ATP synthase in the preparations. Thus, adipocyte lipid droplets contain specific structural proteins as well as lipid metabolic enzymes; the structural reorganization of lipid droplets in response to the hormonal stimulation of lipolysis is accompanied by increases in the relative mass of several proteins and the recruitment of additional proteins."
+  },
+  {
+    "paperId": "697a34a54af8a4b8e7f69e20875be74547a66291",
+    "externalIds": {
+      "DOI": "10.1210/en.2007-1713",
+      "CorpusId": 24752671,
+      "PubMed": "18202123"
+    },
+    "title": "Lipid droplets in lipogenesis and lipolysis.",
+    "venue": "Endocrinology",
+    "year": 2008,
+    "citationCount": 452,
+    "influentialCitationCount": 11,
+    "openAccessPdf": {
+      "url": "https://academic.oup.com/endo/article-pdf/149/3/942/8996716/endo0942.pdf",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1210/en.2007-1713?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1210/en.2007-1713, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "8312533",
+        "name": "Nicole A. Ducharme"
+      },
+      {
+        "authorId": "6835434",
+        "name": "P. Bickel"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "59e64befbc482af85f61dce99b660c6791d39037",
+    "externalIds": {
+      "PubMedCentral": "3938729",
+      "MAG": "2091188300",
+      "DOI": "10.1371/journal.pone.0090386",
+      "CorpusId": 37802796,
+      "PubMed": "24587346"
+    },
+    "title": "On the Formation of Lipid Droplets in Human Adipocytes: The Organization of the Perilipin–Vimentin Cortex",
+    "venue": "PLoS ONE",
+    "year": 2014,
+    "citationCount": 75,
+    "influentialCitationCount": 3,
+    "openAccessPdf": {
+      "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0090386&type=printable",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3938729, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "46716135",
+        "name": "H. Heid"
+      },
+      {
+        "authorId": "4447984",
+        "name": "S. Rickelt"
+      },
+      {
+        "authorId": "6626224",
+        "name": "R. Zimbelmann"
+      },
+      {
+        "authorId": "144127816",
+        "name": "S. Winter"
+      },
+      {
+        "authorId": "49902984",
+        "name": "H. Schumacher"
+      },
+      {
+        "authorId": "3945403",
+        "name": "Yvette Dörflinger"
+      },
+      {
+        "authorId": "4346863",
+        "name": "C. Kuhn"
+      },
+      {
+        "authorId": "46455775",
+        "name": "W. Franke"
+      }
+    ],
+    "abstract": "We report on the heterogeneity and diversity of lipid droplets (LDs) in early stages of adipogenesis by elucidating the cell and molecular biology of amphiphilic and cytoskeletal proteins regulating and stabilizing the generation of LDs in human adipose cells. A plethora of distinct and differently sized LDs was detected by a brief application of adipocyte differentiation medium and additional short treatment with oleic acid. Using these cells and highly specific antibodies for LD-binding proteins of the perilipin (PLIN) family, we could distinguish between endogenously derived LDs (endogenous LDs) positive for perilipin from exogenously induced LDs (exogenous LDs) positive for adipophilin, TIP47 and S3-12. Having optimized these stimulation conditions, we used early adipogenic differentiation stages to investigate small-sized LDs and concentrated on LD-protein associations with the intermediate-sized filament (IF) vimentin. This IF protein was described earlier to surround lipid globules, showing spherical, cage-like structures. Consequently - by biochemical methods, by immunofluorescence microscopy and by electron- and immunoelectron microscopy - various stages of emerging lipid globules were revealed with perilipin as linking protein between LDs and vimentin. For this LD-PLIN-Vimentin connection, a model is now proposed, suggesting an interaction of proteins via opposed charged amino acid domains respectively. In addition, multiple sheaths of smooth endoplasmic reticulum cisternae surrounding concentrically nascent LDs are shown. Based on our comprehensive localization studies we present and discuss a novel pathway for the LD formation."
+  },
+  {
+    "paperId": "074a9ce2d6bf84cc207040464e7b3a2ba0358b8f",
+    "externalIds": {
+      "CorpusId": 31525456
+    },
+    "title": "Minireview : Lipid Droplets in Lipogenesis and Lipolysis",
+    "venue": "",
+    "year": 2008,
+    "citationCount": 197,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": null,
+    "authors": [
+      {
+        "authorId": "8312533",
+        "name": "Nicole A. Ducharme"
+      },
+      {
+        "authorId": "6835434",
+        "name": "P. Bickel"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "12a23b564f35cb530c80911765761cae087237b6",
+    "externalIds": {
+      "MAG": "2035785810",
+      "PubMedCentral": "3660578",
+      "DOI": "10.1371/journal.pone.0063061",
+      "CorpusId": 9232652,
+      "PubMed": "23704888"
+    },
+    "title": "Lipid Droplets, Perilipins and Cytokeratins – Unravelled Liaisons in Epithelium-Derived Cells",
+    "venue": "PLoS ONE",
+    "year": 2013,
+    "citationCount": 21,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0063061&type=printable",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3660578, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "46716135",
+        "name": "H. Heid"
+      },
+      {
+        "authorId": "4447984",
+        "name": "S. Rickelt"
+      },
+      {
+        "authorId": "6626224",
+        "name": "R. Zimbelmann"
+      },
+      {
+        "authorId": "144127816",
+        "name": "S. Winter"
+      },
+      {
+        "authorId": "49902984",
+        "name": "H. Schumacher"
+      },
+      {
+        "authorId": "3945403",
+        "name": "Yvette Dörflinger"
+      }
+    ],
+    "abstract": "Lipid droplets (LDs) are spherical accumulations of apolar lipids and other hydrophobic substances and are generally surrounded by a thin cortical layer of specific amphiphilic proteins (APs). These APs segregate the LDs from the mostly polar components of the cytoplasm. We have studied LDs in epithelium-derived cell cultures and in particular characterized proteins from the perilipin (PLIN) gene family - in mammals consisting of the proteins Perilipin, Adipophilin, TIP47, S3-12 and MLDP/OXPAT (PLIN 1-5). Using a large number of newly generated and highly specific mono- and polyclonal antibodies specific for individual APs, and using improved LD isolation methods, we have enriched and characterized APs in greater detail and purity. The majority of lipid-AP complexes could be obtained in the top layer fractions of density gradient centrifugation separations of cultured cells, but APs could also be detected in other fractions within such separations. The differently sized LD complexes were analyzed using various biochemical methods and mass spectrometry as well as immunofluorescence and electron– in particular immunoelectron-microscopy. Moreover, by immunoprecipitation, protein-protein binding assays and by immunoelectron microscopy we identified a direct linkage between LD-binding proteins and the intermediate-sized filaments (IF) cytokeratins 8 and 18 (also designated as keratins K8 and K18). Specifically, in gradient fractions of higher density supposedly containing small LDs, we received as co-precipitations cytidylyl-, palmitoyl- and cholesterol transferases and other specific enzymes involved in lipid metabolism. So far, common proteomic studies have used LDs from top layer fractions only and did not report on these transferases and other enzymes. In addition to findings of short alternating hydrophobic/hydrophilic segments within the PLIN protein family, we propose and discuss a model for the interaction of LD-coating APs with IF proteins."
+  },
+  {
+    "paperId": "2de7534a0e05768249697ce33f19b8ef71437a60",
+    "externalIds": {
+      "MAG": "1976525048",
+      "DOI": "10.1074/jbc.M109.013995",
+      "CorpusId": 27693780,
+      "PubMed": "19748893"
+    },
+    "title": "Diacylglycerol Enrichment of Endoplasmic Reticulum or Lipid Droplets Recruits Perilipin 3/TIP47 during Lipid Storage and Mobilization*",
+    "venue": "Journal of Biological Chemistry",
+    "year": 2009,
+    "citationCount": 159,
+    "influentialCitationCount": 9,
+    "openAccessPdf": {
+      "url": "https://europepmc.org/articles/pmc2781494?pdf=render",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1074/jbc.M109.013995?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1074/jbc.M109.013995, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "153811383",
+        "name": "James R. Skinner"
+      },
+      {
+        "authorId": "3535051",
+        "name": "Trevor M. Shew"
+      },
+      {
+        "authorId": "47405387",
+        "name": "D. M. Schwartz"
+      },
+      {
+        "authorId": "5811677",
+        "name": "A. Tzekov"
+      },
+      {
+        "authorId": "2131114884",
+        "name": "Christin M. Lepus"
+      },
+      {
+        "authorId": "6324449",
+        "name": "N. Abumrad"
+      },
+      {
+        "authorId": "4800983",
+        "name": "N. Wolins"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "5035dfe37f56c1d65f9ee6963ef27c2f71479b02",
+    "externalIds": {
+      "MAG": "2017477539",
+      "DOI": "10.1074/jbc.M601682200",
+      "CorpusId": 40716187,
+      "PubMed": "16571721"
+    },
+    "title": "MLDP, a Novel PAT Family Protein Localized to Lipid Droplets and Enriched in the Heart, Is Regulated by Peroxisome Proliferator-activated Receptor α*",
+    "venue": "Journal of Biological Chemistry",
+    "year": 2006,
+    "citationCount": 207,
+    "influentialCitationCount": 14,
+    "openAccessPdf": {
+      "url": "http://www.jbc.org/article/S0021925820780671/pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1074/jbc.M601682200?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1074/jbc.M601682200, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "48659493",
+        "name": "Tomohiro Yamaguchi"
+      },
+      {
+        "authorId": "47804974",
+        "name": "Shuhei Matsushita"
+      },
+      {
+        "authorId": "5283636",
+        "name": "K. Motojima"
+      },
+      {
+        "authorId": "2122232",
+        "name": "F. Hirose"
+      },
+      {
+        "authorId": "4356221",
+        "name": "T. Osumi"
+      }
+    ],
+    "abstract": "Cytosolic lipid droplets (LDs) are multifunctional organelles that exist in all types of eukaryotic cells and control lipid homeostasis. In mammalian cells LDs contain a class of proteins in their surface layers that share a homologous sequence called the PAT domain, including perilipin, adipose differentiation-related protein (ADRP), a tail-interacting protein of 47 kDa (TIP47), and S3-12, which are distributed tissue- or cell type-selectively. Expression in some cases is regulated by peroxisome proliferator-activated receptors (PPARs). In this study we identified a new PAT family member named MLDP (myocardial LD protein) in a murine cDNA data base and showed the mRNA and protein to be highly enriched in the heart and also expressed at lower levels in the liver and adrenals. Upon subcellular fractionation, a substantial amount of MLDP was detected in the top fraction enriched with LDs. Furthermore, overexpressed MLDP tagged with green fluorescent protein accumulated at the surfaces of LDs and co-localized with perilipin and ADRP. Deletion analysis demonstrated the N-terminal region containing a PAT-1 domain and the following 33-mer domain to be required for targeting of MLDP to LDs. MLDP was found to be up-regulated at both mRNA and protein levels in the heart and liver by a selective ligand for PPARα, Wy14,643, but not in PPARα knock-out mice. MLDP expression was also increased upon fasting in parallel with ADRP. These results indicate that MLDP is a bona fide new PAT family member localized in LDs. Its expression depends on the physiological conditions and the action of PPARα."
+  },
+  {
+    "paperId": "45fd4d46044b10944dfb21dfaa8de07a07e19ec6",
+    "externalIds": {
+      "MAG": "1990351735",
+      "DOI": "10.1016/J.BBALIP.2006.11.011",
+      "CorpusId": 26065068,
+      "PubMed": "17234449"
+    },
+    "title": "LSDP5 is a PAT protein specifically expressed in fatty acid oxidizing tissues.",
+    "venue": "Biochimica et Biophysica Acta",
+    "year": 2007,
+    "citationCount": 236,
+    "influentialCitationCount": 17,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.BBALIP.2006.11.011?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.BBALIP.2006.11.011, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "6600647",
+        "name": "K. Dalen"
+      },
+      {
+        "authorId": "5390166",
+        "name": "T. Dahl"
+      },
+      {
+        "authorId": "46289553",
+        "name": "E. Holter"
+      },
+      {
+        "authorId": "26922935",
+        "name": "B. Arntsen"
+      },
+      {
+        "authorId": "4217394",
+        "name": "C. Londos"
+      },
+      {
+        "authorId": "5423887",
+        "name": "C. Sztalryd"
+      },
+      {
+        "authorId": "4452068",
+        "name": "H. Nebb"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "3c487c9d770145494fb190d3f9e836ff69ec2c63",
+    "externalIds": {
+      "MAG": "1572842585",
+      "DOI": "10.1111/j.1346-8138.2011.01364.x",
+      "CorpusId": 6279423,
+      "PubMed": "22077235"
+    },
+    "title": "Case of rippled‐pattern sebaceoma with clinically yellowish surface and histopathological paucity of lipid‐containing neoplastic cells",
+    "venue": "Journal of dermatology (Print)",
+    "year": 2012,
+    "citationCount": 4,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/j.1346-8138.2011.01364.x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/j.1346-8138.2011.01364.x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "15916112",
+        "name": "Y. Kawakami"
+      },
+      {
+        "authorId": "5225359",
+        "name": "S. Ansai"
+      },
+      {
+        "authorId": "1401641040",
+        "name": "Taeko Nakamura-Wakatsuki"
+      },
+      {
+        "authorId": "2111261891",
+        "name": "Toshiyuki Yamamoto"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "40d4c74d388a3a27a5a7320108c84f75b715d7b8",
+    "externalIds": {
+      "MAG": "2045272892",
+      "DOI": "10.1210/EN.2007-0211",
+      "CorpusId": 20785390,
+      "PubMed": "17463056"
+    },
+    "title": "Ligand-activated peroxisome proliferator activated receptor gamma alters placental morphology and placental fatty acid uptake in mice.",
+    "venue": "Endocrinology",
+    "year": 2007,
+    "citationCount": 116,
+    "influentialCitationCount": 6,
+    "openAccessPdf": {
+      "url": "https://academic.oup.com/endo/article-pdf/148/8/3625/10725133/endo3625.pdf",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1210/EN.2007-0211?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1210/EN.2007-0211, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "5625728",
+        "name": "W. T. Schaiff"
+      },
+      {
+        "authorId": "2058840591",
+        "name": "F. Knapp"
+      },
+      {
+        "authorId": "32346060",
+        "name": "Y. Barak"
+      },
+      {
+        "authorId": "1401025009",
+        "name": "T. Biron-Shental"
+      },
+      {
+        "authorId": "2237573484",
+        "name": "D. Nelson"
+      },
+      {
+        "authorId": "1916189",
+        "name": "Y. Sadovsky"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "2fb9ca9b7bb02f3415654673f66753ec8c41ad3b",
+    "externalIds": {
+      "MAG": "2384300794",
+      "CorpusId": 41847024,
+      "PubMed": "16850611"
+    },
+    "title": "[Function of PAT family proteins in the lipid metabolism].",
+    "venue": "Sheng li ke xue jin zhan [Progress in physiology]",
+    "year": 2006,
+    "citationCount": 6,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "46331936",
+        "name": "Mei-fang Liu"
+      },
+      {
+        "authorId": "2214436518",
+        "name": "G. Xu"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "0774d8242303c65ca9900adc8c7c728e2f773450",
+    "externalIds": {
+      "MAG": "2119383037",
+      "PubMedCentral": "4562567",
+      "DOI": "10.14814/phy2.12481",
+      "CorpusId": 28903145,
+      "PubMed": "26265748"
+    },
+    "title": "Perilipin 4 in human skeletal muscle: localization and effect of physical activity",
+    "venue": "Physiological Reports",
+    "year": 2015,
+    "citationCount": 54,
+    "influentialCitationCount": 3,
+    "openAccessPdf": {
+      "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.14814/phy2.12481",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4562567, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "6218342",
+        "name": "S. Pourteymour"
+      },
+      {
+        "authorId": "2108338190",
+        "name": "Sindre Lee"
+      },
+      {
+        "authorId": "4599759",
+        "name": "T. Langleite"
+      },
+      {
+        "authorId": "15520098",
+        "name": "K. Eckardt"
+      },
+      {
+        "authorId": "40518766",
+        "name": "M. Hjorth"
+      },
+      {
+        "authorId": "65799695",
+        "name": "C. Bindesbøll"
+      },
+      {
+        "authorId": "6600647",
+        "name": "K. Dalen"
+      },
+      {
+        "authorId": "2784964",
+        "name": "K. Birkeland"
+      },
+      {
+        "authorId": "35150582",
+        "name": "C. Drevon"
+      },
+      {
+        "authorId": "4924762",
+        "name": "T. Holen"
+      },
+      {
+        "authorId": "6277083",
+        "name": "F. Norheim"
+      }
+    ],
+    "abstract": "Perilipins (PLINs) coat the surface of lipid droplets and are important for the regulation of lipid turnover. Knowledge about the physiological role of the individual PLINs in skeletal muscle is limited although lipid metabolism is very important for muscle contraction. To determine the effect of long‐term exercise on PLINs expression, 26 middle‐aged, sedentary men underwent 12 weeks combined endurance and strength training intervention. Muscle biopsies from m. vastus lateralis and subcutaneous adipose tissue were taken before and after the intervention and total gene expression was measured with deep mRNA sequencing. PLIN4 mRNA exhibited the highest expression of all five PLINs in both tissues, and the expression was significantly reduced after long‐term exercise in skeletal muscle. Moreover, PLIN4 mRNA expression levels in muscle correlated with the expression of genes involved in de novo phospholipid biosynthesis, with muscular content of phosphatidylethanolamine and phosphatidylcholine, and with the content of subsarcolemmal lipid droplets. The PLIN4 protein was mainly located at the periphery of skeletal muscle fibers, with higher levels in slow‐twitch as compared to fast‐twitch skeletal muscle fibers. In summary, we report reduced expression of PLIN4 after long‐term physical activity, and preferential slow‐twitch skeletal muscle fibers and plasma membrane‐associated PLIN4 location."
+  },
+  {
+    "paperId": "a6c9c81e09dfafaf97c905af4a2afa83d940f7ba",
+    "externalIds": {
+      "MAG": "1549729774",
+      "DOI": "10.5772/21559",
+      "CorpusId": 53454940
+    },
+    "title": "Lipid Droplets and Very Low Density Lipoproteins; Their Relation to Insulin Resistance",
+    "venue": "",
+    "year": 2011,
+    "citationCount": 1,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.5772/21559",
+      "status": "HYBRID",
+      "license": "CCBYNCSA",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.5772/21559?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.5772/21559, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Chemistry"
+    ],
+    "authors": [
+      {
+        "authorId": "40598286",
+        "name": "S. Olofsson"
+      },
+      {
+        "authorId": "50793373",
+        "name": "L. Andersson"
+      },
+      {
+        "authorId": "47543359",
+        "name": "J. Perman"
+      },
+      {
+        "authorId": "40020015",
+        "name": "M. Rutberg"
+      },
+      {
+        "authorId": "116261196",
+        "name": "Lilliana Håversen"
+      },
+      {
+        "authorId": "2152519183",
+        "name": "Li Lu"
+      },
+      {
+        "authorId": "5241637",
+        "name": "E. Lu"
+      },
+      {
+        "authorId": "3316954",
+        "name": "R. Mobini"
+      },
+      {
+        "authorId": "50570123",
+        "name": "M. Ståhlman"
+      },
+      {
+        "authorId": "120376244",
+        "name": "S. Myhre"
+      },
+      {
+        "authorId": "50496012",
+        "name": "Christina Olsson"
+      },
+      {
+        "authorId": "2073081932",
+        "name": "T. R. Perkins"
+      },
+      {
+        "authorId": "144952701",
+        "name": "J. Borén"
+      },
+      {
+        "authorId": "2638515",
+        "name": "M. Adiels"
+      }
+    ],
+    "abstract": "1.1 Organization of the lipid droplet Lipid droplets are organelles involved in the storage of neutral lipids, such as triglycerides or cholesterol esters. These molecules are neither soluble in water nor in the amphipathic monolayers that build up intracellular membranes, and are therefore stored in a separate hydrophobic “oil phase”, which is the core of the lipid droplet. Since this is a general process, the ability to form lipid droplets is preserved throughout evolution and is present in most mammalian cells (Martin and Parton, 2006; Murphy and Vance, 1999; Olofsson et al., 2008; Olofsson et al., 2009). The core of the lipid droplets is surrounded by a monolayer of amphipathic lipids, such as phospholipids and unesterified cholesterol (Martin and Parton, 2006; Olofsson et al., 2008; Olofsson et al., 2009). The monolayer is also associated with a number of different proteins, of which the best described and quantitatively most important are the PAT domain proteins (Dalen et al., 2007; Londos et al., 1999) (reviewed in (Brasaemle, 2007)), named after the first discovered members of the family i.e. perilipin, adipocyte differentiation-related protein (ADRP) and tail interacting protein 47 (TIP47). They are characterized by an amino-terminal PAT domain with a high degree of homology between the family members. Recent additions to the list of known PAT proteins include lipid storage droplet protein 5 (LSDP5; also known as OXPAT), myocardial lipid droplet protein (MLDP; also known as PAT-1) (Dalen et al., 2007; Wolins et al., 2006) and S3-12 (Dalen et al., 2004; Wolins et al., 2003)."
+  },
+  {
+    "paperId": "9e94e2603892e9a87e44731290eaea6f986d557e",
+    "externalIds": {
+      "MAG": "1714603574",
+      "DOI": "10.1007/s00292-015-0082-3",
+      "CorpusId": 1063273
+    },
+    "title": "Lipidtropfen-assoziierte Proteine",
+    "venue": "Der Pathologe",
+    "year": 2015,
+    "citationCount": 6,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00292-015-0082-3?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00292-015-0082-3, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2254826658",
+        "name": "PD Dr. B. K. Straub"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "581057e9ef8a58a52cea2347115dd40293137cae",
+    "externalIds": {
+      "MAG": "1584810893",
+      "DOI": "10.1111/j.1742-4658.2009.07525.x",
+      "CorpusId": 23252238,
+      "PubMed": "20030713"
+    },
+    "title": "Adipophilin protein expression in muscle – a possible protective role against insulin resistance",
+    "venue": "The FEBS Journal",
+    "year": 2010,
+    "citationCount": 32,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1742-4658.2009.07525.x",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/j.1742-4658.2009.07525.x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/j.1742-4658.2009.07525.x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "21585542",
+        "name": "Janneke de Wilde"
+      },
+      {
+        "authorId": "48720117",
+        "name": "E. Smit"
+      },
+      {
+        "authorId": "6133575",
+        "name": "Frank J. M. Snepvangers"
+      },
+      {
+        "authorId": "67070669",
+        "name": "Nicole J. W. de Wit"
+      },
+      {
+        "authorId": "2366186654",
+        "name": "Ronny Mohren"
+      },
+      {
+        "authorId": "39855446",
+        "name": "Martijn F. M. Hulshof"
+      },
+      {
+        "authorId": "30020277",
+        "name": "E. Mariman"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "74c816b2874aacd5b396d2cb7c3fc194beb38dc9",
+    "externalIds": {
+      "PubMedCentral": "8257002",
+      "DOI": "10.3389/fvets.2021.633898",
+      "CorpusId": 235486957,
+      "PubMed": "34235195"
+    },
+    "title": "Distinct Roles of Perilipins in the Intramuscular Deposition of Lipids in Glutamine-Supplemented, Low-, and Normal-Birth-Weight Piglets",
+    "venue": "Frontiers in Veterinary Science",
+    "year": 2021,
+    "citationCount": 5,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://www.frontiersin.org/articles/10.3389/fvets.2021.633898/pdf",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8257002, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "150353806",
+        "name": "Yaolu Zhao"
+      },
+      {
+        "authorId": "145492271",
+        "name": "E. Albrecht"
+      },
+      {
+        "authorId": "3021501",
+        "name": "Zeyang Li"
+      },
+      {
+        "authorId": "2007618678",
+        "name": "J. Schregel"
+      },
+      {
+        "authorId": "4607083",
+        "name": "Q. Sciascia"
+      },
+      {
+        "authorId": "6169724",
+        "name": "C. Metges"
+      },
+      {
+        "authorId": "48105666",
+        "name": "S. Maak"
+      }
+    ],
+    "abstract": "Piglets with low birth weight (LBW) usually have reduced muscle mass and increased lipid deposition compared with their normal-birth-weight (NBW) littermates. Supplementation of piglets with amino acids during the first days of life may improve muscle growth and simultaneously alter the intramuscular lipid deposition. The aim of the current study was to investigate the influence of glutamine (Gln) supplementation during the early suckling period on lipid deposition in the longissimus muscle (MLD) and the role of different perilipin (PLIN) family members in this process. Four groups were generated consisting of 72 male LBW piglets and 72 NBW littermates. Piglets were supplemented with either 1 g Gln/kg body weight or an isonitrogenous amount of alanine (Ala) between days post natum (dpn) 1 and 12. Twelve piglets per group were slaughtered at 5, 12, and 26 dpn, and muscle tissue was collected. Perilipins were localized by immunohistochemistry in muscle sections. The mRNA and protein abundances of PLIN family members and related lipases were quantified by quantitative RT-PCR (qPCR) and western blots, respectively. While PLIN1 was localized around lipid droplets in mature and developing adipocytes, PLIN2 was localized at intramyocellular lipid droplets, PLIN3 and 4 at cell membranes of muscle fibers and adipocytes, and PLIN5 in the cytoplasm of undefined cells. The western blot results indicated higher protein abundances of PLIN2, 3, 4, and 5 in LBW piglets (p < 0.05) at 5 dpn compared with their NBW littermates independent of supplementation, while not directly reflecting the mRNA expression levels. The mRNA abundance of PLIN2 was lower while PLIN4 was higher in piglets at 26 dpn in comparison with piglets at 5 dpn (p < 0.01). Relative mRNA expression of LPL and CGI-58 was lowest in piglets at 5 dpn (p < 0.001). However, ATGL mRNA was not influenced by birth weight or supplementation, but the Spearman correlation coefficient analysis revealed close correlations with PLIN2, 4, and 5 mRNA at 5 and 26 dpn (r > 0.5, p < 0.001). The results indicated the importance of birth weight and age for intramuscular lipid deposition and different roles of PLIN family members in this process, but no clear modulating effect of Gln supplementation."
+  },
+  {
+    "paperId": "79756331fdee6e4627f52cc92156291448a9044b",
+    "externalIds": {
+      "MAG": "2287065272",
+      "CorpusId": 74680119
+    },
+    "title": "The role of skeletal muscle PLIN proteins at rest and following lipolytic stimulation",
+    "venue": "",
+    "year": 2013,
+    "citationCount": 0,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Chemistry"
+    ],
+    "authors": [
+      {
+        "authorId": "2238186",
+        "name": "R. MacPherson"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "164770a2ce1a298c3ecd0919bd450d7efeee3add",
+    "externalIds": {
+      "MAG": "2008316946",
+      "DOI": "10.1002/jcp.22707",
+      "CorpusId": 21240621,
+      "PubMed": "21374590"
+    },
+    "title": "Suppression of Glutamine:Fructose‐6‐phosphate amidotransferase‐1 inhibits adipogenesis in 3T3‐L1 adipocytes",
+    "venue": "Journal of Cellular Physiology",
+    "year": 2012,
+    "citationCount": 43,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/jcp.22707?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/jcp.22707, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "46527666",
+        "name": "T. Hsieh"
+      },
+      {
+        "authorId": "2109603121",
+        "name": "Tzu Lin"
+      },
+      {
+        "authorId": "143878051",
+        "name": "P. Hsieh"
+      },
+      {
+        "authorId": "115017852",
+        "name": "M. Liao"
+      },
+      {
+        "authorId": "77315808",
+        "name": "S. Shin"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "0a8a881547487aec2073409121cc4f6a0b3450a2",
+    "externalIds": {
+      "CorpusId": 232059877
+    },
+    "title": "Combinatorial engineering of bulk-assembled monodisperse coacervate droplets towards logically integrated protocells",
+    "venue": "",
+    "year": 2021,
+    "citationCount": 0,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": null,
+    "authors": [
+      {
+        "authorId": "15942059",
+        "name": "Qingchuan Li"
+      },
+      {
+        "authorId": "2045776594",
+        "name": "Q. Song"
+      },
+      {
+        "authorId": "49319180",
+        "name": "Jing Wei"
+      },
+      {
+        "authorId": "2141057896",
+        "name": "Yang Cao"
+      },
+      {
+        "authorId": "9965942",
+        "name": "Dairong Chen"
+      },
+      {
+        "authorId": "144374111",
+        "name": "H. Shum"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "4def57f7f6bd3db6f358266baf8fe4c6d524cdd2",
+    "externalIds": {
+      "MAG": "2118296363",
+      "DOI": "10.1194/jlr.E036962",
+      "CorpusId": 5794377,
+      "PubMed": "23417737"
+    },
+    "title": "Perilipin 5: putting the brakes on lipolysis1",
+    "venue": "Journal of Lipid Research",
+    "year": 2013,
+    "citationCount": 17,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "http://www.jlr.org/content/54/4/876.full.pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1194/jlr.E036962?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1194/jlr.E036962, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "3704546",
+        "name": "D. Brasaemle"
+      }
+    ],
+    "abstract": "Lipid droplets serve a vital function in many types of cells. In most cells of the body, cholesterol esters stored in lipid droplets are thought to serve as a source of cholesterol for membrane synthesis and repair when dietary cholesterol is scarce (1). In steroidogenic cells, cholesterol derived from the hydrolysis of stored cholesterol esters provides substrate for steroid hormone synthesis. In other cells, the cores of lipid droplets store primarily triacylglycerols that, following lipolysis, provide a source of fatty acids to drive ATP production; fatty acids and partially hydrolyzed neutral lipids also support the synthesis of phospholipids for membranes. In heart and skeletal muscle, fatty acids are a major energy substrate and triacylglycerols stored in lipid droplets are an important source of fatty acids during fasting. \n \nStored neutral lipids are hydrolyzed by cytosolic neutral lipid lipases. Lipolysis has been best characterized in adipocytes, where the release of fatty acids from triacylglycerols is orchestrated by the coordinated activity of three lipases and several accessory factors (2). Adipose triglyceride lipase (ATGL) is the major triacylglycerol hydrolase; its activity is modulated by a coactivator, CGI-58, and an inhibitory protein, G0S2. The hydrolysis of triacylglycerol releases a fatty acid and diacylglycerol, which is further cleaved by hormone-sensitive lipase (HSL). The final fatty acid is released by monoglyceride lipase. The same trio of lipases can be detected in myocytes of heart and skeletal muscle; however, the identity of relevant lipases remains unclear for many tissues where neutral lipids are stored on a relatively small scale. The hydrolysis of stored neutral lipids is finely tuned by the interaction of lipid droplet-associated proteins with these cytosolic lipases. \n \nIn chordates, some of the most abundant lipid droplet-associated proteins are perilipins. Perilipins are encoded by 5 genes, and are numbered according to the order of discovery (3). Lipid droplets in most tissues are coated by two or more members of the perilipin family of proteins. Perilipins 2 (formerly adipophilin or ADRP) and 3 (formerly TIP47) are ubiquitously expressed and hence, components of lipid droplets in most tissues (1). Perilipin 1 expression is restricted primarily to adipocytes of white and brown adipose tissue and to a lesser extent, steroidogenic cells of adrenal cortex, testes, and ovaries. Perilipin 4 (formerly S3-12) is expressed primarily in adipocytes of white adipose tissue. Perilipin 5 (formerly OXPAT, MLDP, or LSDP5) is expressed in myocytes of heart and skeletal muscle, and adipocytes of brown adipose tissue; each of these cells relies upon lipolysis to provide fatty acids to mitochondria for β-oxidation to drive the production of either ATP or heat. The perilipin composition of lipid droplets within a tissue is an important component of the regulation of lipolysis. In the current issue of the Journal of Lipid Research, two articles written by Wang et al. (4) and Pollak et al. (5) provide important insight into the control of lipolysis by perilipin 5 in cardiac myocytes. \n \nIn each study, perilipin 5 was overexpressed in cardiac myocytes of mice, using the α-myosin heavy chain promoter. Increased perilipin 5 expression in these transgenic mice led to storage of excessive triacylglycerol in lipid droplets and cardiac steatosis (4, 5). Pollak et al. (5) noted that the observed steatosis resembled that of mice with a genetic deletion of ATGL (6), suggesting impaired hydrolysis of triacylglycerol; however, while ATGL-null mice succumb to early death due to heart failure, the hearts of perilipin 5 transgenic mice function relatively normally and the mice have normal life spans (4, 5). Investigation of the mechanisms behind the steatosis revealed that, while ATGL-null mice have reduced cytosolic lipase activity, lysates of cardiac tissue from perlipin 5 transgenic mice have elevated triacylglycerol hydrolase activity with corresponding elevated protein levels of ATGL and its coactivator CGI-58 (5). Further investigation revealed that lipid droplets isolated from Cos7 cells expressing perilipin 5 are less susceptible to the activity of either ATGL or HSL than lipid droplets from control cells (coated with perilipin 2), suggesting that perilipin 5 provides effective barrier function to reduce lipase access to lipid droplets (5). These studies are consistent with several previous studies characterizing reduced lipolysis in cultured cells in which perilipin 5 has been overexpressed (7–9). Conversely, the phenotype of perilipin 5-null mice reveals decreased triacylglycerol storage in cardiac myocytes accompanied by increased oxidation of fatty acids and increased oxidative stress (10), suggesting increased lipolysis. All of these studies support the idea that perilipin 5 functions similarly to perilipin 1 in reducing lipolysis. Thus, perilipin 5 may keep lipolysis in check to sequester potentially lipotoxic fatty acids and reduce β-oxidation. \n \nStored triacylglycerols provide fuel for cardiac myocyte function, so a major remaining question is, “how does perilipin 5 permit or facilitate lipolysis in times of need?” One possible mechanism is through control of CGI-58 availability to activate ATGL. Previous studies have shown that perilipin 5 binds both ATGL and CGI-58 via carboxyl terminal binding sites (9, 11) while inhibiting lipolysis (9); however, both proteins cannot bind to the same molecule of perilipin 5 at the same time (11). This protein binding may serve to sequester CGI-58, preventing interaction with and activation of ATGL. Moreover, incubation of cells expressing ectopic perilipin 5 with forskolin to activate adenylyl cyclase and consequently protein kinase A increases lipolysis (9). Phosphorylation of perilipin 5 increases following the addition of forskolin to cells (9); however, the functional consequence of perilipin 5 phosphorylation is as yet unknown. It is tempting to speculate that phosphorylation of perilipin 5 may be part of the mechanism by which lipolysis is increased, perhaps by triggering the release of CGI-58 and ATGL from their binding sites on perilipin 5, in turn, facilitating interaction of the released proteins. \n \nThe current work extends previous observations that perilipin 5 links lipid droplets to mitochondria. Histology of cardiac muscle from perilipin 5 transgenic mice reveals that perilipin 5-coated lipid droplets are closely surrounded by mitochondria (4, 5). Previous studies have revealed that a highly conserved carboxyl terminal sequence of perilipin 5 is required for recruitment of mitochondria to lipid droplets (12). The physical nature of the linking mechanism is as yet unknown, as are the consequences of the linkage. Importantly, Wang et al. (4) reveal that perilipin 5 overexpression impairs mitochondrial function, reducing the function of mitochondrial enzymes, and altering mitochondrial respiration, despite increases in mitochondrial size. The functional significance of the link between perilipin 5, lipid droplets, and mitochondria requires further study. \n \nFinally, both recent studies reveal that changes in gene expression accompany perilipin 5 overexpression in cardiac muscle (4, 5). The expression of peroxisome proliferator-activated receptor (PPAR)α, PPARγ coactivator 1α PGC1α, and PGC1β were decreased, as were mRNA levels for downstream target genes, including components of mitochondrial fatty acid import and oxidation. Prior studies have revealed that lipolysis of stored triacylglycerols provides ligands for PPARα, activating gene expression (13, 14). When lipolysis is decreased by reducing ATGL (13) or increasing perilipin 5 (4, 5), PPAR-mediated gene expression is impaired. Changes in the expression of genes encoding mitochondrial proteins are likely responsible for the observed diminished mitochondrial function in perilipin 5 transgenic mice (4); similar changes were observed in the hearts of ATGL-null mice and could be reversed by treatment of animals with a PPARα agonist (13). Interestingly, genes encoding proteins that mitigate oxidative stress responses were upregulated despite decreased β-oxidation (4). Protein levels of NF-E2-related factor 2, a transcription factor that induces antioxidant mechanisms in response to stress, were elevated in cardiac tissue of perilipin 5 transgenic mice, as were mRNA levels of downstream target genes. Thus, despite decreased lipolysis and flux of fatty acids to mitochondria, the cells show signs of increased oxidative stress. Further study is needed to elucidate these mechanisms. \n \nIn summary, these studies have added to a growing body of evidence that perilipin 5 is a negative regulator of lipolysis in cardiac myocytes. By putting the brakes on lipolysis, perilipin 5 is an important component of the mechanisms controlling energy homeostasis."
+  },
+  {
+    "paperId": "d09a7d327e2b5e657ea99f247d330161964a17e8",
+    "externalIds": {
+      "MAG": "2133088581",
+      "DOI": "10.1002/hep.24155",
+      "CorpusId": 5155260,
+      "PubMed": "21480322"
+    },
+    "title": "Transcription coactivator mediator subunit MED1 Is required for the development of fatty liver in the mouse",
+    "venue": "Hepatology",
+    "year": 2011,
+    "citationCount": 54,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "https://europepmc.org/articles/pmc3076129?pdf=render",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/hep.24155?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/hep.24155, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "144769215",
+        "name": "Liang Bai"
+      },
+      {
+        "authorId": "34273434",
+        "name": "Yuzhi Jia"
+      },
+      {
+        "authorId": "4418489",
+        "name": "N. Viswakarma"
+      },
+      {
+        "authorId": "35111769",
+        "name": "Jiansheng Huang"
+      },
+      {
+        "authorId": "5493306",
+        "name": "Aurore Vluggens"
+      },
+      {
+        "authorId": "4800983",
+        "name": "N. Wolins"
+      },
+      {
+        "authorId": "49875765",
+        "name": "N. Jafari"
+      },
+      {
+        "authorId": "2111519",
+        "name": "M. Rao"
+      },
+      {
+        "authorId": "3636042",
+        "name": "J. Borensztajn"
+      },
+      {
+        "authorId": "80651988",
+        "name": "Gongshe Yang"
+      },
+      {
+        "authorId": "2169673038",
+        "name": "J. Reddy"
+      }
+    ],
+    "abstract": null
   }
 ]
