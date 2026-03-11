@@ -19804,5 +19804,844 @@
       }
     ],
     "abstract": null
+  },
+  {
+    "paperId": "c07eb35a9d105f4e1b6aa52e934a7a201da66ac3",
+    "externalIds": {
+      "PubMedCentral": "11482270",
+      "DOI": "10.1152/ajpgi.00276.2023",
+      "CorpusId": 271859426,
+      "PubMed": "39136056"
+    },
+    "title": "Elongation factor 1A1 inhibition elicits changes in lipid droplet size, the bulk transcriptome, and cell type-associated gene expression in MASLD mouse liver",
+    "venue": "American Journal of Physiology - Gastrointestinal and Liver Physiology",
+    "year": 2024,
+    "citationCount": 1,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11482270",
+      "status": "GREEN",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11482270, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "1969108574",
+        "name": "Rachel B. Wilson"
+      },
+      {
+        "authorId": "2281260322",
+        "name": "Yun Jin Chen"
+      },
+      {
+        "authorId": "2130359505",
+        "name": "Richard Zhang"
+      },
+      {
+        "authorId": "2280965641",
+        "name": "Siddhant Maini"
+      },
+      {
+        "authorId": "2315974348",
+        "name": "Tallulah S. Andrews"
+      },
+      {
+        "authorId": "2316010273",
+        "name": "Rennian Wang"
+      },
+      {
+        "authorId": "4946844",
+        "name": "Nica M. Borradaile"
+      }
+    ],
+    "abstract": "Eukaryotic elongation factor 1A1 (EEF1A1), originally identified for its role in protein synthesis, has additional functions in diverse cellular processes. Of note, we previously discovered a role for EEF1A1 in hepatocyte lipotoxicity. We also demonstrated that a two-week intervention with the EEF1A1 inhibitor didemnin B (DB) (50 µg/kg) decreased liver steatosis in a mouse model of obesity and metabolic dysfunction-associated steatotic liver disease (MASLD) (129S6/SvEvTac mice fed western diet (42% fat) for 26 weeks). Here, we further characterized hepatic changes occurring in these mice by assessing lipid droplet (LD) size, bulk differential expression, and cell type-associated alterations in gene expression. Consistent with the previously demonstrated decrease in hepatic steatosis, we observed decreased median LD size in response to DB. Bulk RNA-seq followed by gene set enrichment analysis revealed alterations in pathways related to energy metabolism and proteostasis in DB-treated mouse livers. Deconvolution of bulk data identified decreased cell-type association scores for cholangiocytes, mononuclear phagocytes, and mesenchymal cells in response to DB. Overrepresentation analyses of bulk data using cell type marker gene sets further identified hepatocytes and cholangiocytes as the primary contributors to bulk differential expression in response to DB. Thus, we show that chemical inhibition of EEF1A1 decreases hepatic LD size and decreases gene expression signatures associated with several liver cell types implicated in MASLD progression. Furthermore, changes in hepatic gene expression were primarily attributable to hepatocytes and cholangiocytes. This work demonstrates that EEF1A1 inhibition may be a viable strategy to target aspects of liver biology implicated in MASLD progression."
+  },
+  {
+    "paperId": "57e81960d89eccf346a6984705c6220a1168e8a4",
+    "externalIds": {
+      "MAG": "2914100384",
+      "DOI": "10.1152/ajpgi.00376.2018",
+      "CorpusId": 73446842,
+      "PubMed": "30714813"
+    },
+    "title": "Ethanol withdrawal mitigates fatty liver by normalizing lipid catabolism.",
+    "venue": "American Journal of Physiology - Gastrointestinal and Liver Physiology",
+    "year": 2019,
+    "citationCount": 36,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "https://journals.physiology.org/doi/pdf/10.1152/ajpgi.00376.2018",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1152/ajpgi.00376.2018?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1152/ajpgi.00376.2018, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "5053006",
+        "name": "P. Thomes"
+      },
+      {
+        "authorId": "6554238",
+        "name": "Karuna Rasineni"
+      },
+      {
+        "authorId": "2241100167",
+        "name": "Li Yang"
+      },
+      {
+        "authorId": "34822654",
+        "name": "T. Donohue"
+      },
+      {
+        "authorId": "47360899",
+        "name": "Jacy L. Kubik"
+      },
+      {
+        "authorId": "4249813",
+        "name": "M. McNiven"
+      },
+      {
+        "authorId": "2295710686",
+        "name": "Carol A Casey"
+      }
+    ],
+    "abstract": "We are investigating the changes in hepatic lipid catabolism that contribute to alcohol-induced fatty liver. Following chronic ethanol (EtOH) exposure, abstinence from alcohol resolves steatosis. Here, we investigated the hepatocellular events that lead to this resolution by quantifying specific catabolic parameters that returned to control levels after EtOH was withdrawn. We hypothesized that, after its chronic consumption, EtOH withdrawal reactivates lipid catabolic processes that restore lipostasis. Male Wistar rats were fed control and EtOH liquid diets for 6 wk. Randomly chosen EtOH-fed rats were then fed control diet for 7 days. Liver triglycerides (TG), lipid peroxides, key markers of fatty acid (FA) metabolism, lipophagy, and autophagy were quantified. Compared with controls, EtOH-fed rats had higher hepatic triglycerides, lipid peroxides, and serum free fatty acids (FFA). The latter findings were associated with higher levels of FA transporters (FATP 2, 4, and 5) but lower quantities of peroxisome proliferator-activated receptor-α (PPAR-α), which governs FA oxidation. EtOH-fed animals also had lower nuclear levels of the autophagy-regulating transcription factor EB (TFEB), associated with lower hepatic lipophagy and autophagy. After EtOH-fed rats were refed control diet for 7 days, their serum FFA levels and those of FATPs fell to control (normal) levels, whereas PPAR-α levels rose to normal. Hepatic TG and malondialdehyde levels in EtOH-withdrawn rats declined to near control levels. EtOH withdrawal restored nuclear TFEB content, hepatic lipophagy, and autophagy activity to control levels. EtOH withdrawal reversed aberrant FA metabolism and restored lysosomal function to promote resolution of alcohol-induced fatty liver. NEW & NOTEWORTHY Here, using an animal model, we show mechanisms of reversal of fatty liver and injury following EtOH withdrawal. Our data indicate that reactivation of autophagy and lysosome function through the restoration of transcription factor EB contribute to reversal of fatty liver and injury following EtOH withdrawal."
+  },
+  {
+    "paperId": "4787e159e9f0bf368a23ff4df573a86d0f702fc9",
+    "externalIds": {
+      "MAG": "2077395591",
+      "DOI": "10.1074/jbc.M110.210237",
+      "CorpusId": 12172727,
+      "PubMed": "21521693"
+    },
+    "title": "Loss of Mitogen-activated Protein Kinase Phosphatase-1 Protects from Hepatic Steatosis by Repression of Cell Death-inducing DNA Fragmentation Factor A (DFFA)-like Effector C (CIDEC)/Fat-specific Protein 27*",
+    "venue": "Journal of Biological Chemistry",
+    "year": 2011,
+    "citationCount": 52,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "http://www.jbc.org/article/S0021925819489278/pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1074/jbc.M110.210237?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1074/jbc.M110.210237, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "4109704",
+        "name": "R. Flach"
+      },
+      {
+        "authorId": "1490436304",
+        "name": "H. Qin"
+      },
+      {
+        "authorId": "2152827660",
+        "name": "Lei Zhang"
+      },
+      {
+        "authorId": "5690245",
+        "name": "A. Bennett"
+      }
+    ],
+    "abstract": "The integration of metabolic signals required for the regulation of hepatic lipid homeostasis is complex. Previously, we showed that mice lacking expression of the mitogen-activated protein kinase (MAPK) phosphatase-1 (MKP-1) have increased fatty acid oxidation and are protected from the development of hepatic steatosis. Here, we show that leptin receptor-deficient (db/db) mice lacking MKP-1 are also resistant to the development of hepatic steatosis. Microarray analyses of livers from db/db mice lacking MKP-1 showed suppression of peroxisome proliferator-activated receptor γ (PPARγ) target genes. We identified the fat-specific protein 27 (Fsp27), which promotes PPARγ-mediated hepatic steatosis, as repressed in livers of both db/db and high fat diet-fed mice lacking MKP-1. Hepatocytes from MKP-1-deficient mice exhibited reduced PPARγ-induced lipid droplet formation. Mechanistically, loss of MKP-1 inhibited PPARγ function by increasing MAPK-dependent phosphorylation on PPARγ at its inhibitory residue of serine 112. These results demonstrate that in addition to inhibiting hepatic fatty acid oxidation, MKP-1 promotes hepatic lipogenic gene expression through PPARγ. Hence, MKP-1 plays an important role in MAPK-mediated control of hepatic lipid homeostasis."
+  },
+  {
+    "paperId": "94915a1b71e9ccdaff541afcb1d16fc16c181e20",
+    "externalIds": {
+      "PubMedCentral": "5561988",
+      "MAG": "2644442127",
+      "DOI": "10.3892/mmr.2017.6834",
+      "CorpusId": 3824402,
+      "PubMed": "28656280"
+    },
+    "title": "Role of glycoprotein 78 and cidec in hepatic steatosis",
+    "venue": "Molecular Medicine Reports",
+    "year": 2017,
+    "citationCount": 9,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.3892/mmr.2017.6834",
+      "status": "HYBRID",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5561988, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "1684133",
+        "name": "J. Li"
+      },
+      {
+        "authorId": "2158133185",
+        "name": "Guo-dong Liu"
+      },
+      {
+        "authorId": "2158119620",
+        "name": "Feng Zhang"
+      },
+      {
+        "authorId": "24064274",
+        "name": "Zhiwen Zhang"
+      },
+      {
+        "authorId": "4525907",
+        "name": "Yuqiao Xu"
+      },
+      {
+        "authorId": "2117895072",
+        "name": "Qing Li"
+      }
+    ],
+    "abstract": "Hepatic glycoprotein (gp78), a membrane-anchored E3 ubiquitin ligase, has been reported to be involved in regulating lipid and energy metabolism in animals, and cell death-inducing DFFA-like effector c (cidec) has emerged as an important regulator of metabolism, which has been implicated in the process of fat differentiation. Nonalcoholic fatty liver disease is a metabolic disorder associated with hepatic steatosis. In the present study, to investigate the role of gp78 and cidec in hepatic steatosis, an in vitro cell culture model of hepatic steatosis was established, using the AML12 mouse hepatocyte cell line to assess the protein expression of gp78. The results of Oil Red O staining, phase contrast microscopy and triglyceride content detection experiments indicated that the overexpression of gp78 induced lipid accumulation, whereas gp78-knockdown led to a reduction in lipid accumulation in the AML12 cells. The increased expression of gp78 was associated with steatosis. The expression of cidec was consistent with gp78, and the colocalization of gp78 and cidec was observed on the surface of lipid droplets using immunofluorescence analysis. Furthermore, an interaction between gp78 and cidec was detected using coimmunoprecipitation analysis, and this interaction promoted lipid accumulation. Based on these data, it was hypothesized that gp78 is a regulator of hepatic steatosis, and that it may be a putative molecular mediator in metabolic diseases."
+  },
+  {
+    "paperId": "e38962b8142dbe0078d2db75f1b63a62f6fd8232",
+    "externalIds": {
+      "MAG": "2100993843",
+      "DOI": "10.1053/j.gastro.2015.06.009",
+      "CorpusId": 3990195,
+      "PubMed": "26099526"
+    },
+    "title": "Fat-Specific Protein 27/CIDEC Promotes Development of Alcoholic Steatohepatitis in Mice and Humans.",
+    "venue": "Gastroenterology",
+    "year": 2015,
+    "citationCount": 133,
+    "influentialCitationCount": 4,
+    "openAccessPdf": {
+      "url": "http://www.gastrojournal.org/article/S0016508515008665/pdf",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1053/j.gastro.2015.06.009?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1053/j.gastro.2015.06.009, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "143823483",
+        "name": "Ming-Jiang Xu"
+      },
+      {
+        "authorId": "122205197",
+        "name": "Yan Cai"
+      },
+      {
+        "authorId": "2197901006",
+        "name": "Hua Wang"
+      },
+      {
+        "authorId": "145564610",
+        "name": "J. Altamirano"
+      },
+      {
+        "authorId": "39163694",
+        "name": "B. Chang"
+      },
+      {
+        "authorId": "48574191",
+        "name": "Adeline Bertola"
+      },
+      {
+        "authorId": "7758489",
+        "name": "Gemma Odena"
+      },
+      {
+        "authorId": "12916414",
+        "name": "Jim Lu"
+      },
+      {
+        "authorId": "3042355",
+        "name": "N. Tanaka"
+      },
+      {
+        "authorId": "7143281",
+        "name": "K. Matsusue"
+      },
+      {
+        "authorId": "47618199",
+        "name": "T. Matsubara"
+      },
+      {
+        "authorId": "143996932",
+        "name": "P. Mukhopadhyay"
+      },
+      {
+        "authorId": "39833591",
+        "name": "S. Kimura"
+      },
+      {
+        "authorId": "4193097",
+        "name": "P. Pacher"
+      },
+      {
+        "authorId": "144907275",
+        "name": "F. Gonzalez"
+      },
+      {
+        "authorId": "145039167",
+        "name": "R. Bataller"
+      },
+      {
+        "authorId": "2291368520",
+        "name": "B. Gao"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "384279b3761d73976907aaf63f6442aac9c9bef4",
+    "externalIds": {
+      "MAG": "2111008058",
+      "PubMedCentral": "2426694",
+      "DOI": "10.1186/1471-2148-8-159",
+      "CorpusId": 15538309,
+      "PubMed": "18500987"
+    },
+    "title": "Molecular evolution of Cide family proteins: Novel domain formation in early vertebrates and the subsequent divergence",
+    "venue": "BMC Evolutionary Biology",
+    "year": 2008,
+    "citationCount": 57,
+    "influentialCitationCount": 4,
+    "openAccessPdf": {
+      "url": "https://bmcecolevol.biomedcentral.com/counter/pdf/10.1186/1471-2148-8-159",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC2426694, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2108895975",
+        "name": "Congyang Wu"
+      },
+      {
+        "authorId": "2284638884",
+        "name": "Yinxin Zhang"
+      },
+      {
+        "authorId": "2145122140",
+        "name": "Zhirong Sun"
+      },
+      {
+        "authorId": "2152926564",
+        "name": "Peng Li"
+      }
+    ],
+    "abstract": "BackgroundCide family proteins including Cidea, Cideb and Cidec/Fsp27, contain an N-terminal CIDE-N domain that shares sequence similarity to the N-terminal CAD domain (NCD) of DNA fragmentation factors Dffa/Dff45/ICAD and Dffb/Dff40/CAD, and a unique C-terminal CIDE-C domain. We have previously shown that Cide proteins are newly emerged regulators closely associated with the development of metabolic diseases such as obesity, diabetes and liver steatosis. They modulate many metabolic processes such as lipolysis, thermogenesis and TAG storage in brown adipose tissue (BAT) and white adipose tissue (WAT), as well as fatty acid oxidation and lipogenesis in the liver.ResultsTo understand the evolutionary process of Cide proteins and provide insight into the role of Cide proteins as potential metabolic regulators in various species, we searched various databases and performed comparative genomic analysis to study the sequence conservation, genomic structure, and phylogenetic tree of the CIDE-N and CIDE-C domains of Cide proteins. As a result, we identified signature sequences for the N-terminal region of Dffa, Dffb and Cide proteins and CIDE-C domain of Cide proteins, and observed that sequences homologous to CIDE-N domain displays a wide phylogenetic distribution in species ranging from lower organisms such as hydra (Hydra vulgaris) and sea anemone (Nematostella vectensis) to mammals, whereas the CIDE-C domain exists only in vertebrates. Further analysis of their genomic structures showed that although evolution of the ancestral CIDE-N domain had undergone different intron insertions to various positions in the domain among invertebrates, the genomic structure of Cide family in vertebrates is stable with conserved intron phase.ConclusionBased on our analysis, we speculate that in early vertebrates CIDE-N domain was evolved from the duplication of NCD of Dffa. The CIDE-N domain somehow acquired the CIDE-C domain that was formed around the same time, subsequently generating the Cide protein. Subsequent duplication and evolution have led to the formation of different Cide family proteins that play unique roles in the control of metabolic pathways in different tissues."
+  },
+  {
+    "paperId": "257dbdb34fe253696a3e6926cef8c8bdc4cffbbb",
+    "externalIds": {
+      "PubMedCentral": "6295111",
+      "MAG": "2905319503",
+      "DOI": "10.1186/s12920-018-0438-7",
+      "CorpusId": 56173087,
+      "PubMed": "30547786"
+    },
+    "title": "Genomics of lipid-laden human hepatocyte cultures enables drug target screening for the treatment of non-alcoholic fatty liver disease",
+    "venue": "BMC Medical Genomics",
+    "year": 2018,
+    "citationCount": 37,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "https://bmcmedgenomics.biomedcentral.com/track/pdf/10.1186/s12920-018-0438-7",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6295111, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "1402657628",
+        "name": "Stephanie Breher-Esch"
+      },
+      {
+        "authorId": "6861827",
+        "name": "N. Sahini"
+      },
+      {
+        "authorId": "11364470",
+        "name": "Anna Trincone"
+      },
+      {
+        "authorId": "21538924",
+        "name": "Christin Wallstab"
+      },
+      {
+        "authorId": "153014126",
+        "name": "J. Borlak"
+      }
+    ],
+    "abstract": "Non-alcoholic fatty liver disease (NAFLD) is a major health burden in need for new medication. To identify potential drug targets a genomic study was performed in lipid-laden primary human hepatocyte (PHH) and human hepatoma cell cultures. PHH, HuH7 and HepG2 hepatoma cell cultures were treated with lipids and/or TNFα. Intracellular lipid load was quantified with the ORO assay. The Affymetrix HG-U133+ array system was employed to perform transcriptome analysis. The lipid droplet (LD) growth and fusion was determined by fluorescence microscopy. LD associated proteins were imaged by confocal immunofluorescence microscopy and confirmed by Western immunoblotting. Bioinformatics defined perturbed metabolic pathways. Whole genome expression profiling identified 227, 1031 and 571 significant regulated genes. Likewise, the combined lipid and TNFα treatment of PHH, HuH7 and HepG2 cell cultures revealed 154, 1238 and 278 differentially expressed genes. Although genomic responses differed among in-vitro systems, commonalities were ascertained by filtering the data for LD associated gene regulations. Among others the LD-growth and fusion associated cell death inducing DFFA like effector C (CIDEC), perilipins (PLIN2, PLIN3), the synaptosome-associated-protein 23 and the vesicle associated membrane protein 3 were strongly up-regulated. Likewise, the PPAR targets pyruvate-dehydrogenase-kinase-4 and angiopoietin-like-4 were up-regulated as was hypoxia-inducible lipid droplet-associated (HILPDA), flotilin and FGF21. Their inhibition ameliorates triglyceride and cholesterol accumulation. TNFα treatment elicited strong induction of the chemokine CXCL8, the kinases MAP3K8, MAP4K4 and negative regulators of cytokine signaling, i.e. SOCS2&SOCS3. Live cell imaging of DsRED calreticulin plasmid transfected HuH7 cells permitted an assessment of LD growth and fusion and confocal immunofluorescence microscopy evidenced induced LD-associated PLIN2, CIDEC, HIF1α, HILPDA, JAK1, PDK4 and ROCK2 expression. Notwithstanding, CPT1A protein was repressed to protect mitochondria from lipid overload. Pharmacological inhibition of the GTPase-dynamin and the fatty acid transporter-2 reduced lipid uptake by 28.5 and 35%, respectively. Finally, a comparisons of in-vitro/NAFLD patient biopsy findings confirmed common gene regulations thus demonstrating clinical relevance. The genomics of fat-laden hepatocytes revealed LD-associated gene regulations and perturbed metabolic pathways. Immunofluorescence microscopy confirmed expression of coded proteins to provide a rationale for therapeutic intervention strategies. Collectively, the in-vitro system permits testing of drug candidates."
+  },
+  {
+    "paperId": "db8afbe3b4af8de41fc45352667407034f78c7d4",
+    "externalIds": {
+      "DOI": "10.1007/s11010-013-1605-y",
+      "CorpusId": 254800809
+    },
+    "title": "Expression of CIDE proteins in clear cell renal cell carcinoma and their prognostic significance",
+    "venue": "Molecular and Cellular Biochemistry",
+    "year": 2013,
+    "citationCount": 0,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://link.springer.com/content/pdf/10.1007/s11010-013-1605-y.pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11010-013-1605-y?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11010-013-1605-y, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": null,
+    "authors": [
+      {
+        "authorId": "2152596594",
+        "name": "Ming Yu"
+      },
+      {
+        "authorId": "2113636210",
+        "name": "Hui Wang"
+      },
+      {
+        "authorId": "113734239",
+        "name": "Jun-yao Zhao"
+      },
+      {
+        "authorId": "2116523210",
+        "name": "Yuan Yuan"
+      },
+      {
+        "authorId": "2144447053",
+        "name": "Chao Wang"
+      },
+      {
+        "authorId": "2152908603",
+        "name": "Jing Li"
+      },
+      {
+        "authorId": "2108876897",
+        "name": "Lijun Zhang"
+      },
+      {
+        "authorId": "2116775434",
+        "name": "Li-ying Zhang"
+      },
+      {
+        "authorId": "2117895072",
+        "name": "Qing Li"
+      },
+      {
+        "authorId": "145764348",
+        "name": "Jing Ye"
+      }
+    ],
+    "abstract": "Clear cell renal cell carcinoma (ccRCC) is the major and aggressive subtype of renal cell carcinoma. It is known to derive its histologic appearance from accumulation of abundant lipids and glycogens. The cell death-inducing DFF45-like effector (CIDE) family has been characterized as the lipid droplet proteins involved in the metabolism of lipid storage droplets. The purpose of this study was to evaluate the expression of CIDE proteins in ccRCC cells and to investigate their prognostic significance. We examined consecutive patients with sporadic ccRCC, who underwent nephrectomy, to measure their mRNA and protein expression of CIDE proteins. We found that Cidec and ADRP expression were significantly up-regulated in ccRCC, compared with normal kidney tissues. Cideb was down-regulated. We also found that Cideb was expressed more in low-grade ccRCC than in high-grade tumors. To further clarify the relationship between Cideb expression and patient prognosis, we evaluated 57 ccRCC patients followed up for 120 months. Reduced ccRCC Cideb expression was associated with a higher Fuhrman nuclear grade. Patients with high Cideb expression had better overall survival rate than those with low expression (p < 0.05). Cideb expression was an independent predictor of survival (p = 0.001). Although the biologic function of Cideb in ccRCC remains unknown, the expression level of Cideb might be a novel predictor of prognosis in ccRCC."
+  },
+  {
+    "paperId": "45e7e9285f4c537078baf949d5262294d3a33480",
+    "externalIds": {
+      "PubMedCentral": "3091643",
+      "MAG": "1973488748",
+      "DOI": "10.1186/1471-2164-11-446",
+      "CorpusId": 18370945,
+      "PubMed": "20649970"
+    },
+    "title": "Regulation of gene expression by FSP27 in white and brown adipose tissue",
+    "venue": "BMC Genomics",
+    "year": 2010,
+    "citationCount": 30,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://bmcgenomics.biomedcentral.com/counter/pdf/10.1186/1471-2164-11-446",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3091643, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "46598821",
+        "name": "De Li"
+      },
+      {
+        "authorId": "2284638884",
+        "name": "Yinxin Zhang"
+      },
+      {
+        "authorId": "47775942",
+        "name": "Li Xu"
+      },
+      {
+        "authorId": "5428671",
+        "name": "Linkang Zhou"
+      },
+      {
+        "authorId": "2118462014",
+        "name": "Yue Wang"
+      },
+      {
+        "authorId": "50649811",
+        "name": "Bofu Xue"
+      },
+      {
+        "authorId": "3194711",
+        "name": "Zilong Wen"
+      },
+      {
+        "authorId": "2152926564",
+        "name": "Peng Li"
+      },
+      {
+        "authorId": "2686750",
+        "name": "J. Sang"
+      }
+    ],
+    "abstract": "BackgroundBrown and white adipose tissues (BAT and WAT) play critical roles in controlling energy homeostasis and in the development of obesity and diabetes. The mouse Fat-Specific protein 27 (FSP27), a member of the cell death-inducing DFF45-like effector (CIDE) family, is expressed in both BAT and WAT and is associated with lipid droplets. Over-expression of FSP27 promotes lipid storage, whereas FSP27 deficient mice have improved insulin sensitivity and are resistant to diet-induced obesity. In addition, FSP27-deficient white adipocytes have reduced lipid storage, smaller lipid droplets, increased mitochondrial activity and a higher expression of several BAT-selective genes. To elucidate the molecular mechanism by which FSP27 controls lipid storage and gene expression in WAT and BAT, we systematically analyzed the gene expression profile of FSP27- deficient WAT by microarray analysis and compared the expression levels of a specific set of genes in WAT and BAT by semi-quantitative real-time PCR analysis.ResultsBAT-selective genes were significantly up-regulated, whereas WAT-selective genes were down-regulated in the WAT of FSP27- deficient mice. The expression of the BAT-selective genes was also dramatically up-regulated in the WAT of leptin/FSP27 double deficient mice. In addition, the expression levels of genes involved in multiple metabolic pathways, including oxidative phosphorylation, the TCA cycle, fatty acid synthesis and fatty acid oxidation, were increased in the FSP27- deficient WAT. In contrast, the expression levels for genes involved in extracellular matrix remodeling, the classic complement pathway and TGF-β signaling were down-regulated in the FSP27- deficient WAT. Most importantly, the expression levels of regulatory factors that determine BAT identity, such as CEBPα/β, PRDM16 and major components of the cAMP pathway, were markedly up-regulated in the WAT of FSP27- deficient mice. The expression levels of these regulatory factors were also up-regulated in leptin/FSP27 double deficient mice. Interestingly, distinct gene expression profiles were observed in the BAT of FSP27- deficient mice. Taken together, these data suggest that the WAT of FSP27- deficient mice have a gene expression profile similar to that of BAT.ConclusionsFSP27 acts as a molecular determinant that controls gene expression for a diversity of metabolic and signaling pathways and, in particular, the expression of regulatory factors, including CEBPα/β, PRDM16 and components of the cAMP signaling pathway, that control the identity of WAT and BAT."
+  },
+  {
+    "paperId": "13468f6b348772d126b5a5c80828203ddbb3e837",
+    "externalIds": {
+      "MAG": "2016795120",
+      "DOI": "10.1107/S1744309113026444",
+      "CorpusId": 24195423,
+      "PubMed": "24192364"
+    },
+    "title": "Crystallization and preliminary X-ray crystallographic studies of the CIDE-N domain of CIDE-3.",
+    "venue": "Acta Crystallographica. Section F : Structural Biology and Crystallization Communications",
+    "year": 2013,
+    "citationCount": 2,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "https://europepmc.org/articles/pmc3818048?pdf=render",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1107/S1744309113026444?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1107/S1744309113026444, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2108204784",
+        "name": "Seung Mi Lee"
+      },
+      {
+        "authorId": "1738882",
+        "name": "H. H. Park"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "4d03da3178e3a3ecc2c84d2930a70b17aa7db2b0",
+    "externalIds": {
+      "MAG": "2074203786",
+      "DOI": "10.1016/j.bbrc.2008.09.129",
+      "CorpusId": 20884987,
+      "PubMed": "18845124"
+    },
+    "title": "Transcriptional activation of Cidec by PPARgamma2 in adipocyte.",
+    "venue": "Biochemical and Biophysical Research Communications - BBRC",
+    "year": 2008,
+    "citationCount": 75,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.bbrc.2008.09.129?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.bbrc.2008.09.129, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2324523",
+        "name": "Yoon-Jin Kim"
+      },
+      {
+        "authorId": "4528391",
+        "name": "S. Cho"
+      },
+      {
+        "authorId": "49260720",
+        "name": "C. Yun"
+      },
+      {
+        "authorId": "50322150",
+        "name": "Y. Moon"
+      },
+      {
+        "authorId": "2152473908",
+        "name": "T. Lee"
+      },
+      {
+        "authorId": "2155563408",
+        "name": "Sang Hoon Kim"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "01df07ac56a2f4554d952c80c00ffa758dd1c3f2",
+    "externalIds": {
+      "MAG": "2555233418",
+      "PubMedCentral": "5234712",
+      "DOI": "10.1194/jlr.M069799",
+      "CorpusId": 18176886,
+      "PubMed": "27884961"
+    },
+    "title": "Therapeutic silencing of fat-specific protein 27 improves glycemic control in mouse models of obesity and insulin resistance[S]",
+    "venue": "Journal of Lipid Research",
+    "year": 2016,
+    "citationCount": 26,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "http://www.jlr.org/content/58/1/81.full.pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5234712, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "7021108",
+        "name": "C. Langhi"
+      },
+      {
+        "authorId": "67256447",
+        "name": "N. Arias"
+      },
+      {
+        "authorId": "4977044",
+        "name": "Ananthi Rajamoorthi"
+      },
+      {
+        "authorId": "32812626",
+        "name": "J. Basta"
+      },
+      {
+        "authorId": "144973562",
+        "name": "Richard G. Lee"
+      },
+      {
+        "authorId": "50386802",
+        "name": "Á. Baldán"
+      }
+    ],
+    "abstract": "Obesity is a component of the metabolic syndrome, mechanistically linked to diabetes, fatty liver disease, and cardiovascular disease. Proteins that regulate the metabolic fate of intracellular lipid droplets are potential therapeutic candidates to treat obesity and its related consequences. CIDEC (cell death-inducing DFFA-like effector C), also known in mice as Fsp27 (fat-specific protein 27), is a lipid droplet-associated protein that prevents lipid mobilization and promotes intracellular lipid storage. The consequences of complete loss of FSP27 on hepatic metabolism and on insulin resistance are controversial, as both healthy and deleterious lipodystrophic phenotypes have been reported in Fsp27−/− mice. To test whether therapeutic silencing of Fsp27 might be useful to improve obesity, fatty liver, and glycemic control, we used antisense oligonucleotides (ASOs) in both nutritional (high-fat diet) and genetic (leptin-deficient ob/ob) mouse models of obesity, hyperglycemia, and hepatosteatosis. We show that partial silencing Fsp27 in either model results in the robust decrease in visceral fat, improved insulin sensitivity and whole-body glycemic control, and tissue-specific changes in transcripts controlling lipid oxidation and synthesis. These data suggest that partial reduction of FSP27 activity (e.g., using ASOs) might be exploited therapeutically in insulin-resistant obese or overweight patients."
+  },
+  {
+    "paperId": "7c6323f37119ce69694fd4d954476de53cee6d9f",
+    "externalIds": {
+      "MAG": "2017047739",
+      "DOI": "10.1007/s11033-008-9216-5",
+      "CorpusId": 2413812,
+      "PubMed": "18311595"
+    },
+    "title": "Molecular cloning, chromosomal location and expression pattern of porcine CIDEa and CIDEc",
+    "venue": "Molecular Biology Reports",
+    "year": 2009,
+    "citationCount": 16,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11033-008-9216-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11033-008-9216-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2250714555",
+        "name": "Yanhe Li"
+      },
+      {
+        "authorId": "5148474",
+        "name": "T. Lei"
+      },
+      {
+        "authorId": "2250786355",
+        "name": "Xiaodong Chen"
+      },
+      {
+        "authorId": "153535660",
+        "name": "T. Xia"
+      },
+      {
+        "authorId": "2291412262",
+        "name": "Yong-bo Peng"
+      },
+      {
+        "authorId": "2677628",
+        "name": "Q. Long"
+      },
+      {
+        "authorId": "2171015693",
+        "name": "Jing Zhang"
+      },
+      {
+        "authorId": "152913694",
+        "name": "S. Feng"
+      },
+      {
+        "authorId": "2250920676",
+        "name": "Lei Zhou"
+      },
+      {
+        "authorId": "121937600",
+        "name": "Zaiqing Yang"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "8e458c2200dd12d98f949a0aad096cf7ff2e13c7",
+    "externalIds": {
+      "MAG": "2020870244",
+      "DOI": "10.1111/gtc.12180",
+      "CorpusId": 205151036,
+      "PubMed": "25255829"
+    },
+    "title": "Translocation of CIDEC in hepatocytes depends on fatty acids",
+    "venue": "Genes to Cells",
+    "year": 2014,
+    "citationCount": 11,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/gtc.12180?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/gtc.12180, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2109128910",
+        "name": "Hongqiang Li"
+      },
+      {
+        "authorId": "49674385",
+        "name": "Ao Chen"
+      },
+      {
+        "authorId": "46630982",
+        "name": "Le Shu"
+      },
+      {
+        "authorId": "7932721",
+        "name": "Xiaolan Yu"
+      },
+      {
+        "authorId": "49715234",
+        "name": "L. Gan"
+      },
+      {
+        "authorId": "2118783794",
+        "name": "Lei Zhou"
+      },
+      {
+        "authorId": "121937600",
+        "name": "Zaiqing Yang"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "59c60b3ff6d63e9b988f1ed9350155e1b45fe544",
+    "externalIds": {
+      "MAG": "1975037124",
+      "DOI": "10.1074/jbc.M114.605980",
+      "CorpusId": 22058991,
+      "PubMed": "25477509"
+    },
+    "title": "Adipocyte-specific Disruption of Fat-specific Protein 27 Causes Hepatosteatosis and Insulin Resistance in High-fat Diet-fed Mice*",
+    "venue": "Journal of Biological Chemistry",
+    "year": 2014,
+    "citationCount": 85,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "http://www.jbc.org/article/S0021925820492762/pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1074/jbc.M114.605980?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1074/jbc.M114.605980, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "3042355",
+        "name": "N. Tanaka"
+      },
+      {
+        "authorId": "1698804038",
+        "name": "Shogo Takahashi"
+      },
+      {
+        "authorId": "47618199",
+        "name": "T. Matsubara"
+      },
+      {
+        "authorId": "145923443",
+        "name": "Changtao Jiang"
+      },
+      {
+        "authorId": "4460491",
+        "name": "W. Sakamoto"
+      },
+      {
+        "authorId": "4490936",
+        "name": "Tatyana Chanturiya"
+      },
+      {
+        "authorId": "38282899",
+        "name": "R. Teng"
+      },
+      {
+        "authorId": "3170143",
+        "name": "O. Gavrilova"
+      },
+      {
+        "authorId": "144907275",
+        "name": "F. Gonzalez"
+      }
+    ],
+    "abstract": "Background: FSP27 contributes to unilocular lipid droplet formation in adipocytes. Results: Adipocyte-specific FSP27 disruption in mice produced small white adipose mass, hepatosteatosis, and insulin resistance upon high-fat diet feeding. Conclusion: Adipose FSP27 plays a critical role in minimizing ectopic fat accumulation. Significance: This mouse model is useful for understanding the significance of fat storage in adipose tissue. White adipose tissue (WAT) functions as an energy reservoir where excess circulating fatty acids are transported to WAT, converted to triglycerides, and stored as unilocular lipid droplets. Fat-specific protein 27 (FSP27, CIDEC in humans) is a lipid-coating protein highly expressed in mature white adipocytes that contributes to unilocular lipid droplet formation. However, the influence of FSP27 in adipose tissue on whole-body energy homeostasis remains unclear. Mice with adipocyte-specific disruption of the Fsp27 gene (Fsp27ΔAd) were generated using an aP2-Cre transgene with the Cre/LoxP system. Upon high-fat diet feeding, Fsp27ΔAd mice were resistant to weight gain. In the small WAT of these mice, small adipocytes containing multilocular lipid droplets were dispersed. The expression levels of the genes associated with mitochondrial abundance and brown adipocyte identity were increased, and basal lipolytic activities were significantly augmented in adipocytes isolated from Fsp27ΔAd mice compared with the Fsp27F/F counterparts. The impaired fat-storing function in Fsp27ΔAd adipocytes and the resultant lipid overflow from WAT led to marked hepatosteatosis, dyslipidemia, and systemic insulin resistance in high-fat diet-treated Fsp27ΔAd mice. These results demonstrate a critical role for FSP27 in the storage of excess fat in WAT with minimizing ectopic fat accumulation that causes insulin-resistant diabetes and non-alcoholic fatty liver disease. This mouse model may be useful for understanding the significance of fat-storing properties of white adipocytes and the role of local FSP27 in whole-body metabolism and estimating the pathogenesis of human partial lipodystrophy caused by CIDEC mutations."
   }
 ]
