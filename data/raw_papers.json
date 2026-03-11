@@ -11744,5 +11744,1047 @@
       }
     ],
     "abstract": "Obesity is considered a global epidemic and is mainly associated with the development of diabetes, cardiovascular diseases and Non-Alcoholic Fatty Liver (NAFLD). The pathogenesis between obesity and hepatic steatosis is partially known, but could involve differentiated or tissue-specific participation of the expression of Cd36 mRNA that codes for a receptor which is a transporter of free fatty acids (FFA) in different tissues, favoring the lipids storage. This relative expression was evaluated in adipose and liver tissue in rats with steatosis after consumption of sucrose for 30 and 40 weeks. Ten Wistar rats were divided into two experimental groups (St-30 and St-40), which received a standard diet plus 30% sucrose in their water intake. These rats showed a significant increase in abdominal fat, serum biochemical determinations, HOMA-IR; as well as, changes in adipocytes size and mild portal hepatitis and grade 2 hepatic steatosis. The relative expression of Cd36 mRNA increased in liver tissue after 30 (4.5-fold) and 40 (8.5-fold) weeks of sucrose ingestión but no in adipose tissue; with respect to control group (P < 0.05). This expression was associated with a significant increase in the levles of sCD36 in serum, which is indicator of the presence of the FFA transporter in the hepatocyte membrane causing lipids accumulation. The above shows the link between the adipose and hepatic tissue for the accumulation of steatotic fat in the liver through time, mediated by the relative expression of cd36 mRNA that encodes for the FFA transporter."
+  },
+  {
+    "paperId": "0653654b9e9bb898823b54bfda3f7e7e936f9e00",
+    "externalIds": {
+      "PubMedCentral": "7003043",
+      "MAG": "2999667057",
+      "DOI": "10.3892/mmr.2020.10946",
+      "CorpusId": 210990655,
+      "PubMed": "32016452"
+    },
+    "title": "Indirubin promotes adipocyte differentiation and reduces lipid accumulation in 3T3-L1 cells via peroxisome proliferator-activated receptor γ activation",
+    "venue": "Molecular Medicine Reports",
+    "year": 2020,
+    "citationCount": 17,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "https://www.spandidos-publications.com/10.3892/mmr.2020.10946/download",
+      "status": "HYBRID",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7003043, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "1491411052",
+        "name": "Taisuke Konno"
+      },
+      {
+        "authorId": "20352446",
+        "name": "K. Sasaki"
+      },
+      {
+        "authorId": "2110983001",
+        "name": "Kyoko Kobayashi"
+      },
+      {
+        "authorId": "10824921",
+        "name": "T. Murata"
+      }
+    ],
+    "abstract": "The peroxisome proliferator-activated receptor γ (PPARγ) plays an important role in insulin sensitivity and adipocyte differentiation. It is known as ligand-receptor that improves insulin sensitivity in type 2 diabetes mellitus. Several kinds of indigo plant have been already used to treat diabetes in oriental traditional medicine, but its mechanism has not been clarified yet. To investigate the effect of indirubin, which is a component of Polygonum tinctorium on the cell differentiation and adipprocess in 3T3-L1 cells, 3T3-L1 cells were cultured to determine the effect of cell differentiation and glucose uptake with indirubin. As a result, Indirubin compound enhanced adipocyte differentiation in 3T3-L1 cells similar to rosiglitazone. This effect was terminated by cotreatment with GW9662, a PPARγ antagonist. In mature 3T3-L1 adipocytes, the lipid droplet size and accumulation were reduced by this compound. The basal and insulin-stimulated glucose uptakes were also significantly increased. In addition, indirubin treatment significantly enhanced estrogen level by 1.64-fold with mature adipocytes which can be attributed to its aromatase activity. Conclutionaly, this finding suggested that indirubin is a potential anti-diabetic compound for type 2 diabetes mellitus by promoting adipocyte differentiation and glucose uptake via PPARγ."
+  },
+  {
+    "paperId": "f72e5ed8168c56cb2df9bc4905ba585f8cf1c161",
+    "externalIds": {
+      "MAG": "2339990294",
+      "PubMedCentral": "5061828",
+      "DOI": "10.1007/s13353-016-0350-9",
+      "CorpusId": 7243111,
+      "PubMed": "27108337"
+    },
+    "title": "Expression of genes involved in lipid droplet formation (BSCL2, SNAP23 and COPA) during porcine in vitro adipogenesis",
+    "venue": "Journal of Applied Genetics",
+    "year": 2016,
+    "citationCount": 14,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://europepmc.org/articles/pmc5061828?pdf=render",
+      "status": "GREEN",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5061828, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "4028884",
+        "name": "B. Kociucka"
+      },
+      {
+        "authorId": "4615642",
+        "name": "T. Flisikowska"
+      },
+      {
+        "authorId": "2082068039",
+        "name": "Dariusz Mróz"
+      },
+      {
+        "authorId": "6069817",
+        "name": "I. Szczerbal"
+      }
+    ],
+    "abstract": "Adipogenesis is a complex process of fat cells development driven by the expression of numerous genes. Differentiation of progenitor cells into mature adipocytes is accompanied by changes in cell shape, as a result of lipid accumulation. In the present study, expression of three genes involved in lipid droplet formation (SNAP23, BSCL2 and COPA) was evaluated during porcine adipogenesis. It was found that mRNA levels of BSCL2 and SNAP23, but not COPA, increased during differentiation. Redistribution of SNAP23 protein to different cellular compartments was observed when comparing undifferentiated mesenchymal stem cells and differentiated adipocytes. The BSCL2 protein was found to be highly specific to cells with accumulated lipids, while COPA protein coated the lipid droplets. Obtained results indicated that the studied genes may be considered as candidates for fatness traits in pigs. Moreover, this study has shown that the porcine in vitro adipogenesis system provides a useful tool for the characterisation of novel genes involved in adipose tissue accumulation."
+  },
+  {
+    "paperId": "829e03ad032678fa979bf44d1ca08d5285538178",
+    "externalIds": {
+      "MAG": "2309192977",
+      "DOI": "10.1194/jlr.M060574",
+      "CorpusId": 9711927,
+      "PubMed": "26946540"
+    },
+    "title": "CDP-diacylglycerol synthases regulate the growth of lipid droplets and adipocyte development[S]",
+    "venue": "Journal of Lipid Research",
+    "year": 2016,
+    "citationCount": 49,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "http://www.jlr.org/content/57/5/767.full.pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1194/jlr.M060574?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1194/jlr.M060574, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "145008854",
+        "name": "Y. Qi"
+      },
+      {
+        "authorId": "4742247",
+        "name": "Tamar S. Kapterian"
+      },
+      {
+        "authorId": "5493618",
+        "name": "Ximing Du"
+      },
+      {
+        "authorId": "144598360",
+        "name": "Qianli Ma"
+      },
+      {
+        "authorId": "33878896",
+        "name": "Weihua Fei"
+      },
+      {
+        "authorId": "2145067086",
+        "name": "Yuxi Zhang"
+      },
+      {
+        "authorId": "2099160",
+        "name": "Xun Huang"
+      },
+      {
+        "authorId": "5671616",
+        "name": "I. Dawes"
+      },
+      {
+        "authorId": "6808365",
+        "name": "Hongyuan Yang"
+      }
+    ],
+    "abstract": "The expansion of lipid droplets (LDs) and the differentiation of preadipocytes are two important aspects of mammalian lipid storage. In this study, we examined the role of CDP-diacylglycerol (DAG) synthases (CDSs), encoded by CDS1 and CDS2 genes in mammals, in lipid storage. CDS enzymes catalyze the formation of CDP-DAG from phosphatidic acid (PA). Knocking down either CDS1 or CDS2 resulted in the formation of giant or supersized LDs in cultured cells. Moreover, depleting CDS1 almost completely blocked the differentiation of 3T3-L1 preadipocytes, whereas depleting CDS2 had a moderate inhibitory effect on adipocyte differentiation. The levels of many PA species were significantly increased upon knocking down CDS1. In contrast, only a small number of PA species were increased upon depleting CDS2. Importantly, the amount of PA in the endoplasmic reticulum was dramatically increased upon knocking down CDS1 or CDS2. Our results suggest that the changes in PA level and localization may underlie the formation of giant LDs as well as the block in adipogenesis in CDS-deficient cells. We have therefore identified CDS1 and CDS2 as important novel regulators of lipid storage, and these results highlight the crucial role of phospholipids in mammalian lipid storage."
+  },
+  {
+    "paperId": "4e999967f2ef98f6b14a9569e383160e0497e30b",
+    "externalIds": {
+      "PubMedCentral": "12721045",
+      "DOI": "10.1016/j.jlr.2025.100935",
+      "CorpusId": 282830965,
+      "PubMed": "41202880"
+    },
+    "title": "TRPM8 inhibition reduces the size but increases the number of lipid droplets in mature adipocytes in vitro",
+    "venue": "Journal of Lipid Research",
+    "year": 2025,
+    "citationCount": 1,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12721045, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2232687155",
+        "name": "Parnasree Mahapatra"
+      },
+      {
+        "authorId": "2187394872",
+        "name": "Shamit Kumar"
+      },
+      {
+        "authorId": "2386857753",
+        "name": "Bisakha Das"
+      },
+      {
+        "authorId": "89790002",
+        "name": "T. Acharya"
+      },
+      {
+        "authorId": "1830948",
+        "name": "C. Goswami"
+      }
+    ],
+    "abstract": "Understanding the processes and/or the key factors involved in the formation as well as degradation of lipid droplets (LDs) within the adipocytes is of immense importance, especially in the context of health, obesity, cancer, and other diseases. While cold temperature and/or menthol (an edible cooling agent), seem to have diverse and confounding effects on obesity and/or thermogenesis, so far there is no direct evidence that specific pharmacological modulation of the Transient Receptor Potential cation channel subfamily Melastatin member 8 (TRPM8), a cold-temperature-activated ion channel, can indeed affect LD status within the mature adipocytes. Here, we used highly specific antagonists and agonists of TRPM8 to modulate TRPM8 in cultured adipocyte cells in vitro and monitored the expression of TRPM8 as well as other adipogenic functions. Our results indicate that specific activation of TRPM8 in mature adipocytes by a specific agonist, that is, WS12 ((1R∗,2S∗)-N-(4-methoxyphenyl)-5-methyl-2-(1-methylethyl)cyclohexanecarboxamide), results in increased expression of PPARγ protein. However, TRPM8 inhibition by N-(3-aminopropyl)-2-[(3-methylphenyl)methoxy]-N-(2-thienylmethyl)benzamidehydrochloride results in no change in the PPARγ expression, yet causes decreased Oil Red O intensity, a reduction in LD sizes, and an increase in LD numbers. BODIPY (4,4-difluoro-1,3,5,7,8-pentamethyl-4-bora-3a,4a-diaza-s-indacene) labeling in live cells also suggests the same findings. Altogether, data suggest that in the absence of any confounding factors, specific inhibition of TRPM8 results in either less fusion of LDs or enhanced fragmentation of LDs in vitro. These findings may have broad implications in the field of adipogenesis and in cancer."
+  },
+  {
+    "paperId": "55494ca3ebaad73da184398a741a4f4bd9a5901d",
+    "externalIds": {
+      "PubMedCentral": "10762002",
+      "DOI": "10.1038/s41467-023-44559-3",
+      "CorpusId": 266744726,
+      "PubMed": "38167864"
+    },
+    "title": "ApoL6 associates with lipid droplets and disrupts Perilipin1-HSL interaction to inhibit lipolysis",
+    "venue": "Nature Communications",
+    "year": 2024,
+    "citationCount": 27,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "https://www.nature.com/articles/s41467-023-44559-3.pdf",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10762002, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2277681204",
+        "name": "Yuhui Wang"
+      },
+      {
+        "authorId": "144736097",
+        "name": "Hai P. Nguyen"
+      },
+      {
+        "authorId": "9897722",
+        "name": "Pengya Xue"
+      },
+      {
+        "authorId": "2149182638",
+        "name": "Ying Xie"
+      },
+      {
+        "authorId": "1434759283",
+        "name": "Danielle Yi"
+      },
+      {
+        "authorId": "1486610389",
+        "name": "Frances Lin"
+      },
+      {
+        "authorId": "1434758536",
+        "name": "Jennie Dinh"
+      },
+      {
+        "authorId": "8576458",
+        "name": "J. Viscarra"
+      },
+      {
+        "authorId": "35643528",
+        "name": "Nnejiuwa U Ibe"
+      },
+      {
+        "authorId": "2247588300",
+        "name": "R. E. Duncan"
+      },
+      {
+        "authorId": "3721281",
+        "name": "H. Sul"
+      }
+    ],
+    "abstract": "Lipolysis in adipose tissue releases fatty acids during fasting. Here, authors show that ApoL6, a lipid droplet-associated protein, is specifically expressed in adipocytes upon feeding to inhibit lipolysis by directly interacting with Perilipin 1 to competitively inhibit Perilipin 1-HSL interaction. Adipose tissue stores triacylglycerol (TAG) in lipid droplets (LD) and release fatty acids upon lipolysis during energy shortage. We identify ApoL6 as a LD-associated protein mainly found in adipose tissue, specifically in adipocytes. ApoL6 expression is low during fasting but induced upon feeding. ApoL6 knockdown results in smaller LD with lower TAG content in adipocytes, while ApoL6 overexpression causes larger LD with higher TAG content. We show that the ApoL6 affects adipocytes through inhibition of lipolysis. While ApoL6, Perilipin 1 (Plin1), and HSL can form a complex on LD, C-terminal ApoL6 directly interacts with N-terminal Plin1 to prevent Plin1 binding to HSL, to inhibit lipolysis. Thus, ApoL6 ablation decreases white adipose tissue mass, protecting mice from diet-induced obesity, while ApoL6 overexpression in adipose brings obesity and insulin resistance, making ApoL6 a potential future target against obesity and diabetes."
+  },
+  {
+    "paperId": "4b99dbd3dac66fec8bdd1a19ee034a44e24bda03",
+    "externalIds": {
+      "DOI": "10.1146/annurev-cellbio-012624-031419",
+      "CorpusId": 273051373,
+      "PubMed": "39356808"
+    },
+    "title": "Lipid Droplets Big and Small: Basic Mechanisms That Make Them All.",
+    "venue": "Annual Review of Cell and Developmental Biology",
+    "year": 2024,
+    "citationCount": 26,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1146/annurev-cellbio-012624-031419?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1146/annurev-cellbio-012624-031419, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2283123933",
+        "name": "Robin W. Klemm"
+      },
+      {
+        "authorId": "2323922297",
+        "name": "P. Carvalho"
+      }
+    ],
+    "abstract": "Lipid droplets (LDs) are dynamic storage organelles with central roles in lipid and energy metabolism. They consist of a core of neutral lipids, such as triacylglycerol, which is surrounded by a monolayer of phospholipids and specialized surface proteins. The surface composition determines many of the LD properties, such as size, subcellular distribution, and interaction with partner organelles. Considering the diverse energetic and metabolic demands of various cell types, it is not surprising that LDs are highly heterogeneous within and between cell types. Despite their diversity, all LDs share a common biogenesis mechanism. However, adipocytes have evolved specific adaptations of these basic mechanisms, enabling the regulation of lipid and energy metabolism at both the cellular and organismal levels. Here, we discuss recent advances in the understanding of both the general mechanisms of LD biogenesis and the adipocyte-specific adaptations controlling these fascinating organelles."
+  },
+  {
+    "paperId": "11311b6d73636b9fd6befbbbc0af4845627b5fb2",
+    "externalIds": {
+      "MAG": "2074091417",
+      "DOI": "10.1016/j.bbadis.2013.05.007",
+      "CorpusId": 26496740,
+      "PubMed": "23688782"
+    },
+    "title": "Role of adipose specific lipid droplet proteins in maintaining whole body energy homeostasis.",
+    "venue": "Biochimica et Biophysica Acta",
+    "year": 2014,
+    "citationCount": 134,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1016/j.bbadis.2013.05.007",
+      "status": "BRONZE",
+      "license": "publisher-specific-oa",
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.bbadis.2013.05.007?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.bbadis.2013.05.007, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "15231599",
+        "name": "Manige Konige"
+      },
+      {
+        "authorId": "1721146",
+        "name": "Hong Wang"
+      },
+      {
+        "authorId": "5423887",
+        "name": "C. Sztalryd"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "32bafd55520c761446d2c735a1d2881d630f4f40",
+    "externalIds": {
+      "MAG": "2738698772",
+      "PubMedCentral": "5534431",
+      "DOI": "10.1038/s41467-017-00215-1",
+      "CorpusId": 3296274,
+      "PubMed": "28757615"
+    },
+    "title": "RORα controls hepatic lipid homeostasis via negative regulation of PPARγ transcriptional network",
+    "venue": "Nature Communications",
+    "year": 2017,
+    "citationCount": 120,
+    "influentialCitationCount": 3,
+    "openAccessPdf": {
+      "url": "https://www.nature.com/articles/s41467-017-00215-1.pdf",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5534431, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "4708517",
+        "name": "Kyeongkyu Kim"
+      },
+      {
+        "authorId": "47227303",
+        "name": "Kyungjin Boo"
+      },
+      {
+        "authorId": "12134771",
+        "name": "Y. Yu"
+      },
+      {
+        "authorId": "50364493",
+        "name": "S. Oh"
+      },
+      {
+        "authorId": "8186441",
+        "name": "Hyunkyung Kim"
+      },
+      {
+        "authorId": "152658610",
+        "name": "Yoon Jeon"
+      },
+      {
+        "authorId": "4788422",
+        "name": "J. Bhin"
+      },
+      {
+        "authorId": "2240867",
+        "name": "D. Hwang"
+      },
+      {
+        "authorId": "2168606822",
+        "name": "K. I. Kim"
+      },
+      {
+        "authorId": "2108517942",
+        "name": "Jun-Su Lee"
+      },
+      {
+        "authorId": "2149872469",
+        "name": "S. Im"
+      },
+      {
+        "authorId": "7748477",
+        "name": "S. Yoon"
+      },
+      {
+        "authorId": "2219391781",
+        "name": "I. Kim"
+      },
+      {
+        "authorId": "4274717",
+        "name": "J. Seong"
+      },
+      {
+        "authorId": "1697078",
+        "name": "Ho Lee"
+      },
+      {
+        "authorId": "50089455",
+        "name": "S. Fang"
+      },
+      {
+        "authorId": "34728634",
+        "name": "S. H. Baek"
+      }
+    ],
+    "abstract": "The retinoic acid receptor-related orphan receptor-α (RORα) is an important regulator of various biological processes, including cerebellum development, circadian rhythm and cancer. Here, we show that hepatic RORα controls lipid homeostasis by negatively regulating transcriptional activity of peroxisome proliferators-activated receptor-γ (PPARγ) that mediates hepatic lipid metabolism. Liver-specific Rorα-deficient mice develop hepatic steatosis, obesity and insulin resistance when challenged with a high-fat diet (HFD). Global transcriptome analysis reveals that liver-specific deletion of Rorα leads to the dysregulation of PPARγ signaling and increases hepatic glucose and lipid metabolism. RORα specifically binds and recruits histone deacetylase 3 (HDAC3) to PPARγ target promoters for the transcriptional repression of PPARγ. PPARγ antagonism restores metabolic homeostasis in HFD-fed liver-specific Rorα deficient mice. Our data indicate that RORα has a pivotal role in the regulation of hepatic lipid homeostasis. Therapeutic strategies designed to modulate RORα activity may be beneficial for the treatment of metabolic disorders. Hepatic steatosis development may result from dysregulation of lipid metabolism, which is finely tuned by several transcription factors including the PPAR family. Here Kim et al. show that the nuclear receptor RORα inhibits PPARγ-mediated transcriptional activity by interacting with HDAC3 and competing for the promoters of lipogenic genes."
+  },
+  {
+    "paperId": "0ff49de089c8594677f1e504313d10e21f06cd83",
+    "externalIds": {
+      "PubMedCentral": "12127559",
+      "DOI": "10.1016/j.jlr.2025.100790",
+      "CorpusId": 277547651,
+      "PubMed": "40180216"
+    },
+    "title": "Diet-induced obesity dampens the temporal oscillation of hepatic mitochondrial lipids",
+    "venue": "Journal of Lipid Research",
+    "year": 2025,
+    "citationCount": 1,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12127559, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2312288299",
+        "name": "Rashi Jain"
+      },
+      {
+        "authorId": "1623900902",
+        "name": "Rajprabu Rajendran"
+      },
+      {
+        "authorId": "2678327",
+        "name": "Sona Rajakumari"
+      }
+    ],
+    "abstract": "Mitochondria play a pivotal role in energy homeostasis and regulate several metabolic pathways. The inner and outer membrane of mitochondria comprises unique lipid composition and proteins that are essential to form electron transport chain complexes, orchestrate oxidative phosphorylation, β-oxidation, ATP synthesis, etc. As known, diet-induced obesity affects mitochondrial function, dynamics, and mitophagy, which are governed by circadian clock machinery. Though DIO impairs the interplay between circadian oscillation and lipid metabolism, the impact of DIO on mitochondrial membrane lipid composition and their temporal oscillation is unknown. Thus, we investigated the diurnal oscillation of liver mitochondrial lipidome at various Zeitgeber times using quantitative lipidomics. Our data suggested that obesity disrupted lipid accumulation profiles and diminished the oscillating lipid species in the hepatic mitochondria. Strikingly, HFD manifested a more homogenous temporal oscillation pattern in phospholipids regardless of possessing different fatty acyl-chain lengths and degrees of unsaturation. In particular, DIO impaired the circadian rhythmicity of phosphatidyl ethanolamine, phosphatidyl choline, phosphatidyl serine, and ether-linked phosphatidyl ethanolamine. Also, DIO altered the rhythmic profile of PE/PC, ePE/PC, PS/PC ratio, and key proteins related to mitochondrial function, dynamics, and quality control. Since HFD dampened lipid oscillation, we examined whether the diurnal oscillation of mitochondrial lipids synchronized with mitochondrial function. Also, our data emphasized that acrophase of mitochondrial lipids synchronized with increased oxygen consumption rate and Parkin levels at ZT16 in chow-fed mice. Our study revealed that obesity altered the mitochondrial lipid composition and hampered the rhythmicity of mitochondrial lipids, oxygen consumption rate, and Parkin levels in the liver."
+  },
+  {
+    "paperId": "98f61ec46c14f11d3bdf5a879fbc61e7600eafa4",
+    "externalIds": {
+      "DOI": "10.1152/ajpgi.00272.2025",
+      "CorpusId": 281680215,
+      "PubMed": "41021735"
+    },
+    "title": "Pioglitazone Reduces Hepatic Alpha-1 Antitrypsin Accumulation Through Autophagy and AMPK Activation in Alpha-1 Antitrypsin Deficient Mice.",
+    "venue": "American Journal of Physiology - Gastrointestinal and Liver Physiology",
+    "year": 2025,
+    "citationCount": 1,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1152/ajpgi.00272.2025?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1152/ajpgi.00272.2025, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2257830203",
+        "name": "Yuanqing Lu"
+      },
+      {
+        "authorId": "12146948",
+        "name": "Regina A Oshins"
+      },
+      {
+        "authorId": "32716772",
+        "name": "Nesmine R. Maptue"
+      },
+      {
+        "authorId": "2333090263",
+        "name": "Qingyang Shen"
+      },
+      {
+        "authorId": "5916837",
+        "name": "C. Khemtong"
+      },
+      {
+        "authorId": "50287124",
+        "name": "K. Cusi"
+      },
+      {
+        "authorId": "2237998174",
+        "name": "M. Brantly"
+      },
+      {
+        "authorId": "8304168",
+        "name": "N. Khodayari"
+      }
+    ],
+    "abstract": "Background: Alpha-1 antitrypsin deficiency (AATD) is a genetic disorder characterized by accumulation of misfolded Z α-1 antitrypsin (ZAAT) in hepatocytes, leading to liver injury and metabolic dysfunction. There is no therapy to reduce ZAAT accumulation and restore proteostasis. Pioglitazone activates AMP-activated protein kinase (AMPK), enhance autophagy, and modulate ER stress responses, suggesting a potential effect on ZAAT clearance. Our objective is to examine whether pioglitazone can protect against AATD-mediated liver disease. Methods: Huh7.5 cells expressing ZAAT (HuhZ) and Pi*Z transgenic mice were used to investigate pioglitazone treatment on hepatic ZAAT accumulation, autophagy activation, and AMPK signaling. Histological, molecular, and metabolic analyses were conducted to assess changes in ZAAT content, autophagy markers, AMPK phosphorylation, and proteostasis. Results: Pioglitazone significantly reduced intracellular ZAAT and decreased lipid droplet accumulation in HuhZ cells. Pioglitazone markedly lowered hepatic ZAAT content in Pi*Z mice, suggesting enhanced degradation. This reduction was mediated through the AMPK pathway, indicated by increased phosphorylation of AMPK and ULK1. Pioglitazone induced autophagy, shown by decreased p62 and increased ATG5 and LC3B-II. This is indicative of enhanced autophagy. Although total hepatic AAT levels were reduced, PASD-positive ZAAT aggregates exhibited only a downward trend, suggesting these may be more resistant to clearance. Conclusion: These findings demonstrate pioglitazone reduces hepatic ZAAT accumulation by activating AMPK and inducing autophagy in AATD-associated liver disease, supporting its potential for therapeutic repurposing. As pioglitazone is FDA-approved with benefits for metabolic liver health, further studies are warranted to evaluate efficacy in restoring proteostasis and reducing hepatic ZAAT."
+  },
+  {
+    "paperId": "357dd1f4c09021571e64b4b660e623bb33e74b09",
+    "externalIds": {
+      "MAG": "2019794937",
+      "DOI": "10.1111/liv.12600",
+      "CorpusId": 31436547,
+      "PubMed": "24845341"
+    },
+    "title": "Reduced hepatic lipid content in Pten‐haplodeficient mice because of enhanced AKT2/PKBβ activation in skeletal muscle",
+    "venue": "Liver international (Print)",
+    "year": 2015,
+    "citationCount": 3,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/liv.12600?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/liv.12600, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "16343645",
+        "name": "S. Schultze"
+      },
+      {
+        "authorId": "48227041",
+        "name": "M. Dietrich"
+      },
+      {
+        "authorId": "4912207",
+        "name": "Debby Hynx"
+      },
+      {
+        "authorId": "3331744",
+        "name": "A. Geier"
+      },
+      {
+        "authorId": "3185944",
+        "name": "M. Niessen"
+      },
+      {
+        "authorId": "3159774",
+        "name": "G. Spinas"
+      },
+      {
+        "authorId": "2384507",
+        "name": "B. Hemmings"
+      },
+      {
+        "authorId": "6678145",
+        "name": "O. Tschopp"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "3caf1913e996123e570530242c99998a7ef1509b",
+    "externalIds": {
+      "PubMedCentral": "12226801",
+      "DOI": "10.1016/j.livres.2025.04.002",
+      "CorpusId": 277742990,
+      "PubMed": "40620504"
+    },
+    "title": "Nanoparticle-based therapeutic strategies for chronic liver diseases: Advances and insights",
+    "venue": "Liver Research",
+    "year": 2025,
+    "citationCount": 8,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12226801, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2165029318",
+        "name": "Sathiyamoorthy Padmanaban"
+      },
+      {
+        "authorId": "2355096293",
+        "name": "Ji-Won Baek"
+      },
+      {
+        "authorId": "2355120654",
+        "name": "Sai Sahithya Chamarthy"
+      },
+      {
+        "authorId": "134704355",
+        "name": "S. Chandrasekaran"
+      },
+      {
+        "authorId": "2267132462",
+        "name": "A. Samrot"
+      },
+      {
+        "authorId": "2231107563",
+        "name": "Vijayakumar Gosu"
+      },
+      {
+        "authorId": "2287642192",
+        "name": "In-Kyu Park"
+      },
+      {
+        "authorId": "1477730764",
+        "name": "K. Radhakrishnan"
+      },
+      {
+        "authorId": "80743266",
+        "name": "Don-Kyu Kim"
+      }
+    ],
+    "abstract": "The liver is pivotal in protein synthesis, glucose and lipid metabolism, and detoxification. However, the liver is susceptible to both acute and chronic disorders, with chronic conditions being fatal. Chronic liver diseases (CLDs), such as liver fibrosis, which usually represents the early manifestation of cirrhosis, primarily result from hepatitis B and C viruses infections, metabolic disorders, alcohol abuse, immune-mediated attacks, and cholestatic injury. The progression of liver fibrosis contributes to the development of cirrhosis, which can further lead to hepatocellular carcinoma, portal hypertension, hepatic decompensation, and hepatic encephalopathy. The extracellular matrix deposition over time leading the hepatocyte necrosis (cirrhosis) is the main structural feature of CLDs and may cause hepatic failure. Certain conditions, such as hepatitis and autoimmune diseases, may promote the rapid deterioration of liver function. Acute and chronic liver failure causes may vary, with early referral for liver transplantation improving the chance of recovery. The healthcare system need improvements to manage patients with non-alcoholic fatty liver disease and alcoholic fatty liver disease, as they have the potential to progress to cirrhosis. Both conditions involve the release of reactive oxygen species and damage-associated molecular patterns from cytokines, hepatic stellate cells, and hepatocyte autophagy, leading to prolonged inflammation. While various medications target fibrosis and liver damage, nanoparticle-based drug delivery systems offer additional promise by promoting faster liver regeneration. This review provides a comprehensive overview of the potential of nanoparticle systems as a future therapeutic approach for treating liver disorders."
+  },
+  {
+    "paperId": "737b3dce9b7e339fbb02001d20fb79d0058aa5a9",
+    "externalIds": {
+      "DOI": "10.1186/s43066-025-00452-w",
+      "CorpusId": 280930282
+    },
+    "title": "Role of natural compounds in non-alcoholic fatty liver diseases (NAFLD): a mechanistic approach",
+    "venue": "Egyptian Liver Journal",
+    "year": 2025,
+    "citationCount": 4,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1186/s43066-025-00452-w?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1186/s43066-025-00452-w, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": null,
+    "authors": [
+      {
+        "authorId": "2308733035",
+        "name": "Pranay Wal"
+      },
+      {
+        "authorId": "2331764311",
+        "name": "S. Yadav"
+      },
+      {
+        "authorId": "2284756750",
+        "name": "Sajal Kumar Jha"
+      },
+      {
+        "authorId": "2385601815",
+        "name": "Akanksha Singh"
+      },
+      {
+        "authorId": "2409363690",
+        "name": "B. Bhargavi"
+      },
+      {
+        "authorId": "2377650448",
+        "name": "Rekha Shivaram"
+      },
+      {
+        "authorId": "2377614393",
+        "name": "Mohd Imran"
+      },
+      {
+        "authorId": "144428115",
+        "name": "Namra Aziz"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "832d2190bd82ac5677e4e1336ff991d5df2f8b70",
+    "externalIds": {
+      "MAG": "2531513864",
+      "DOI": "10.1172/JCI86013",
+      "CorpusId": 21051297,
+      "PubMed": "27760050"
+    },
+    "title": "Insulin receptor Thr1160 phosphorylation mediates lipid-induced hepatic insulin resistance.",
+    "venue": "Journal of Clinical Investigation",
+    "year": 2016,
+    "citationCount": 191,
+    "influentialCitationCount": 4,
+    "openAccessPdf": {
+      "url": "http://www.jci.org/articles/view/86013/files/pdf",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1172/JCI86013?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1172/JCI86013, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "5603468",
+        "name": "Max C. Petersen"
+      },
+      {
+        "authorId": "5009008",
+        "name": "A. Madiraju"
+      },
+      {
+        "authorId": "5410695",
+        "name": "Brandon M. Gassaway"
+      },
+      {
+        "authorId": "29670769",
+        "name": "Michael J. Marcel"
+      },
+      {
+        "authorId": "4439314",
+        "name": "A. Nasiri"
+      },
+      {
+        "authorId": "5752041",
+        "name": "G. Butrico"
+      },
+      {
+        "authorId": "32144601",
+        "name": "Melissa J. Marcucci"
+      },
+      {
+        "authorId": "2706632",
+        "name": "Dongyan Zhang"
+      },
+      {
+        "authorId": "12584049",
+        "name": "Abudukadier Abulizi"
+      },
+      {
+        "authorId": "152899187",
+        "name": "Xian‐Man Zhang"
+      },
+      {
+        "authorId": "4007486",
+        "name": "W. Philbrick"
+      },
+      {
+        "authorId": "34863469",
+        "name": "S. Hubbard"
+      },
+      {
+        "authorId": "34688689",
+        "name": "M. Jurczak"
+      },
+      {
+        "authorId": "3610998",
+        "name": "V. Samuel"
+      },
+      {
+        "authorId": "3295744",
+        "name": "J. Rinehart"
+      },
+      {
+        "authorId": "1856502",
+        "name": "G. Shulman"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "2e1b4bfb9687e54d29a42975a95a79e44098e2ba",
+    "externalIds": {
+      "PubMedCentral": "11954105",
+      "DOI": "10.1016/j.jlr.2025.100757",
+      "CorpusId": 276382755,
+      "PubMed": "39952566"
+    },
+    "title": "Liver specific transgenic expression of CYP7B1 attenuates early western diet-induced MASLD progression",
+    "venue": "Journal of Lipid Research",
+    "year": 2025,
+    "citationCount": 6,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11954105, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "3998660",
+        "name": "Genta Kakiyama"
+      },
+      {
+        "authorId": "2221987629",
+        "name": "Nanah Bai-Kamara"
+      },
+      {
+        "authorId": "1401708020",
+        "name": "D. Rodriguez-Agudo"
+      },
+      {
+        "authorId": "144624244",
+        "name": "H. Takei"
+      },
+      {
+        "authorId": "34647464",
+        "name": "K. Minowa"
+      },
+      {
+        "authorId": "2312209567",
+        "name": "Michael Fuchs"
+      },
+      {
+        "authorId": "5454067",
+        "name": "S. Biddinger"
+      },
+      {
+        "authorId": "2300012321",
+        "name": "Jolene Windle"
+      },
+      {
+        "authorId": "3851891",
+        "name": "M. Subler"
+      },
+      {
+        "authorId": "2258233064",
+        "name": "Tsuyoshi Murai"
+      },
+      {
+        "authorId": "2266717678",
+        "name": "Mitsuyoshi Suzuki"
+      },
+      {
+        "authorId": "2238871101",
+        "name": "Hiroshi Nittono"
+      },
+      {
+        "authorId": "2282909422",
+        "name": "Arun Sanyal"
+      },
+      {
+        "authorId": "6905017",
+        "name": "W. Pandak"
+      }
+    ],
+    "abstract": "Effect of liver specific oxysterol 7α-hydroxylase (CYP7B1) overexpression on the Western diet (WD)-induced metabolic dysfunction-associated steatotic liver disease (MASLD) progression was studied in mice. Among various hepatic genes impacted during MASLD development, CYP7B1 is consistently suppressed in multiple MASLD mouse models and in human MASLD cohorts. CYP7B1 enzyme suppression leads to accumulations of bioactive oxysterols such as (25R)26-hydroxycholesterol (26HC) and 25-hydroxycholesterol (25HC). We challenged liver specific CYP7B1 transgenic (CYP7B1hep.tg) overexpressing mice with ad libitum WD feeding. Unlike their WT counterparts, WD-fed CYP7B1hep.tg mice developed no significant hepatotoxicity as evidenced by liver histology, lipid quantifications, and serum biomarker analyses. Hepatic 26HC and 25HC levels were maintained at the basal levels. The comparative gene expression/lipidomic analyses between WT and CYP7B1hep.tg mice revealed that chronically accumulated 26HC initiates LXR/PPAR-mediated hepatic fatty acid uptake and lipogenesis which surpasses fatty acid metabolism and export; compromising metabolic functions. In addition, major pathways related to oxidative stress, inflammation, and immune system including retinol metabolism, arachidonic acid metabolism, and linoleic acid metabolism were significantly impacted in the WD-fed WT mice. All pathways were unaltered in CYP7B1hep.tg mice liver. Furthermore, the nucleus of WT mouse liver but not of CYP7B1hep.tg mouse liver accumulated 26HC and 25HC in response to WD. These data strongly suggested that these two oxysterols are specifically important in nuclear transcriptional regulation for the described cytotoxic pathways. In conclusion, this study represents a “proof-of-concept” that maintaining normal mitochondrial cholesterol metabolism with hepatic CYP7B1 expression prevents oxysterol-driven liver toxicity; thus attenuating MASLD progression."
+  },
+  {
+    "paperId": "4c6410338f3a0f584972d76d3c4a792dceb74289",
+    "externalIds": {
+      "PubMedCentral": "12448102",
+      "DOI": "10.2147/HMER.S546200",
+      "CorpusId": 281354623,
+      "PubMed": "40977927"
+    },
+    "title": "Linking Brain and Immune Transcriptomes to Gut-Derived Metabolites in Hepatic Encephalopathy: An Explorative Integrative Multi-Omics Approach",
+    "venue": "Hepatic Medicine : Evidence and Research",
+    "year": 2025,
+    "citationCount": 0,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": "CCBYNC",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12448102, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "1556898086",
+        "name": "A. Sepehrinezhad"
+      },
+      {
+        "authorId": "2265788210",
+        "name": "Ali Shahbazi"
+      }
+    ],
+    "abstract": "Purpose Hepatic encephalopathy (HE), one of the more important cerebral complications attributable to acute liver failure and more severe forms, has traditionally been associated with hyperammonemia. However, recent studies implicate gut microbiota-derived metabolites in HE pathogenesis through systemic inflammation and neurotoxicity. Despite this, the integrated molecular mechanisms linking these metabolites to HE remains poorly described. This study addresses this gap by employing a bioinformatics-based systems biology approach to identify interactions between gut metabolites and host genes, thereby identifying novel diagnostic and therapeutic targets. Methods Differentially expressed genes (DEGs) from peripheral (GSE184200: CD4+ T lymphocytes) and central (GSE57193: fusiform gyrus) tissues of HE patients were analyzed using GEO2R. Genes associated with five gut microbiota-derived metabolites including choline metabolites, lipid metabolites, short-chain fatty acids, tryptophan catabolites, and secondary bile acids were extracted from GeneCards. Overlapping genes between HE-related genes and gut-derived metabolites were then subjected to multi-level enrichment analyses (pathway, phenotype, cell type, and cellular component), and miRNA/drug prediction using Enrichr and ToppGene. Results We identified nine hub genes related to gut-systemic interactions and 29 hub genes associated with gut-brain interactions in the context of HE. The most significantly impaired pathways were signaling by interleukin 24 and TP53, as well as oxidative stress, which were affected by gut metabolites and peripheral HE-related genes. Similarly, mitochondrial fatty acid β-oxidation, neuroinflammation, and glutamate tone were significantly altered by gut metabolites and central HE-related genes. Additionally, we predicted 18 miRNAs and 13 potential drugs that target both gut microbiota metabolites and HE. Conclusion This study offers the first systems-level framework connecting gut-derived metabolites to HE through gene networks, challenging the ammonia-centric viewpoint. The predicted miRNAs and drugs offer translational potential for precision medicine in HE. Experimental validation of these targets is required to advance therapeutic strategies."
+  },
+  {
+    "paperId": "0b201c8d0d1e5b02ec1b9dd7402d5787ec53e446",
+    "externalIds": {
+      "PubMedCentral": "12529500",
+      "DOI": "10.1016/j.livres.2025.09.001",
+      "CorpusId": 281211135,
+      "PubMed": "41112516"
+    },
+    "title": "Innate immune cell LXR-β deficiency exacerbates hepatic injury and fibrosis in murine models of primary sclerosing cholangitis",
+    "venue": "Liver Research",
+    "year": 2025,
+    "citationCount": 0,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12529500, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2265724876",
+        "name": "Xiaohui Fang"
+      },
+      {
+        "authorId": "2329100105",
+        "name": "Yang Zhang"
+      },
+      {
+        "authorId": "2124946757",
+        "name": "Junyao Wang"
+      },
+      {
+        "authorId": "2266079394",
+        "name": "Yu Zhang"
+      },
+      {
+        "authorId": "2279538181",
+        "name": "Ziliang Ke"
+      },
+      {
+        "authorId": "2341569464",
+        "name": "Yiken Lin"
+      },
+      {
+        "authorId": "2212996263",
+        "name": "Fangyuan Cong"
+      },
+      {
+        "authorId": "2369612722",
+        "name": "Feng Zhang"
+      },
+      {
+        "authorId": "49639960",
+        "name": "Jianhua Zhou"
+      },
+      {
+        "authorId": "2265727287",
+        "name": "Huiting Su"
+      },
+      {
+        "authorId": "2383917328",
+        "name": "Shan Cao"
+      },
+      {
+        "authorId": "2265998222",
+        "name": "Yulan Liu"
+      },
+      {
+        "authorId": "2285532389",
+        "name": "Jun Xu"
+      }
+    ],
+    "abstract": "Background and aims Primary sclerosing cholangitis (PSC) is an autoimmune liver disease characterized by complex pathogenesis and limited available therapeutic options. The mechanisms underlying the development and progression of PSCs remain unclear. Liver X receptor beta (LXR-β) is recognized to modulate lipid metabolism and immune response, but its specific involvement in the PSC has not been elucidated. Here, we explored the role and mechanism of LXR-β in PSC induced by 3, 5-diethoxycarbonyl-1, 4-dihydro-2, 4, 6-collidine (DDC). Methods CRISPR-Cas9 technology was applied to generate Abcb4 (coding MDR2, next named as Mdr2), Nr1h2 (coding LXR-β, next named as Lxrβ), and Rag2 (coding RAG2) knockout mice. DDC was used to induce PSC. Hematoxylin and eosin and Sirius red staining were used to assess the extent of hepatic injury and fibrosis. Flow cytometry was used to observe immune cell subsets. Results We observed a declining trend in hepatic Lxrβ in the PSC model. Unexpectedly, Lxrβ knockout failed to modulate DDC-induced PSC pathogenesis. Concomitantly, assessment of the influence of Rag2 deficiency on PSC progression revealed the absence of aggravated or alleviated hepatic injury or fibrosis in the Rag2−/− DDC mice. However, Lxrβ depletion intensified DDC-induced PSC in the Rag2−/− mice, with more abundant infiltrative inflammatory cells and more severe liver fibrosis. Compared with Rag2−/− DDC mice, Lxrβ−/−Rag2−/− DDC mice had higher serum ALT and AST levels and mRNA expression of proinflammatory and profibrotic genes. Flow cytometry showed that LXR-β deficiency resulted in a diminished population of hepatic innate immune cells. Conclusion This study indicated innate immune cell LXR-β deficiency can exacerbate hepatic injury and fibrosis in murine models of PSC suggesting that LXR-β may regulate the function of innate immunity in the fibrotic advancement of PSC."
+  },
+  {
+    "paperId": "016fb3d900692c75645c911dacaa8f4fae5b5728",
+    "externalIds": {
+      "DOI": "10.1016/j.prostaglandins.2025.106987",
+      "CorpusId": 277546911,
+      "PubMed": "40180281"
+    },
+    "title": "GLP-1RAs regulate lipid metabolism and induce autophagy through AMPK/SIRT1 pathway to improve NAFLD.",
+    "venue": "Prostaglandins & other lipid mediators",
+    "year": 2025,
+    "citationCount": 5,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1016/j.prostaglandins.2025.106987",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.prostaglandins.2025.106987?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.prostaglandins.2025.106987, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2292666338",
+        "name": "Qiang Zhang"
+      },
+      {
+        "authorId": "2353684696",
+        "name": "Jingyuan Wang"
+      },
+      {
+        "authorId": "2390301903",
+        "name": "Xiaojin Hu"
+      },
+      {
+        "authorId": "2397609375",
+        "name": "Wei-Peng Lu"
+      },
+      {
+        "authorId": "2331854515",
+        "name": "Yang Cao"
+      },
+      {
+        "authorId": "2292441929",
+        "name": "Chunyan Niu"
+      },
+      {
+        "authorId": "2148549138",
+        "name": "Hongqin Yue"
+      }
+    ],
+    "abstract": "BACKGROUND\nNon-alcoholic fatty liver disease (NAFLD) is a leading cause of cirrhosis and a major risk factor for hepatocellular carcinoma and liver-related death. Diabetes medications have been studied as potential treatments for NAFLD. Glucagon-like peptide-1 agonists (GLP-1RAs) have been rarely reported in the treatment of NAFLD alone as an anti-diabetic drug, and its specific mechanism of action is unknown. We investigated whether the therapeutic effect of liraglutide (LRG, a representative drug of GLP-1RAs) on hepatic steatosis is related to regulating lipid metabolism and enhancing autophagy in the hepatocytes.\n\n\nMETHODS\nWe examined the effect of LRG on fat accumulation in fatty hepatocytes, and discussed its effects on enzymes related to lipid metabolism and autophagy. Meanwhile, knockdown of SIRT1 in free fatty acids(FFA)-treated cells was used to detected the influence of LRG on lipid metabolism and autophagy by regulating of AMPK/SIRT1 signaling.\n\n\nRESULTS\nOur findings showed that free fatty acids (FFA) induced hepatocyte steatosis, which was significantly reversed by LRG. Meanwhile, LRG significantly regulated the expression of hepatocyte lipogenesis and cytosolic lipolysis-related proteins (FAS, ACC1, ATGL, HSL, LAL). Furthermore, LRG enhanced FFA-induced suppression of autophagy and SIRT1 expression, reducing intracellular lipid accumulation. It is evident that LRG regulates lipid metabolism and induces autophagy in an (AMPK)-dependent manner. Moreover, SIRT1 knockdown inhibited the autophagy-inducing and lipid-lowering effects of LRG.\n\n\nCONCLUSION\nGLP-1RAs may lower hepatic steatosis by regulating lipid metabolism and enhancing autophagy in an AMPK/SIRT1-dependent manner, providing a new target for the treatment of NAFLD."
   }
 ]

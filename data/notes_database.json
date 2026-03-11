@@ -90291,5 +90291,563 @@
     },
     "created_at": "2026-03-11T21:56:08.704335",
     "source": "Semantic Scholar (本地库)"
+  },
+  {
+    "id": 3204,
+    "title": "🔬 CDP-diacylglycerol synthases regulate the growth of lip...",
+    "author": "Lipid研究组",
+    "avatar": "🧪",
+    "likes": "4756",
+    "emoji": "🧪",
+    "gradient": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+    "protein": "Lipid",
+    "angle": "机制解析",
+    "content": "发现一篇 2016 年的真实研究！📄\n\n【论文标题】\nCDP-diacylglycerol synthases regulate the growth of lipid droplets and adipocyte development[S]\n\n【研究团队】\nY. Qi, Tamar S. Kapterian, Ximing Du et al.\n\n【发表期刊】\nJournal of Lipid Research (2016)\n\n【被引次数】49\n\n【研究摘要】\nThe expansion of lipid droplets (LDs) and the differentiation of preadipocytes are two important aspects of mammalian lipid storage. In this study, we examined the role of CDP-diacylglycerol (DAG) synthases (CDSs), encoded by CDS1 and CDS2 genes in mammals, in lipid storage. CDS enzymes catalyze the formation of CDP-DAG from phosphatidic acid (PA). Knocking down either CDS1 or CDS2 resulted in the formation of giant or supersized LDs in cultured cells. Moreover, depleting CDS1 almost completely blocked the differentiation of 3T3-L1 preadipocytes, whereas depleting CDS2 had a moderate inhibitor...\n\n【涉及蛋白】Lipid\n\n【原文链接】\nhttps://www.semanticscholar.org/paper/829e03ad032678fa979bf44d1ca08d5285538178\nPubMed: https://pubmed.ncbi.nlm.nih.gov/26946540/",
+    "tags": [
+      "#Lipid",
+      "#2016",
+      "#JournalofLipi"
+    ],
+    "date": "03-11",
+    "location": "上海",
+    "paper": {
+      "title": "CDP-diacylglycerol synthases regulate the growth of lipid droplets and adipocyte development[S]",
+      "authors": "Y. Qi, Tamar S. Kapterian, Ximing Du et al.",
+      "journal": "Journal of Lipid Research",
+      "year": 2016,
+      "doi": "10.1194/jlr.M060574",
+      "pmid": "26946540",
+      "paperId": "829e03ad032678fa979bf44d1ca08d5285538178",
+      "citationCount": 49
+    },
+    "created_at": "2026-03-11T21:56:20.355418",
+    "source": "Semantic Scholar (本地库)"
+  },
+  {
+    "id": 3205,
+    "title": "🔬 Role of adipose specific lipid droplet proteins in main...",
+    "author": "Lipid研究组",
+    "avatar": "🧪",
+    "likes": "4725",
+    "emoji": "🧪",
+    "gradient": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+    "protein": "Lipid",
+    "angle": "机制解析",
+    "content": "发现一篇 2014 年的真实研究！📄\n\n【论文标题】\nRole of adipose specific lipid droplet proteins in maintaining whole body energy homeostasis.\n\n【研究团队】\nManige Konige, Hong Wang, C. Sztalryd\n\n【发表期刊】\nBiochimica et Biophysica Acta (2014)\n\n【被引次数】134\n\n【研究摘要】\nNo abstract available\n\n【涉及蛋白】Lipid\n\n【原文链接】\nhttps://www.semanticscholar.org/paper/11311b6d73636b9fd6befbbbc0af4845627b5fb2\nPubMed: https://pubmed.ncbi.nlm.nih.gov/23688782/",
+    "tags": [
+      "#Lipid",
+      "#2014",
+      "#BiochimicaetB"
+    ],
+    "date": "03-11",
+    "location": "上海",
+    "paper": {
+      "title": "Role of adipose specific lipid droplet proteins in maintaining whole body energy homeostasis.",
+      "authors": "Manige Konige, Hong Wang, C. Sztalryd",
+      "journal": "Biochimica et Biophysica Acta",
+      "year": 2014,
+      "doi": "10.1016/j.bbadis.2013.05.007",
+      "pmid": "23688782",
+      "paperId": "11311b6d73636b9fd6befbbbc0af4845627b5fb2",
+      "citationCount": 134
+    },
+    "created_at": "2026-03-11T21:56:20.355451",
+    "source": "Semantic Scholar (本地库)"
+  },
+  {
+    "id": 3206,
+    "title": "💊 Lipid Droplets Big and Small: Basic Mechanisms That Mak...",
+    "author": "Lipid研究组",
+    "avatar": "🧪",
+    "likes": "5335",
+    "emoji": "🧪",
+    "gradient": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+    "protein": "Lipid",
+    "angle": "临床意义",
+    "content": "发现一篇 2024 年的真实研究！📄\n\n【论文标题】\nLipid Droplets Big and Small: Basic Mechanisms That Make Them All.\n\n【研究团队】\nRobin W. Klemm, P. Carvalho\n\n【发表期刊】\nAnnual Review of Cell and Developmental Biology (2024)\n\n【被引次数】26\n\n【研究摘要】\nLipid droplets (LDs) are dynamic storage organelles with central roles in lipid and energy metabolism. They consist of a core of neutral lipids, such as triacylglycerol, which is surrounded by a monolayer of phospholipids and specialized surface proteins. The surface composition determines many of the LD properties, such as size, subcellular distribution, and interaction with partner organelles. Considering the diverse energetic and metabolic demands of various cell types, it is not surprising that LDs are highly heterogeneous within and between cell types. Despite their diversity, all LDs sha...\n\n【涉及蛋白】Lipid\n\n【原文链接】\nhttps://www.semanticscholar.org/paper/4b99dbd3dac66fec8bdd1a19ee034a44e24bda03\nPubMed: https://pubmed.ncbi.nlm.nih.gov/39356808/",
+    "tags": [
+      "#Lipid",
+      "#2024",
+      "#AnnualReviewo"
+    ],
+    "date": "03-11",
+    "location": "北京",
+    "paper": {
+      "title": "Lipid Droplets Big and Small: Basic Mechanisms That Make Them All.",
+      "authors": "Robin W. Klemm, P. Carvalho",
+      "journal": "Annual Review of Cell and Developmental Biology",
+      "year": 2024,
+      "doi": "10.1146/annurev-cellbio-012624-031419",
+      "pmid": "39356808",
+      "paperId": "4b99dbd3dac66fec8bdd1a19ee034a44e24bda03",
+      "citationCount": 26
+    },
+    "created_at": "2026-03-11T21:56:20.355483",
+    "source": "Semantic Scholar (本地库)"
+  },
+  {
+    "id": 3207,
+    "title": "💊 RORα controls hepatic lipid homeostasis via negative re...",
+    "author": "Lipid研究组",
+    "avatar": "🧪",
+    "likes": "328",
+    "emoji": "🧪",
+    "gradient": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+    "protein": "Lipid",
+    "angle": "临床意义",
+    "content": "发现一篇 2017 年的真实研究！📄\n\n【论文标题】\nRORα controls hepatic lipid homeostasis via negative regulation of PPARγ transcriptional network\n\n【研究团队】\nKyeongkyu Kim, Kyungjin Boo, Y. Yu et al.\n\n【发表期刊】\nNature Communications (2017)\n\n【被引次数】120\n\n【研究摘要】\nThe retinoic acid receptor-related orphan receptor-α (RORα) is an important regulator of various biological processes, including cerebellum development, circadian rhythm and cancer. Here, we show that hepatic RORα controls lipid homeostasis by negatively regulating transcriptional activity of peroxisome proliferators-activated receptor-γ (PPARγ) that mediates hepatic lipid metabolism. Liver-specific Rorα-deficient mice develop hepatic steatosis, obesity and insulin resistance when challenged with a high-fat diet (HFD). Global transcriptome analysis reveals that liver-specific deletion of Rorα ...\n\n【涉及蛋白】Lipid\n\n【原文链接】\nhttps://www.semanticscholar.org/paper/32bafd55520c761446d2c735a1d2881d630f4f40\nPubMed: https://pubmed.ncbi.nlm.nih.gov/28757615/",
+    "tags": [
+      "#Lipid",
+      "#2017",
+      "#NatureCommunic"
+    ],
+    "date": "03-11",
+    "location": "南京",
+    "paper": {
+      "title": "RORα controls hepatic lipid homeostasis via negative regulation of PPARγ transcriptional network",
+      "authors": "Kyeongkyu Kim, Kyungjin Boo, Y. Yu et al.",
+      "journal": "Nature Communications",
+      "year": 2017,
+      "doi": "10.1038/s41467-017-00215-1",
+      "pmid": "28757615",
+      "paperId": "32bafd55520c761446d2c735a1d2881d630f4f40",
+      "citationCount": 120
+    },
+    "created_at": "2026-03-11T21:56:20.355529",
+    "source": "Semantic Scholar (本地库)"
+  },
+  {
+    "id": 3208,
+    "title": "💊 Pioglitazone Reduces Hepatic Alpha-1 Antitrypsin Accumu...",
+    "author": "Lipid研究组",
+    "avatar": "🧪",
+    "likes": "908",
+    "emoji": "🧪",
+    "gradient": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
+    "protein": "Lipid",
+    "angle": "临床意义",
+    "content": "发现一篇 2025 年的真实研究！📄\n\n【论文标题】\nPioglitazone Reduces Hepatic Alpha-1 Antitrypsin Accumulation Through Autophagy and AMPK Activation in Alpha-1 Antitrypsin Deficient Mice.\n\n【研究团队】\nYuanqing Lu, Regina A Oshins, Nesmine R. Maptue et al.\n\n【发表期刊】\nAmerican Journal of Physiology - Gastrointestinal and Liver Physiology (2025)\n\n【被引次数】1\n\n【研究摘要】\nBackground: Alpha-1 antitrypsin deficiency (AATD) is a genetic disorder characterized by accumulation of misfolded Z α-1 antitrypsin (ZAAT) in hepatocytes, leading to liver injury and metabolic dysfunction. There is no therapy to reduce ZAAT accumulation and restore proteostasis. Pioglitazone activates AMP-activated protein kinase (AMPK), enhance autophagy, and modulate ER stress responses, suggesting a potential effect on ZAAT clearance. Our objective is to examine whether pioglitazone can protect against AATD-mediated liver disease. Methods: Huh7.5 cells expressing ZAAT (HuhZ) and Pi*Z trans...\n\n【涉及蛋白】Lipid\n\n【原文链接】\nhttps://www.semanticscholar.org/paper/98f61ec46c14f11d3bdf5a879fbc61e7600eafa4\nPubMed: https://pubmed.ncbi.nlm.nih.gov/41021735/",
+    "tags": [
+      "#Lipid",
+      "#2025",
+      "#AmericanJourna"
+    ],
+    "date": "03-11",
+    "location": "武汉",
+    "paper": {
+      "title": "Pioglitazone Reduces Hepatic Alpha-1 Antitrypsin Accumulation Through Autophagy and AMPK Activation in Alpha-1 Antitrypsin Deficient Mice.",
+      "authors": "Yuanqing Lu, Regina A Oshins, Nesmine R. Maptue et al.",
+      "journal": "American Journal of Physiology - Gastrointestinal and Liver Physiology",
+      "year": 2025,
+      "doi": "10.1152/ajpgi.00272.2025",
+      "pmid": "41021735",
+      "paperId": "98f61ec46c14f11d3bdf5a879fbc61e7600eafa4",
+      "citationCount": 1
+    },
+    "created_at": "2026-03-11T21:56:20.355578",
+    "source": "Semantic Scholar (本地库)"
+  },
+  {
+    "id": 3209,
+    "title": "📖 TRPM8 inhibition reduces the size but increases the num...",
+    "author": "Lipid研究组",
+    "avatar": "🧪",
+    "likes": "1296",
+    "emoji": "🧪",
+    "gradient": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+    "protein": "Lipid",
+    "angle": "研究故事",
+    "content": "发现一篇 2025 年的真实研究！📄\n\n【论文标题】\nTRPM8 inhibition reduces the size but increases the number of lipid droplets in mature adipocytes in vitro\n\n【研究团队】\nParnasree Mahapatra, Shamit Kumar, Bisakha Das et al.\n\n【发表期刊】\nJournal of Lipid Research (2025)\n\n【被引次数】1\n\n【研究摘要】\nUnderstanding the processes and/or the key factors involved in the formation as well as degradation of lipid droplets (LDs) within the adipocytes is of immense importance, especially in the context of health, obesity, cancer, and other diseases. While cold temperature and/or menthol (an edible cooling agent), seem to have diverse and confounding effects on obesity and/or thermogenesis, so far there is no direct evidence that specific pharmacological modulation of the Transient Receptor Potential cation channel subfamily Melastatin member 8 (TRPM8), a cold-temperature-activated ion channel, can...\n\n【涉及蛋白】Lipid\n\n【原文链接】\nhttps://www.semanticscholar.org/paper/4e999967f2ef98f6b14a9569e383160e0497e30b\nPubMed: https://pubmed.ncbi.nlm.nih.gov/41202880/",
+    "tags": [
+      "#Lipid",
+      "#2025",
+      "#JournalofLipi"
+    ],
+    "date": "03-11",
+    "location": "广州",
+    "paper": {
+      "title": "TRPM8 inhibition reduces the size but increases the number of lipid droplets in mature adipocytes in vitro",
+      "authors": "Parnasree Mahapatra, Shamit Kumar, Bisakha Das et al.",
+      "journal": "Journal of Lipid Research",
+      "year": 2025,
+      "doi": "10.1016/j.jlr.2025.100935",
+      "pmid": "41202880",
+      "paperId": "4e999967f2ef98f6b14a9569e383160e0497e30b",
+      "citationCount": 1
+    },
+    "created_at": "2026-03-11T21:56:20.355624",
+    "source": "Semantic Scholar (本地库)"
+  },
+  {
+    "id": 3210,
+    "title": "📖 GLP-1RAs regulate lipid metabolism and induce autophagy...",
+    "author": "ATGL研究组",
+    "avatar": "⚔️",
+    "likes": "2817",
+    "emoji": "⚔️",
+    "gradient": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+    "protein": "ATGL",
+    "angle": "研究故事",
+    "content": "发现一篇 2025 年的真实研究！📄\n\n【论文标题】\nGLP-1RAs regulate lipid metabolism and induce autophagy through AMPK/SIRT1 pathway to improve NAFLD.\n\n【研究团队】\nQiang Zhang, Jingyuan Wang, Xiaojin Hu et al.\n\n【发表期刊】\nProstaglandins & other lipid mediators (2025)\n\n【被引次数】5\n\n【研究摘要】\nBACKGROUND\nNon-alcoholic fatty liver disease (NAFLD) is a leading cause of cirrhosis and a major risk factor for hepatocellular carcinoma and liver-related death. Diabetes medications have been studied as potential treatments for NAFLD. Glucagon-like peptide-1 agonists (GLP-1RAs) have been rarely reported in the treatment of NAFLD alone as an anti-diabetic drug, and its specific mechanism of action is unknown. We investigated whether the therapeutic effect of liraglutide (LRG, a representative drug of GLP-1RAs) on hepatic steatosis is related to regulating lipid metabolism and enhancing autoph...\n\n【涉及蛋白】ATGL\n\n【原文链接】\nhttps://www.semanticscholar.org/paper/016fb3d900692c75645c911dacaa8f4fae5b5728\nPubMed: https://pubmed.ncbi.nlm.nih.gov/40180281/",
+    "tags": [
+      "#ATGL",
+      "#2025",
+      "#Prostaglandins"
+    ],
+    "date": "03-11",
+    "location": "武汉",
+    "paper": {
+      "title": "GLP-1RAs regulate lipid metabolism and induce autophagy through AMPK/SIRT1 pathway to improve NAFLD.",
+      "authors": "Qiang Zhang, Jingyuan Wang, Xiaojin Hu et al.",
+      "journal": "Prostaglandins & other lipid mediators",
+      "year": 2025,
+      "doi": "10.1016/j.prostaglandins.2025.106987",
+      "pmid": "40180281",
+      "paperId": "016fb3d900692c75645c911dacaa8f4fae5b5728",
+      "citationCount": 5
+    },
+    "created_at": "2026-03-11T21:56:20.355652",
+    "source": "Semantic Scholar (本地库)"
+  },
+  {
+    "id": 3211,
+    "title": "💊 Diet-induced obesity dampens the temporal oscillation o...",
+    "author": "Lipid研究组",
+    "avatar": "🧪",
+    "likes": "1348",
+    "emoji": "🧪",
+    "gradient": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+    "protein": "Lipid",
+    "angle": "临床意义",
+    "content": "发现一篇 2025 年的真实研究！📄\n\n【论文标题】\nDiet-induced obesity dampens the temporal oscillation of hepatic mitochondrial lipids\n\n【研究团队】\nRashi Jain, Rajprabu Rajendran, Sona Rajakumari\n\n【发表期刊】\nJournal of Lipid Research (2025)\n\n【被引次数】1\n\n【研究摘要】\nMitochondria play a pivotal role in energy homeostasis and regulate several metabolic pathways. The inner and outer membrane of mitochondria comprises unique lipid composition and proteins that are essential to form electron transport chain complexes, orchestrate oxidative phosphorylation, β-oxidation, ATP synthesis, etc. As known, diet-induced obesity affects mitochondrial function, dynamics, and mitophagy, which are governed by circadian clock machinery. Though DIO impairs the interplay between circadian oscillation and lipid metabolism, the impact of DIO on mitochondrial membrane lipid comp...\n\n【涉及蛋白】Lipid\n\n【原文链接】\nhttps://www.semanticscholar.org/paper/0ff49de089c8594677f1e504313d10e21f06cd83\nPubMed: https://pubmed.ncbi.nlm.nih.gov/40180216/",
+    "tags": [
+      "#Lipid",
+      "#2025",
+      "#JournalofLipi"
+    ],
+    "date": "03-11",
+    "location": "上海",
+    "paper": {
+      "title": "Diet-induced obesity dampens the temporal oscillation of hepatic mitochondrial lipids",
+      "authors": "Rashi Jain, Rajprabu Rajendran, Sona Rajakumari",
+      "journal": "Journal of Lipid Research",
+      "year": 2025,
+      "doi": "10.1016/j.jlr.2025.100790",
+      "pmid": "40180216",
+      "paperId": "0ff49de089c8594677f1e504313d10e21f06cd83",
+      "citationCount": 1
+    },
+    "created_at": "2026-03-11T21:56:20.355697",
+    "source": "Semantic Scholar (本地库)"
+  },
+  {
+    "id": 3212,
+    "title": "💊 Indirubin promotes adipocyte differentiation and reduce...",
+    "author": "Lipid研究组",
+    "avatar": "🧪",
+    "likes": "3653",
+    "emoji": "🧪",
+    "gradient": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
+    "protein": "Lipid",
+    "angle": "临床意义",
+    "content": "发现一篇 2020 年的真实研究！📄\n\n【论文标题】\nIndirubin promotes adipocyte differentiation and reduces lipid accumulation in 3T3-L1 cells via peroxisome proliferator-activated receptor γ activation\n\n【研究团队】\nTaisuke Konno, K. Sasaki, Kyoko Kobayashi et al.\n\n【发表期刊】\nMolecular Medicine Reports (2020)\n\n【被引次数】17\n\n【研究摘要】\nThe peroxisome proliferator-activated receptor γ (PPARγ) plays an important role in insulin sensitivity and adipocyte differentiation. It is known as ligand-receptor that improves insulin sensitivity in type 2 diabetes mellitus. Several kinds of indigo plant have been already used to treat diabetes in oriental traditional medicine, but its mechanism has not been clarified yet. To investigate the effect of indirubin, which is a component of Polygonum tinctorium on the cell differentiation and adipprocess in 3T3-L1 cells, 3T3-L1 cells were cultured to determine the effect of cell differentiation...\n\n【涉及蛋白】Lipid\n\n【原文链接】\nhttps://www.semanticscholar.org/paper/0653654b9e9bb898823b54bfda3f7e7e936f9e00\nPubMed: https://pubmed.ncbi.nlm.nih.gov/32016452/",
+    "tags": [
+      "#Lipid",
+      "#2020",
+      "#MolecularMedic"
+    ],
+    "date": "03-11",
+    "location": "武汉",
+    "paper": {
+      "title": "Indirubin promotes adipocyte differentiation and reduces lipid accumulation in 3T3-L1 cells via peroxisome proliferator-activated receptor γ activation",
+      "authors": "Taisuke Konno, K. Sasaki, Kyoko Kobayashi et al.",
+      "journal": "Molecular Medicine Reports",
+      "year": 2020,
+      "doi": "10.3892/mmr.2020.10946",
+      "pmid": "32016452",
+      "paperId": "0653654b9e9bb898823b54bfda3f7e7e936f9e00",
+      "citationCount": 17
+    },
+    "created_at": "2026-03-11T21:56:20.355735",
+    "source": "Semantic Scholar (本地库)"
+  },
+  {
+    "id": 3213,
+    "title": "💊 Innate immune cell LXR-β deficiency exacerbates hepatic...",
+    "author": "Lipid研究组",
+    "avatar": "🧪",
+    "likes": "2651",
+    "emoji": "🧪",
+    "gradient": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+    "protein": "Lipid",
+    "angle": "临床意义",
+    "content": "发现一篇 2025 年的真实研究！📄\n\n【论文标题】\nInnate immune cell LXR-β deficiency exacerbates hepatic injury and fibrosis in murine models of primary sclerosing cholangitis\n\n【研究团队】\nXiaohui Fang, Yang Zhang, Junyao Wang et al.\n\n【发表期刊】\nLiver Research (2025)\n\n【研究摘要】\nBackground and aims Primary sclerosing cholangitis (PSC) is an autoimmune liver disease characterized by complex pathogenesis and limited available therapeutic options. The mechanisms underlying the development and progression of PSCs remain unclear. Liver X receptor beta (LXR-β) is recognized to modulate lipid metabolism and immune response, but its specific involvement in the PSC has not been elucidated. Here, we explored the role and mechanism of LXR-β in PSC induced by 3, 5-diethoxycarbonyl-1, 4-dihydro-2, 4, 6-collidine (DDC). Methods CRISPR-Cas9 technology was applied to generate Abcb4 (...\n\n【涉及蛋白】Lipid\n\n【原文链接】\nhttps://www.semanticscholar.org/paper/0b201c8d0d1e5b02ec1b9dd7402d5787ec53e446\nPubMed: https://pubmed.ncbi.nlm.nih.gov/41112516/",
+    "tags": [
+      "#Lipid",
+      "#2025",
+      "#LiverResearch"
+    ],
+    "date": "03-11",
+    "location": "北京",
+    "paper": {
+      "title": "Innate immune cell LXR-β deficiency exacerbates hepatic injury and fibrosis in murine models of primary sclerosing cholangitis",
+      "authors": "Xiaohui Fang, Yang Zhang, Junyao Wang et al.",
+      "journal": "Liver Research",
+      "year": 2025,
+      "doi": "10.1016/j.livres.2025.09.001",
+      "pmid": "41112516",
+      "paperId": "0b201c8d0d1e5b02ec1b9dd7402d5787ec53e446",
+      "citationCount": 0
+    },
+    "created_at": "2026-03-11T21:56:20.355781",
+    "source": "Semantic Scholar (本地库)"
+  },
+  {
+    "id": 3214,
+    "title": "💊 Expression of genes involved in lipid droplet formation...",
+    "author": "Lipid研究组",
+    "avatar": "🧪",
+    "likes": "3901",
+    "emoji": "🧪",
+    "gradient": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+    "protein": "Lipid",
+    "angle": "临床意义",
+    "content": "发现一篇 2016 年的真实研究！📄\n\n【论文标题】\nExpression of genes involved in lipid droplet formation (BSCL2, SNAP23 and COPA) during porcine in vitro adipogenesis\n\n【研究团队】\nB. Kociucka, T. Flisikowska, Dariusz Mróz et al.\n\n【发表期刊】\nJournal of Applied Genetics (2016)\n\n【被引次数】14\n\n【研究摘要】\nAdipogenesis is a complex process of fat cells development driven by the expression of numerous genes. Differentiation of progenitor cells into mature adipocytes is accompanied by changes in cell shape, as a result of lipid accumulation. In the present study, expression of three genes involved in lipid droplet formation (SNAP23, BSCL2 and COPA) was evaluated during porcine adipogenesis. It was found that mRNA levels of BSCL2 and SNAP23, but not COPA, increased during differentiation. Redistribution of SNAP23 protein to different cellular compartments was observed when comparing undifferentiate...\n\n【涉及蛋白】Lipid\n\n【原文链接】\nhttps://www.semanticscholar.org/paper/f72e5ed8168c56cb2df9bc4905ba585f8cf1c161\nPubMed: https://pubmed.ncbi.nlm.nih.gov/27108337/",
+    "tags": [
+      "#Lipid",
+      "#2016",
+      "#JournalofAppl"
+    ],
+    "date": "03-11",
+    "location": "广州",
+    "paper": {
+      "title": "Expression of genes involved in lipid droplet formation (BSCL2, SNAP23 and COPA) during porcine in vitro adipogenesis",
+      "authors": "B. Kociucka, T. Flisikowska, Dariusz Mróz et al.",
+      "journal": "Journal of Applied Genetics",
+      "year": 2016,
+      "doi": "10.1007/s13353-016-0350-9",
+      "pmid": "27108337",
+      "paperId": "f72e5ed8168c56cb2df9bc4905ba585f8cf1c161",
+      "citationCount": 14
+    },
+    "created_at": "2026-03-11T21:56:20.355811",
+    "source": "Semantic Scholar (本地库)"
+  },
+  {
+    "id": 3215,
+    "title": "🔬 ApoL6 associates with lipid droplets and disrupts Peril...",
+    "author": "PLIN1研究组",
+    "avatar": "🔥",
+    "likes": "3631",
+    "emoji": "🔥",
+    "gradient": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+    "protein": "PLIN1",
+    "angle": "机制解析",
+    "content": "发现一篇 2024 年的真实研究！📄\n\n【论文标题】\nApoL6 associates with lipid droplets and disrupts Perilipin1-HSL interaction to inhibit lipolysis\n\n【研究团队】\nYuhui Wang, Hai P. Nguyen, Pengya Xue et al.\n\n【发表期刊】\nNature Communications (2024)\n\n【被引次数】27\n\n【研究摘要】\nLipolysis in adipose tissue releases fatty acids during fasting. Here, authors show that ApoL6, a lipid droplet-associated protein, is specifically expressed in adipocytes upon feeding to inhibit lipolysis by directly interacting with Perilipin 1 to competitively inhibit Perilipin 1-HSL interaction. Adipose tissue stores triacylglycerol (TAG) in lipid droplets (LD) and release fatty acids upon lipolysis during energy shortage. We identify ApoL6 as a LD-associated protein mainly found in adipose tissue, specifically in adipocytes. ApoL6 expression is low during fasting but induced upon feeding....\n\n【涉及蛋白】PLIN1\n\n【原文链接】\nhttps://www.semanticscholar.org/paper/55494ca3ebaad73da184398a741a4f4bd9a5901d\nPubMed: https://pubmed.ncbi.nlm.nih.gov/38167864/",
+    "tags": [
+      "#PLIN1",
+      "#2024",
+      "#NatureCommunic"
+    ],
+    "date": "03-11",
+    "location": "南京",
+    "paper": {
+      "title": "ApoL6 associates with lipid droplets and disrupts Perilipin1-HSL interaction to inhibit lipolysis",
+      "authors": "Yuhui Wang, Hai P. Nguyen, Pengya Xue et al.",
+      "journal": "Nature Communications",
+      "year": 2024,
+      "doi": "10.1038/s41467-023-44559-3",
+      "pmid": "38167864",
+      "paperId": "55494ca3ebaad73da184398a741a4f4bd9a5901d",
+      "citationCount": 27
+    },
+    "created_at": "2026-03-11T21:56:20.355828",
+    "source": "Semantic Scholar (本地库)"
+  },
+  {
+    "id": 3216,
+    "title": "📖 Insulin receptor Thr1160 phosphorylation mediates lipid...",
+    "author": "Lipid研究组",
+    "avatar": "🧪",
+    "likes": "5293",
+    "emoji": "🧪",
+    "gradient": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+    "protein": "Lipid",
+    "angle": "研究故事",
+    "content": "发现一篇 2016 年的真实研究！📄\n\n【论文标题】\nInsulin receptor Thr1160 phosphorylation mediates lipid-induced hepatic insulin resistance.\n\n【研究团队】\nMax C. Petersen, A. Madiraju, Brandon M. Gassaway et al.\n\n【发表期刊】\nJournal of Clinical Investigation (2016)\n\n【被引次数】191\n\n【研究摘要】\nNo abstract available\n\n【涉及蛋白】Lipid\n\n【原文链接】\nhttps://www.semanticscholar.org/paper/832d2190bd82ac5677e4e1336ff991d5df2f8b70\nPubMed: https://pubmed.ncbi.nlm.nih.gov/27760050/",
+    "tags": [
+      "#Lipid",
+      "#2016",
+      "#JournalofClin"
+    ],
+    "date": "03-11",
+    "location": "北京",
+    "paper": {
+      "title": "Insulin receptor Thr1160 phosphorylation mediates lipid-induced hepatic insulin resistance.",
+      "authors": "Max C. Petersen, A. Madiraju, Brandon M. Gassaway et al.",
+      "journal": "Journal of Clinical Investigation",
+      "year": 2016,
+      "doi": "10.1172/JCI86013",
+      "pmid": "27760050",
+      "paperId": "832d2190bd82ac5677e4e1336ff991d5df2f8b70",
+      "citationCount": 191
+    },
+    "created_at": "2026-03-11T21:56:20.355842",
+    "source": "Semantic Scholar (本地库)"
+  },
+  {
+    "id": 3217,
+    "title": "🔬 Liver specific transgenic expression of CYP7B1 attenuat...",
+    "author": "Lipid研究组",
+    "avatar": "🧪",
+    "likes": "4800",
+    "emoji": "🧪",
+    "gradient": "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)",
+    "protein": "Lipid",
+    "angle": "机制解析",
+    "content": "发现一篇 2025 年的真实研究！📄\n\n【论文标题】\nLiver specific transgenic expression of CYP7B1 attenuates early western diet-induced MASLD progression\n\n【研究团队】\nGenta Kakiyama, Nanah Bai-Kamara, D. Rodriguez-Agudo et al.\n\n【发表期刊】\nJournal of Lipid Research (2025)\n\n【被引次数】6\n\n【研究摘要】\nEffect of liver specific oxysterol 7α-hydroxylase (CYP7B1) overexpression on the Western diet (WD)-induced metabolic dysfunction-associated steatotic liver disease (MASLD) progression was studied in mice. Among various hepatic genes impacted during MASLD development, CYP7B1 is consistently suppressed in multiple MASLD mouse models and in human MASLD cohorts. CYP7B1 enzyme suppression leads to accumulations of bioactive oxysterols such as (25R)26-hydroxycholesterol (26HC) and 25-hydroxycholesterol (25HC). We challenged liver specific CYP7B1 transgenic (CYP7B1hep.tg) overexpressing mice with ad ...\n\n【涉及蛋白】Lipid\n\n【原文链接】\nhttps://www.semanticscholar.org/paper/2e1b4bfb9687e54d29a42975a95a79e44098e2ba\nPubMed: https://pubmed.ncbi.nlm.nih.gov/39952566/",
+    "tags": [
+      "#Lipid",
+      "#2025",
+      "#JournalofLipi"
+    ],
+    "date": "03-11",
+    "location": "北京",
+    "paper": {
+      "title": "Liver specific transgenic expression of CYP7B1 attenuates early western diet-induced MASLD progression",
+      "authors": "Genta Kakiyama, Nanah Bai-Kamara, D. Rodriguez-Agudo et al.",
+      "journal": "Journal of Lipid Research",
+      "year": 2025,
+      "doi": "10.1016/j.jlr.2025.100757",
+      "pmid": "39952566",
+      "paperId": "2e1b4bfb9687e54d29a42975a95a79e44098e2ba",
+      "citationCount": 6
+    },
+    "created_at": "2026-03-11T21:56:20.355887",
+    "source": "Semantic Scholar (本地库)"
+  },
+  {
+    "id": 3218,
+    "title": "🔬 Role of natural compounds in non-alcoholic fatty liver ...",
+    "author": "Lipid研究组",
+    "avatar": "🧪",
+    "likes": "3103",
+    "emoji": "🧪",
+    "gradient": "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)",
+    "protein": "Lipid",
+    "angle": "机制解析",
+    "content": "发现一篇 2025 年的真实研究！📄\n\n【论文标题】\nRole of natural compounds in non-alcoholic fatty liver diseases (NAFLD): a mechanistic approach\n\n【研究团队】\nPranay Wal, S. Yadav, Sajal Kumar Jha et al.\n\n【发表期刊】\nEgyptian Liver Journal (2025)\n\n【被引次数】4\n\n【研究摘要】\nNo abstract available\n\n【涉及蛋白】Lipid\n\n【原文链接】\nhttps://www.semanticscholar.org/paper/737b3dce9b7e339fbb02001d20fb79d0058aa5a9",
+    "tags": [
+      "#Lipid",
+      "#2025",
+      "#EgyptianLiver"
+    ],
+    "date": "03-11",
+    "location": "深圳",
+    "paper": {
+      "title": "Role of natural compounds in non-alcoholic fatty liver diseases (NAFLD): a mechanistic approach",
+      "authors": "Pranay Wal, S. Yadav, Sajal Kumar Jha et al.",
+      "journal": "Egyptian Liver Journal",
+      "year": 2025,
+      "doi": "10.1186/s43066-025-00452-w",
+      "pmid": "",
+      "paperId": "737b3dce9b7e339fbb02001d20fb79d0058aa5a9",
+      "citationCount": 4
+    },
+    "created_at": "2026-03-11T21:56:20.355902",
+    "source": "Semantic Scholar (本地库)"
+  },
+  {
+    "id": 3219,
+    "title": "💊 Reduced hepatic lipid content in Pten‐haplodeficient mi...",
+    "author": "Lipid研究组",
+    "avatar": "🧪",
+    "likes": "640",
+    "emoji": "🧪",
+    "gradient": "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)",
+    "protein": "Lipid",
+    "angle": "临床意义",
+    "content": "发现一篇 2015 年的真实研究！📄\n\n【论文标题】\nReduced hepatic lipid content in Pten‐haplodeficient mice because of enhanced AKT2/PKBβ activation in skeletal muscle\n\n【研究团队】\nS. Schultze, M. Dietrich, Debby Hynx et al.\n\n【发表期刊】\nLiver international (Print) (2015)\n\n【被引次数】3\n\n【研究摘要】\nNo abstract available\n\n【涉及蛋白】Lipid\n\n【原文链接】\nhttps://www.semanticscholar.org/paper/357dd1f4c09021571e64b4b660e623bb33e74b09\nPubMed: https://pubmed.ncbi.nlm.nih.gov/24845341/",
+    "tags": [
+      "#Lipid",
+      "#2015",
+      "#Liverinternati"
+    ],
+    "date": "03-11",
+    "location": "北京",
+    "paper": {
+      "title": "Reduced hepatic lipid content in Pten‐haplodeficient mice because of enhanced AKT2/PKBβ activation in skeletal muscle",
+      "authors": "S. Schultze, M. Dietrich, Debby Hynx et al.",
+      "journal": "Liver international (Print)",
+      "year": 2015,
+      "doi": "10.1111/liv.12600",
+      "pmid": "24845341",
+      "paperId": "357dd1f4c09021571e64b4b660e623bb33e74b09",
+      "citationCount": 3
+    },
+    "created_at": "2026-03-11T21:56:20.355918",
+    "source": "Semantic Scholar (本地库)"
+  },
+  {
+    "id": 3220,
+    "title": "🔬 Linking Brain and Immune Transcriptomes to Gut-Derived ...",
+    "author": "Lipid研究组",
+    "avatar": "🧪",
+    "likes": "3170",
+    "emoji": "🧪",
+    "gradient": "linear-gradient(135deg, #fa709a 0%, #fee140 100%)",
+    "protein": "Lipid",
+    "angle": "机制解析",
+    "content": "发现一篇 2025 年的真实研究！📄\n\n【论文标题】\nLinking Brain and Immune Transcriptomes to Gut-Derived Metabolites in Hepatic Encephalopathy: An Explorative Integrative Multi-Omics Approach\n\n【研究团队】\nA. Sepehrinezhad, Ali Shahbazi\n\n【发表期刊】\nHepatic Medicine : Evidence and Research (2025)\n\n【研究摘要】\nPurpose Hepatic encephalopathy (HE), one of the more important cerebral complications attributable to acute liver failure and more severe forms, has traditionally been associated with hyperammonemia. However, recent studies implicate gut microbiota-derived metabolites in HE pathogenesis through systemic inflammation and neurotoxicity. Despite this, the integrated molecular mechanisms linking these metabolites to HE remains poorly described. This study addresses this gap by employing a bioinformatics-based systems biology approach to identify interactions between gut metabolites and host genes,...\n\n【涉及蛋白】Lipid\n\n【原文链接】\nhttps://www.semanticscholar.org/paper/4c6410338f3a0f584972d76d3c4a792dceb74289\nPubMed: https://pubmed.ncbi.nlm.nih.gov/40977927/",
+    "tags": [
+      "#Lipid",
+      "#2025",
+      "#HepaticMedicin"
+    ],
+    "date": "03-11",
+    "location": "杭州",
+    "paper": {
+      "title": "Linking Brain and Immune Transcriptomes to Gut-Derived Metabolites in Hepatic Encephalopathy: An Explorative Integrative Multi-Omics Approach",
+      "authors": "A. Sepehrinezhad, Ali Shahbazi",
+      "journal": "Hepatic Medicine : Evidence and Research",
+      "year": 2025,
+      "doi": "10.2147/HMER.S546200",
+      "pmid": "40977927",
+      "paperId": "4c6410338f3a0f584972d76d3c4a792dceb74289",
+      "citationCount": 0
+    },
+    "created_at": "2026-03-11T21:56:20.355967",
+    "source": "Semantic Scholar (本地库)"
+  },
+  {
+    "id": 3221,
+    "title": "📖 Nanoparticle-based therapeutic strategies for chronic l...",
+    "author": "Lipid研究组",
+    "avatar": "🧪",
+    "likes": "2719",
+    "emoji": "🧪",
+    "gradient": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+    "protein": "Lipid",
+    "angle": "研究故事",
+    "content": "发现一篇 2025 年的真实研究！📄\n\n【论文标题】\nNanoparticle-based therapeutic strategies for chronic liver diseases: Advances and insights\n\n【研究团队】\nSathiyamoorthy Padmanaban, Ji-Won Baek, Sai Sahithya Chamarthy et al.\n\n【发表期刊】\nLiver Research (2025)\n\n【被引次数】8\n\n【研究摘要】\nThe liver is pivotal in protein synthesis, glucose and lipid metabolism, and detoxification. However, the liver is susceptible to both acute and chronic disorders, with chronic conditions being fatal. Chronic liver diseases (CLDs), such as liver fibrosis, which usually represents the early manifestation of cirrhosis, primarily result from hepatitis B and C viruses infections, metabolic disorders, alcohol abuse, immune-mediated attacks, and cholestatic injury. The progression of liver fibrosis contributes to the development of cirrhosis, which can further lead to hepatocellular carcinoma, porta...\n\n【涉及蛋白】Lipid\n\n【原文链接】\nhttps://www.semanticscholar.org/paper/3caf1913e996123e570530242c99998a7ef1509b\nPubMed: https://pubmed.ncbi.nlm.nih.gov/40620504/",
+    "tags": [
+      "#Lipid",
+      "#2025",
+      "#LiverResearch"
+    ],
+    "date": "03-11",
+    "location": "武汉",
+    "paper": {
+      "title": "Nanoparticle-based therapeutic strategies for chronic liver diseases: Advances and insights",
+      "authors": "Sathiyamoorthy Padmanaban, Ji-Won Baek, Sai Sahithya Chamarthy et al.",
+      "journal": "Liver Research",
+      "year": 2025,
+      "doi": "10.1016/j.livres.2025.04.002",
+      "pmid": "40620504",
+      "paperId": "3caf1913e996123e570530242c99998a7ef1509b",
+      "citationCount": 8
+    },
+    "created_at": "2026-03-11T21:56:20.356001",
+    "source": "Semantic Scholar (本地库)"
   }
 ]
