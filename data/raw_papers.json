@@ -57700,5 +57700,2988 @@
       }
     ],
     "abstract": "Malnutrition decreases intestinal bile acids, resulting in inefficient nutrient absorption and impaired catch-up growth. Mechanisms by which bile acid depletion occurs in malnutrition are unknown. Using a mouse model of early-life malnutrition, we explored bile acid homeostasis, focusing on transcriptional repression of CYP7B1, a rate-limiting enzyme in the alternative pathway of bile acid biosynthesis, by SREBP-1c, a master regulator of lipid metabolism. Mice were maintained on a low-protein low-fat or isocaloric control chow until eight weeks of age when livers were harvested for proteome profiling, western blot, RT-qPCR, and chromatin immunoprecipitation. Cultured hepatocytes and mice were treated with the SREBP-1c inhibitors fatostatin and betulin to determine whether this therapeutic strategy rescues CYP7B1 expression and bile acid synthesis in malnutrition. Malnutrition decreased the bile acid pool size and altered the expression of multiple hepatic cytochrome P450 enzymes, with profound depletion of CYP7B1, in males but not females. Malnutrition activated SREBP-1c and led to its enrichment at a Cyp7b1 gene regulatory region that featured loss of binding by the basal transcriptional activator SP1. Treatment of cultured hepatocytes or malnourished mice with the SREBP-1c inhibitors fatostatin or betulin increased CYP7B1 expression. Both drugs rescued the bile acid pool size in malnourished mice. These results suggest that malnutrition impairs bile acid synthesis via transcriptional repression of Cyp7b1 by SREBP-1c. SREBP-1c inhibitors restore hepatic CYP7B1 expression and bile acid synthesis."
+  },
+  {
+    "paperId": "ad37b4246cb444f2e89ee27d2154bc7d91dd47a2",
+    "externalIds": {
+      "MAG": "2883303063",
+      "DOI": "10.1007/s11010-018-3409-6",
+      "CorpusId": 51666625,
+      "PubMed": "30014220"
+    },
+    "title": "The utrophin–beta 2 syntrophin complex regulates adipocyte lipid droplet size independent of adipogenesis",
+    "venue": "Molecular and Cellular Biochemistry",
+    "year": 2018,
+    "citationCount": 7,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s11010-018-3409-6?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s11010-018-3409-6, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "authors": [
+      {
+        "authorId": "6803018",
+        "name": "S. Krautbauer"
+      },
+      {
+        "authorId": "73327810",
+        "name": "M. Neumeier"
+      },
+      {
+        "authorId": "7664397",
+        "name": "E. Haberl"
+      },
+      {
+        "authorId": "3931649",
+        "name": "R. Pohl"
+      },
+      {
+        "authorId": "40637131",
+        "name": "S. Feder"
+      },
+      {
+        "authorId": "3521820",
+        "name": "Kristina Eisinger"
+      },
+      {
+        "authorId": "1398420877",
+        "name": "L. Rein‐Fischboeck"
+      },
+      {
+        "authorId": "3670175",
+        "name": "C. Buechler"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "5da8b7ef7bb44f5e952063fa9979155118bf9296",
+    "externalIds": {
+      "PubMedCentral": "11975506",
+      "DOI": "10.1111/jcmm.70524",
+      "CorpusId": 277623296,
+      "PubMed": "40194991"
+    },
+    "title": "Berberine Attenuates Nonalcoholic Hepatic Steatosis by Regulating Lipid Droplet‐Associated Proteins: In Vivo, In Vitro and Molecular Evidence",
+    "venue": "Journal of Cellular and Molecular Medicine",
+    "year": 2025,
+    "citationCount": 6,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1111/jcmm.70524",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11975506, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2109570784",
+        "name": "Hongzhan Wang"
+      },
+      {
+        "authorId": "2108248524",
+        "name": "Zhi Wang"
+      },
+      {
+        "authorId": "12994110",
+        "name": "Ding-kun Wang"
+      },
+      {
+        "authorId": "2049019986",
+        "name": "Kexin Nie"
+      },
+      {
+        "authorId": "2261097665",
+        "name": "Wenbin Wu"
+      },
+      {
+        "authorId": "2145971966",
+        "name": "Yang Gao"
+      },
+      {
+        "authorId": "2272559949",
+        "name": "Shen Chen"
+      },
+      {
+        "authorId": "2282506523",
+        "name": "Xinyue Jiang"
+      },
+      {
+        "authorId": "14950189",
+        "name": "Yueheng Tang"
+      },
+      {
+        "authorId": "2087042735",
+        "name": "Hao Su"
+      },
+      {
+        "authorId": "39669713",
+        "name": "Meilin Hu"
+      },
+      {
+        "authorId": "3793776",
+        "name": "Ke Fang"
+      },
+      {
+        "authorId": "2260833301",
+        "name": "Hui Dong"
+      }
+    ],
+    "abstract": "Hepatic lipid droplet (LD) accumulation is a hallmark of nonalcoholic fatty liver disease (NAFLD). Although the clinical efficacy of berberine (BBR) in treating NAFLD has been established, the mechanism remains uncertain. This study is to evaluate the effects of BBR on hepatic LDs and investigate the underlying mechanisms. Using high‐fat diet‐induced obese (DIO) mice as the model for NAFLD, BBR was administered daily by gavage for 4 weeks. Liver tissue was examined for changes in lipid deposition and histology. Transcriptomics was performed to screen differently expressed genes. The potential targets of BBR against NAFLD were then determined by Western Blot and immunostaining. In oleic acid (OA)‐induced HepG2 cells, the link between BBR and potential targets was further elucidated through the activation or antagonism of PPARα. The binding of BBR to potential targets was predicted using molecular docking. BBR significantly reduced hepatic steatosis by decreasing LD size rather than number. Transcriptomics with validation demonstrated that BBR modulated the expression of LD‐associated proteins CIDEA and PLIN4 in the liver. Further investigations revealed that BBR reversed the abnormal elevation of BSCL2 and PLIN2 in steatotic livers. Finally, we found that BBR reduced LD size in OA‐induced HepG2 cells by regulating BSCL2 and PPARα‐mediated CIDEA/PLIN4/PLIN2. Notably, BBR could bind well to PPARα and BSCL2. BBR can attenuate hepatic steatosis in DIO mice by reducing LD size through the regulation of LD‐associated proteins."
+  },
+  {
+    "paperId": "1a1067081be8269e0e695730a2b0cc1bfe53e045",
+    "externalIds": {
+      "MAG": "2618368897",
+      "DOI": "10.1248/bpb.b17-00030",
+      "CorpusId": 3745374,
+      "PubMed": "28566629"
+    },
+    "title": "Activation of PPARγ at an Early Stage of Differentiation Enhances Adipocyte Differentiation of MEFs Derived from Type II Diabetic TSOD Mice and Alters Lipid Droplet Morphology.",
+    "venue": "Biological and Pharmaceutical Bulletin",
+    "year": 2017,
+    "citationCount": 5,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://www.jstage.jst.go.jp/article/bpb/40/6/40_b17-00030/_pdf",
+      "status": "GOLD",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1248/bpb.b17-00030?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1248/bpb.b17-00030, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "authors": [
+      {
+        "authorId": "48580117",
+        "name": "K. Ishibashi"
+      },
+      {
+        "authorId": "49135419",
+        "name": "Yoshihiro Takeda"
+      },
+      {
+        "authorId": "48632404",
+        "name": "Eriko Nakatani"
+      },
+      {
+        "authorId": "47965124",
+        "name": "Kana Sugawara"
+      },
+      {
+        "authorId": "90443422",
+        "name": "R. Imai"
+      },
+      {
+        "authorId": "1620020052",
+        "name": "Mayu Sekiguchi"
+      },
+      {
+        "authorId": "15107558",
+        "name": "R. Takahama"
+      },
+      {
+        "authorId": "34201259",
+        "name": "N. Ohkura"
+      },
+      {
+        "authorId": "12541046",
+        "name": "G. Atsumi"
+      }
+    ],
+    "abstract": "Type 2 diabetic Tsumura, Suzuki, obese, diabetes (TSOD) mice gradually gain weight as compared to corresponding Tsumura, Suzuki, non-obesity (TSNO) control mice, and develop insulin resistance. Although development of type 2 diabetes mellitus is associated with dysfunction of adipocytes, little is known about the properties of adipocytes from TSOD mice. Therefore, we attempted to remove intracorporeal factors and elucidate inherent properties of adipocytes of TSOD mice using adipocytes differentiated from mouse embryonic fibroblasts (MEFs) in vitro. Here, we show that MEFs of TSOD have low potency for differentiation into adipocytes. The percentage of Oil red O-stained cells and levels of adipogenic markers in cells differentiated from MEFs of TSOD are lower than those in cells differentiated from MEFs of TSNO. We further show that treatment with an agonist of peroxisome proliferator-activated receptor-γ (PPARγ) (rosiglitazone) at an early stage of differentiation increases the percentage of Oil red O-stained cells in TSOD-MEFs differentiated into adipocytes. Moreover, the lipid droplet size in those adipocytes is larger than that in the adipocytes differentiated from MEFs of TSNO. Although persistent treatment of MEFs of TSOD with rosiglitazone during differentiation increases the percentage of Oil red O-stained cells, the lipid droplet size in adipocytes treated as such does not reach the size of those treated in early stage only. Thus, activation of PPARγ by its agonist at an early stage of differentiation compensates for the low potency toward adipogenic differentiation of, and accelerates formation of enlarged lipid droplets in adipocytes derived from, MEFs of TSOD mice."
+  },
+  {
+    "paperId": "a8ea2f7b11354c9e4efee9a32d9004433e130bde",
+    "externalIds": {
+      "PubMedCentral": "10655368",
+      "DOI": "10.1186/s13104-023-06622-6",
+      "CorpusId": 265222106,
+      "PubMed": "37974253"
+    },
+    "title": "Placental extract suppresses lipid droplet accumulation by autophagy during the differentiation of adipose-derived mesenchymal stromal/stem cells into mature adipocytes",
+    "venue": "BMC Research Notes",
+    "year": 2023,
+    "citationCount": 3,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://bmcresnotes.biomedcentral.com/counter/pdf/10.1186/s13104-023-06622-6",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10655368, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "50620364",
+        "name": "Yusuke Ando"
+      },
+      {
+        "authorId": "2266848915",
+        "name": "Eri Odawara"
+      },
+      {
+        "authorId": "2266846381",
+        "name": "Hiroyasu Sakai"
+      },
+      {
+        "authorId": "2237868916",
+        "name": "Fumiaki Sato"
+      },
+      {
+        "authorId": "2266849440",
+        "name": "Junzo Kamei"
+      }
+    ],
+    "abstract": "Objective Placental extract, which contains various bioactive compounds, has been used as traditional medicine. Many studies have demonstrated additional applications of placental extract and provided a scientific basis for the broad spectrum of its effects. We have previously reported that porcine placental extract (PPE) strongly suppresses adipogenesis in a 3T3-L1 preadipocyte cell line, inhibiting differentiation. This study aimed to examine the effect of PPE on the accumulation of lipid droplets (LD) in adipose-derived mesenchymal stromal/stem cells (ASC). Results The study findings revealed that PPE decreased the size of LD during the differentiation of ASC into mature adipocytes. RT-qPCR analysis revealed that PPE increased the gene expression of lysosomal acid lipase A ( Lipa ), a lipolysis-related gene, in ASC-differentiated adipocytes. However, no differences were noted in the adipocyte differentiation markers ( Pparg , Cebpa , and Adipoq ), or the adipogenesis-related genes ( Dgat1 , Dgat2 , Fasn , Soat1 , and Soat2 ). In addition, PPE promoted autophagosome formation, which was partially co-localized with the LD, indicating that PPE accelerated the degradation of LD by inducing autophagy (termed lipophagy) during the differentiation of ASC into mature adipocytes. These results suggest that the use of PPE may be a potential novel treatment for regulating adipogenesis for the treatment of obesity."
+  },
+  {
+    "paperId": "7b6439261ae0dc8b56cbeb5a9fe03a456b3a8584",
+    "externalIds": {
+      "DOI": "10.1016/j.bbrc.2023.10.048",
+      "CorpusId": 264152003,
+      "PubMed": "37864924"
+    },
+    "title": "CCDC127 regulates lipid droplet homeostasis by enhancing mitochondria-ER contacts.",
+    "venue": "Biochemical and Biophysical Research Communications - BBRC",
+    "year": 2023,
+    "citationCount": 6,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.bbrc.2023.10.048?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.bbrc.2023.10.048, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2260335548",
+        "name": "Yuchen Xia"
+      },
+      {
+        "authorId": "2258900454",
+        "name": "Yue Zhang"
+      },
+      {
+        "authorId": "2332297234",
+        "name": "Yuwei Sun"
+      },
+      {
+        "authorId": "2419460341",
+        "name": "Li He"
+      }
+    ],
+    "abstract": "Lipid droplets (LDs) are both energy storage and signaling organelles playing important roles in various physiological and pathological conditions. The mitochondria-ER contacts have been implicated in regulating the homeostasis of lipid droplets. However, our knowledge about the molecular mechanism behind this regulation is still limited. In this study, we identified CCDC127, a previously uncharacterized protein, as a new regulator of LDs by enhancing the mitochondria-ER contact sites (MERCS). Knockdown and overexpression of CCDC127 in HeLa cells significantly change the LDs abundance in opposite directions, suggesting that CCDC127 positively regulates the LDs. Additional analysis showed that CCDC127 localizes on the outer membrane of mitochondria through its N-terminus and promotes mitochondria fragmentation. Importantly, knockdown or overexpression of CCDC127 significantly down- or up-regulates, respectively, the formation of MERCS. Further experiments showed that CCDC127 is required to stabilize the MERCS tether protein VAPA. And overexpression or knockdown of VAPA reversed the effects of CCDC127 reduction or overexpression on LDs. Finally, we demonstrated that knocking down CCDC127 in the mesenchymal stem cells reduced their differentiation towards adipocytes. These findings provide a new molecular connection between LD homeostasis and MERCS regulation."
+  },
+  {
+    "paperId": "5b219ad1ecc54234a3e71d3b326d76481731aec3",
+    "externalIds": {
+      "PubMedCentral": "9500548",
+      "DOI": "10.3389/fcell.2022.958566",
+      "CorpusId": 252124624,
+      "PubMed": "36158190"
+    },
+    "title": "Perilipin-2 promotes lipid droplet-plasma membrane interactions that facilitate apocrine lipid secretion in secretory epithelial cells of the mouse mammary gland",
+    "venue": "Frontiers in Cell and Developmental Biology",
+    "year": 2022,
+    "citationCount": 14,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://www.frontiersin.org/articles/10.3389/fcell.2022.958566/pdf",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9500548, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "50359124",
+        "name": "J. Monks"
+      },
+      {
+        "authorId": "6987735",
+        "name": "D. Orlicky"
+      },
+      {
+        "authorId": "34306039",
+        "name": "Andrew E. Libby"
+      },
+      {
+        "authorId": "2336548883",
+        "name": "M. Dzieciatkowska"
+      },
+      {
+        "authorId": "4685970",
+        "name": "M. Ladinsky"
+      },
+      {
+        "authorId": "4808224",
+        "name": "J. McManaman"
+      }
+    ],
+    "abstract": "Secretory epithelial cells (sMEC) in mammary glands of lactating animals secrete lipids by a novel apocrine mechanism in which cytoplasmic lipid droplets (LD) contact and are enveloped by elements of the apical plasma membrane (APM) before being released into the lumen of the gland as membrane bound structures. The molecular properties of LD-APM contacts and the mechanisms regulating LD membrane envelopment and secretion are not fully understood. Perilipin-2 (Plin2) is a constitutive LD protein that has been proposed to tether LD to the APM through formation of a complex with the transmembrane protein, butyrophilin1a1 (BTN) and the redox enzyme, xanthine oxidoreductase (XOR). Using mice lacking Plin2 and physiological inhibition of apocrine lipid secretion, we demonstrate that LD-APM contact and envelopment are mechanistically distinct steps that they are differentially regulated by Plin2 and independent of LD secretion. We find that Plin2 is not required for formation of LD-APM contacts. However, it increases the percentage of LD that contact the APM and mediates enlargement of the LD-APM contact zone as LD undergo membrane envelopment. The effects of Plin2 LD-APM interactions are associated with increased abundances of BTN, XOR and Cidea, which are implicated as mediators of LD-APM contact formation, on membranes surrounding secreted LD, and with promotion of glycocalyx remodeling at LD-APM contact sites. We propose that Plin2 does not directly mediate contact between LD and the APM but acts by enhancing molecular interactions that stabilize LD-APM contacts and govern membrane envelopment of LD during apocrine lipid secretion. Plin2 does not appear to significantly affect the lipid content of milk in fully lactating animals, but it does increase lipid secretion at the onset of lactation in primaparous dams, which suggest a role in facilitating apocrine lipid secretion in sMEC during their initial transition to a secretory phenotype."
+  },
+  {
+    "paperId": "d0c991370d2b35599cde69cf9a44b648570e70c4",
+    "externalIds": {
+      "MAG": "3010819169",
+      "DOI": "10.1101/2020.03.10.985929",
+      "CorpusId": 214722685,
+      "PubMed": "34060050"
+    },
+    "title": "High-Throughput Image Analysis of Lipid-Droplet-Bound Mitochondria",
+    "venue": "bioRxiv",
+    "year": 2020,
+    "citationCount": 6,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1101/2020.03.10.985929",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1101/2020.03.10.985929?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1101/2020.03.10.985929, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Computer Science",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "6751942",
+        "name": "Nathanael Miller"
+      },
+      {
+        "authorId": "51176463",
+        "name": "Dane M. Wolf"
+      },
+      {
+        "authorId": "48373794",
+        "name": "Nour Alsabeeh"
+      },
+      {
+        "authorId": "40096516",
+        "name": "Kiana Mahdaviani"
+      },
+      {
+        "authorId": "32317826",
+        "name": "Mayuko Segawa"
+      },
+      {
+        "authorId": "4585730",
+        "name": "M. Liesa"
+      },
+      {
+        "authorId": "144182848",
+        "name": "O. Shirihai"
+      }
+    ],
+    "abstract": "Changes to mitochondrial architecture are associated with various adaptive and pathogenic processes. However, quantification of changes to mitochondrial structures are limited by the yet unmet challenge of defining the borders of each individual mitochondrion within an image.. Here, we describe a novel method for segmenting Brown Adipose Tissue (BAT) images. We describe a granular approach to quantifying subcellular structures, particularly mitochondria in close proximity to lipid droplets, peri-droplet mitochondria. In addition, we lay out a novel machine-learning-based mitochondrial segmentation method that eliminates the bias of manual mitochondrial segmentation and improves object recognition compared to conventional thresholding analyses. By applying these methods, we discovered a significant difference between cytosolic and peridroplet BAT mitochondrial H2O2 production, and validated the machine learning algorithm in BAT via norepinephrine-induced mitochondrial fragmentation and comparing manual analyses to the automated analysis. This approach provides a higher-throughput analysis protocol to quantify ratiometric probes in subpopulations of mitochondria in adipocytes."
+  },
+  {
+    "paperId": "22e10fba423f44b60787bbd7b1b7631365a649f6",
+    "externalIds": {
+      "MAG": "2734876025",
+      "DOI": "10.1016/j.yexcr.2017.07.015",
+      "CorpusId": 23801541,
+      "PubMed": "28712927"
+    },
+    "title": "Role of hepatic Annexin A6 in fatty acid‐induced lipid droplet formation",
+    "venue": "Experimental Cell Research",
+    "year": 2017,
+    "citationCount": 15,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.yexcr.2017.07.015?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.yexcr.2017.07.015, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2060861461",
+        "name": "Rose Cairns"
+      },
+      {
+        "authorId": "1401355006",
+        "name": "Anna Alvarez-Guaita"
+      },
+      {
+        "authorId": "1403409717",
+        "name": "Inés Martínez‐Saludes"
+      },
+      {
+        "authorId": "12849072",
+        "name": "Sundeep J Wason"
+      },
+      {
+        "authorId": "5347844",
+        "name": "Jacky Hanh"
+      },
+      {
+        "authorId": "39202620",
+        "name": "Shilpa R. Nagarajan"
+      },
+      {
+        "authorId": "1405570095",
+        "name": "Elham Hosseini-Beheshti"
+      },
+      {
+        "authorId": "4411640",
+        "name": "K. Monastyrskaya"
+      },
+      {
+        "authorId": "6620353",
+        "name": "A. Hoy"
+      },
+      {
+        "authorId": "3670175",
+        "name": "C. Buechler"
+      },
+      {
+        "authorId": "6435179",
+        "name": "C. Enrich"
+      },
+      {
+        "authorId": "6628554",
+        "name": "C. Rentero"
+      },
+      {
+        "authorId": "5467697",
+        "name": "T. Grewal"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "169317842975e5bbe1f1d73e51e34410b8f45356",
+    "externalIds": {
+      "PubMedCentral": "9450899",
+      "DOI": "10.1080/21623945.2022.2107784",
+      "CorpusId": 251469476,
+      "PubMed": "35946137"
+    },
+    "title": "Insulin prevents fatty acid induced increase of adipocyte size",
+    "venue": "Adipocyte",
+    "year": 2022,
+    "citationCount": 14,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1080/21623945.2022.2107784",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9450899, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "37328160",
+        "name": "Emmanuelle Berger"
+      },
+      {
+        "authorId": "3616154",
+        "name": "A. Géloën"
+      }
+    ],
+    "abstract": "ABSTRACT Metabolic disorders related to obesity are largely dependent on adipose tissue hypertrophy, which involves adipocyte hypertrophy and increased adipogenesis. Adiposize is regulated by lipid accumulation as a result of increased lipogenesis (mainly lipid uptake in mature adipocytes) and reduced lipolysis. Using realtime 2D cell culture analyses of lipid uptake, we show (1) that high glucose concentration (4.5 g/L) was required to accumulate oleic acid increasing lipid droplet size until unilocularization similar to mature adipocytes in few days, (2) oleic acid reduced Peroxisome-Proliferator Activated Receptor Gamma (PPARG) gene transcription and (3) insulin counteracted oleic acid-induced increase of lipid droplet size. Although the lipolytic activity observed in high versus low glucose (1 g/L) conditions was not altered, insulin was found to inhibit oleic acid induced gene transcription required for lipid storage such as Cell Death Inducing DFFA Like Effectors (CIDEC) and G0S2 (G0 switch gene S2), possibly through PPARA activity. Although this signalling pathway requires more detailed investigation, the results point out the differential mechanisms involved in the pro-adipogenic effect of insulin in absence versus its protective effect on adiposity in presence of oleic acid uptake. Abbreviations: AICAR, 5-Aminoimidazole-4-carboxamide-1-D-ribofuranoside; AMPK, AMP-Activated protein kinase, ASCs, adipose stem cell; ATGL, adipose triglyceride lipase; BSA, Bovine serum albumin; CEBPA, CCAAT enhancer binding protein alpha; CIDEs, Cell Death Inducing DFFA Like Effectors; dA, differentiated adipocyte; DMEM, Dulbecco’s Modified Eagle’s Medium; FABPs, Fatty Acid Binding Proteins; FAT/CD36, Fatty acid translocase; FCS, Foetal calf serum; FN1, fibronectin 1; FFA, free fatty acid; G0S2, G0 switch gene S2; GLUTs, Glucose transporters; GPR120, G protein-coupled receptor 120; HG, high glucose; HSL, hormone sensitive lipase; INSR, insulin receptor; LG, low glucose; OA, oleic acid; PBS, Phosphate buffer saline; PPARs, Peroxisome-Proliferator Activated Receptors; PKA, Protein kinase cyclic AMP-dependent; PKG, Protein kinase cyclic GMP dependent; PTGS2, cytochrome oxidase 2; RTCA, realtime cell analysis; TG, triglyceride. Graphical Abstract"
+  },
+  {
+    "paperId": "e329b486dde4ba53e798dd49f2a020c762d739e3",
+    "externalIds": {
+      "PubMedCentral": "10384627",
+      "DOI": "10.3390/pharmaceutics15071983",
+      "CorpusId": 260031397,
+      "PubMed": "37514169"
+    },
+    "title": "Lipid Nanoparticles as a Shuttle for Anti-Adipogenic miRNAs to Human Adipocytes",
+    "venue": "Pharmaceutics",
+    "year": 2023,
+    "citationCount": 9,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://www.mdpi.com/1999-4923/15/7/1983/pdf?version=1689831236",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10384627, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "1413886143",
+        "name": "Anna-Laurence Schachner-Nedherer"
+      },
+      {
+        "authorId": "2111989232",
+        "name": "Julia Fuchs"
+      },
+      {
+        "authorId": "30814416",
+        "name": "I. Vidakovic"
+      },
+      {
+        "authorId": "2224234854",
+        "name": "Oliver Höller"
+      },
+      {
+        "authorId": "1470691282",
+        "name": "Gebhard Schratter"
+      },
+      {
+        "authorId": "7878436",
+        "name": "G. Almer"
+      },
+      {
+        "authorId": "2828973",
+        "name": "E. Fröhlich"
+      },
+      {
+        "authorId": "2027235453",
+        "name": "A. Zimmer"
+      },
+      {
+        "authorId": "2173689269",
+        "name": "M. Wabitsch"
+      },
+      {
+        "authorId": "7567366",
+        "name": "K. Kornmueller"
+      },
+      {
+        "authorId": "3893664",
+        "name": "R. Prassl"
+      }
+    ],
+    "abstract": "Obesity and type 2 diabetes are major health burdens for which no effective therapy is available today. One treatment strategy could be to balance the metabolic functions of adipose tissue by regulating gene expressions using miRNAs. Here, we have loaded two anti-adipogenic miRNAs (miR26a and miR27a) into a pegylated lipid nanoparticle (PEG-LNP) formulation by a single-step microfluidic-assisted synthesis step. For the miRNA-loaded LNPs, the following system properties were determined: particle size, zeta potential, miRNA complexation efficiency, and cytotoxicity. We have used a human preadipocyte cell line to address the transfection efficiency and biological effects of the miRNA candidates at the gene and protein level. Our findings revealed that the upregulation of miR27a in preadipocytes inhibits adipogenesis by the downregulation of PPARγ and the reduction of lipid droplet formation. In contrast, miR26a transfection in adipocytes induced white adipocyte browning detected as the upregulation of uncoupling protein 1 (UCP1) as a marker of non-shivering thermogenesis. We conclude that the selective delivery of miRNAs by PEG-LNPs to adipocytes could offer new perspectives for the treatment of obesity and related metabolic diseases."
+  },
+  {
+    "paperId": "f3be4b23bf10e2b21b80effefdceff971819728e",
+    "externalIds": {
+      "MAG": "2026630242",
+      "DOI": "10.1016/j.msec.2015.01.015",
+      "CorpusId": 4821004,
+      "PubMed": "25686949"
+    },
+    "title": "Repressive effects of oat extracts on intracellular lipid-droplet formation in adipocytes and a three-dimensional subcutaneous adipose tissue model.",
+    "venue": "Materials Science and Engineering C: Materials for Biological Applications",
+    "year": 2015,
+    "citationCount": 6,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.msec.2015.01.015?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.msec.2015.01.015, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2461315",
+        "name": "S. Kato"
+      },
+      {
+        "authorId": "2526894",
+        "name": "Y. Kato"
+      },
+      {
+        "authorId": "2103993923",
+        "name": "Hiroki Shibata"
+      },
+      {
+        "authorId": "48966778",
+        "name": "Y. Saitoh"
+      },
+      {
+        "authorId": "23766869",
+        "name": "N. Miwa"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "eda2750475b134c0d1184ef4d728a3cc8b63112b",
+    "externalIds": {
+      "MAG": "2161590434",
+      "PubMedCentral": "4462949",
+      "DOI": "10.1091/mbc.E14-11-1504",
+      "CorpusId": 12574507,
+      "PubMed": "25904333"
+    },
+    "title": "ELMOD2 is anchored to lipid droplets by palmitoylation and regulates adipocyte triglyceride lipase recruitment",
+    "venue": "Molecular Biology of the Cell",
+    "year": 2015,
+    "citationCount": 44,
+    "influentialCitationCount": 5,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1091/mbc.e14-11-1504",
+      "status": "HYBRID",
+      "license": "CCBYNCSA",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4462949, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "3204543",
+        "name": "Michitaka Suzuki"
+      },
+      {
+        "authorId": "3303572",
+        "name": "Tatsuro Murakami"
+      },
+      {
+        "authorId": "3583944",
+        "name": "Jinglei Cheng"
+      },
+      {
+        "authorId": "2355174139",
+        "name": "Hiroyuki Kano"
+      },
+      {
+        "authorId": "5993711",
+        "name": "M. Fukata"
+      },
+      {
+        "authorId": "144016686",
+        "name": "T. Fujimoto"
+      }
+    ],
+    "abstract": "ELMOD2, a putative Arf1–GTPase-activating protein, was found to control recruitment of adipocyte triglyceride lipase to lipid droplets (LDs). ELMOD2 was found in LDs, endoplasmic reticulum, and mitochondria, but palmitoylation was required only for LD distribution. Because palmitoylation-deficient ELMOD2 was defective in this functionality, ELMOD2 is likely to regulate the Arf1–coatomer protein complex I mechanism operating in LDs."
+  },
+  {
+    "paperId": "e20ad48d9a7429862a056ece35029f7ceae22b1a",
+    "externalIds": {
+      "PubMedCentral": "4215711",
+      "MAG": "2100736790",
+      "DOI": "10.1242/jcs.147694",
+      "CorpusId": 327763,
+      "PubMed": "25189622"
+    },
+    "title": "GRAF1a is a brain-specific protein that promotes lipid droplet clustering and growth, and is enriched at lipid droplet junctions",
+    "venue": "Journal of Cell Science",
+    "year": 2014,
+    "citationCount": 44,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "https://jcs.biologists.org/content/joces/127/21/4602.full.pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4215711, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "1405220637",
+        "name": "Safa Lucken-Ardjomande Häsler"
+      },
+      {
+        "authorId": "4979377",
+        "name": "Y. Vallis"
+      },
+      {
+        "authorId": "5636701",
+        "name": "H. Jolin"
+      },
+      {
+        "authorId": "144256355",
+        "name": "A. McKenzie"
+      },
+      {
+        "authorId": "9277171",
+        "name": "H. McMahon"
+      }
+    ],
+    "abstract": "ABSTRACT Lipid droplets are found in all cell types. Normally present at low levels in the brain, they accumulate in tumours and are associated with neurodegenerative diseases. However, little is known about the mechanisms controlling their homeostasis in the brain. We found that GRAF1a, the longest GRAF1 isoform (GRAF1 is also known as ARHGAP26), was enriched in the brains of neonates. Endogenous GRAF1a was found on lipid droplets in oleic-acid-fed primary glial cells. Exclusive localization required a GRAF1a-specific hydrophobic segment and two membrane-binding regions, a BAR and a PH domain. Overexpression of GRAF1a promoted lipid droplet clustering, inhibited droplet mobility and severely perturbed lipolysis following the chase of cells overloaded with fatty acids. Under these conditions, GRAF1a concentrated at the interface between lipid droplets. Although GRAF1-knockout mice did not show any gross abnormal phenotype, the total lipid droplet volume that accumulated in GRAF1−/− primary glia upon incubation with fatty acids was reduced compared to GRAF1+/+ cells. These results provide additional insights into the mechanisms contributing to lipid droplet growth in non-adipocyte cells, and suggest that proteins with membrane sculpting BAR domains play a role in droplet homeostasis."
+  },
+  {
+    "paperId": "3be650a642b27588cd57167b4faaa36fda7d6dae",
+    "externalIds": {
+      "MAG": "2032487466",
+      "DOI": "10.1016/j.plipres.2014.02.002",
+      "CorpusId": 34976993,
+      "PubMed": "24607340"
+    },
+    "title": "Recent insights into the molecular pathophysiology of lipid droplet formation in hepatocytes.",
+    "venue": "Progress in lipid research",
+    "year": 2014,
+    "citationCount": 109,
+    "influentialCitationCount": 4,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.plipres.2014.02.002?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.plipres.2014.02.002, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "6861827",
+        "name": "N. Sahini"
+      },
+      {
+        "authorId": "153014126",
+        "name": "J. Borlak"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "4523105733218c52075602d803e2a99d6e04df27",
+    "externalIds": {
+      "PubMedCentral": "10092757",
+      "DOI": "10.7150/ijbs.82178",
+      "CorpusId": 258087676,
+      "PubMed": "37063427"
+    },
+    "title": "BAP31 depletion inhibited adipogenesis, repressed lipolysis and promoted lipid droplets abnormal growth via attenuating Perilipin1 proteasomal degradation",
+    "venue": "International Journal on Biological Sciences",
+    "year": 2023,
+    "citationCount": 12,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "https://www.ijbs.com/v19p1713.pdf",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10092757, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2385738026",
+        "name": "Xueying Wei"
+      },
+      {
+        "authorId": "1921233",
+        "name": "Liya Li"
+      },
+      {
+        "authorId": "2110118713",
+        "name": "Jie Zhao"
+      },
+      {
+        "authorId": "2072509420",
+        "name": "Y. Huo"
+      },
+      {
+        "authorId": "2374173155",
+        "name": "Xiaodi Hu"
+      },
+      {
+        "authorId": "2215816434",
+        "name": "Jingyi Lu"
+      },
+      {
+        "authorId": "145542527",
+        "name": "J. Pi"
+      },
+      {
+        "authorId": "39771572",
+        "name": "W. Zhang"
+      },
+      {
+        "authorId": "2158163206",
+        "name": "Lisheng Xu"
+      },
+      {
+        "authorId": "37410801",
+        "name": "Yudong Yao"
+      },
+      {
+        "authorId": "6315227",
+        "name": "Jialin Xu"
+      }
+    ],
+    "abstract": "BAP31 expression was robustly decreased in obese white adipose tissue (WAT). To investigate the roles of BAP31 in lipid metabolism, adipocyte-specific conditional knockout mice (BAP31-ASKO) were generated. BAP31-ASKO mice grow normally as controls, but exhibited reduced lipid accumulation in WAT. Histomorphometric analysis reported increased adipocyte size in BAP31-ASKO mice. Mouse embryonic fibroblasts (MEFs) were induced to differentiation to adipocytes, showed reduced induction of adipogenic markers and attenuated adipogenesis in BAP31-deficient MEFs. BAP31-deficiency inhibited fasting-induced PKA signaling activation and the fasting response. β3-adrenergic receptor agonist-induced lipolysis also was reduced, accompanied by reduced free-fatty acids and glycerol release, and impaired agonist-induced lipolysis from primary adipocytes and adipose explants. BAP31 interacts with Perilipin1 via C-terminal cytoplasmic portion on lipid droplets (LDs) surface. Depletion of BAP31 repressed Perilipin1 proteasomal degradation, enhanced Perilipin1 expression and blocked LDs degradation, which promoted LDs abnormal growth and supersized LDs formation, resulted in adipocyte expansion, thus impaired insulin signaling and aggravated pro-inflammation in WAT. BAP31-deficiency increased phosphatidylcholine/phosphatidylethanolamine ratio, long chain triglycerides and most phospholipids contents. Overall, BAP31-deficiency inhibited adipogenesis and lipid accumulation in WAT, decreased LDs degradation and promoted LDs abnormal growth, pointing the critical roles in modulating LDs dynamics and homeostasis via proteasomal degradation system in adipocytes."
+  },
+  {
+    "paperId": "f91a30c0176228e7966b83999cfb7ee56cd0df53",
+    "externalIds": {
+      "MAG": "2039927768",
+      "DOI": "10.1016/j.plipres.2009.03.001",
+      "CorpusId": 30031739,
+      "PubMed": "19303902"
+    },
+    "title": "Connecting lipid droplet biology and the metabolic syndrome.",
+    "venue": "Progress in lipid research",
+    "year": 2009,
+    "citationCount": 51,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.plipres.2009.03.001?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.plipres.2009.03.001, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "3652175",
+        "name": "S. Le Lay"
+      },
+      {
+        "authorId": "3669257",
+        "name": "I. Dugail"
+      }
+    ],
+    "abstract": "In the recent years, new advances in the biology of lipid droplets led these structures specialized for lipid storage to be considered as new universal intracellular organelles playing active roles in cell physiology. Concomitantly, studies on the pathogenesis of metabolic diseases such as type 2 diabetes or atherosclerosis, associated with ongoing epidemic obesity, have pointed out the importance of lipotoxic effects in metabolic dysfunction, generated by ectopic lipid storage in non-adipose tissues. The purpose of this paper is to establish connections between recent discoveries in lipid droplet biology and novel views in the pathology of the metabolic syndrome. Bringing together the new concepts produced in these two separated fields might show the way towards the definition of innovative strategies to treat metabolic diseases. Particular attention is given to the role of adipocyte-specific proteins that interact with lipid droplets and confer unique functions to adipocyte lipid storage by limiting the spill-over of fatty acids and their lipotoxic effects."
+  },
+  {
+    "paperId": "c9b5b535601a3807555b522957ec8e35f0abc6ca",
+    "externalIds": {
+      "PubMedCentral": "9635306",
+      "DOI": "10.1101/2022.06.04.494793",
+      "CorpusId": 249400703,
+      "PubMed": "35947507"
+    },
+    "title": "AdipoQ—a simple, open-source software to quantify adipocyte morphology and function in tissues and in vitro",
+    "venue": "bioRxiv",
+    "year": 2022,
+    "citationCount": 22,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1101/2022.06.04.494793",
+      "status": "GREEN",
+      "license": "CCBYNCSA",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9635306, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2168327243",
+        "name": "Katharina Sieckmann"
+      },
+      {
+        "authorId": "2168327238",
+        "name": "Nora Winnerling"
+      },
+      {
+        "authorId": "5873934",
+        "name": "Mylene Huebecker"
+      },
+      {
+        "authorId": "46774786",
+        "name": "P. Leyendecker"
+      },
+      {
+        "authorId": "2369968633",
+        "name": "D. Ribeiro"
+      },
+      {
+        "authorId": "6853076",
+        "name": "Thorsten Gnad"
+      },
+      {
+        "authorId": "144890361",
+        "name": "A. Pfeifer"
+      },
+      {
+        "authorId": "6106623",
+        "name": "D. Wachten"
+      },
+      {
+        "authorId": "145037643",
+        "name": "J. N. Hansen"
+      }
+    ],
+    "abstract": "The different adipose tissues can be distinguished according to their function. For example, white adipose tissue (WAT) stores energy in form of lipids, whereas brown adipose tissue (BAT) dissipates energy in the form of heat. These functional differences are represented in the respective adipocyte morphology: whereas white adipocytes contain large, unilocular lipid droplets, brown adipocytes contain smaller, multilocular lipid droplets. However, an automated, image-analysis pipeline to comprehensively analyze adipocytes in vitro in cell culture as well as ex vivo in tissue sections is missing. We here present AdipoQ, an open-source software implemented as ImageJ plugins that allows to analyze adipocytes in tissue sections and in vitro after histological and/or immunofluorescent labelling. AdipoQ is compatible with different imaging modalities and staining methods, allows batch processing of large datasets and simple post-hoc analysis, provides a broad band of parameters, and allows combining multiple fluorescent read-outs. Thereby, AdipoQ is of immediate use not only for basic research but also for clinical diagnosis."
+  },
+  {
+    "paperId": "28b21263ae15273044bd96c2295515b467b37c77",
+    "externalIds": {
+      "MAG": "2127694087",
+      "DOI": "10.1038/sj.embor.7400559",
+      "CorpusId": 36715600,
+      "PubMed": "16239926"
+    },
+    "title": "ATGL has a key role in lipid droplet/adiposome degradation in mammalian cells",
+    "venue": "EMBO Reports",
+    "year": 2006,
+    "citationCount": 330,
+    "influentialCitationCount": 16,
+    "openAccessPdf": {
+      "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1038/sj.embor.7400559",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1038/sj.embor.7400559?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/sj.embor.7400559, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "80886222",
+        "name": "E. Smirnova"
+      },
+      {
+        "authorId": "32512142",
+        "name": "Elysa B. Goldberg"
+      },
+      {
+        "authorId": "2192391",
+        "name": "K. Makarova"
+      },
+      {
+        "authorId": "2117105803",
+        "name": "Lin Lin"
+      },
+      {
+        "authorId": "145288168",
+        "name": "W. Brown"
+      },
+      {
+        "authorId": "4433137",
+        "name": "C. L. Jackson"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "ceeab04e95e0377d14c6e682f894ea13ad385372",
+    "externalIds": {
+      "MAG": "2061223714",
+      "DOI": "10.1002/jcb.10222",
+      "CorpusId": 42782904,
+      "PubMed": "12210750"
+    },
+    "title": "Immunocytochemical studies on lipid droplet‐surface proteins in adrenal cells",
+    "venue": "Journal of Cellular Biochemistry",
+    "year": 2002,
+    "citationCount": 22,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/jcb.10222?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/jcb.10222, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "52361388",
+        "name": "T. Fong"
+      },
+      {
+        "authorId": "13693082",
+        "name": "Chin-Chou Yang"
+      },
+      {
+        "authorId": "2013201",
+        "name": "A. Greenberg"
+      },
+      {
+        "authorId": "2004646974",
+        "name": "Seungho Wang"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "47f9211458f9a2cbc71a5ad436fb50950e8a2b18",
+    "externalIds": {
+      "MAG": "2125085671",
+      "DOI": "10.1089/107555303322284785",
+      "CorpusId": 21586309,
+      "PubMed": "14499025"
+    },
+    "title": "Hibiscus Extract Inhibits the Lipid Droplet Accumulation and Adipogenic Transcription Factors Expression of 3T3-L1 Preadipocytes",
+    "venue": "Journal of Alternative and Complementary Medicine",
+    "year": 2003,
+    "citationCount": 62,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1089/107555303322284785?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1089/107555303322284785, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "6518852",
+        "name": "M. Kim"
+      },
+      {
+        "authorId": "120086250",
+        "name": "Jin-Kyung Kim"
+      },
+      {
+        "authorId": "2120319898",
+        "name": "Hye-Jung Kim"
+      },
+      {
+        "authorId": "30976070",
+        "name": "S. Moon"
+      },
+      {
+        "authorId": "28862155",
+        "name": "B. Shin"
+      },
+      {
+        "authorId": "81720561",
+        "name": "Ki-Won Park"
+      },
+      {
+        "authorId": "11325471",
+        "name": "Hyun-Ok Yang"
+      },
+      {
+        "authorId": "1455947042",
+        "name": "S. Kim"
+      },
+      {
+        "authorId": "12336186",
+        "name": "R. Park"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "899d28af0fcd5ad9f6bcc93ab763b3853b5fd398",
+    "externalIds": {
+      "MAG": "2989666513",
+      "PubMedCentral": "6863835",
+      "DOI": "10.1038/s41598-019-52943-7",
+      "CorpusId": 208145590,
+      "PubMed": "31745102"
+    },
+    "title": "Plasticity of histone modifications around Cidea and Cidec genes with secondary bile in the amelioration of developmentally-programmed hepatic steatosis",
+    "venue": "Scientific Reports",
+    "year": 2019,
+    "citationCount": 12,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://www.nature.com/articles/s41598-019-52943-7.pdf",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6863835, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "1420020470",
+        "name": "Jeenat Ferdous Urmi"
+      },
+      {
+        "authorId": "144116081",
+        "name": "H. Itoh"
+      },
+      {
+        "authorId": "1401804124",
+        "name": "Keiko Muramatsu‐Kato"
+      },
+      {
+        "authorId": "1403932017",
+        "name": "Yukiko Kohmura‐Kobayashi"
+      },
+      {
+        "authorId": "7033071",
+        "name": "Natsuyo Hariya"
+      },
+      {
+        "authorId": "145950573",
+        "name": "Divyanu Jain"
+      },
+      {
+        "authorId": "1943353",
+        "name": "N. Tamura"
+      },
+      {
+        "authorId": "2059463245",
+        "name": "T. Uchida"
+      },
+      {
+        "authorId": "2118679729",
+        "name": "Kazunao Suzuki"
+      },
+      {
+        "authorId": "3509581",
+        "name": "Yoshihiro Ogawa"
+      },
+      {
+        "authorId": "6233601",
+        "name": "N. Shiraki"
+      },
+      {
+        "authorId": "2017968",
+        "name": "K. Mochizuki"
+      },
+      {
+        "authorId": "6808867",
+        "name": "T. Kubota"
+      },
+      {
+        "authorId": "4744554",
+        "name": "N. Kanayama"
+      }
+    ],
+    "abstract": "We recently reported that a treatment with tauroursodeoxycholic acid (TUDCA), a secondary bile acid, improved developmentally-deteriorated hepatic steatosis in an undernourishment (UN, 40% caloric restriction) in utero mouse model after a postnatal high-fat diet (HFD). We performed a microarray analysis and focused on two genes (Cidea and Cidec) because they are enhancers of lipid droplet (LD) sizes in hepatocytes and showed the greatest up-regulation in expression by UN that were completely recovered by TUDCA, concomitant with parallel changes in LD sizes. TUDCA remodeled developmentally-induced histone modifications (dimethylation of H3K4, H3K27, or H3K36), but not DNA methylation, around the Cidea and Cidec genes in UN pups only. Changes in these histone modifications may contribute to the markedly down-regulated expression of Cidea and Cidec genes in UN pups, which was observed in the alleviation of hepatic fat deposition, even under HFD. These results provide an insight into the future of precision medicine for developmentally-programmed hepatic steatosis by targeting histone modifications."
+  },
+  {
+    "paperId": "9e3e9ce30114c2b408619c958ae04ee8dbb1890d",
+    "externalIds": {
+      "MAG": "2965613621",
+      "PubMedCentral": "6802660",
+      "DOI": "10.1038/s12276-019-0289-0",
+      "CorpusId": 199389115,
+      "PubMed": "31375660"
+    },
+    "title": "Altered adipocyte differentiation and unbalanced autophagy in type 2 Familial Partial Lipodystrophy: an in vitro and in vivo study of adipose tissue browning",
+    "venue": "Experimental and Molecular Medicine",
+    "year": 2019,
+    "citationCount": 33,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1038/s12276-019-0289-0",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6802660, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "27054214",
+        "name": "C. Pellegrini"
+      },
+      {
+        "authorId": "6667770",
+        "name": "M. Columbaro"
+      },
+      {
+        "authorId": "35100307",
+        "name": "E. Schena"
+      },
+      {
+        "authorId": "33509902",
+        "name": "S. Prencipe"
+      },
+      {
+        "authorId": "5264359",
+        "name": "D. Andrenacci"
+      },
+      {
+        "authorId": "2575464",
+        "name": "P. Iozzo"
+      },
+      {
+        "authorId": "1401620270",
+        "name": "Maria Angela Guzzardi"
+      },
+      {
+        "authorId": "6202939",
+        "name": "C. Capanni"
+      },
+      {
+        "authorId": "40556173",
+        "name": "Elisabetta Mattioli"
+      },
+      {
+        "authorId": "6521833",
+        "name": "M. Loi"
+      },
+      {
+        "authorId": "1390073518",
+        "name": "D. Araújo-Vilar"
+      },
+      {
+        "authorId": "7025542",
+        "name": "S. Squarzoni"
+      },
+      {
+        "authorId": "5616594",
+        "name": "S. Cinti"
+      },
+      {
+        "authorId": "35435060",
+        "name": "P. Morselli"
+      },
+      {
+        "authorId": "49457854",
+        "name": "A. Giorgetti"
+      },
+      {
+        "authorId": "1889702",
+        "name": "L. Zanotti"
+      },
+      {
+        "authorId": "5485429",
+        "name": "A. Gambineri"
+      },
+      {
+        "authorId": "34939420",
+        "name": "G. Lattanzi"
+      }
+    ],
+    "abstract": "Type-2 Familial Partial Lipodystrophy is caused by LMNA mutations. Patients gradually lose subcutaneous fat from the limbs, while they accumulate adipose tissue in the face and neck. Several studies have demonstrated that autophagy is involved in the regulation of adipocyte differentiation and the maintenance of the balance between white and brown adipose tissue. We identified deregulation of autophagy in laminopathic preadipocytes before induction of differentiation. Moreover, in differentiating white adipocyte precursors, we observed impairment of large lipid droplet formation, altered regulation of adipose tissue genes, and expression of the brown adipose tissue marker UCP1. Conversely, in lipodystrophic brown adipocyte precursors induced to differentiate, we noticed activation of autophagy, formation of enlarged lipid droplets typical of white adipocytes, and dysregulation of brown adipose tissue genes. In agreement with these in vitro results indicating conversion of FPLD2 brown preadipocytes toward the white lineage, adipose tissue from FPLD2 patient neck, an area of brown adipogenesis, showed a white phenotype reminiscent of its brown origin. Moreover, in vivo morpho-functional evaluation of fat depots in the neck area of three FPLD2 patients by PET/CT analysis with cold stimulation showed the absence of brown adipose tissue activity. These findings highlight a new pathogenetic mechanism leading to improper fat distribution in lamin A-linked lipodystrophies and show that both impaired white adipocyte turnover and failure of adipose tissue browning contribute to disease. An abnormal distribution of fatty tissues associated with certain tissue disorders is driven by disrupted fat cell differentiation. Type 2 familial partial lipodystrophy (FPLD2) is a genetic condition that results in fat being lost from the limbs and accumulating in the face and neck. Giovanna Lattanzi at the National Research Council of Italy in Bologna and co-workers found that fat cell (adipocyte) precursors did not clearly differentiate into either of the two main fatty tissue types, brown or white, in FPLD2 patients. White adipocyte precursors exhibited impaired lipid formation and abnormal levels of brown tissue markers. Conversely, brown adipocyte precursors showed high lipid levels and increased autophagy, a natural process involving degradation and recycling of cellular components. The neck is normally where brown fat accumulates, but FPLD2 patients had adipocytes there displaying white fat characteristics."
+  },
+  {
+    "paperId": "2e91add687334d29a6b24972abaedc61df194947",
+    "externalIds": {
+      "MAG": "2314850477",
+      "DOI": "10.1515/hmbci-2013-0028",
+      "CorpusId": 43013875,
+      "PubMed": "25436723"
+    },
+    "title": "Nuclear receptor-mediated regulation of lipid droplet-associated protein gene expression in adipose tissue",
+    "venue": "Hormone Molecular Biology and Clinical Investigation",
+    "year": 2013,
+    "citationCount": 8,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1515/hmbci-2013-0028?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1515/hmbci-2013-0028, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "145939622",
+        "name": "M. Christian"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "8fa83686d02e5cf3fc6fdddad473fd0007c6d6ed",
+    "externalIds": {
+      "PubMedCentral": "9209483",
+      "DOI": "10.1038/s41598-022-13324-9",
+      "CorpusId": 246757961,
+      "PubMed": "35725987"
+    },
+    "title": "Adipose cells and tissues soften with lipid accumulation while in diabetes adipose tissue stiffens",
+    "venue": "Scientific Reports",
+    "year": 2022,
+    "citationCount": 46,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "https://www.nature.com/articles/s41598-022-13324-9.pdf",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9209483, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "46787200",
+        "name": "Shada Abuhattum"
+      },
+      {
+        "authorId": "10196581",
+        "name": "P. Kotzbeck"
+      },
+      {
+        "authorId": "14957260",
+        "name": "Raimund Schlüßler"
+      },
+      {
+        "authorId": "4699071",
+        "name": "A. Harger"
+      },
+      {
+        "authorId": "88738664",
+        "name": "Angela Ariza de Schellenberger"
+      },
+      {
+        "authorId": "1825263",
+        "name": "Kyoohyun Kim"
+      },
+      {
+        "authorId": "2049993708",
+        "name": "Joan-Carles Escolano"
+      },
+      {
+        "authorId": "2000483748",
+        "name": "T. Müller"
+      },
+      {
+        "authorId": "2060378766",
+        "name": "J. Braun"
+      },
+      {
+        "authorId": "2135387193",
+        "name": "M. Wabitsch"
+      },
+      {
+        "authorId": "49978096",
+        "name": "M. Tschoep"
+      },
+      {
+        "authorId": "2707483",
+        "name": "I. Sack"
+      },
+      {
+        "authorId": "3667307",
+        "name": "M. Brankatschk"
+      },
+      {
+        "authorId": "50662766",
+        "name": "J. Guck"
+      },
+      {
+        "authorId": "49262394",
+        "name": "K. Stemmer"
+      },
+      {
+        "authorId": "6069487",
+        "name": "A. Taubenberger"
+      }
+    ],
+    "abstract": "Adipose tissue expansion involves both differentiation of new precursors and size increase of mature adipocytes. While the two processes are well balanced in healthy tissues, obesity and diabetes type II are associated with abnormally enlarged adipocytes and excess lipid accumulation. Previous studies suggested a link between cell stiffness, volume and stem cell differentiation, although in the context of preadipocytes, there have been contradictory results regarding stiffness changes with differentiation. Thus, we set out to quantitatively monitor adipocyte shape and size changes with differentiation and lipid accumulation. We quantified by optical diffraction tomography that differentiating preadipocytes increased their volumes drastically. Atomic force microscopy (AFM)-indentation and -microrheology revealed that during the early phase of differentiation, human preadipocytes became more compliant and more fluid-like, concomitant with ROCK-mediated F-actin remodelling. Adipocytes that had accumulated large lipid droplets were more compliant, and further promoting lipid accumulation led to an even more compliant phenotype. In line with that, high fat diet-induced obesity was associated with more compliant adipose tissue compared to lean animals, both for drosophila fat bodies and murine gonadal adipose tissue. In contrast, adipose tissue of diabetic mice became significantly stiffer as shown not only by AFM but also magnetic resonance elastography. Altogether, we dissect relative contributions of the cytoskeleton and lipid droplets to cell and tissue mechanical changes across different functional states, such as differentiation, nutritional state and disease. Our work therefore sets the basis for future explorations on how tissue mechanical changes influence the behaviour of mechanosensitive tissue-resident cells in metabolic disorders."
+  },
+  {
+    "paperId": "c7c9ea277c1040496f053d31a29287251f92b015",
+    "externalIds": {
+      "MAG": "2983047779",
+      "DOI": "10.1016/j.bbrc.2019.10.192",
+      "CorpusId": 207964334,
+      "PubMed": "31706571"
+    },
+    "title": "Sulfhydration of perilipin 1 is involved in the inhibitory effects of cystathionine gamma lyase/hydrogen sulfide on adipocyte lipolysis.",
+    "venue": "Biochemical and Biophysical Research Communications - BBRC",
+    "year": 2019,
+    "citationCount": 24,
+    "influentialCitationCount": 3,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.bbrc.2019.10.192?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.bbrc.2019.10.192, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "authors": [
+      {
+        "authorId": "46304693",
+        "name": "Yajun Ding"
+      },
+      {
+        "authorId": "2145337439",
+        "name": "Huamin Wang"
+      },
+      {
+        "authorId": "46578855",
+        "name": "B. Geng"
+      },
+      {
+        "authorId": "2535286",
+        "name": "Guoheng Xu"
+      }
+    ],
+    "abstract": "Hydrogen sulfide (H2S) is a novel adipokine mediating glucose uptake, lipid storage and mobilization, thus contributing to the genesis of obesity and associated diseases. Our previous work demonstrated that H2S inhibited isoproterenol-stimulated lipolysis by reducing the phosphorylation of perilipin 1 (plin-1), a lipid-droplet protein blocking lipase access. How H2S modulates plin-1 phosphorylation is still unclear. Our present study found that an H2S donor slightly increased adipose tissue weight and reduced lipolysis in mice; by contrast, deleting the key H2S generation enzyme cystathionine gamma lyase (CSE) in adipocytes lowered adipose accumulation and enhanced lipolysis. Intriguingly, an H2S donor induced sulfhydration of plin-1 but not hormone-sensitive lipase, and CSE deletion abolished the post-translational modification of plin-1. During isoproterenol-stimulated lipolysis, plin-1 sulfhydration was associated with reduced phosphorylation, and removing sulfhydration by dithiothreitol recovered the phosphorylation. Finally, plin-1 knockout abolished the effect of H2S on lipolysis, which indicates that plin-1 sulfhydration is a major direct target of H2S in lipolysis. We have identified a new post-translation modification, sulfhydration (direct action by H2S) of plin-1, causing reduced phosphorylation then decreased lipolysis. This finding also highlights a novel molecular regulatory mechanism of lipolysis."
+  },
+  {
+    "paperId": "2a6b876cb8f927c8dab2477bbeb048e146c3f1a6",
+    "externalIds": {
+      "MAG": "1945140151",
+      "CorpusId": 24910333,
+      "PubMed": "9392423"
+    },
+    "title": "Adipose differentiation-related protein is an ubiquitously expressed lipid storage droplet-associated protein.",
+    "venue": "Journal of Lipid Research",
+    "year": 1997,
+    "citationCount": 659,
+    "influentialCitationCount": 41,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "3704546",
+        "name": "D. Brasaemle"
+      },
+      {
+        "authorId": "115317545",
+        "name": "T. Barber"
+      },
+      {
+        "authorId": "4800983",
+        "name": "N. Wolins"
+      },
+      {
+        "authorId": "3429290",
+        "name": "G. Serrero"
+      },
+      {
+        "authorId": "1400903606",
+        "name": "E. Blanchette‐Mackie"
+      },
+      {
+        "authorId": "4217394",
+        "name": "C. Londos"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "545a6d8d0fef8bc3052d5205e049d79f63c3c297",
+    "externalIds": {
+      "MAG": "3112588698",
+      "DOI": "10.1093/asj/sjaa360",
+      "CorpusId": 229173047,
+      "PubMed": "33319243"
+    },
+    "title": "Perilipin2 is an Earlier Marker Than Perilipin1 for Identifying Adipocyte Regeneration in Fat Grafts.",
+    "venue": "Aesthetic surgery journal",
+    "year": 2020,
+    "citationCount": 12,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1093/asj/sjaa360?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1093/asj/sjaa360, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2153281438",
+        "name": "Kaili Zhang"
+      },
+      {
+        "authorId": "2145307905",
+        "name": "Xi Chen"
+      },
+      {
+        "authorId": "2151331891",
+        "name": "Peng Zhang"
+      },
+      {
+        "authorId": "5953457",
+        "name": "Guangpeng Liu"
+      }
+    ],
+    "abstract": "BACKGROUND\nBoth perilipin1 (Plin1) and perilipin2 (Plin2) play a crucial role in regulating lipid droplet (LD) formation in fat cells. Plin2 is expressed during the early adipocyte differentiation and replaced by Plin1 after cell maturation. In free fat grafts, only a small amount of adipocytes remain alive or are replaced by newly regenerated fat cells. Plin1-positive adipocytes were found to participate in the regeneration process, but the characteristics of Plin2 expression during this course are still poorly understood.\n\n\nOBJECTIVES\nTo testify whether Plin2 is a more precise early marker for detecting adipocyte regeneration in fat grafts than Plin1.\n\n\nMETHODS\nAutologous fat tissue (120 mg) harvested from inguinal fat pads was injected under the scalps of C57 mice. Samples were explanted at days 3, 7, 15 and 30 after transplantation. Changes in sample size and weight were evaluated. HE staining, real-time PCR and immunostaining of Plin1 and Plin2 expression were performed.\n\n\nRESULTS\nPlin1, not Plin2 expression was detected in the freshly harvested fat, but the latter was activated after grafting. Newly regenerated Plin2-positive adipocytes increased from day 3 to day 7 and then declined, while the number of Plin1-positive fat cells decreased first and began to increase after day 15. The expression levels of Plin1 and Plin2 mRNA demonstrated similar changes over time. At day 30, adipocytes lost Plin2 expression and were positive for Plin1 again.\n\n\nCONCLUSIONS\nOur experiments showed convincing evidence that Plin2 expression could be used to describe the early adipocyte regeneration in the grafted fat tissue."
+  },
+  {
+    "paperId": "b696a6612994d1c5c893d336a74d4defeb4350e5",
+    "externalIds": {
+      "MAG": "2079781187",
+      "DOI": "10.15283/IJSC.2009.2.1.76",
+      "CorpusId": 6748372,
+      "PubMed": "24855523"
+    },
+    "title": "Clonal Mature Adipocyte Production of Proliferative-competent Daughter Cells Requires Lipid Export Prior to Cell Division.",
+    "venue": "International Journal of Stem Cells",
+    "year": 2009,
+    "citationCount": 17,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://europepmc.org/articles/pmc4021797?pdf=render",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.15283/IJSC.2009.2.1.76?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.15283/IJSC.2009.2.1.76, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2155098559",
+        "name": "Jie Chen"
+      },
+      {
+        "authorId": "5300547",
+        "name": "M. Guridi"
+      },
+      {
+        "authorId": "6893592",
+        "name": "M. Fernyhough"
+      },
+      {
+        "authorId": "2841375",
+        "name": "Zhihua Jiang"
+      },
+      {
+        "authorId": "7514762",
+        "name": "L. Guan"
+      },
+      {
+        "authorId": "3789875",
+        "name": "G. Hausman"
+      },
+      {
+        "authorId": "2790161",
+        "name": "M. Dodson"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "c46e1945d704e4a870b8c47d4c1da08447911307",
+    "externalIds": {
+      "MAG": "1976879072",
+      "DOI": "10.1080/15216540400009968",
+      "CorpusId": 20958134,
+      "PubMed": "15545214"
+    },
+    "title": "The Central Role of Perilipin A in Lipid Metabolism and Adipocyte Lipolysis",
+    "venue": "IUBMB Life - A Journal of the International Union of Biochemistry and Molecular Biology",
+    "year": 2004,
+    "citationCount": 275,
+    "influentialCitationCount": 10,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/15216540400009968?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/15216540400009968, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "48365492",
+        "name": "J. Tansey"
+      },
+      {
+        "authorId": "5423887",
+        "name": "C. Sztalryd"
+      },
+      {
+        "authorId": "12862815",
+        "name": "Erica M Hlavin"
+      },
+      {
+        "authorId": "2805764",
+        "name": "A. Kimmel"
+      },
+      {
+        "authorId": "4217394",
+        "name": "C. Londos"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "d9fc55d062e29287e87b5e3254c295a73428143f",
+    "externalIds": {
+      "MAG": "2045249990",
+      "DOI": "10.1016/j.yexcr.2013.12.023",
+      "CorpusId": 22434408,
+      "PubMed": "24394544"
+    },
+    "title": "Lipid droplets fusion in adipocyte differentiated 3T3-L1 cells: a Monte Carlo simulation.",
+    "venue": "Experimental Cell Research",
+    "year": 2014,
+    "citationCount": 15,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.yexcr.2013.12.023?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.yexcr.2013.12.023, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "34879537",
+        "name": "F. Boschi"
+      },
+      {
+        "authorId": "6137781",
+        "name": "V. Rizzatti"
+      },
+      {
+        "authorId": "4359740",
+        "name": "M. Zamboni"
+      },
+      {
+        "authorId": "3292433",
+        "name": "A. Sbarbati"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "9fddf1ca0be913b3d3b4880750c39deae4ae783c",
+    "externalIds": {
+      "MAG": "3048516490",
+      "PubMedCentral": "7441422",
+      "DOI": "10.1155/2020/8892300",
+      "CorpusId": 221294632,
+      "PubMed": "32849880"
+    },
+    "title": "Molecular Mechanism of Stem Cell Differentiation into Adipocytes and Adipocyte Differentiation of Malignant Tumor",
+    "venue": "Stem Cells International",
+    "year": 2020,
+    "citationCount": 45,
+    "influentialCitationCount": 3,
+    "openAccessPdf": {
+      "url": "https://downloads.hindawi.com/journals/sci/2020/8892300.pdf",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7441422, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "4050117",
+        "name": "Kexin Zhang"
+      },
+      {
+        "authorId": "2383942613",
+        "name": "Xudong Yang"
+      },
+      {
+        "authorId": "2287458799",
+        "name": "Qi Zhao"
+      },
+      {
+        "authorId": "1486443452",
+        "name": "Zugui Li"
+      },
+      {
+        "authorId": "1905727088",
+        "name": "Fangmei Fu"
+      },
+      {
+        "authorId": "2144614482",
+        "name": "Hao Zhang"
+      },
+      {
+        "authorId": "151489864",
+        "name": "Minying Zheng"
+      },
+      {
+        "authorId": "47179631",
+        "name": "Shiwu Zhang"
+      }
+    ],
+    "abstract": "Adipogenesis is the process through which preadipocytes differentiate into adipocytes. During this process, the preadipocytes cease to proliferate, begin to accumulate lipid droplets, and develop morphologic and biochemical characteristics of mature adipocytes. Mesenchymal stem cells (MSCs) are a type of adult stem cells known for their high plasticity and capacity to generate mesodermal and nonmesodermal tissues. Many mature cell types can be generated from MSCs, including adipocyte, osteocyte, and chondrocyte. The differentiation of stem cells into multiple mature phenotypes is at the basis for tissue regeneration and repair. Cancer stem cells (CSCs) play a very important role in tumor development and have the potential to differentiate into multiple cell lineages. Accumulating evidence has shown that cancer cells can be induced to differentiate into various benign cells, such as adipocytes, fibrocytes, osteoblast, by a variety of small molecular compounds, which may provide new strategies for cancer treatment. Recent studies have reported that tumor cells undergoing epithelial-to-mesenchymal transition can be induced to differentiate into adipocytes. In this review, molecular mechanisms, signal pathways, and the roles of various biological processes in adipose differentiation are summarized. Understanding the molecular mechanism of adipogenesis and adipose differentiation of cancer cells may contribute to cancer treatments that involve inducing differentiation into benign cells."
+  },
+  {
+    "paperId": "cb4f6e7a873174f5aaaa4ca6816dde0cc2230bd9",
+    "externalIds": {
+      "MAG": "2000115567",
+      "PubMedCentral": "3299243",
+      "DOI": "10.1155/2012/247275",
+      "CorpusId": 10270628,
+      "PubMed": "22506114"
+    },
+    "title": "Endoplasmic Reticulum Stress-Associated Lipid Droplet Formation and Type II Diabetes",
+    "venue": "Biochemistry Research International",
+    "year": 2012,
+    "citationCount": 38,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "https://downloads.hindawi.com/journals/bri/2012/247275.pdf",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3299243, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2108177589",
+        "name": "Xuebao Zhang"
+      },
+      {
+        "authorId": "35441831",
+        "name": "Kezhong Zhang"
+      }
+    ],
+    "abstract": "Diabetes mellitus (DM), a metabolic disorder characterized by hyperglycemia, is caused by insufficient insulin production due to excessive loss of pancreatic β cells (type I diabetes) or impaired insulin signaling due to peripheral insulin resistance (type II diabetes). Pancreatic β cell is the only insulin-secreting cell type that has highly developed endoplasmic reticulum (ER) to cope with high demands of insulin synthesis and secretion. Therefore, ER homeostasis is crucial to the proper function of insulin signaling. Accumulating evidence suggests that deleterious ER stress and excessive intracellular lipids in nonadipose tissues, such as myocyte, cardiomyocyte, and hepatocyte, cause pancreatic β-cell dysfunction and peripheral insulin resistance, leading to type II diabetes. The excessive deposition of lipid droplets (LDs) in specialized cell types, such as adipocytes, hepatocytes, and macrophages, has been found as a hallmark in ER stress-associated metabolic diseases, including obesity, diabetes, fatty liver disease, and atherosclerosis. However, much work remains to be done in understanding the mechanism by which ER stress response regulates LD formation and the pathophysiologic role of ER stress-associated LD in metabolic disease. This paper briefly summarizes the recent advances in ER stress-associated LD formation and its involvement in type II diabetes."
+  },
+  {
+    "paperId": "3cc9c23acaa8bd31a222b558e21be956f40d8038",
+    "externalIds": {
+      "MAG": "3039062766",
+      "PubMedCentral": "7412416",
+      "DOI": "10.1111/jcmm.15497",
+      "CorpusId": 220327747,
+      "PubMed": "32618419"
+    },
+    "title": "An in vitro model for hypertrophic adipocytes: Time‐dependent adipocyte proteome and secretome changes under high glucose and high insulin conditions",
+    "venue": "Journal of Cellular and Molecular Medicine",
+    "year": 2020,
+    "citationCount": 8,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jcmm.15497",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7412416, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2058331432",
+        "name": "Q. Qiao"
+      },
+      {
+        "authorId": "1960967",
+        "name": "F. Bouwman"
+      },
+      {
+        "authorId": "3814149",
+        "name": "J. Renes"
+      },
+      {
+        "authorId": "30020277",
+        "name": "E. Mariman"
+      }
+    ],
+    "abstract": "Obesity is the consequence of a positive energy balance and characterized by enlargement of the adipose tissue, which in part is due to hyperplasia and hypertrophy of the adipocytes. Not much is known about the transition of normal mature adipocytes to the hypertrophic state, which in vivo is very hard to study. Here, we have maintained mature human SGBS cells as a surrogate for adipocytes, changes of morphological and molecular metabolism of the adipocytes were monitored over the first 4 days and the last 4 days. In total, 393 cellular proteins and 246 secreted proteins were identified for further analysis. During the first 4 days of high glucose and insulin, the adipocytes seemed to prefer pyruvate as energy source, whereas beta‐oxidation was down‐regulated supporting lipid loading. Over time, lipid droplet fusion instead of lipid uptake became relatively important for growth of lipid droplets during the last 4 days. Moreover, ECM production shifted towards ECM turnover by the up‐regulation of proteases over eight days. The present in vitro system provides insight into the metabolic changes of adipocytes under conditions of high glucose and insulin, which may help to understand the process of in vivo adipocyte hypertrophy during the development of obesity."
+  },
+  {
+    "paperId": "c8ead560e796aac4d03f013b4e1a9d624a722365",
+    "externalIds": {
+      "PubMedCentral": "3237475",
+      "MAG": "2072551674",
+      "DOI": "10.1371/journal.pone.0028614",
+      "CorpusId": 70675,
+      "PubMed": "22194867"
+    },
+    "title": "FSP27 Promotes Lipid Droplet Clustering and Then Fusion to Regulate Triglyceride Accumulation",
+    "venue": "PLoS ONE",
+    "year": 2011,
+    "citationCount": 131,
+    "influentialCitationCount": 3,
+    "openAccessPdf": {
+      "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0028614&type=printable",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3237475, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "6054842",
+        "name": "Srikarthika Jambunathan"
+      },
+      {
+        "authorId": "2119273258",
+        "name": "Jun-yi Yin"
+      },
+      {
+        "authorId": "121796767",
+        "name": "W. Khan"
+      },
+      {
+        "authorId": "34944757",
+        "name": "Y. Tamori"
+      },
+      {
+        "authorId": "33331605",
+        "name": "V. Puri"
+      }
+    ],
+    "abstract": "Fat Specific Protein 27 (FSP27), a lipid droplet (LD) associated protein in adipocytes, regulates triglyceride (TG) storage. In the present study we demonstrate that FSP27 plays a key role in LD morphology to accumulate TGs. We show here that FSP27 promotes clustering of the LDs which is followed by their fusion into fewer and enlarged droplets. To map the domains of FSP27 responsible for these events, we generated GFP-fusion constructs of deletion mutants of FSP27. Microscopic analysis revealed that amino acids 173–220 of FSP27 are necessary and sufficient for both the targeting of FSP27 to LDs and the initial clustering of the droplets. Amino acids 120–140 are essential but not sufficient for LD enlargement, whereas amino acids 120–210 are necessary and sufficient for both clustering and fusion of LDs to form enlarged droplets. In addition, we found that FSP27-mediated enlargement of LDs, but not their clustering, is associated with triglyceride accumulation. These results suggest a model in which FSP27 facilitates LD clustering and then promotes their fusion to form enlarged droplets in two discrete, sequential steps, and a subsequent triglyceride accumulation."
+  },
+  {
+    "paperId": "6ff7b800cfa0fb9db67bcffcad2004c22c2d6a27",
+    "externalIds": {
+      "PubMedCentral": "11214951",
+      "DOI": "10.3724/abbs.2024046",
+      "CorpusId": 269086188,
+      "PubMed": "38606478"
+    },
+    "title": "Lycium barbarum polysaccharide ameliorates the accumulation of lipid droplets in adipose tissue via an ATF6/SIRT1-dependent mechanism",
+    "venue": "Acta Biochimica et Biophysica Sinica",
+    "year": 2024,
+    "citationCount": 5,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://www.sciengine.com/doi/pdfView/5B4156492478401580E8A76FFBA4BEF2",
+      "status": "GOLD",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11214951, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2296382934",
+        "name": "Rui Zhou"
+      },
+      {
+        "authorId": "2323324167",
+        "name": "Yajing Liu"
+      },
+      {
+        "authorId": "2265519026",
+        "name": "Weiqiang Hu"
+      },
+      {
+        "authorId": "2334439929",
+        "name": "Jing Yang"
+      },
+      {
+        "authorId": "2296269520",
+        "name": "Bing Lin"
+      },
+      {
+        "authorId": "2296385497",
+        "name": "Zhentian Zhang"
+      },
+      {
+        "authorId": "2334448106",
+        "name": "Mingyan Chen"
+      },
+      {
+        "authorId": "2114336255",
+        "name": "Jing Yi"
+      },
+      {
+        "authorId": "2296274036",
+        "name": "Cuifeng Zhu"
+      }
+    ],
+    "abstract": "Lipid droplets (LDs) are dynamic organelles that store neutral lipids and are closely linked to obesity. Previous studies have suggested that Lycium barbarum polysaccharide (LBP) supplements can ameliorate obesity, but the underlying mechanisms remain unclear. In this study, we hypothesize that LBP alleviates LD accumulation in adipose tissue (AT) by inhibiting fat-specific protein 27 (Fsp27) through an activating transcription factor-6 (ATF6)/small-molecule sirtuin 1 (SIRT1)-dependent mechanism. LD accumulation in AT is induced in high-fat diet (HFD)-fed mice, and differentiation of 3T3-L1 preadipocytes (PAs) is induced. The ability of LBP to alleviate LD accumulation and the possible underlying mechanism are then investigated both in vivo and in vitro. The influences of LBP on the expressions of LD-associated genes ( ATF6 and Fsp27) are also detected. The results show that HFD and PA differentiation markedly increase LD accumulation in ATs and adipocytes, respectively, and these effects are markedly suppressed by LBP supplementation. Furthermore, LBP significantly activates SIRT1 and decreases ATF6 and Fsp27 expressions. Interestingly, the inhibitory effects of LBP are either abolished or exacerbated when ATF6 is overexpressed or silenced, respectively. Furthermore, SIRT1 level is transcriptionally regulated by LBP through opposite actions mediated by ATF6. Collectively, our findings suggest that LBP supplementation alleviates obesity by ameliorating LD accumulation, which might be partially mediated by an ATF6/SIRT1-dependent mechanism."
+  },
+  {
+    "paperId": "ef44836d1c4c3a070a3863a7fead47c0d7a4ba71",
+    "externalIds": {
+      "PubMedCentral": "8667404",
+      "DOI": "10.1186/s12944-021-01606-6",
+      "CorpusId": 245134631,
+      "PubMed": "34895241"
+    },
+    "title": "Polysaccharide CM1 from Cordyceps militaris hinders adipocyte differentiation and alleviates hyperlipidemia in LDLR(+/−) hamsters",
+    "venue": "Lipids in Health and Disease",
+    "year": 2021,
+    "citationCount": 18,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "https://lipidworld.biomedcentral.com/counter/pdf/10.1186/s12944-021-01606-6",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8667404, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2149229816",
+        "name": "Wen-Qian Yu"
+      },
+      {
+        "authorId": "2065088560",
+        "name": "F. Yin"
+      },
+      {
+        "authorId": "1785390199",
+        "name": "Nuo Shen"
+      },
+      {
+        "authorId": "32063577",
+        "name": "Ping-Xiao Lin"
+      },
+      {
+        "authorId": "2058909619",
+        "name": "Bin Xia"
+      },
+      {
+        "authorId": "2155359711",
+        "name": "Yan-Jie Li"
+      },
+      {
+        "authorId": "2119112623",
+        "name": "Shou-Dong Guo"
+      }
+    ],
+    "abstract": "Cordyceps militaris is cultured widely as an edible mushroom and accumulating evidence in mice have demonstrated that the polysaccharides of Cordyceps species have lipid-lowering effects. However, lipid metabolism in mice is significantly different from that in humans, making a full understanding of the mechanisms at play critical. After 5 months, the hamsters were weighed and sampled under anesthesia after overnight fasting. The lipid-lowering effect and mechanisms of the polysaccharide CM1 was investigated by cellular and molecular technologies. Furthermore, the effect of the polysaccharide CM1 (100 μg/mL) on inhibiting adipocyte differentiation was investigated in vitro. CM1, a polysaccharide from C. militaris, significantly decreased plasma total cholesterol, triglyceride and epididymal fat index in LDLR(+/−) hamsters, which have a human-like lipid profile. After 5 months’ administration, CM1 decreased the plasma level of apolipoprotein B48, modulated the expression of key genes and proteins in liver, small intestine, and epididymal fat. CM1 also inhibited preadipocyte differentiation in 3T3-L1 cells by downregulating the key genes involved in lipid droplet formation. The polysaccharide CM1 lowers lipid and adipocyte differentiation by several pathways, and it has potential applications for hyperlipidemia prevention."
+  },
+  {
+    "paperId": "c90b63efb097f680c08ce5ca8cc7b5534e34cfa4",
+    "externalIds": {
+      "PubMedCentral": "8749678",
+      "DOI": "10.3390/ani12010028",
+      "CorpusId": 245461504,
+      "PubMed": "35011132"
+    },
+    "title": "miR-27a Regulates Sheep Adipocyte Differentiation by Targeting CPT1B Gene",
+    "venue": "Animals",
+    "year": 2021,
+    "citationCount": 18,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://www.mdpi.com/2076-2615/12/1/28/pdf?version=1640688597",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8749678, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2155883673",
+        "name": "Bo Li"
+      },
+      {
+        "authorId": "2286955099",
+        "name": "Xiaoyu Huang"
+      },
+      {
+        "authorId": "2154170855",
+        "name": "Chen Yang"
+      },
+      {
+        "authorId": "2141028429",
+        "name": "Ting Ge"
+      },
+      {
+        "authorId": "2152316902",
+        "name": "Leiyun Zhao"
+      },
+      {
+        "authorId": "2155352774",
+        "name": "Xiaoqiang Zhang"
+      },
+      {
+        "authorId": "2117119363",
+        "name": "Lintao Tian"
+      },
+      {
+        "authorId": "51241358",
+        "name": "Enping Zhang"
+      }
+    ],
+    "abstract": "Simple Summary The content of intramuscular fat (IMF) is the main determinant of the nutritional and economic value of sheep meat. Therefore, lipid synthesis in sheep longissimus lumborum (LL) has become an important research focus. MicroRNA-27a (miR-27a) has been shown to play a crucial role in the proliferation and differentiation of adipocyte progenitor cells. In this study, we revealed that miR-27a significantly inhibited the formation of lipid droplets by targeting CPT1B to inhibit genes involved in lipid synthesis including PPAR γ, SCD, LPL, and FABP4. Here, we constructed a miR-27a-CPT1B regulatory network map, which revealed the interaction between miR-27a and CPT1B in lipid synthesis in ovine preadipocytes. Abstract MiRNAs are vital regulators and play a major role in cell differentiation, biological development, and disease occurrence. In recent years, many studies have found that miRNAs are involved in the proliferation and differentiation of adipocytes. The objective of this study was to evaluate the effect of miR-27a and its target gene CPT1B on ovine preadipocytes differentiation in Small-tailed Han sheep (Ovis aries). Down-regulation of miR-27a significantly promoted the production of lipid droplets, while overexpression of miR-27a led to a reduction in lipid droplet production. In addition, inhibition of miR-27a led to a significant increase in the expression of genes involved in lipid synthesis, including PPAR γ, SCD, LPL, and FABP4. Target Scan software predicted that CPT1B is a new potential target gene of miR-27a. Further experiments revealed that CPT1B gene expression and protein levels were negatively correlated with miR-27a expression. Overexpression of miR-27a led to a significant decrease in CPT1B mRNA levels and inhibited the accumulation of lipid droplets and vice versa. Moreover, overexpression of CPT1B promoted the synthesis of lipid droplets in ovine preadipocytes. Furthermore, luciferase reporter assays confirmed CPT1B to be a miR-27a direct target gene. This study confirmed that miR-27a increases the expression of genes related to lipid synthesis in ovine preadipocytes by targeting CPT1B, thereby promoting the synthesis of lipid droplets. The results of this study can be used to be exploited in devising novel approaches for improving the IMF content of sheep."
+  },
+  {
+    "paperId": "df95cb4eb6f0db416f6fcfee51b7eb7bce8f3eb8",
+    "externalIds": {
+      "MAG": "2285816249",
+      "PubMedCentral": "4763019",
+      "DOI": "10.3389/fphys.2016.00050",
+      "CorpusId": 1918537,
+      "PubMed": "26941649"
+    },
+    "title": "Use of Rat Mature Adipocyte-Derived Dedifferentiated Fat Cells as a Cell Source for Periodontal Tissue Regeneration",
+    "venue": "Frontiers in Physiology",
+    "year": 2016,
+    "citationCount": 47,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "https://www.frontiersin.org/articles/10.3389/fphys.2016.00050/pdf",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4763019, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "3428268",
+        "name": "Daisuke Akita"
+      },
+      {
+        "authorId": "34835891",
+        "name": "K. Kano"
+      },
+      {
+        "authorId": "1422200760",
+        "name": "Yoko Saito-Tamura"
+      },
+      {
+        "authorId": "49870747",
+        "name": "Takayuki Mashimo"
+      },
+      {
+        "authorId": "1422200919",
+        "name": "Momoko Sato-Shionome"
+      },
+      {
+        "authorId": "47494249",
+        "name": "Niina Tsurumachi"
+      },
+      {
+        "authorId": "144095355",
+        "name": "K. Yamanaka"
+      },
+      {
+        "authorId": "50509369",
+        "name": "T. Kaneko"
+      },
+      {
+        "authorId": "117990301",
+        "name": "Taku Toriumi"
+      },
+      {
+        "authorId": "2313397",
+        "name": "Y. Arai"
+      },
+      {
+        "authorId": "4735074",
+        "name": "N. Tsukimura"
+      },
+      {
+        "authorId": "94114436",
+        "name": "Taro Matsumoto"
+      },
+      {
+        "authorId": "92118142",
+        "name": "T. Ishigami"
+      },
+      {
+        "authorId": "6366081",
+        "name": "K. Isokawa"
+      },
+      {
+        "authorId": "1884844",
+        "name": "M. Honda"
+      }
+    ],
+    "abstract": "Lipid-free fibroblast-like cells, known as dedifferentiated fat (DFAT) cells, can be generated from mature adipocytes with a large single lipid droplet. DFAT cells can re-establish their active proliferation ability and can transdifferentiate into various cell types under appropriate culture conditions. The first objective of this study was to compare the multilineage differentiation potential of DFAT cells with that of adipose-derived stem cells (ASCs) on mesenchymal stem cells. We obtained DFAT cells and ASCs from inbred rats and found that rat DFAT cells possess higher osteogenic differentiation potential than rat ASCs. On the other hand, DFAT cells show similar adipogenic differentiation, and chondrogenic differentiation potential in comparison with ASCs. The second objective of this study was to assess the regenerative potential of DFAT cells combined with novel solid scaffolds composed of PLGA (Poly d, l-lactic-co-glycolic acid) on periodontal tissue, and to compare this with the regenerative potential of ASCs combined with PLGA scaffolds. Cultured DFAT cells and ASCs were seeded onto PLGA scaffolds (DFAT/PLGA and ASCs/PLGA) and transplanted into periodontal fenestration defects in rat mandible. Micro computed tomography analysis revealed a significantly higher amount of bone regeneration in the DFAT/PLGA group compared with that of ASCs/PLGA and PLGA-alone groups at 2, 3, and 5 weeks after transplantation. Similarly, histomorphometric analysis showed that DFAT/PLGA groups had significantly greater width of cementum, periodontal ligament and alveolar bone than ASCs/PLGA and PLGA-alone groups. In addition, transplanted fluorescent-labeled DFAT cells were observed in the periodontal ligament beside the newly formed bone and cementum. These findings suggest that DFAT cells have a greater potential for enhancing periodontal tissue regeneration than ASCs. Therefore, DFAT cells are a promising cell source for periodontium regeneration."
+  },
+  {
+    "paperId": "98bbdd52064c8d2659bd62b8e1ab162d0152c7df",
+    "externalIds": {
+      "MAG": "2159905006",
+      "DOI": "10.1128/MCB.01723-13",
+      "CorpusId": 8414600,
+      "PubMed": "24636991"
+    },
+    "title": "Cidea Control of Lipid Storage and Secretion in Mouse and Human Sebaceous Glands",
+    "venue": "Molecular and Cellular Biology",
+    "year": 2014,
+    "citationCount": 41,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://mcb.asm.org/content/mcb/34/10/1827.full.pdf",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1128/MCB.01723-13?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1128/MCB.01723-13, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Chemistry",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "2145442395",
+        "name": "Shasha Zhang"
+      },
+      {
+        "authorId": "4461348",
+        "name": "G. Shui"
+      },
+      {
+        "authorId": "2152583022",
+        "name": "Guanqun Wang"
+      },
+      {
+        "authorId": "2144449321",
+        "name": "Chao Wang"
+      },
+      {
+        "authorId": "2115306129",
+        "name": "Shuhong Sun"
+      },
+      {
+        "authorId": "5446133",
+        "name": "C. Zouboulis"
+      },
+      {
+        "authorId": "47164418",
+        "name": "Ran Xiao"
+      },
+      {
+        "authorId": "145764348",
+        "name": "Jing Ye"
+      },
+      {
+        "authorId": "2157335946",
+        "name": "Wei Li"
+      },
+      {
+        "authorId": "2152926564",
+        "name": "Peng Li"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "d7de8a2bc4b105b21827f51d95228923d0faf699",
+    "externalIds": {
+      "PubMedCentral": "8027764",
+      "DOI": "10.3892/etm.2021.9995",
+      "CorpusId": 233211100,
+      "PubMed": "33850535"
+    },
+    "title": "Alliin inhibits adipocyte differentiation by downregulating Akt expression: Implications for metabolic disease",
+    "venue": "Experimental and Therapeutic Medicine",
+    "year": 2021,
+    "citationCount": 15,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "https://www.spandidos-publications.com/10.3892/etm.2021.9995/download",
+      "status": "GOLD",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8027764, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2108723882",
+        "name": "Ni Li"
+      },
+      {
+        "authorId": "2118440810",
+        "name": "Kai Chen"
+      },
+      {
+        "authorId": "39256302",
+        "name": "Hongwei Dong"
+      },
+      {
+        "authorId": "2143852880",
+        "name": "Jing Yang"
+      },
+      {
+        "authorId": "9995578",
+        "name": "M. Yoshizawa"
+      },
+      {
+        "authorId": "2780062",
+        "name": "H. Kagami"
+      },
+      {
+        "authorId": "2108814653",
+        "name": "Xianqi Li"
+      }
+    ],
+    "abstract": "Obesity is currently an important health problem and is associated with an increased likelihood of various diseases. The efficacies of various natural treatments have been assessed for their utility in treating obesity. Alliin (S-allyl-L-cysteine sulfoxides) is considered the major component of garlic and has a wide range of natural antioxidant properties. However, the direct effects of alliin on obesity have not been well clarified. The present study investigated the effects and possible mechanisms of alliin on adipocyte differentiation. The 3T3-L1 cells were treated with alliin (0-40 µg/ml) during adipogenic differentiation. The effect of alliin on lipid accumulation was evaluated by Oil red O staining. Reverse transcription-quantitative PCR was performed to investigate the expression levels of adipogenic differentiation-related genes. The accumulation of lipid droplets was markedly inhibited following alliin treatment. The expression levels of multiple adipogenic transcription markers, such as CCAAT/enhancer-binding protein (C/EBP) β, C/EBP α and peroxisome proliferation-activity receptor γ, were markedly decreased following treatment with alliin during adipogenic differentiation. Expression levels of several adipocyte-related genes were subsequently suppressed. Additionally, alliin suppressed PKB/Akt and PI3K expression. These results suggested that alliin exhibits anti-adipogenic activity by downregulating major adipogenic differentiation-related genes and Akt/PI3K expression. Alliin may have a potential therapeutic effect on metabolic disease."
+  },
+  {
+    "paperId": "520cfe5f8ff68310be7bf9ba379e71b64e01e1d0",
+    "externalIds": {
+      "PubMedCentral": "5123203",
+      "MAG": "2524234778",
+      "DOI": "10.1016/j.molmet.2016.09.009",
+      "CorpusId": 2694349,
+      "PubMed": "27900258"
+    },
+    "title": "Adipocyte-specific Hypoxia-inducible gene 2 promotes fat deposition and diet-induced insulin resistance☆",
+    "venue": "Molecular Metabolism",
+    "year": 2016,
+    "citationCount": 40,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1016/j.molmet.2016.09.009",
+      "status": "GOLD",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5123203, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "32073581",
+        "name": "Marina T. DiStefano"
+      },
+      {
+        "authorId": "88578307",
+        "name": "Rachel J. Roth Flach"
+      },
+      {
+        "authorId": "1398879598",
+        "name": "Ozlem Senol-Cosar"
+      },
+      {
+        "authorId": "4717441",
+        "name": "Laura V. Danai"
+      },
+      {
+        "authorId": "5924401",
+        "name": "J. Virbasius"
+      },
+      {
+        "authorId": "5392541",
+        "name": "S. Nicoloro"
+      },
+      {
+        "authorId": "1809408",
+        "name": "J. Straubhaar"
+      },
+      {
+        "authorId": "6653022",
+        "name": "Sezin Dagdeviren"
+      },
+      {
+        "authorId": "6876068",
+        "name": "M. Wabitsch"
+      },
+      {
+        "authorId": "40099944",
+        "name": "Olga T. Gupta"
+      },
+      {
+        "authorId": "1992964472",
+        "name": "Jason K. Kim"
+      },
+      {
+        "authorId": "144307657",
+        "name": "M. Czech"
+      }
+    ],
+    "abstract": "Objective Adipose tissue relies on lipid droplet (LD) proteins in its role as a lipid-storing endocrine organ that controls whole body metabolism. Hypoxia-inducible Gene 2 (Hig2) is a recently identified LD-associated protein in hepatocytes that promotes hepatic lipid storage, but its role in the adipocyte had not been investigated. Here we tested the hypothesis that Hig2 localization to LDs in adipocytes promotes adipose tissue lipid deposition and systemic glucose homeostasis. Method White and brown adipocyte-deficient (Hig2fl/fl × Adiponection cre+) and selective brown/beige adipocyte-deficient (Hig2fl/fl × Ucp1 cre+) mice were generated to investigate the role of Hig2 in adipose depots. Additionally, we used multiple housing temperatures to investigate the role of active brown/beige adipocytes in this process. Results Hig2 localized to LDs in SGBS cells, a human adipocyte cell strain. Mice with adipocyte-specific Hig2 deficiency in all adipose depots demonstrated reduced visceral adipose tissue weight and increased glucose tolerance. This metabolic effect could be attributed to brown/beige adipocyte-specific Hig2 deficiency since Hig2fl/fl × Ucp1 cre+ mice displayed the same phenotype. Furthermore, when adipocyte-deficient Hig2 mice were moved to thermoneutral conditions in which non-shivering thermogenesis is deactivated, these improvements were abrogated and glucose intolerance ensued. Adipocyte-specific Hig2 deficient animals displayed no detectable changes in adipocyte lipolysis or energy expenditure, suggesting that Hig2 may not mediate these metabolic effects by restraining lipolysis in adipocytes. Conclusions We conclude that Hig2 localizes to LDs in adipocytes, promoting adipose tissue lipid deposition and that its selective deficiency in active brown/beige adipose tissue mediates improved glucose tolerance at 23 °C. Reversal of this phenotype at thermoneutrality in the absence of detectable changes in energy expenditure, adipose mass, or liver triglyceride suggests that Hig2 deficiency triggers a deleterious endocrine or neuroendocrine pathway emanating from brown/beige fat cells."
+  },
+  {
+    "paperId": "26371a60d2d9a9206a7deea1942541fff2294ee6",
+    "externalIds": {
+      "MAG": "2002936592",
+      "DOI": "10.1074/jbc.M111.234534",
+      "CorpusId": 22602783,
+      "PubMed": "21454708"
+    },
+    "title": "Sequential Synthesis and Methylation of Phosphatidylethanolamine Promote Lipid Droplet Biosynthesis and Stability in Tissue Culture and in Vivo*",
+    "venue": "Journal of Biological Chemistry",
+    "year": 2011,
+    "citationCount": 113,
+    "influentialCitationCount": 3,
+    "openAccessPdf": {
+      "url": "http://www.jbc.org/article/S0021925820513628/pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1074/jbc.M111.234534?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1074/jbc.M111.234534, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "4628797",
+        "name": "G. Hörl"
+      },
+      {
+        "authorId": "2170707887",
+        "name": "A. Wagner"
+      },
+      {
+        "authorId": "48061772",
+        "name": "L. Cole"
+      },
+      {
+        "authorId": "3637725",
+        "name": "R. Malli"
+      },
+      {
+        "authorId": "5818349",
+        "name": "H. Reicher"
+      },
+      {
+        "authorId": "10196581",
+        "name": "P. Kotzbeck"
+      },
+      {
+        "authorId": "3101078",
+        "name": "H. Köfeler"
+      },
+      {
+        "authorId": "40544379",
+        "name": "G. Höfler"
+      },
+      {
+        "authorId": "78922548",
+        "name": "S. Frank"
+      },
+      {
+        "authorId": "1390168940",
+        "name": "J. Bogner-Strauss"
+      },
+      {
+        "authorId": "2028607",
+        "name": "W. Sattler"
+      },
+      {
+        "authorId": "2418316",
+        "name": "D. Vance"
+      },
+      {
+        "authorId": "4688227",
+        "name": "E. Steyrer"
+      }
+    ],
+    "abstract": "Triacylglycerols are stored in eukaryotic cells within lipid droplets (LD). The LD core is enwrapped by a phospholipid monolayer with phosphatidylcholine (PC), the major phospholipid, and phosphatidylethanolamine (PE), a minor component. We demonstrate that the onset of LD formation is characterized by a change in cellular PC, PE, and phosphatidylserine (PS). With induction of differentiation of 3T3-L1 fibroblasts into adipocytes, the cellular PC/PE ratio decreased concomitant with LD formation, with the most pronounced decline between confluency and day 5. The mRNA for PS synthase-1 (forms PS from PC) and PS decarboxylase (forms PE from PS) increased after day 5. Activity and protein of PE N-methyltransferase (PEMT), which produces PC by methylation of PE, are absent in 3T3-L1 fibroblasts but were induced at day 5. High fat challenge induced PEMT expression in mouse adipose tissue. PE, produced via PS decarboxylase, was the preferred substrate for methylation to PC. A PEMT-GFP fusion protein decorated the periphery of LD. PEMT knockdown in 3T3-L1 adipocytes correlated with increased basal triacylglycerol hydrolysis. Pemt−/− mice developed desensitization against adenosine-mediated inhibition of basal hydrolysis in adipose tissue, and adipocyte hypotrophy was observed in Pemt−/− animals on a high fat diet. Knock-out of PEMT in adipose tissue down-regulated PS synthase-1 mRNA, suggesting coordination between PE supply and converting pathways during LD biosynthesis. We conclude that two consecutive processes not previously related to LD biogenesis, (i) PE production via PS and (ii) PE conversion via PEMT, are implicated in LD formation and stability."
+  },
+  {
+    "paperId": "073204d9624cc8124b25e8eb6feda50f38f8074a",
+    "externalIds": {
+      "MAG": "2614451399",
+      "DOI": "10.1016/j.chemphyslip.2017.05.002",
+      "CorpusId": 5400918,
+      "PubMed": "28528274"
+    },
+    "title": "Angiopoietin-like 8 (Angptl8) controls adipocyte lipolysis and phospholipid composition.",
+    "venue": "Chemistry and Physics of Lipids",
+    "year": 2017,
+    "citationCount": 22,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "https://orca.cardiff.ac.uk/id/eprint/101632/1/Mysore%20et%20al_2017_reviced.pdf",
+      "status": "GREEN",
+      "license": "other-oa",
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.chemphyslip.2017.05.002?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.chemphyslip.2017.05.002, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "authors": [
+      {
+        "authorId": "38007600",
+        "name": "R. Mysore"
+      },
+      {
+        "authorId": "5137006",
+        "name": "G. Liebisch"
+      },
+      {
+        "authorId": "2251645611",
+        "name": "You Zhou"
+      },
+      {
+        "authorId": "2251645611",
+        "name": "You Zhou"
+      },
+      {
+        "authorId": "5268296",
+        "name": "V. Olkkonen"
+      },
+      {
+        "authorId": "5268296",
+        "name": "V. Olkkonen"
+      },
+      {
+        "authorId": "40219647",
+        "name": "P. Haridas"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "aeb1af2ce667407ed90d7ce6de2a673245236b84",
+    "externalIds": {
+      "PubMedCentral": "6989686",
+      "MAG": "3004007146",
+      "DOI": "10.1038/s41467-019-14176-0",
+      "CorpusId": 210938715,
+      "PubMed": "31996685"
+    },
+    "title": "Spatiotemporal contact between peroxisomes and lipid droplets regulates fasting-induced lipolysis via PEX5",
+    "venue": "Nature Communications",
+    "year": 2020,
+    "citationCount": 90,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "https://www.nature.com/articles/s41467-019-14176-0.pdf",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6989686, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "authors": [
+      {
+        "authorId": "4130754",
+        "name": "Jinuk Kong"
+      },
+      {
+        "authorId": "11993644",
+        "name": "Yul Ji"
+      },
+      {
+        "authorId": "6280241",
+        "name": "Yong Geun Jeon"
+      },
+      {
+        "authorId": "15661316",
+        "name": "Ji Seul Han"
+      },
+      {
+        "authorId": "2114179543",
+        "name": "K. H. Han"
+      },
+      {
+        "authorId": "2119170519",
+        "name": "J. H. Lee"
+      },
+      {
+        "authorId": "47022438",
+        "name": "Gung Lee"
+      },
+      {
+        "authorId": "4886967",
+        "name": "H. Jang"
+      },
+      {
+        "authorId": "3950647",
+        "name": "S. S. Choe"
+      },
+      {
+        "authorId": "49997641",
+        "name": "M. Baes"
+      },
+      {
+        "authorId": "2110904398",
+        "name": "J. B. Kim"
+      }
+    ],
+    "abstract": "Lipid droplets (LDs) are key subcellular organelles for regulating lipid metabolism. Although several subcellular organelles participate in lipid metabolism, it remains elusive whether physical contacts between subcellular organelles and LDs might be involved in lipolysis upon nutritional deprivation. Here, we demonstrate that peroxisomes and peroxisomal protein PEX5 mediate fasting-induced lipolysis by stimulating adipose triglyceride lipase (ATGL) translocation onto LDs. During fasting, physical contacts between peroxisomes and LDs are increased by KIFC3-dependent movement of peroxisomes toward LDs, which facilitates spatial translocations of ATGL onto LDs. In addition, PEX5 could escort ATGL to contact points between peroxisomes and LDs in the presence of fasting cues. Moreover, in adipocyte-specific PEX5-knockout mice, the recruitment of ATGL onto LDs was defective and fasting-induced lipolysis is attenuated. Collectively, these data suggest that physical contacts between peroxisomes and LDs are required for spatiotemporal translocation of ATGL, which is escorted by PEX5 upon fasting, to maintain energy homeostasis. Lipid droplets are organelles that regulate lipid metabolism but if organellar contacts play a role during lipolysis is unclear. Here, the authors show that peroxisomes and peroxisomal protein PEX5 play pivotal roles in the spatial and temporal regulation of fasting-induced lipolysis by translocating ATGL onto lipid droplets"
+  },
+  {
+    "paperId": "881be8d1dcc19a9295657012b51c4663831ec14c",
+    "externalIds": {
+      "MAG": "2147483302",
+      "DOI": "10.1128/MCB.01269-09",
+      "CorpusId": 206828404,
+      "PubMed": "20038528"
+    },
+    "title": "The ARF-Like GTPase ARFRP1 Is Essential for Lipid Droplet Growth and Is Involved in the Regulation of Lipolysis",
+    "venue": "Molecular and Cellular Biology",
+    "year": 2009,
+    "citationCount": 52,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "https://europepmc.org/articles/pmc2820882?pdf=render",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1128/MCB.01269-09?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1128/MCB.01269-09, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "14945893",
+        "name": "A. Hommel"
+      },
+      {
+        "authorId": "38320582",
+        "name": "D. Hesse"
+      },
+      {
+        "authorId": "49897491",
+        "name": "W. Völker"
+      },
+      {
+        "authorId": "2991234",
+        "name": "A. Jaschke"
+      },
+      {
+        "authorId": "48432415",
+        "name": "M. Moser"
+      },
+      {
+        "authorId": "36766395",
+        "name": "T. Engel"
+      },
+      {
+        "authorId": "4172771",
+        "name": "M. Blüher"
+      },
+      {
+        "authorId": "48376037",
+        "name": "C. Zahn"
+      },
+      {
+        "authorId": "2223752",
+        "name": "A. Chadt"
+      },
+      {
+        "authorId": "4624694",
+        "name": "K. Ruschke"
+      },
+      {
+        "authorId": "38839965",
+        "name": "H. Vogel"
+      },
+      {
+        "authorId": "144629520",
+        "name": "R. Kluge"
+      },
+      {
+        "authorId": "4142695",
+        "name": "H. Robenek"
+      },
+      {
+        "authorId": "10641443",
+        "name": "H. Joost"
+      },
+      {
+        "authorId": "1869300",
+        "name": "A. Schürmann"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "a80c605fdf2940edca1c814ec1875da814215b56",
+    "externalIds": {
+      "MAG": "2898295530",
+      "DOI": "10.1016/j.cbi.2018.10.021",
+      "CorpusId": 53247613,
+      "PubMed": "30409764"
+    },
+    "title": "Acrylamide induces adipocyte differentiation and obesity in mice.",
+    "venue": "Chemico-Biological Interactions",
+    "year": 2019,
+    "citationCount": 41,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.cbi.2018.10.021?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.cbi.2018.10.021, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "authors": [
+      {
+        "authorId": "13621760",
+        "name": "Heeweon Lee"
+      },
+      {
+        "authorId": "1721086",
+        "name": "S. Pyo"
+      }
+    ],
+    "abstract": "Obesity is a critical risk factor for various diseases including type II diabetes, cerebral infarction, cardiovascular diseases, and various cancers. Acrylamide (ACR) is present in wide range of foods, including fried potato products, root vegetables, bakery products, chips, cakes, cereals, and coffee. In this study, ACR treatment dramatically increased the accumulation of lipid droplets. We also examined expression levels of peroxisome proliferator-activated receptors γ (PPARγ), CCAAT enhancer binding protein α (c/EBPα), and CCAAT enhancer binding protein β (c/EBPβ) as adipogenic transcription factors for adipocyte differentiation. They were dose-dependently increased by treatment of ACR. Moreover, effects of ACR on mitogen-activated protein kinases (MAPKs) and 5' AMP-activated protein kinase (AMPK)-Acetyl-CoA carboxylase (ACC) activation were investigated. Results also showed that ACR induced phosphorylation of MAPKs and AMPK-ACC. ACR also induced expression of adipocyte fatty acid-binding protein (aP2), lipoprotein lipase (LPL), sterol regulatory element-binding protein (SREBP)-1c, and fatty acid synthase (FAS). Exposure of ACR to high fat diet (HFD)-fed mice significantly increased body weight, organ weight, and fat mass of mice. Collectively, these result showed that ACR can act as an enhancer of adipocyte. Therefore, we suggest that up-regulation of the adipogenesis by ACR may be related to the regulation of the MAPKs and AMPK-ACC pathway."
+  },
+  {
+    "paperId": "4a3bfafb2ac59ddd5351b67d25bb68e851350172",
+    "externalIds": {
+      "MAG": "2937681279",
+      "DOI": "10.1016/j.celrep.2019.03.038",
+      "CorpusId": 108294260,
+      "PubMed": "30970240"
+    },
+    "title": "The Release of Adipose Stromal Cells from Subcutaneous Adipose Tissue Regulates Ectopic Intramuscular Adipocyte Deposition.",
+    "venue": "Cell Reports",
+    "year": 2019,
+    "citationCount": 46,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "http://www.cell.com/article/S2211124719303547/pdf",
+      "status": "GOLD",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.celrep.2019.03.038?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.celrep.2019.03.038, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "authors": [
+      {
+        "authorId": "4420641",
+        "name": "A. Girousse"
+      },
+      {
+        "authorId": "1395695216",
+        "name": "M. Gil-Ortega"
+      },
+      {
+        "authorId": "4368612",
+        "name": "V. Bourlier"
+      },
+      {
+        "authorId": "7255838",
+        "name": "Célia Bergeaud"
+      },
+      {
+        "authorId": "1403233652",
+        "name": "Q. Sastourné-Arrey"
+      },
+      {
+        "authorId": "82166643",
+        "name": "C. Moro"
+      },
+      {
+        "authorId": "4580128",
+        "name": "Corinne Barreau"
+      },
+      {
+        "authorId": "4671634",
+        "name": "C. Guissard"
+      },
+      {
+        "authorId": "98241812",
+        "name": "Julie Vion"
+      },
+      {
+        "authorId": "153705017",
+        "name": "Emmanuelle Arnaud"
+      },
+      {
+        "authorId": "5022818",
+        "name": "J. Pradère"
+      },
+      {
+        "authorId": "98836063",
+        "name": "Noémie Juin"
+      },
+      {
+        "authorId": "5933899",
+        "name": "L. Casteilla"
+      },
+      {
+        "authorId": "4037938",
+        "name": "C. Sengenès"
+      }
+    ],
+    "abstract": "Ectopic lipid deposition (ELD) is defined by excess fat storage in locations not classically associated with adipose tissue (AT) storage. ELD is positively correlated with insulin resistance and increased risk of metabolic disorders. ELD appears as lipid droplets or adipocytes, whose cell origin is unknown. We previously showed that subcutaneous AT (ScAT) releases adipocyte progenitors into the circulation. Here, we demonstrate that triggering or preventing the release of adipocyte precursors from ScAT directly promoted or limited ectopic adipocyte formation in skeletal muscle in mice. Importantly, obesity-associated metabolic disorders could be mimicked by causing adipocyte precursor release without a high-fat diet. Finally, during nutrient overload, adipocyte progenitors exited ScAT, where their retention signals (CXCR4/CXCL12 axis) were greatly decreased, and further infiltrated skeletal muscles. These data provide insights into the formation of ELD associated with calorie overload and highlight adipocyte progenitor trafficking as a potential target in the treatment of metabolic diseases."
+  },
+  {
+    "paperId": "29bc6a7ff6082afcc0790074c5aa91cf686319f2",
+    "externalIds": {
+      "MAG": "2024760591",
+      "DOI": "10.1016/j.bbalip.2008.10.012",
+      "CorpusId": 23753101,
+      "PubMed": "19061969"
+    },
+    "title": "Chanarin-Dorfman syndrome: deficiency in CGI-58, a lipid droplet-bound coactivator of lipase.",
+    "venue": "Biochimica et Biophysica Acta",
+    "year": 2009,
+    "citationCount": 74,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.bbalip.2008.10.012?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.bbalip.2008.10.012, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "48659493",
+        "name": "Tomohiro Yamaguchi"
+      },
+      {
+        "authorId": "4356221",
+        "name": "T. Osumi"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "268f760e9ee18db96b34267fb1018aeb351d40c7",
+    "externalIds": {
+      "PubMedCentral": "7014426",
+      "MAG": "2999786344",
+      "DOI": "10.3390/ijms21020460",
+      "CorpusId": 210814601,
+      "PubMed": "31936890"
+    },
+    "title": "Ergosterol Peroxide from the Medicinal Mushroom Ganoderma lucidum Inhibits Differentiation and Lipid Accumulation of 3T3-L1 Adipocytes",
+    "venue": "International Journal of Molecular Sciences",
+    "year": 2020,
+    "citationCount": 63,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "https://www.mdpi.com/1422-0067/21/2/460/pdf?version=1579515827",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7014426, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "authors": [
+      {
+        "authorId": "32461784",
+        "name": "Yong-Un Jeong"
+      },
+      {
+        "authorId": "9209096",
+        "name": "Young-Jin Park"
+      }
+    ],
+    "abstract": "Ergosterol peroxide is a natural compound of the steroid family found in many fungi, and it possesses antioxidant, anti-inflammatory, anticancer and antiviral activities. The anti-obesity activity of several edible and medicinal mushrooms has been reported, but the effect of mushroom-derived ergosterol peroxide on obesity has not been studied. Therefore, we analyzed the effect of ergosterol peroxide on the inhibition of triglyceride synthesis at protein and mRNA levels and differentiation of 3T3-L1 adipocytes. Ergosterol peroxide inhibited lipid droplet synthesis of differentiated 3T3-L1 cells, expression of peroxisome proliferator-activated receptor gamma (PPARγ) and CCAT/enhancer-binding protein alpha (C/EBPα), the major transcription factors of differentiation, and also the expression of sterol regulatory element-binding protein-1c (SREBP-1c), which promotes the activity of PPARγ, resulting in inhibition of differentiation. It further inhibited the expression of fatty acid synthase (FAS), fatty acid translocase (FAT), and acetyl-coenzyme A carboxylase (ACC), which are lipogenic factors. In addition, it inhibited the phosphorylation of mitogen-activated protein kinases (MAPKs) involved in cell proliferation and activation of early differentiation transcription factors in the mitotic clonal expansion (MCE) stage. As a result, ergosterol peroxide significantly inhibited the synthesis of triglycerides and differentiation of 3T3-L1 cells, and is, therefore, a possibile prophylactic and therapeutic agent for obesity and related metabolic diseases."
+  },
+  {
+    "paperId": "c0cb08e15a91729327fd0171ef557389021504c7",
+    "externalIds": {
+      "MAG": "2910333255",
+      "DOI": "10.1016/j.mce.2019.01.012",
+      "CorpusId": 58643645,
+      "PubMed": "30660700"
+    },
+    "title": "Effect of the TYK-2/STAT-3 pathway on lipid accumulation induced by mono-2-ethylhexyl phthalate.",
+    "venue": "Molecular and Cellular Endocrinology",
+    "year": 2019,
+    "citationCount": 23,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.mce.2019.01.012?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.mce.2019.01.012, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "authors": [
+      {
+        "authorId": "2072836774",
+        "name": "Wen Qi"
+      },
+      {
+        "authorId": "8009033",
+        "name": "Liting Zhou"
+      },
+      {
+        "authorId": "2244068991",
+        "name": "Tianye Zhao"
+      },
+      {
+        "authorId": "2066433367",
+        "name": "Shuang Ding"
+      },
+      {
+        "authorId": "2135768113",
+        "name": "Qi Xu"
+      },
+      {
+        "authorId": "2110981454",
+        "name": "Xu Han"
+      },
+      {
+        "authorId": "2157229576",
+        "name": "Yaming Zhao"
+      },
+      {
+        "authorId": "49196273",
+        "name": "Xinyue Song"
+      },
+      {
+        "authorId": "47941198",
+        "name": "Tianyang Zhao"
+      },
+      {
+        "authorId": "2108585029",
+        "name": "Xiaohan Zhang"
+      },
+      {
+        "authorId": "2088378650",
+        "name": "Lin Ye"
+      }
+    ],
+    "abstract": "BACKGROUND\nMono-2-ethylhexyl phthalate (MEHP), an important metabolite of di (2-ethylhexyl) phthalate (DEHP), can induce lipid metabolic disorder. Previous studies have shown that MEHP promotes 3T3-L1 cell differentiation; however, the underlying mechanism is unclear. The present study was performed to investigate the effect of the TYK-2/STAT-3 pathway on lipid accumulation induced by MEHP.\n\n\nMETHODS\nA 3T3-L1 precursor adipocyte differentiation model was exposed to MEHP. 3-Isobutyl-1-methylxanthine (IBMX), dexamethasone (DEX), and insulin were used to establish the 3T3-L1 precursor adipocyte differentiation model. Then the model cells were exposed to MEHP for 8 d. The lipid droplet formation in 3T3-L1 cells was determined with Oil-Red-O staining, and isopropyl alcohol was used to extract the lipid droplets for quantification. Flow cytometry was used to detect the intracellular reactive oxygen species (ROS) and mitochondrial membrane potential. Quantitative real-time polymerase chain reaction (qPCR) was used to detect mRNA expression, and western blotting was used to detect the expression of proteins encoded by TYK-2/STAT-3 pathway genes and adipogenesis-related genes.\n\n\nRESULTS\nMEHP treatment, compared with the control treatment, significantly promoted the differentiation of 3T3-L1 cells and increased the expression of STAT-3 mRNA and protein and P-STAT3 protein in the cells. In addition, MEHP down-regulated the phosphorylation of STAT-3 in mitochondria. MEHP was found to influence the mitochondrial membrane potential and intracellular ROS levels.\n\n\nCONCLUSION\nMEHP may affect adipocyte differentiation and lead to lipid accumulation through the TYK-2/STAT-3 pathway."
+  },
+  {
+    "paperId": "6b45e7745039f5fec05af924d0472b50fcb4b117",
+    "externalIds": {
+      "MAG": "1956492036",
+      "DOI": "10.1111/j.1748-1716.2007.01786.x",
+      "CorpusId": 12701010,
+      "PubMed": "18171433"
+    },
+    "title": "RNAi screens reveal novel metabolic regulators: RIP140, MAP4k4 and the lipid droplet associated fat specific protein (FSP) 27",
+    "venue": "Acta Physiologica",
+    "year": 2007,
+    "citationCount": 68,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "https://europepmc.org/articles/pmc2880506?pdf=render",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/j.1748-1716.2007.01786.x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/j.1748-1716.2007.01786.x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2254970517",
+        "name": "Vishwajeet Puri"
+      },
+      {
+        "authorId": "5924401",
+        "name": "J. Virbasius"
+      },
+      {
+        "authorId": "37828428",
+        "name": "A. Guilherme"
+      },
+      {
+        "authorId": "144307657",
+        "name": "M. Czech"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "b2dd49f90ef701d0c9ca56ca3d647595dbd65b4b",
+    "externalIds": {
+      "DOI": "10.1016/j.biomaterials.2023.122291",
+      "CorpusId": 261055500,
+      "PubMed": "37619263"
+    },
+    "title": "Long-term and liver-selected ginsenoside C-K nanoparticles retard NAFLD progression by restoring lipid homeostasis.",
+    "venue": "Biomaterials",
+    "year": 2023,
+    "citationCount": 20,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.biomaterials.2023.122291?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.biomaterials.2023.122291, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2055372813",
+        "name": "Chunyan Yue"
+      },
+      {
+        "authorId": "2172618584",
+        "name": "Dandan Li"
+      },
+      {
+        "authorId": "50145902",
+        "name": "Shuxin Fan"
+      },
+      {
+        "authorId": "2150743340",
+        "name": "Feng Tao"
+      },
+      {
+        "authorId": "2117164468",
+        "name": "Yue Yu"
+      },
+      {
+        "authorId": "2223105202",
+        "name": "Wenjing Lu"
+      },
+      {
+        "authorId": "2146379430",
+        "name": "Qian Chen"
+      },
+      {
+        "authorId": "39525882",
+        "name": "A. Yuan"
+      },
+      {
+        "authorId": "46365233",
+        "name": "Jinhui Wu"
+      },
+      {
+        "authorId": "2111396434",
+        "name": "Guoping Zhao"
+      },
+      {
+        "authorId": "2113411819",
+        "name": "Hong Dong"
+      },
+      {
+        "authorId": "7741428",
+        "name": "Yiqiao Hu"
+      }
+    ],
+    "abstract": "Non-alcoholic fatty liver disease (NAFLD) is the most prevalent hepatic disease characterized as lipid accumulation, yet without any approved drug. And development of therapeutic molecules is obstructed by low efficiency and organ toxicity. Herein, we develop a long-term, low-toxic and liver-selected nano candidate, nabCK, to alleviate NAFLD. NabCK is simply composed by natural compound ginsenoside compound K (CK) and albumin. As a major metabolite of ginseng, ginsenoside CK has excellently modulating functions for lipid metabolism, but accompanied by an extremely poor bioavailability <1%. Albumin is a key lipid carrier secreted and metabolized by livers. Thereby, it can improve solubility and liver-localization of CK. In adipocytes and hepatocytes, nabCK prevents lipid deposition and eliminates lipid droplets. Transcriptomic analysis reveals that nabCK rectifies various pathways that involved in steatosis development, including lipid absorption, lipid export, fatty acid biosynthesis, lipid storage and inflammation. All these pathways are modulated by mTOR, the pivotal feedback sensor that is hyperactive in NAFLD. NabCK suppresses mTOR activation to restores lipid homeostasis. In high-fat diet (HFD) induced NAFLD mice, nabCK retards development of steatosis and fibrosis, coupling a protective effect on cardiac tissues from lipotoxicity. Together, nabCK is a safe and potent candidate to offer benefits for NAFLD treatment."
   }
 ]
