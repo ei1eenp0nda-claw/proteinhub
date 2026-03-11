@@ -34529,5 +34529,924 @@
       }
     ],
     "abstract": null
+  },
+  {
+    "paperId": "4dea87c730754c8248c04051899d3db4ac7f9cac",
+    "externalIds": {
+      "MAG": "2617380274",
+      "DOI": "10.1080/15548627.2017.1319544",
+      "CorpusId": 24825755,
+      "PubMed": "28548876"
+    },
+    "title": "The constitutive lipid droplet protein PLIN2 regulates autophagy in liver",
+    "venue": "Autophagy",
+    "year": 2017,
+    "citationCount": 191,
+    "influentialCitationCount": 7,
+    "openAccessPdf": {
+      "url": "https://www.tandfonline.com/doi/pdf/10.1080/15548627.2017.1319544?needAccess=true",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/15548627.2017.1319544?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/15548627.2017.1319544, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "46838405",
+        "name": "Tsung‐Huang Tsai"
+      },
+      {
+        "authorId": "2113754454",
+        "name": "Elaine Chen"
+      },
+      {
+        "authorId": "2111916514",
+        "name": "Lan Li"
+      },
+      {
+        "authorId": "38972883",
+        "name": "P. Saha"
+      },
+      {
+        "authorId": "15346668",
+        "name": "Hsiao-Ju Lee"
+      },
+      {
+        "authorId": "89885742",
+        "name": "Li-Shin Huang"
+      },
+      {
+        "authorId": "3596741",
+        "name": "G. S. Shelness"
+      },
+      {
+        "authorId": "1679211",
+        "name": "L. Chan"
+      },
+      {
+        "authorId": "4328959",
+        "name": "B. Chang"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "e9d308644427e924b48ebab046ac10ce0077bf41",
+    "externalIds": {
+      "PubMedCentral": "12548464",
+      "DOI": "10.1128/jvi.00890-25",
+      "CorpusId": 278787298,
+      "PubMed": "40985721"
+    },
+    "title": "Hepatitis C virus NS3/4A protease cleaves SPG20, a key regulator of lipid droplet turnover, to promote lipid droplet formation",
+    "venue": "bioRxiv",
+    "year": 2025,
+    "citationCount": 2,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12548464, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "47217884",
+        "name": "Chieko Matsui"
+      },
+      {
+        "authorId": "101146928",
+        "name": "Putu Yuliandari"
+      },
+      {
+        "authorId": "2256378825",
+        "name": "Lin Deng"
+      },
+      {
+        "authorId": "2237610872",
+        "name": "Takayuki Abe"
+      },
+      {
+        "authorId": "6306755",
+        "name": "I. Shoji"
+      }
+    ],
+    "abstract": "ABSTRACT Hepatitis C virus (HCV) assembles in close proximity to lipid droplets (LDs), which play important roles in HCV RNA replication. HCV infection often causes the accumulation of large LDs in hepatocytes. However, the molecular mechanism underlying HCV-induced large LD formation is poorly understood. It has been reported that the SPG20/Spartin protein associates with the LD surface and plays a crucial role in LD turnover by recruiting the ubiquitin ligase Itch to promote the ubiquitin-dependent degradation of adipophilin (ADRP), which protects LDs from lipase-mediated degradation. To elucidate the mechanism underlying HCV-induced large LD formation, we investigated the SPG20 protein’s role in LD formation in HCV J6/JFH1-infected Huh-7.5 cells. Immunoblot analysis revealed that HCV infection promoted SPG20 protein cleavage. Transfection of increasing amounts of NS3/4A, but not the inactive NS3/4A mutant, resulted in SPG20 cleavage, implicating the NS3/4A protease in this cleavage. Site-directed mutagenesis suggested that the NS3/4A protease cleaves SPG20 at Cys504 and Cys562. The SPG20 protein was co-immunoprecipitated with the LD-attached protein TIP47. Increasing amounts of NS3/4A protease, but not inactive NS3/4A, decreased the co-precipitation of SPG20 with TIP47. The siRNA-mediated knockdown of Itch in Huh-7.5 cells restored ADRP levels, suggesting that Itch mediates ubiquitylation-dependent ADRP degradation. Immunofluorescence staining of HCV-infected cells revealed that ADRP was localized mainly around LDs in HCV-infected cells, whereas cytosolic ADRP was decreased. We propose that the HCV NS3/4A protease specifically cleaves SPG20 and inhibits Itch-mediated ubiquitin-dependent degradation of LD-associated ADRP, thereby promoting the formation of large LDs. IMPORTANCE HCV infection often promotes the formation of large LDs in HCV-infected cells. However, the molecular mechanism underlying large LD formation is poorly understood. LD turnover is regulated by SPG20, Itch E3 ligase, and ADRP. To elucidate the mechanism underlying the formation of large LDs induced by HCV infection, we investigated the roles of SPG20, Itch, and ADRP in large LD formation. The HCV NS3/4A protease specifically cleaves SPG20 and disrupts Itch recruitment to LD-associated ADRP. Therefore, LD-associated ADRP can escape and protects LDs from lipase-mediated degradation, thereby promoting LD growth. We propose that HCV NS3/4A protease-mediated cleavage of SPG20 contributes to a previously uncharacterized mechanism underlying the formation of large LDs in HCV-infected cells. These findings may lead to a better understanding of how the virus forms large LDs in infected cells. HCV infection often promotes the formation of large LDs in HCV-infected cells. However, the molecular mechanism underlying large LD formation is poorly understood. LD turnover is regulated by SPG20, Itch E3 ligase, and ADRP. To elucidate the mechanism underlying the formation of large LDs induced by HCV infection, we investigated the roles of SPG20, Itch, and ADRP in large LD formation. The HCV NS3/4A protease specifically cleaves SPG20 and disrupts Itch recruitment to LD-associated ADRP. Therefore, LD-associated ADRP can escape and protects LDs from lipase-mediated degradation, thereby promoting LD growth. We propose that HCV NS3/4A protease-mediated cleavage of SPG20 contributes to a previously uncharacterized mechanism underlying the formation of large LDs in HCV-infected cells. These findings may lead to a better understanding of how the virus forms large LDs in infected cells."
+  },
+  {
+    "paperId": "972d7aa685c8bc60116862b44711f234daa28dfb",
+    "externalIds": {
+      "MAG": "2982607580",
+      "DOI": "10.1101/823450",
+      "CorpusId": 208566643
+    },
+    "title": "A single nucleotide polymorphism of PLIN2 is associated with nonalcoholic steatohepatitis and causes phenotypic changes in hepatocyte lipid droplets",
+    "venue": "bioRxiv",
+    "year": 2019,
+    "citationCount": 1,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://www.biorxiv.org/content/biorxiv/early/2019/10/30/823450.full.pdf",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1101/823450?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1101/823450, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "49775798",
+        "name": "Claire S. Faulkner"
+      },
+      {
+        "authorId": "51119379",
+        "name": "C. White"
+      },
+      {
+        "authorId": "15024083",
+        "name": "Loretta L. Jophlin"
+      }
+    ],
+    "abstract": "Perilipin 2 (PLIN2) is a lipid droplet-associated protein which regulates cellular lipid storage and is highly expressed in the liver. Previous studies of a missense single nucleotide polymorphism (SNP) in PLIN2, Ser251Pro, (i.e. rs3556875) have shown this SNP to cause decreased lipolysis and increased intracellular lipid accumulation. To explore if this SNP is associated with nonalcoholic steatohepatitis (NASH), we genotyped 116 adults with NASH and 67 age- and gender-matched controls. rs3556875 was significantly associated with NASH with an allelic odds ratio of 2.98 (95% confidence interval 1.12 - 7.31, p=0.02) and in a dominant inheritance model. In an in vitro model of hepatic steatosis, expression of the Pro251 variant protein led to phenotypic changes in intracellular lipid droplets, yielding smaller diameter and up to 7 fold more lipid droplets per cell when compared to wild type PLIN2. In conclusion, the Ser251Pro SNP of PLIN2 may convey risk for NASH and causes phenotypic changes in hepatocyte lipid droplets."
+  },
+  {
+    "paperId": "eb07b8d2ac3571321af054626aec7b2761768408",
+    "externalIds": {
+      "PubMedCentral": "10811445",
+      "DOI": "10.3892/mi.2024.131",
+      "CorpusId": 266801174,
+      "PubMed": "38283130"
+    },
+    "title": "Analysis of gene expression changes during lipid droplet formation in HepG2 human liver cancer cells",
+    "venue": "Medicine International",
+    "year": 2024,
+    "citationCount": 1,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://www.spandidos-publications.com/10.3892/mi.2024.131/download",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10811445, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2278126172",
+        "name": "Mitsuru Chiba"
+      },
+      {
+        "authorId": "2278124657",
+        "name": "Yuhei Ohsugi"
+      },
+      {
+        "authorId": "2183755485",
+        "name": "Kana Matsumoto"
+      },
+      {
+        "authorId": "2278124133",
+        "name": "Chisa Tayama"
+      }
+    ],
+    "abstract": "Fatty liver is a condition of excessive triglyceride accumulation in hepatocytes. Additionally, hepatocytes exhibit a high degree of fat droplet accumulation during excessive alcohol consumption and metabolic syndrome. However, the molecular mechanisms involved in fat droplet formation remain unknown. The present study used an in vitro fatty liver formation model of the human liver cancer cell line, HepG2, to comprehensively search for fat droplet formation-related genes, and which exhibit changes in expression during fat droplet formation. Microarray analysis with extracted total RNA determined the genes that are involved in fat droplet formation and their expression was confirmed using quantitative polymerase chain reaction following the culture of the HepG2 cells in culture medium containing 0, 50, 200 and 500 µM of oleic acid for 24 h. The results revealed 142 genes demonstrating increased expression levels by >2.0-fold with oleic acid treatment and 426 genes demonstrating decreased expression levels. Perilipin 2 (PLIN2) was estimated as the gene most closely associated with fatty liver. Lipid droplet formation in the HepG2 cells induced by oleic acid led to the upregulation of PLIN2 in a concentration-dependent manner. On the whole, the findings of the present study indicate the involvement of genes in oleic acid-induced lipid droplet formation in HepG2 cells; PLIN2 in particular may play a crucial role in this process."
+  },
+  {
+    "paperId": "9555919e1ec7e5565bf19adf928c64e2c6b82f7c",
+    "externalIds": {
+      "MAG": "2482436688",
+      "PubMedCentral": "4971413",
+      "DOI": "10.1089/scd.2015.0383",
+      "CorpusId": 10569145,
+      "PubMed": "27308945"
+    },
+    "title": "Modeling Nonalcoholic Fatty Liver Disease with Human Pluripotent Stem Cell-Derived Immature Hepatocyte-Like Cells Reveals Activation of PLIN2 and Confirms Regulatory Functions of Peroxisome Proliferator-Activated Receptor Alpha",
+    "venue": "Stem Cells and Development",
+    "year": 2016,
+    "citationCount": 108,
+    "influentialCitationCount": 5,
+    "openAccessPdf": {
+      "url": "https://www.liebertpub.com/doi/pdf/10.1089/scd.2015.0383",
+      "status": "HYBRID",
+      "license": "CCBYNC",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4971413, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "3882036",
+        "name": "Nina Graffmann"
+      },
+      {
+        "authorId": "49876258",
+        "name": "Sarah Ring"
+      },
+      {
+        "authorId": "5647098",
+        "name": "Marie-Ann Kawala"
+      },
+      {
+        "authorId": "2846467",
+        "name": "Wasco Wruck"
+      },
+      {
+        "authorId": "7493519",
+        "name": "Audrey Ncube"
+      },
+      {
+        "authorId": "2925559",
+        "name": "H. Trompeter"
+      },
+      {
+        "authorId": "2188022",
+        "name": "J. Adjaye"
+      }
+    ],
+    "abstract": "Nonalcoholic fatty liver disease (NAFLD/steatosis) is a metabolic disease characterized by the incorporation of fat into hepatocytes. In this study, we developed an in vitro model for NAFLD based on hepatocyte-like cells (HLCs) differentiated from human pluripotent stem cells. We induced fat storage in these HLCs and detected major expression changes of metabolism-associated genes, as well as an overall reduction of liver-related microRNAs. We observed an upregulation of the lipid droplet coating protein Perilipin 2 (PLIN2), as well as of numerous genes of the peroxisome proliferator-activated receptor (PPAR) pathway, which constitutes a regulatory hub for metabolic processes. Interference with PLIN2 and PPARα resulted in major alterations in gene expression, especially affecting lipid, glucose, and purine metabolism. Our model recapitulates many metabolic changes that are characteristic for NAFLD. It permits the dissection of disease-promoting molecular pathways and allows us to investigate the influences of distinct genetic backgrounds on disease progression."
+  },
+  {
+    "paperId": "2c6242f3999f91390e53e07a24ae9d0dcb6cf91e",
+    "externalIds": {
+      "PubMedCentral": "11625896",
+      "DOI": "10.1242/dmm.050786",
+      "CorpusId": 273179905,
+      "PubMed": "39373223"
+    },
+    "title": "Optimized methods to image hepatic lipid droplets in zebrafish larvae",
+    "venue": "Disease Models & Mechanisms",
+    "year": 2024,
+    "citationCount": 4,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1242/dmm.050786",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11625896, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "1912024566",
+        "name": "Nouf Khan"
+      },
+      {
+        "authorId": "83051778",
+        "name": "T. M. Salmi"
+      },
+      {
+        "authorId": "2218319476",
+        "name": "Anthony P Karamalakis"
+      },
+      {
+        "authorId": "47429899",
+        "name": "A. R. Nair"
+      },
+      {
+        "authorId": "2066172686",
+        "name": "Kirsten C. Sadler"
+      },
+      {
+        "authorId": "2284409481",
+        "name": "Andrew G. Cox"
+      }
+    ],
+    "abstract": "ABSTRACT The optical transparency of zebrafish larvae enables visualization of subcellular structures in intact organs, and these vertebrates are widely used to study lipid biology and liver disease. Lipid droplet (LD) presence is a prevalent feature of healthy cells, but, under conditions such as nutrient excess, toxicant exposure or metabolic imbalance, LD accumulation in hepatocytes can be a harbinger of more severe forms of liver disease. We undertook a comprehensive analysis of approaches useful to investigate LD distribution and dynamics in physiological and pathological conditions in the liver of zebrafish larvae. This comparative analysis of the lipid dyes Oil Red O, Nile Red, LipidTox and LipidSpot, as well as transgenic LD reporters that rely on EGFP fusions of the LD-decorating protein perilipin 2 (PLIN2), demonstrates the strengths and limitations of each approach. These protocols are amenable to detection methods ranging from low-resolution stereomicroscopy to confocal imaging, which enables measurements of hepatic LD size, number and dynamics at cellular resolution in live and fixed animals. This resource will benefit investigators studying LD biology in zebrafish disease models."
+  },
+  {
+    "paperId": "6e93942b65777cb73ae911585688143cefddba9d",
+    "externalIds": {
+      "MAG": "2078001748",
+      "DOI": "10.1159/000356674",
+      "CorpusId": 9888259,
+      "PubMed": "24525903"
+    },
+    "title": "3,5-Diiodo-L-Thyronine Modifies the Lipid Droplet Composition in a Model of Hepatosteatosis",
+    "venue": "Cellular Physiology and Biochemistry",
+    "year": 2014,
+    "citationCount": 32,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://karger.com/cpb/article-pdf/33/2/344/2426393/000356674.pdf",
+      "status": "GOLD",
+      "license": "CCBYNC",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1159/000356674?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1159/000356674, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "6498941",
+        "name": "E. Grasselli"
+      },
+      {
+        "authorId": "47328821",
+        "name": "A. Voci"
+      },
+      {
+        "authorId": "5274926",
+        "name": "L. Canesi"
+      },
+      {
+        "authorId": "5557054",
+        "name": "A. Salis"
+      },
+      {
+        "authorId": "6663665",
+        "name": "G. Damonte"
+      },
+      {
+        "authorId": "4745562",
+        "name": "Andrea D. Compalati"
+      },
+      {
+        "authorId": "4635337",
+        "name": "F. Goglia"
+      },
+      {
+        "authorId": "145669251",
+        "name": "G. Gallo"
+      },
+      {
+        "authorId": "49031596",
+        "name": "L. Vergani"
+      }
+    ],
+    "abstract": "Background/Aims: Fatty acids are the main energy stores and the major membrane components of the cells. In the hepatocyte, fatty acids are esterified to triacylglycerols (TAGs) and stored in lipid droplets (LDs). The lipid lowering action of 3,5-diiodo-L-thyronine (T2) on an in vitro model of hepatosteatosis was investigated in terms of fatty acid and protein content of LDs, lipid oxidation and secretion. Methods: FaO cells were exposed to oleate/palmitate, then treated with T2. Results: T2 reduced number and size of LDs, and modified their acyl composition by decreasing the content of saturated (SFA) vs monounsaturated (MUFA) fatty acids thus reversing the SFA/MUFA ratio. The expression of the LD-associated proteins adipose differentiation-related protein (ADRP), oxidative tissue-enriched PAT protein (OXPAT), and adipose triglyceride lipase (ATGL) was increased in ‘steatotic' cells and further up-regulated by T2. Moreover, T2 stimulated the mitochondrial oxidation by up-regulating carnitine-palmitoyl-transferase (CPT1), uncoupling protein 2 (UCP2) and very long-chain acyl-coenzyme A dehydrogenase (VLCAD). Conclusions: T2 leads to mobilization of TAGs from LDs and stimulates mitochondrial oxidative metabolism of fatty acids, in particular of SFAs, and thus enriches of MUFAs the LDs. This action may protect the hepatocyte from excess of SFAs that are more toxic than MUFAs."
+  },
+  {
+    "paperId": "962513d9445beb2c356b3478afb876127c35431c",
+    "externalIds": {
+      "DOI": "10.1016/j.ijbiomac.2024.131507",
+      "CorpusId": 269064741,
+      "PubMed": "38604419"
+    },
+    "title": "Molecular characterization of vascular endothelial growth factor b from spotted sea bass (Lateolabrax maculatus) and its potential roles in decreasing lipid deposition.",
+    "venue": "International Journal of Biological Macromolecules",
+    "year": 2024,
+    "citationCount": 4,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.ijbiomac.2024.131507?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.ijbiomac.2024.131507, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2296061085",
+        "name": "Ningning Su"
+      },
+      {
+        "authorId": "2201283428",
+        "name": "Jun Zheng"
+      },
+      {
+        "authorId": "1802049601",
+        "name": "Guanrong Zhang"
+      },
+      {
+        "authorId": "2201142387",
+        "name": "Junfeng Guan"
+      },
+      {
+        "authorId": "2296229018",
+        "name": "Xin Gao"
+      },
+      {
+        "authorId": "2297155749",
+        "name": "Zhiyi Cheng"
+      },
+      {
+        "authorId": "2155590399",
+        "name": "Chao Xu"
+      },
+      {
+        "authorId": "4006545",
+        "name": "Dizhi Xie"
+      },
+      {
+        "authorId": "2296747446",
+        "name": "Yuanyou Li"
+      }
+    ],
+    "abstract": "Vascular endothelial growth factor B (VEGFB), a member of the VEGF family, exhibits limited angiogenic activity in mammals but plays an unexpected role in targeting lipids to peripheral tissues. However, its role in lipid metabolism in fish is unknown. In this study, the vegfb gene was cloned and characterized from spotted sea bass (Lateolabrax maculatus). It encodes 254 amino acids and possesses the typical characteristics of the Vegfb family, demonstrating high homology with those from other vertebrate species. The vegfb gene exhibits the highest expression levels in the liver, followed by the gills, intestine, and adipose tissues in spotted sea bass. In vivo, high-lipid diets decreased vegfb expression and increased lipid deposition in liver of fish. In vitro, palmitic acid + oleic acid treatment or vegfb knockdown significantly increased TG and TC contents, promoting lipid droplet deposition in hepatocytes. Vegfb overexpression has the opposite effects, inhibiting lipid deposition and downregulating fatty acid transport and adipogenesis genes. In contrast, the vegfb knockdown significantly upregulated the expression levels of c/ebpα, plin2, and dgat1 (P < 0.05). These results demonstrate that Vegfb may play an important role in reducing lipid deposition by regulating fatty acid transport and adipogenesis in the hepatocytes of spotted sea bass."
+  },
+  {
+    "paperId": "e8ed55ee51bb3d74699c784f2c9c31fca96f5f94",
+    "externalIds": {
+      "PubMedCentral": "9929509",
+      "DOI": "10.1093/jmcb/mjac055",
+      "CorpusId": 252283200,
+      "PubMed": "36107452"
+    },
+    "title": "Knockdown of hepatocyte Perilipin-3 mitigates hepatic steatosis and steatohepatitis caused by hepatocyte CGI-58 deletion in mice",
+    "venue": "Journal of Molecular Cell Biology",
+    "year": 2022,
+    "citationCount": 9,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9929509",
+      "status": "GREEN",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9929509, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2067644498",
+        "name": "Xinyu Bao"
+      },
+      {
+        "authorId": "5048066",
+        "name": "Xiaogen Ma"
+      },
+      {
+        "authorId": "1828826804",
+        "name": "Rongfeng Huang"
+      },
+      {
+        "authorId": "2144208613",
+        "name": "Jianghui Chen"
+      },
+      {
+        "authorId": "26906175",
+        "name": "Haoran Xin"
+      },
+      {
+        "authorId": "48994301",
+        "name": "Meiyu Zhou"
+      },
+      {
+        "authorId": "2154862268",
+        "name": "Lihua Li"
+      },
+      {
+        "authorId": "39926465",
+        "name": "Shifei Tong"
+      },
+      {
+        "authorId": "1737486",
+        "name": "Qian Zhang"
+      },
+      {
+        "authorId": "4461348",
+        "name": "G. Shui"
+      },
+      {
+        "authorId": "2125052156",
+        "name": "Fang Deng"
+      },
+      {
+        "authorId": "36081382",
+        "name": "Liqing Yu"
+      },
+      {
+        "authorId": "6387648",
+        "name": "Min-Dian Li"
+      },
+      {
+        "authorId": "2109086230",
+        "name": "Zhihui Zhang"
+      }
+    ],
+    "abstract": "ABSTRACT Comparative gene identification-58 (CGI-58), also known as α/β hydrolase domain containing 5, is the co-activator of adipose triglyceride lipase that hydrolyzes triglycerides stored in the cytosolic lipid droplets. Mutations in CGI-58 gene cause Chanarin–Dorfman syndrome (CDS), an autosomal recessive neutral lipid storage disease with ichthyosis. The liver pathology of CDS manifests as steatosis and steatohepatitis, which currently has no effective treatments. Perilipin-3 (Plin3) is a member of the Perilipin–ADRP–TIP47 protein family that is essential for lipid droplet biogenesis. The objective of this study was to test a hypothesis that deletion of a major lipid droplet protein alleviates fatty liver pathogenesis caused by CGI-58 deficiency in hepatocytes. Adult CGI-58-floxed mice were injected with adeno-associated vectors simultaneously expressing the Cre recombinase and microRNA against Plin3 under the control of a hepatocyte-specific promoter, followed by high-fat diet feeding for 6 weeks. Liver and blood samples were then collected from these animals for histological and biochemical analysis. Plin3 knockdown in hepatocytes prevented steatosis, steatohepatitis, and necroptosis caused by hepatocyte CGI-58 deficiency. Our work is the first to show that inhibiting Plin3 in hepatocytes is sufficient to mitigate hepatocyte CGI-58 deficiency-induced hepatic steatosis and steatohepatitis in mice."
+  },
+  {
+    "paperId": "394f0107646cae4a2da68bac5abe858bfbb9dd6d",
+    "externalIds": {
+      "MAG": "2018239208",
+      "DOI": "10.1152/ajpregu.00163.2011",
+      "CorpusId": 14412417,
+      "PubMed": "22012700"
+    },
+    "title": "Subcellular localization of skeletal muscle lipid droplets and PLIN family proteins OXPAT and ADRP at rest and following contraction in rat soleus muscle.",
+    "venue": "American Journal of Physiology. Regulatory Integrative and Comparative Physiology",
+    "year": 2012,
+    "citationCount": 35,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1152/ajpregu.00163.2011?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1152/ajpregu.00163.2011, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2238186",
+        "name": "R. MacPherson"
+      },
+      {
+        "authorId": "40534293",
+        "name": "E. Herbst"
+      },
+      {
+        "authorId": "2057241431",
+        "name": "E. J. Reynolds"
+      },
+      {
+        "authorId": "6780512",
+        "name": "R. Vandenboom"
+      },
+      {
+        "authorId": "3943814",
+        "name": "B. Roy"
+      },
+      {
+        "authorId": "153020968",
+        "name": "S. Peters"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "9fd36789fe9cdd4c923572bfa78417fceb20c5c8",
+    "externalIds": {
+      "DOI": "10.1007/s12012-024-09874-1",
+      "CorpusId": 270356409,
+      "PubMed": "38851663"
+    },
+    "title": "Heterocyclic Amines Disrupt Lipid Homeostasis in Cryopreserved Human Hepatocytes",
+    "venue": "Cardiovascular Toxicology",
+    "year": 2024,
+    "citationCount": 2,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s12012-024-09874-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s12012-024-09874-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "150179733",
+        "name": "Kennedy M. Walls"
+      },
+      {
+        "authorId": "2305468607",
+        "name": "Jonathan Y Joh"
+      },
+      {
+        "authorId": "2067655993",
+        "name": "Kyung U. Hong"
+      },
+      {
+        "authorId": "2237617994",
+        "name": "David W. Hein"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "188fa344175183bfbd1fa5b0656fc503fa04e1b8",
+    "externalIds": {
+      "MAG": "2133620886",
+      "DOI": "10.1152/AJPENDO.00513.2004",
+      "CorpusId": 85988309
+    },
+    "title": "PPARγ2 regulates lipogenesis and lipid accumulation in steatotic hepatocytes",
+    "venue": "",
+    "year": 2005,
+    "citationCount": 353,
+    "influentialCitationCount": 14,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1152/AJPENDO.00513.2004?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1152/AJPENDO.00513.2004, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "11300906",
+        "name": "Susan E. Schadinger"
+      },
+      {
+        "authorId": "4771115",
+        "name": "N. Bucher"
+      },
+      {
+        "authorId": "40556840",
+        "name": "B. Schreiber"
+      },
+      {
+        "authorId": "2483860",
+        "name": "S. Farmer"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "f4f024ba202293bc5346510556b49d35366979ca",
+    "externalIds": {
+      "MAG": "2167591543",
+      "DOI": "10.1194/jlr.M500203-JLR200",
+      "CorpusId": 12531842
+    },
+    "title": "PPARα activation increases triglyceride mass and adipose differentiation-related protein in hepatocytes Published, JLR Papers in Press, November 10, 2005.",
+    "venue": "Journal of Lipid Research",
+    "year": 2006,
+    "citationCount": 96,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "http://www.jlr.org/article/S0022227520336336/pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1194/jlr.M500203-JLR200?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1194/jlr.M500203-JLR200, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Chemistry"
+    ],
+    "authors": [
+      {
+        "authorId": "4591860",
+        "name": "U. Edvardsson"
+      },
+      {
+        "authorId": "2447106",
+        "name": "Anna Ljungberg"
+      },
+      {
+        "authorId": "36143779",
+        "name": "D. Lindén"
+      },
+      {
+        "authorId": "1399065525",
+        "name": "L. William-Olsson"
+      },
+      {
+        "authorId": "1422608612",
+        "name": "Helena Peilot-Sjögren"
+      },
+      {
+        "authorId": "4616674",
+        "name": "A. Ahnmark"
+      },
+      {
+        "authorId": "2691040",
+        "name": "J. Oscarsson"
+      }
+    ],
+    "abstract": "Adipose differentiation-related protein (ADRP) is a lipid droplet-associated protein that is expressed in various tissues. In mice treated with the peroxisome proliferator-activated receptor α (PPARα) agonist Wy14,643 (Wy), hepatic mRNA and protein levels of ADRP as well as hepatic triglyceride content increased. Also in primary mouse hepatocytes, Wy increased ADRP expression and intracellular triglyceride mass. The triglyceride mass increased in spite of unchanged triglyceride biosynthesis and increased palmitic acid oxidation. However, Wy incubation decreased the secretion of newly synthesized triglycerides, whereas apolipoprotein B secretion increased. Thus, decreased availability of triglycerides for VLDL assembly could help to explain the cellular accumulation of triglycerides after Wy treatment. We hypothesized that this effect could be mediated by increased ADRP expression. Similar to PPARα activation, adenovirus-mediated ADRP overexpression in mouse hepatocytes enhanced cellular triglyceride mass and decreased the secretion of newly synthesized triglycerides. In ADRP-overexpressing cells, Wy incubation resulted in a further decrease in triglyceride secretion. This effect of Wy was not attributable to decreased cellular triglycerides after increased fatty acid oxidation because the triglyceride mass in Wy-treated ADRP-overexpressing cells was unchanged. In summary, PPARα activation prevents the availability of triglycerides for VLDL assembly and increases hepatic triglyceride content in part by increasing the expression of ADRP."
+  },
+  {
+    "paperId": "486550c9160ad7811cc53961c4426e5034e3dfc8",
+    "externalIds": {
+      "MAG": "1886179620",
+      "DOI": "10.31989/FFHD.V3I9.40",
+      "CorpusId": 20319239
+    },
+    "title": "Molecular mechanism of intracellular lipid accumulation: Suppressive effect of PycnogenolR in liver cells",
+    "venue": "",
+    "year": 2013,
+    "citationCount": 1,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://ffhdj.com/index.php/ffhd/article/download/40/93",
+      "status": "HYBRID",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.31989/FFHD.V3I9.40?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.31989/FFHD.V3I9.40, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "5588059",
+        "name": "S. Ikuyama"
+      },
+      {
+        "authorId": "145211774",
+        "name": "Bin Fan"
+      },
+      {
+        "authorId": "8512643",
+        "name": "J. Gu"
+      },
+      {
+        "authorId": "2097614467",
+        "name": "K. Mukae"
+      },
+      {
+        "authorId": "2111046655",
+        "name": "Hideyuki Watanabe"
+      }
+    ],
+    "abstract": "Cells are physiologically ready to accumulate lipids such as triacylglycerides in the cytoplasm. Five classes of perilipin (PLIN) family proteins are known to be involved in the process of intracellular lipid accumulation. PLIN2 is expressed ubiquitously including adipocytes, hepatocytes and macrophages. Over-expression of PLIN2 is demonstrated in the lesions of fatty liver diseases and atherosclerosis. Suppression of PLIN2 expression prevents from developing these pathological conditions in animal models, suggesting that PLIN2 could be a therapeutic target molecule for excessive intracellular lipid accumulation which leads to various metabolic derangements. The PLIN2 gene promoter has two important cis-acting elements in close proximity:AP-1 element which mediates inflammatory signals and PPRE which mediates free fatty acid effect. In NMuLi mouse liver cells, FFA such as oleic acid requires both functional AP-1 and PPRE simultaneously to stimulate the promoter activity, indicating the presence of intimate interaction of inflammatory and metabolic signals on this gene. PycnogenolR, French maritime pine bark extracts, suppressed the oleic acid-induced PLIN2 expression and lipid accumulation in NMuLi cells. We found that PycnogenolR did not suppress the PLIN2 promoter activity or AP-1 binding to DNA. Instead, PycnogenolR facilitates the PLIN2 mRNA degradation, leading to suppression of lipid accumulation. This effect seems to be independent of antioxidant effect of PycnogenolR. We raise the idea that PLIN2 is a putative target molecule for prevention of pathological condition induced by excessive lipid accumulation, and this class of natural compounds could be putative therapeutic modalities. Key words : PycnogenolR, lipid droplet, perilipin, fatty liver disease"
+  },
+  {
+    "paperId": "caefbdab7d0b2e88bd44303cfb87dc865307fef4",
+    "externalIds": {
+      "DOI": "10.1101/2021.06.18.449045",
+      "CorpusId": 235650068,
+      "PubMed": "37516308"
+    },
+    "title": "Preferential lipolysis of DGAT1 over DGAT2 generated triacylglycerol in Huh7 hepatocytes",
+    "venue": "bioRxiv",
+    "year": 2021,
+    "citationCount": 9,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1101/2021.06.18.449045",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1101/2021.06.18.449045?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1101/2021.06.18.449045, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "144869969",
+        "name": "Raja Selvaraj"
+      },
+      {
+        "authorId": "2115134250",
+        "name": "Sarah V. Zehnder"
+      },
+      {
+        "authorId": "40102295",
+        "name": "R. Watts"
+      },
+      {
+        "authorId": "3715070",
+        "name": "Jihong Lian"
+      },
+      {
+        "authorId": "50233565",
+        "name": "Randal C. Nelson"
+      },
+      {
+        "authorId": "144676125",
+        "name": "R. Lehner"
+      }
+    ],
+    "abstract": "Hepatic steatosis is defined by accumulation of neutral lipids in lipid droplets (LDs) including triacylglycerol (TG) and steryl esters. Two distinct diacylglycerol acyltransferases (DGAT1 and DGAT2) catalyze synthesis of TG in hepatocytes. TG formed through either DGAT1 or DGAT2 appears to be preferentially directed to distinct intercellular fates, such as fatty acid production for oxidation or very-low density lipoprotein assembly, respectively. Because of the preferential use of TG generated by DGAT1 and DGAT2, we hypothesized that targeting/association of lipolytic machinery to LDs would differ depending on whether the TG stores were generated through DGAT1 or DGAT2 activities. Inhibition of DGAT1 or DGAT2 in human hepatoma cells (Huh7) incubated with oleic acid resulted in only a small change in TG accretion suggesting that the two DGATs can compensate for each other in fatty acid esterification. This compensation was not accompanied by changes in DGAT1 or DGAT2 mRNA expression. DGAT1 inhibition (TG synthesized by DGAT2) resulted in large LDs, whereas DGAT2 inhibition (TG synthesized by DGAT1) caused the accumulation of numerous small LDs. Oleic acid treatment increased mRNA and protein expression of the LD-associated protein PLIN2 but not PLIN5 or the lipase ATGL and its activator ABHD5/CGI-58. Inactivation of DGAT1 or DGAT2 did not alter expression (mRNA or protein) of ATGL, ABHD5/CGI-58, PLIN2 or PLIN5, but inactivation of both DGATs increased PLIN2 abundance despite a dramatic reduction in the number of LDs. ATGL localized preferentially to DGAT1-made LDs rather than to DGAT2-made LDs, and TG in these LDs was preferentially used for fatty acid (FA) oxidation. A combination of DGAT2 inhibitor and the pan lipase inhibitor E600 resulted in large LDs, suggesting that the small size of DGAT1-made LDs is due to a lipolytic process."
+  },
+  {
+    "paperId": "6491dba661d4947089cd28f5e7acedc636041697",
+    "externalIds": {
+      "MAG": "2886911665",
+      "CorpusId": 104743083
+    },
+    "title": "Efeitos da leptina na adipogênese e produção de mediadores inflamatórios por adipócitos 3T3-L1",
+    "venue": "",
+    "year": 2017,
+    "citationCount": 0,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Chemistry"
+    ],
+    "authors": [
+      {
+        "authorId": "2066235964",
+        "name": "Lohanna Palhinha do Amaral"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "38de51e95d1c03e818f2844703bf790efceb5f8d",
+    "externalIds": {
+      "MAG": "2042876212",
+      "DOI": "10.1016/S0016-5085(14)60038-X",
+      "CorpusId": 72116215
+    },
+    "title": "38 APOA5 Deficiency Leads to Spontaneous Development of Nonalcoholic Fatty Liver Disease (NAFLD) in Chow-Fed Mice",
+    "venue": "",
+    "year": 2014,
+    "citationCount": 0,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/S0016-5085(14)60038-X?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/S0016-5085(14)60038-X, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Chemistry"
+    ],
+    "authors": [
+      {
+        "authorId": "49370483",
+        "name": "D. Q. Wang"
+      },
+      {
+        "authorId": "52475146",
+        "name": "O. Bari"
+      },
+      {
+        "authorId": "48016472",
+        "name": "Helen H Wang"
+      },
+      {
+        "authorId": "48571466",
+        "name": "Linda S. Zhang"
+      },
+      {
+        "authorId": "144226896",
+        "name": "D. Ford"
+      },
+      {
+        "authorId": "1396481455",
+        "name": "B. Neuschwander‐Tetri"
+      },
+      {
+        "authorId": "3103305",
+        "name": "P. Tso"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "904fceca7661fb3a399f49dec05c331ca3e3e011",
+    "externalIds": {
+      "MAG": "2078592606",
+      "DOI": "10.1016/S0016-5085(14)60039-1",
+      "CorpusId": 72829609
+    },
+    "title": "39 Mechanism of Alcoholic Hepatitis: Relationship Between Leaky Gut, Endotoxemia, and Pro-Inflammatory Cytokines",
+    "venue": "",
+    "year": 2014,
+    "citationCount": 0,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1016/s0016-5085(14)60039-1",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/S0016-5085(14)60039-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/S0016-5085(14)60039-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "92626296",
+        "name": "G. Holman"
+      },
+      {
+        "authorId": "9851295",
+        "name": "T. Alhmoud"
+      },
+      {
+        "authorId": "13893013",
+        "name": "Adam Mougey"
+      },
+      {
+        "authorId": "4582362",
+        "name": "Shuhong Guo"
+      },
+      {
+        "authorId": "101825840",
+        "name": "Rana Al-Sadi"
+      },
+      {
+        "authorId": "14544702",
+        "name": "B. Gannavarapu"
+      },
+      {
+        "authorId": "88644137",
+        "name": "J. Alcorn"
+      },
+      {
+        "authorId": "5270458",
+        "name": "T. Ma"
+      }
+    ],
+    "abstract": null
   }
 ]
