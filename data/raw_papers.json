@@ -47889,5 +47889,683 @@
       }
     ],
     "abstract": null
+  },
+  {
+    "paperId": "88f327beea9f1461543ac0eefb01a43b1f2e5880",
+    "externalIds": {
+      "MAG": "2040965745",
+      "DOI": "10.1074/jbc.M102468200",
+      "CorpusId": 27808393,
+      "PubMed": "11313361"
+    },
+    "title": "TIP47 Is Not a Component of Lipid Droplets*",
+    "venue": "Journal of Biological Chemistry",
+    "year": 2001,
+    "citationCount": 45,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "http://www.jbc.org/article/S0021925820784498/pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1074/jbc.M102468200?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1074/jbc.M102468200, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "144448348",
+        "name": "P. Barbero"
+      },
+      {
+        "authorId": "2062304047",
+        "name": "Erin Buell"
+      },
+      {
+        "authorId": "2062304876",
+        "name": "Stephanie Zulley"
+      },
+      {
+        "authorId": "5688385",
+        "name": "S. Pfeffer"
+      }
+    ],
+    "abstract": "TIP47 functions in the delivery of mannose 6-phosphate receptors from endosomes to the trans-Golgi network bothin vitro and in vivo. It binds directly and very specifically to the cytoplasmic domains of both the cation-independent and cation-dependent mannose 6-phosphate receptors. TIP47 is 43% identical to a lipid droplet-associated protein named adipophilin; much of the identity resides near the N termini of these proteins. It was recently reported in this journal, in a study using antiserum from this laboratory, that TIP47 is a constituent of lipid droplets (Wolins, N. E., Rubin, B., and Brasaemle, D. L. (2001) J. Biol. Chem. 276, 5101–5108). We show here that the findings of Wolins et al. were likely due to either a cross-reactive, unidentified protein in HeLa cells that is recognized by our antiserum and/or the fact that our serum also cross-reacts with the adipophilin protein itself, shown directly by expression of adipophilin inEscherichia coli. Using antibodies specific for residues 152–434 of TIP47, we show that TIP47 is not a constituent of lipid droplets."
+  },
+  {
+    "paperId": "90989acc17d2c5184225bb6fd9c4197224fa0cbf",
+    "externalIds": {
+      "MAG": "2078709311",
+      "DOI": "10.1007/s00335-01-2055-5",
+      "CorpusId": 33216665,
+      "PubMed": "11641724"
+    },
+    "title": "The murine perilipin gene: the lipid droplet-associated perilipins derive from tissue-specific, mRNA splice variants and define a gene family of ancient origin",
+    "venue": "Mammalian Genome",
+    "year": 2001,
+    "citationCount": 224,
+    "influentialCitationCount": 12,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00335-01-2055-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00335-01-2055-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "4062569",
+        "name": "Xinyue Lu"
+      },
+      {
+        "authorId": "1401710316",
+        "name": "J. Gruia-Gray"
+      },
+      {
+        "authorId": "3312579",
+        "name": "N. Copeland"
+      },
+      {
+        "authorId": "2268371",
+        "name": "D. Gilbert"
+      },
+      {
+        "authorId": "1708266",
+        "name": "N. Jenkins"
+      },
+      {
+        "authorId": "4217394",
+        "name": "C. Londos"
+      },
+      {
+        "authorId": "2805764",
+        "name": "A. Kimmel"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "d93f84d37fde7a04320b8b9fdd8d830fe647e38f",
+    "externalIds": {
+      "MAG": "2085224493",
+      "DOI": "10.1002/dvdy.20277",
+      "CorpusId": 2385907,
+      "PubMed": "15704138"
+    },
+    "title": "Drosophila Lipid Storage Droplet 2 gene (Lsd‐2) is expressed and controls lipid storage in wing imaginal discs",
+    "venue": "Developmental Dynamics",
+    "year": 2005,
+    "citationCount": 46,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/dvdy.20277",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/dvdy.20277?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/dvdy.20277, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "4182012",
+        "name": "J. Fauny"
+      },
+      {
+        "authorId": "47137805",
+        "name": "J. Silber"
+      },
+      {
+        "authorId": "1991614",
+        "name": "A. Zider"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "1c4dc39e98c3885bbae6373cc6c68d88ca77672b",
+    "externalIds": {
+      "MAG": "899550147",
+      "CorpusId": 82293075
+    },
+    "title": "TIP47 is recruited to lipid droplets and important for the organelle biogenesis and function",
+    "venue": "",
+    "year": 2004,
+    "citationCount": 2,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "3688025",
+        "name": "A. Bulankina"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "df28fda991efadea134b2a898ccd46b87999b725",
+    "externalIds": {
+      "MAG": "2297713000",
+      "DOI": "10.3168/jds.2015-10375",
+      "CorpusId": 6882081,
+      "PubMed": "26995123"
+    },
+    "title": "The protein and lipid composition of the membrane of milk fat globules depends on their size.",
+    "venue": "Journal of Dairy Science",
+    "year": 2016,
+    "citationCount": 87,
+    "influentialCitationCount": 7,
+    "openAccessPdf": {
+      "url": "http://www.journalofdairyscience.org/article/S0022030216300741/pdf",
+      "status": "BRONZE",
+      "license": "publisher-specific-oa",
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.3168/jds.2015-10375?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3168/jds.2015-10375, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "2115404383",
+        "name": "Jing Lu"
+      },
+      {
+        "authorId": "1399112675",
+        "name": "N. Argov-Argaman"
+      },
+      {
+        "authorId": "12181496",
+        "name": "Jeni Anggrek"
+      },
+      {
+        "authorId": "144953605",
+        "name": "S. Boeren"
+      },
+      {
+        "authorId": "4843215",
+        "name": "Toon C M van Hooijdonk"
+      },
+      {
+        "authorId": "2069832527",
+        "name": "J. Vervoort"
+      },
+      {
+        "authorId": "2232723145",
+        "name": "K. Hettinga"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "5aa2150bf70e09ad2f4c8d8124fd44c2a2f8a0ad",
+    "externalIds": {
+      "MAG": "2408947175",
+      "CorpusId": 89375068
+    },
+    "title": "Crucial role of perilipin-3 (TIP47) in formation of lipid droplets and PGE₂ production in HL-60-derived neutrophils",
+    "venue": "",
+    "year": 2013,
+    "citationCount": 0,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Chemistry"
+    ],
+    "authors": [
+      {
+        "authorId": "2098677016",
+        "name": "野瀬 冬樹"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "4574deaa7b510a6f5dacc8a99c7301e0d553025b",
+    "externalIds": {
+      "PubMedCentral": "3831900",
+      "MAG": "2165861550",
+      "DOI": "10.1002/phy2.84",
+      "CorpusId": 16858546,
+      "PubMed": "24303154"
+    },
+    "title": "Skeletal muscle PLIN3 and PLIN5 are serine phosphorylated at rest and following lipolysis during adrenergic or contractile stimulation",
+    "venue": "Physiological Reports",
+    "year": 2013,
+    "citationCount": 42,
+    "influentialCitationCount": 5,
+    "openAccessPdf": {
+      "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/phy2.84",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC3831900, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2238186",
+        "name": "R. MacPherson"
+      },
+      {
+        "authorId": "6780512",
+        "name": "R. Vandenboom"
+      },
+      {
+        "authorId": "3943814",
+        "name": "B. Roy"
+      },
+      {
+        "authorId": "153020968",
+        "name": "S. Peters"
+      }
+    ],
+    "abstract": "In adipose tissue, access of adipose triglyceride and hormone‐sensitive lipases (ATGL and HSL) to the lipid droplet depends on PLIN1 phosphorylation, however, PLIN1 is not expressed in skeletal muscle and the phosphorylation of the expressed PLINs has yet to be investigated. Further, direct interactions between skeletal muscle PLINs and HSL are unknown. We investigated the isolated and combined effects of epinephrine and contraction on PLIN‐to‐lipase interactions as well as phosphorylation. Isolated rat solei were assigned to one of four 30 min in vitro conditions (25°C): (1) rest; (2) intermittent tetanic stimulation (60 Hz for 150 msec; train rate 20/min); (3) 5 nmol/L epinephrine; (4) intermittent tetanic stimulation and 5 nmol/L epinephrine. Immunoprecipitation of serine phosphorylated proteins followed by Western blotting for PLIN2, PLIN3, PLIN5, revealed that only PLIN2 is not phosphorylated under any of the experimental conditions. This is the first study to show that in whole rat skeletal muscle PLIN3 and PLIN5 are serine phosphorylated. The degree of serine phosphorylation remained unchanged following adrenergic and/or contractile stimulation. Oil red O staining of muscle sections for lipid content shows a significant decrease following each condition, confirming lipolysis occurred (P < 0.05). PLIN2, 3, and 5 all interact with HSL and ATGL, but these interactions were unchanged following treatments. Our results show that in skeletal muscle, PLIN2 is not serine phosphorylated at rest or with lipolytic stimulation and that while PLIN3, PLIN5 are serine phosphorylated at rest, the degree of phosphorylation does not change with lipolytic stimulation."
+  },
+  {
+    "paperId": "03d01b625b6c9d6170c581ef08d2351634c385bb",
+    "externalIds": {
+      "MAG": "2165139925",
+      "PubMedCentral": "4254090",
+      "DOI": "10.14814/phy2.12154",
+      "CorpusId": 1780634,
+      "PubMed": "25318747"
+    },
+    "title": "Higher PLIN5 but not PLIN3 content in isolated skeletal muscle mitochondria following acute in vivo contraction in rat hindlimb",
+    "venue": "Physiological Reports",
+    "year": 2014,
+    "citationCount": 25,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.14814/phy2.12154",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4254090, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "39294681",
+        "name": "Sofhia V Ramos"
+      },
+      {
+        "authorId": "2238186",
+        "name": "R. MacPherson"
+      },
+      {
+        "authorId": "34223711",
+        "name": "P. Turnbull"
+      },
+      {
+        "authorId": "33390914",
+        "name": "Kirsten N Bott"
+      },
+      {
+        "authorId": "34197346",
+        "name": "P. LeBlanc"
+      },
+      {
+        "authorId": "1821880",
+        "name": "W. Ward"
+      },
+      {
+        "authorId": "153020968",
+        "name": "S. Peters"
+      }
+    ],
+    "abstract": "Contraction‐mediated lipolysis increases the association of lipid droplets and mitochondria, indicating an important role in the passage of fatty acids from lipid droplets to mitochondria in skeletal muscle. PLIN3 and PLIN5 are of particular interest to the lipid droplet–mitochondria interaction because PLIN3 is able to move about within cells and PLIN5 associates with skeletal muscle mitochondria. This study primarily investigated: 1) if PLIN3 is detected in skeletal muscle mitochondrial fraction; and 2) if mitochondrial protein content of PLIN3 and/or PLIN5 changes following stimulated contraction. A secondary aim was to determine if PLIN3 and PLIN5 associate and whether this changes following contraction. Male Long Evans rats (n = 21; age, 52 days; weight = 317 ± 6 g) underwent 30 min of hindlimb stimulation (10 msec impulses, 100 Hz/3 sec at 10–20 V; train duration 100 msec). Contraction induced a ~50% reduction in intramuscular lipid content measured by oil red‐O staining of red gastrocnemius muscle. Mitochondria were isolated from red gastrocnemius muscle by differential centrifugation and proteins were detected by western blotting. Mitochondrial PLIN5 content was ~1.6‐fold higher following 30 min of contraction and PLIN3 content was detected in the mitochondrial fraction, and unchanged following contraction. An association between PLIN3 and PLIN5 was observed and remained unaltered following contraction. PLIN5 may play a role in mitochondria during lipolysis, which is consistent with a role in facilitating/regulating mitochondrial fatty acid oxidation. PLIN3 and PLIN5 may be working together on the lipid droplet and mitochondria during contraction‐induced lipolysis."
+  },
+  {
+    "paperId": "2213936ba538fe60c5f8398aed58e119d1a46fc8",
+    "externalIds": {
+      "MAG": "2043757218",
+      "DOI": "10.1016/j.ejcb.2013.12.003",
+      "CorpusId": 22728445,
+      "PubMed": "24480419"
+    },
+    "title": "TIP47 is associated with the hepatitis C virus and its interaction with Rab9 is required for release of viral particles.",
+    "venue": "European Journal of Cell Biology",
+    "year": 2013,
+    "citationCount": 49,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.ejcb.2013.12.003?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.ejcb.2013.12.003, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "8665299",
+        "name": "Daniela Ploen"
+      },
+      {
+        "authorId": "6294235",
+        "name": "M. Hafirassou"
+      },
+      {
+        "authorId": "4135239",
+        "name": "Kiyoshi Himmelsbach"
+      },
+      {
+        "authorId": "2038096657",
+        "name": "Stefan Schille"
+      },
+      {
+        "authorId": "3348787",
+        "name": "M. Biniossek"
+      },
+      {
+        "authorId": "5520850",
+        "name": "T. Baumert"
+      },
+      {
+        "authorId": "144424993",
+        "name": "C. Schuster"
+      },
+      {
+        "authorId": "4343143",
+        "name": "E. Hildt"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "87ed544b9a5fe0b599cfce041f92f4052fad4ebd",
+    "externalIds": {
+      "MAG": "2773927222",
+      "DOI": "10.1017/S0967199417000697",
+      "CorpusId": 37337806,
+      "PubMed": "29233207"
+    },
+    "title": "The dynamic pattern of PLIN3 in pig oocytes and cumulus cells during in vitro maturation",
+    "venue": "Zygote (Cambridge. Print)",
+    "year": 2017,
+    "citationCount": 7,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1017/S0967199417000697?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1017/S0967199417000697, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "authors": [
+      {
+        "authorId": "2153556159",
+        "name": "Mingzhu Xu"
+      },
+      {
+        "authorId": "2111152351",
+        "name": "Yaqiong Zeng"
+      },
+      {
+        "authorId": "9727487",
+        "name": "Daming Chi"
+      },
+      {
+        "authorId": "27103152",
+        "name": "Linan Si"
+      },
+      {
+        "authorId": "134881204",
+        "name": "Xiao Qu"
+      },
+      {
+        "authorId": "2116822367",
+        "name": "Juan Li"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "65cb21394164cb9f03e657a607fa4888cb0cd01f",
+    "externalIds": {
+      "MAG": "2068964818",
+      "DOI": "10.1128/JVI.03299-12",
+      "CorpusId": 7613354,
+      "PubMed": "23325685"
+    },
+    "title": "Reevaluation of the Requirement for TIP47 in Human Immunodeficiency Virus Type 1 Envelope Glycoprotein Incorporation",
+    "venue": "Journal of Virology",
+    "year": 2013,
+    "citationCount": 33,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://jvi.asm.org/content/jvi/87/6/3561.full.pdf",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1128/JVI.03299-12?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1128/JVI.03299-12, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "5976712",
+        "name": "M. Checkley"
+      },
+      {
+        "authorId": "3658886",
+        "name": "B. Luttge"
+      },
+      {
+        "authorId": "6239654",
+        "name": "Peter Y. Mercredi"
+      },
+      {
+        "authorId": "6090483",
+        "name": "S. Kyere"
+      },
+      {
+        "authorId": "47363378",
+        "name": "Justin Donlan"
+      },
+      {
+        "authorId": "145857866",
+        "name": "T. Murakami"
+      },
+      {
+        "authorId": "6003848",
+        "name": "M. Summers"
+      },
+      {
+        "authorId": "3335063",
+        "name": "S. Cocklin"
+      },
+      {
+        "authorId": "5553271",
+        "name": "E. Freed"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "156cc6be3e66cac6aa882ed6bcd4ff898c5085e9",
+    "externalIds": {
+      "PubMedCentral": "8860030",
+      "DOI": "10.3389/fcell.2021.826248",
+      "CorpusId": 246635961,
+      "PubMed": "35198567"
+    },
+    "title": "Biogenesis and Breakdown of Lipid Droplets in Pathological Conditions",
+    "venue": "Frontiers in Cell and Developmental Biology",
+    "year": 2022,
+    "citationCount": 44,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://www.frontiersin.org/articles/10.3389/fcell.2021.826248/pdf",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8860030, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2153522616",
+        "name": "Claudio M. Fader Kaiser"
+      },
+      {
+        "authorId": "34176691",
+        "name": "P. S. Romano"
+      },
+      {
+        "authorId": "144465191",
+        "name": "M. C. Vanrell"
+      },
+      {
+        "authorId": "3947382",
+        "name": "Cristian A. Pocognoni"
+      },
+      {
+        "authorId": "2153523257",
+        "name": "J. Jacob"
+      },
+      {
+        "authorId": "34967490",
+        "name": "B. Caruso"
+      },
+      {
+        "authorId": "8691987",
+        "name": "L. Delgui"
+      }
+    ],
+    "abstract": "Lipid droplets (LD) have long been considered as mere fat drops; however, LD have lately been revealed to be ubiquitous, dynamic and to be present in diverse organelles in which they have a wide range of key functions. Although incompletely understood, the biogenesis of eukaryotic LD initiates with the synthesis of neutral lipids (NL) by enzymes located in the endoplasmic reticulum (ER). The accumulation of NL leads to their segregation into nanometric nuclei which then grow into lenses between the ER leaflets as they are further filled with NL. The lipid composition and interfacial tensions of both ER and the lenses modulate their shape which, together with specific ER proteins, determine the proneness of LD to bud from the ER toward the cytoplasm. The most important function of LD is the buffering of energy. But far beyond this, LD are actively integrated into physiological processes, such as lipid metabolism, control of protein homeostasis, sequestration of toxic lipid metabolic intermediates, protection from stress, and proliferation of tumours. Besides, LD may serve as platforms for pathogen replication and defense. To accomplish these functions, from biogenesis to breakdown, eukaryotic LD have developed mechanisms to travel within the cytoplasm and to establish contact with other organelles. When nutrient deprivation occurs, LD undergo breakdown (lipolysis), which begins with the LD-associated members of the perilipins family PLIN2 and PLIN3 chaperone-mediated autophagy degradation (CMA), a specific type of autophagy that selectively degrades a subset of cytosolic proteins in lysosomes. Indeed, PLINs CMA degradation is a prerequisite for further true lipolysis, which occurs via cytosolic lipases or by lysosome luminal lipases when autophagosomes engulf portions of LD and target them to lysosomes. LD play a crucial role in several pathophysiological processes. Increased accumulation of LD in non-adipose cells is commonly observed in numerous infectious diseases caused by intracellular pathogens including viral, bacterial, and parasite infections, and is gradually recognized as a prominent characteristic in a variety of cancers. This review discusses current evidence related to the modulation of LD biogenesis and breakdown caused by intracellular pathogens and cancer."
+  },
+  {
+    "paperId": "e37eb38c0731c66b08cac13a7e4b023374204624",
+    "externalIds": {
+      "MAG": "2115152218",
+      "PubMedCentral": "2711566",
+      "DOI": "10.1083/jcb.200812042",
+      "CorpusId": 9884701,
+      "PubMed": "19451273"
+    },
+    "title": "TIP47 functions in the biogenesis of lipid droplets",
+    "venue": "Journal of Cell Biology",
+    "year": 2009,
+    "citationCount": 274,
+    "influentialCitationCount": 23,
+    "openAccessPdf": {
+      "url": "https://rupress.org/jcb/article-pdf/185/4/641/1342574/jcb_200812042.pdf",
+      "status": "HYBRID",
+      "license": "CCBYNCSA",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC2711566, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "3688025",
+        "name": "A. Bulankina"
+      },
+      {
+        "authorId": "4214362",
+        "name": "A. Deggerich"
+      },
+      {
+        "authorId": "152344246",
+        "name": "Dirk Wenzel"
+      },
+      {
+        "authorId": "5164720",
+        "name": "Kudzai E. Mutenda"
+      },
+      {
+        "authorId": "34631244",
+        "name": "J. Wittmann"
+      },
+      {
+        "authorId": "32011342",
+        "name": "M. Rudolph"
+      },
+      {
+        "authorId": "34792018",
+        "name": "Koert N. J. Burger"
+      },
+      {
+        "authorId": "5557854",
+        "name": "S. Höning"
+      }
+    ],
+    "abstract": "TIP47 (tail-interacting protein of 47 kD) was characterized as a cargo selection device for mannose 6-phosphate receptors (MPRs), directing their transport from endosomes to the trans-Golgi network. In contrast, our current analysis shows that cytosolic TIP47 is not recruited to organelles of the biosynthetic and endocytic pathways. Knockdown of TIP47 expression had no effect on MPR distribution or trafficking and did not affect lysosomal enzyme sorting. Therefore, our data argue against a function of TIP47 as a sorting device. Instead, TIP47 is recruited to lipid droplets (LDs) by an amino-terminal sequence comprising 11-mer repeats. We show that TIP47 has apolipoprotein-like properties and reorganizes liposomes into small lipid discs. Suppression of TIP47 blocked LD maturation and decreased the incorporation of triacylglycerol into LDs. We conclude that TIP47 functions in the biogenesis of LDs."
+  },
+  {
+    "paperId": "3aecd341494f9b332894a9c193afb33373c3de3e",
+    "externalIds": {
+      "DOI": "10.1242/jcs.256206",
+      "CorpusId": 235170075,
+      "PubMed": "33955456"
+    },
+    "title": "The surface of lipid droplets constitutes a barrier for endoplasmic reticulum residential integral membrane proteins.",
+    "venue": "Journal of Cell Science",
+    "year": 2021,
+    "citationCount": 21,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://journals.biologists.com/jcs/article-pdf/135/5/jcs256206/2081101/jcs256206.pdf",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1242/jcs.256206?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1242/jcs.256206, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "11436736",
+        "name": "Rasha Khaddaj"
+      },
+      {
+        "authorId": "48009201",
+        "name": "M. Mari"
+      },
+      {
+        "authorId": "4799717",
+        "name": "Stéphanie Cottier"
+      },
+      {
+        "authorId": "3554712",
+        "name": "F. Reggiori"
+      },
+      {
+        "authorId": "5742253",
+        "name": "R. Schneiter"
+      }
+    ],
+    "abstract": "Lipid droplets (LDs) are globular subcellular structures that store neutral lipids. LDs are closely associated with the endoplasmic reticulum (ER), and are limited by a phospholipid monolayer harboring a specific set of proteins. Most of these proteins associate with LDs through either an amphipathic helix or a membrane-embedded hairpin motif. Here we address the question whether integral membrane proteins could localize to the surface of LDs. To test this, we fused perilipin 3 (PLIN3), a mammalian LD-targeted protein, to ER residential proteins. The resulting fusion proteins localized to the periphery of LDs in both yeast and mammalian cells. This peripheral LD localization of the fusion proteins, however, was due to a redistribution of the ER around LDs, as revealed by bimolecular fluorescence complementation between ER- and LD-localized partners. A LD-tethering function of PLIN3-containing membrane proteins was confirmed by fusing PLIN3 to the cytoplasmic domain of an outer mitochondrial membrane protein, OM14. Expression of OM14-PLIN3 induced a close apposition between LDs and mitochondria. These data indicate that the ER-LD junction constitutes a barrier for ER-residential integral membrane proteins."
   }
 ]
