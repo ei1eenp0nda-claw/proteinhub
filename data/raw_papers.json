@@ -48567,5 +48567,2925 @@
       }
     ],
     "abstract": "Lipid droplets (LDs) are globular subcellular structures that store neutral lipids. LDs are closely associated with the endoplasmic reticulum (ER), and are limited by a phospholipid monolayer harboring a specific set of proteins. Most of these proteins associate with LDs through either an amphipathic helix or a membrane-embedded hairpin motif. Here we address the question whether integral membrane proteins could localize to the surface of LDs. To test this, we fused perilipin 3 (PLIN3), a mammalian LD-targeted protein, to ER residential proteins. The resulting fusion proteins localized to the periphery of LDs in both yeast and mammalian cells. This peripheral LD localization of the fusion proteins, however, was due to a redistribution of the ER around LDs, as revealed by bimolecular fluorescence complementation between ER- and LD-localized partners. A LD-tethering function of PLIN3-containing membrane proteins was confirmed by fusing PLIN3 to the cytoplasmic domain of an outer mitochondrial membrane protein, OM14. Expression of OM14-PLIN3 induced a close apposition between LDs and mitochondria. These data indicate that the ER-LD junction constitutes a barrier for ER-residential integral membrane proteins."
+  },
+  {
+    "paperId": "350b356c54de7cfa749a8de25724d57f1b39adf7",
+    "externalIds": {
+      "MAG": "3045952826",
+      "DOI": "10.1186/s43066-020-00046-8",
+      "CorpusId": 220843999
+    },
+    "title": "The role of hepatic transcription factor cAMP response element-binding protein (CREB) during the development of experimental nonalcoholic fatty liver: a biochemical and histomorphometric study",
+    "venue": "Egyptian Liver Journal",
+    "year": 2020,
+    "citationCount": 11,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "https://eglj.springeropen.com/track/pdf/10.1186/s43066-020-00046-8",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1186/s43066-020-00046-8?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1186/s43066-020-00046-8, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "1840484016",
+        "name": "A. Awaad"
+      },
+      {
+        "authorId": "144051685",
+        "name": "M. Kamel"
+      },
+      {
+        "authorId": "153863111",
+        "name": "Magdy M. Mohamed"
+      },
+      {
+        "authorId": "2208145",
+        "name": "M. Helmy"
+      },
+      {
+        "authorId": "144944995",
+        "name": "M. Youssef"
+      },
+      {
+        "authorId": "51299028",
+        "name": "Eiman I Zaki"
+      },
+      {
+        "authorId": "83242313",
+        "name": "Marwa M. Essawy"
+      },
+      {
+        "authorId": "48748738",
+        "name": "M. Hegazy"
+      }
+    ],
+    "abstract": "Background Several molecular mechanisms contribute to the initiation and progression of nonalcoholic fatty liver disease (NAFLD); however, the exact mechanism is not completely understood. Cyclic adenosine monophosphate (cAMP) is one of the most promising pathways that regulates various cellular functions including lipid and carbohydrate metabolism. cAMP induces gene transcription through phosphorylation of the transcription factor, cAMP response element-binding protein (CREB). The action of cAMP is tightly regulated by its level and repression. Among the repressors, Inducible cAMP Early Repressor (ICER) is the only inducible CRE-binding protein. The present study aimed to evaluate the role of hepatic CREB level in the development of experimental NAFLD model to clarify the pathogenesis of the disease. NAFLD 35 male Wistar rats fed a high fat diet for a period of 14 weeks were studied compared with 35 control rats fed a standard diet. Five fasting rats were sacrificed each 2 weeks intervals for a period of 14 weeks. Results NAFLD group revealed a remarkable duration—dependent elevation in cAMP and CREB levels in the liver tissue compared to control group ( P value < 0.004, P value < 0.006, respectively). In contrast, ICER gene expression, as a dominant-negative regulator of CREB, was downregulated in the liver of NAFLD group compared to control group. We also demonstrated that CREB levels were positively correlated with liver function tests, and glucose homeostasis parameters. Conclusions Our results indicate that cAMP/CREB pathway provides an early signal in the progression to NAFLD representing a noninvasive biomarker that can early detect NAFLD and a promising therapeutic target for the treatment of the disease as well."
+  },
+  {
+    "paperId": "b3e56fc12b9fce597876a157edca91cbeda3b1b8",
+    "externalIds": {
+      "MAG": "2900089257",
+      "DOI": "10.1002/hep.30350",
+      "CorpusId": 53288106,
+      "PubMed": "30415504"
+    },
+    "title": "17‐Beta Hydroxysteroid Dehydrogenase 13 Is a Hepatic Retinol Dehydrogenase Associated With Histological Features of Nonalcoholic Fatty Liver Disease",
+    "venue": "Hepatology",
+    "year": 2019,
+    "citationCount": 246,
+    "influentialCitationCount": 16,
+    "openAccessPdf": {
+      "url": "http://deepblue.lib.umich.edu/bitstream/2027.42/148371/2/hep30350_am.pdf",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/hep.30350?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/hep.30350, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "2148984573",
+        "name": "Yanling Ma"
+      },
+      {
+        "authorId": "144845173",
+        "name": "O. Belyaeva"
+      },
+      {
+        "authorId": "2115084401",
+        "name": "Philip M. Brown"
+      },
+      {
+        "authorId": "153021892",
+        "name": "K. Fujita"
+      },
+      {
+        "authorId": "2099803236",
+        "name": "Katherine F Vallès"
+      },
+      {
+        "authorId": "47395898",
+        "name": "Suman Karki"
+      },
+      {
+        "authorId": "2247759906",
+        "name": "Ynto S. de Boer"
+      },
+      {
+        "authorId": "7340808",
+        "name": "C. Koh"
+      },
+      {
+        "authorId": "49068904",
+        "name": "Yanhua Chen"
+      },
+      {
+        "authorId": "19612688",
+        "name": "Xiaomeng Du"
+      },
+      {
+        "authorId": "48034746",
+        "name": "S. Handelman"
+      },
+      {
+        "authorId": "144237326",
+        "name": "V. Chen"
+      },
+      {
+        "authorId": "3893330",
+        "name": "Elizabeth K. Speliotes"
+      },
+      {
+        "authorId": "5038646",
+        "name": "C. Nestlerode"
+      },
+      {
+        "authorId": "47227791",
+        "name": "E. Thomas"
+      },
+      {
+        "authorId": "2078921",
+        "name": "D. Kleiner"
+      },
+      {
+        "authorId": "4063460",
+        "name": "J. Zmuda"
+      },
+      {
+        "authorId": "2725627",
+        "name": "A. Sanyal"
+      },
+      {
+        "authorId": "4730930",
+        "name": "N. Kedishvili"
+      },
+      {
+        "authorId": "2131716343",
+        "name": "T. Liang"
+      },
+      {
+        "authorId": "4690157",
+        "name": "Y. Rotman"
+      }
+    ],
+    "abstract": "Nonalcoholic fatty liver disease (NAFLD) is a common cause of chronic liver disease. A single‐nucleotide polymorphism (SNP), rs6834314, was associated with serum liver enzymes in the general population, presumably reflecting liver fat or injury. We studied rs6834314 and its nearest gene, 17‐beta hydroxysteroid dehydrogenase 13 (HSD17B13), to identify associations with histological features of NAFLD and to characterize the functional role of HSD17B13 in NAFLD pathogenesis. The minor allele of rs6834314 was significantly associated with increased steatosis but decreased inflammation, ballooning, Mallory‐Denk bodies, and liver enzyme levels in 768 adult Caucasians with biopsy‐proven NAFLD and with cirrhosis in the general population. We found two plausible causative variants in the HSD17B13 gene. rs72613567, a splice‐site SNP in high linkage with rs6834314 (r2 = 0.94) generates splice variants and shows a similar pattern of association with NAFLD histology. Its minor allele generates simultaneous expression of exon 6‐skipping and G‐nucleotide insertion variants. Another SNP, rs62305723 (encoding a P260S mutation), is significantly associated with decreased ballooning and inflammation. Hepatic expression of HSD17B13 is 5.9‐fold higher (P = 0.003) in patients with NAFLD. HSD17B13 is targeted to lipid droplets, requiring the conserved amino acid 22‐28 sequence and amino acid 71‐106 region. The protein has retinol dehydrogenase (RDH) activity, with enzymatic activity dependent on lipid droplet targeting and cofactor binding site. The exon 6 deletion, G insertion, and naturally occurring P260S mutation all confer loss of enzymatic activity. Conclusion: We demonstrate the association of variants in HSD17B13 with specific features of NAFLD histology and identify the enzyme as a lipid droplet–associated RDH; our data suggest that HSD17B13 plays a role in NAFLD through its enzymatic activity."
+  },
+  {
+    "paperId": "2ba6fed2788c93a0ddf4964a09064ef591549fb3",
+    "externalIds": {
+      "MAG": "2277108569",
+      "DOI": "10.1111/liv.13097",
+      "CorpusId": 25438104,
+      "PubMed": "26901384"
+    },
+    "title": "Deregulated hepatic microRNAs underlie the association between non‐alcoholic fatty liver disease and coronary artery disease",
+    "venue": "Liver international (Print)",
+    "year": 2016,
+    "citationCount": 45,
+    "influentialCitationCount": 4,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/liv.13097?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/liv.13097, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "1397936085",
+        "name": "A. Braza‐Boïls"
+      },
+      {
+        "authorId": "1398144601",
+        "name": "J. Marí-Alexandre"
+      },
+      {
+        "authorId": "48971906",
+        "name": "P. Molina"
+      },
+      {
+        "authorId": "66477948",
+        "name": "M. Arnau"
+      },
+      {
+        "authorId": "1397936076",
+        "name": "Moisés Barceló-Molina"
+      },
+      {
+        "authorId": "40403272",
+        "name": "D. Domingo"
+      },
+      {
+        "authorId": "34905043",
+        "name": "Javier Girbés"
+      },
+      {
+        "authorId": "34904881",
+        "name": "J. Giner"
+      },
+      {
+        "authorId": "83974008",
+        "name": "L. Martínez-Dolz"
+      },
+      {
+        "authorId": "7946160",
+        "name": "E. Zorio"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "f030eb209707a8c68c6c4638c3a99f191c910a17",
+    "externalIds": {
+      "PubMedCentral": "11440260",
+      "DOI": "10.1016/j.jlr.2024.100635",
+      "CorpusId": 271958926,
+      "PubMed": "39187042"
+    },
+    "title": "Therapeutic siRNA targeting PLIN2 ameliorates steatosis, inflammation, and fibrosis in steatotic liver disease models",
+    "venue": "Journal of Lipid Research",
+    "year": 2024,
+    "citationCount": 13,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1016/j.jlr.2024.100635",
+      "status": "GOLD",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11440260, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2119049668",
+        "name": "Yao Wang"
+      },
+      {
+        "authorId": "2268183916",
+        "name": "Jiaxin Zhou"
+      },
+      {
+        "authorId": "2315076376",
+        "name": "Qi Yang"
+      },
+      {
+        "authorId": "2265456425",
+        "name": "Xinmeng Li"
+      },
+      {
+        "authorId": "3733899",
+        "name": "Yifu Qiu"
+      },
+      {
+        "authorId": "2108065431",
+        "name": "Yansong Zhang"
+      },
+      {
+        "authorId": "2317137764",
+        "name": "Min Liu"
+      },
+      {
+        "authorId": "31532073",
+        "name": "A. J. Zhu"
+      }
+    ],
+    "abstract": "Metabolic dysfunction–associated steatotic liver disease (MASLD) is the most prevalent chronic liver disease worldwide. If left untreated, MASLD can progress from simple hepatic steatosis to metabolic dysfunction–associated steatohepatitis, which is characterized by inflammation and fibrosis. Current treatment options for MASLD remain limited, leaving substantial unmet medical needs for innovative therapeutic approaches. Here, we show that PLIN2, a lipid droplet protein inhibiting hepatic lipolysis, serves as a promising therapeutic target for MASLD. Hepatic PLIN2 levels were markedly elevated in multiple MASLD mouse models induced by diverse nutritional and genetic factors. The liver-specific deletion of Plin2 exhibited significant anti-MASLD effects in these models. To translate this discovery into a therapeutic application, we developed a GalNAc-siRNA conjugate with enhanced stabilization chemistry and validated its potent and sustained efficacy in suppressing Plin2 expression in mouse livers. This siRNA therapeutic, named GalNAc-siPlin2, was shown to be biosafe in mice. Treatment with GalNAc-siPlin2 for 6–8 weeks led to a decrease in hepatic triglyceride levels by approximately 60% in high-fat diet– and obesity-induced MASLD mouse models, accompanied with increased hepatic secretion of VLDL-triglyceride and enhanced thermogenesis in brown adipose tissues. Eight-week treatment with GalNAc-siPlin2 significantly improved hepatic steatosis, inflammation, and fibrosis in high-fat/high fructose–induced metabolic dysfunction–associated steatohepatitis models compared to control group. As a proof of concept, we developed a GalNAc-siRNA therapeutic targeting human PLIN2, which effectively suppressed hepatic PLIN2 expression and ameliorated MASLD in humanized PLIN2 knockin mice. Together, our results highlight the potential of GalNAc-siPLIN2 as a candidate MASLD therapeutic for clinical trials."
+  },
+  {
+    "paperId": "7957a5fac076621653f55898072c709c4ccfedd8",
+    "externalIds": {
+      "DOI": "10.1152/ajpgi.00273.2023",
+      "CorpusId": 269008042,
+      "PubMed": "38591127"
+    },
+    "title": "N-glycosylation of SCAP exacerbates hepatocellular inflammation and lipid accumulation via ACSS2-mediated histone H3K27 acetylation.",
+    "venue": "American Journal of Physiology - Gastrointestinal and Liver Physiology",
+    "year": 2024,
+    "citationCount": 7,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1152/ajpgi.00273.2023?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1152/ajpgi.00273.2023, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2268248681",
+        "name": "Xuemei Li"
+      },
+      {
+        "authorId": "2395314533",
+        "name": "Xiaoqin Tang"
+      },
+      {
+        "authorId": "2274721791",
+        "name": "Yue Xiang"
+      },
+      {
+        "authorId": "15594295",
+        "name": "Zhibo Zhao"
+      },
+      {
+        "authorId": "2111183217",
+        "name": "Yanping Li"
+      },
+      {
+        "authorId": "3502018",
+        "name": "Qiuying Ding"
+      },
+      {
+        "authorId": "2213470802",
+        "name": "Linkun Zhang"
+      },
+      {
+        "authorId": "2212230677",
+        "name": "Jingyuan Xu"
+      },
+      {
+        "authorId": "2295864216",
+        "name": "Lei Zhao"
+      },
+      {
+        "authorId": "2118360233",
+        "name": "Yao Chen"
+      }
+    ],
+    "abstract": "Sterol regulatory element binding protein (SREBP) cleavage-activating protein (SCAP) is a widely expressed membrane glycoprotein that acts as an important modulator of lipid metabolism and inflammatory stress. N-glycosylation of SCAP has been suggested to modulate cancer development, but its role in NASH is poorly understood. In this study, the N-glycosylation of SCAP was analyzed by using sequential trypsin proteolysis and glycosidase treatment. The liver cell lines expressing wild-type and N-glycosylation sites mutated SCAP were constructed to investigate the N-glycosylation role of SCAP in regulating inflammation and lipid accumulation as well as the underlying mechanisms. The hepatic SCAP protein levels were significantly increased in C57BL/6J mice fed with western diet and sweet water (WD+SW) and diabetic db/db mice, which exhibited typical liver steatosis and inflammation. In vitro, the enhanced N-glycosylation increased the protein stability of SCAP and hence increased its total protein levels, while the ablation of N-glycosylation significantly decreased SCAP protein stability and alleviated lipid accumulation and inflammation in hepatic cell lines. Mechanistically, the presence of SCAP N-glycosylation increased not only the SREBP1-mediated acetyl-CoA synthetase 2 (ACSS2) transcription but also the AMPK-mediated S659 phosphorylation of ACCS2 protein, causing the enhanced ACSS2 levels in nucleus and hence increasing the histone H3K27 acetylation (H3K27ac), which is a key epigenetic modification associated with NASH. Modulating ACSS2 expression or its location in cytoplasm abolished the effects of SCAP N-glycosylation on H3K27ac and lipid accumulation and inflammation. In conclusion, SCAP N-glycosylation aggravates inflammation and lipid accumulation through enhancing ACSS2-mediated H3K27ac in hepatocytes."
+  },
+  {
+    "paperId": "843bdce10f297b70a6b2e2f7d1a554381e2f3155",
+    "externalIds": {
+      "DOI": "10.1152/ajpgi.00143.2025",
+      "CorpusId": 282101457,
+      "PubMed": "41087030"
+    },
+    "title": "Loss of hepatic alpha-1b adrenoceptor exacerbates inflammation and stellate cell activation in diet-induced MASLD.",
+    "venue": "American Journal of Physiology - Gastrointestinal and Liver Physiology",
+    "year": 2025,
+    "citationCount": 0,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1152/ajpgi.00143.2025?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1152/ajpgi.00143.2025, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2380657018",
+        "name": "Bernie Efole"
+      },
+      {
+        "authorId": "2113859695",
+        "name": "Sarra Beji"
+      },
+      {
+        "authorId": "4408976",
+        "name": "Mathilde Mouchiroud"
+      },
+      {
+        "authorId": "2385773572",
+        "name": "Yves Gélinas"
+      },
+      {
+        "authorId": "5307014",
+        "name": "C. Canivet"
+      },
+      {
+        "authorId": "144264620",
+        "name": "J. Trottier"
+      },
+      {
+        "authorId": "2261548442",
+        "name": "C. Serdjebi"
+      },
+      {
+        "authorId": "2258487870",
+        "name": "Joel K. Elmquist"
+      },
+      {
+        "authorId": "2309846209",
+        "name": "Jessica Deslauriers"
+      },
+      {
+        "authorId": "2248270254",
+        "name": "O. Barbier"
+      },
+      {
+        "authorId": "2329416128",
+        "name": "Alexandre Caron"
+      }
+    ],
+    "abstract": "The brain regulates liver metabolism through neuroendocrine and autonomic pathways, which can be disrupted in metabolic dysfunction-associated steatotic liver disease (MASLD). While autonomic dysfunction, including liver neuropathy, has been reported in MASLD, the role of hepatic sympathetic signaling in disease progression remains unclear. Recent studies show that liver innervation is predominantly of sympathetic nature, suggesting that adrenergic receptors in hepatocytes may influence the pathogenesis of MASLD. We previously identified adrenoceptor alpha-1b (ADRA1B) as the dominant hepatic adrenergic receptor. Here we hypothesized that ADRA1B plays a protective role in MASLD progression. To test this, we generated hepatocyte-specific Adra1b knockout mice (Adra1bLKO) and induced MASLD with the GAN diet for up to 32 weeks. Liver pathology was quantified by automated image analysis (MorphoQuant), and metabolic phenotyping included glucose tolerance, insulin sensitivity, bile acid composition. Hepatocyte-specific Adra1b deletion did not affect body weight, hepatic lipid accumulation, glucose tolerance, or insulin sensitivity. However, Adra1bLKO mice exhibited significantly increased hepatic inflammation compared to wild-type controls. These changes were associated with higher hepatic expression of tumor necrosis factor (Tnf) and interleukin-1b (Il1b), as well as an increase in monocyte chemoattractant protein-1 (MCP-1) and interleukin-6 (IL-6). We also observed elevated transforming growth factor beta (TGF-β) and α-smooth muscle actin (Acta2) expression, suggesting activation of hepatic stellate cells. Additionally, Adra1bLKO mice displayed higher circulating bilirubin levels, with no significant alterations in albumin and bile acid pool composition. These findings reveal a previously unrecognized role for hepatic ADRA1B in restraining inflammatory responses in MASLD. Loss of Adra1b signaling promotes hepatic inflammation, highlighting a neuroimmune mechanism that may be targeted to prevent disease progression."
+  },
+  {
+    "paperId": "19e6ea32f3d3736791cd9056d8ee656635863a1c",
+    "externalIds": {
+      "MAG": "1967717006",
+      "DOI": "10.1055/s-0033-1358523",
+      "CorpusId": 632146,
+      "PubMed": "24222088"
+    },
+    "title": "Transcriptional Control of Hepatic Lipid Metabolism by SREBP and ChREBP",
+    "venue": "Seminars in liver disease (Print)",
+    "year": 2013,
+    "citationCount": 270,
+    "influentialCitationCount": 17,
+    "openAccessPdf": {
+      "url": "http://www.thieme-connect.de/products/ejournals/pdf/10.1055/s-0033-1358523.pdf",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1055/s-0033-1358523?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1055/s-0033-1358523, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "144462509",
+        "name": "Xu Xu"
+      },
+      {
+        "authorId": "36414694",
+        "name": "Jae-Seon So"
+      },
+      {
+        "authorId": "5942913",
+        "name": "Jong-Gil Park"
+      },
+      {
+        "authorId": "40554320",
+        "name": "Ann-Hwee Lee"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "20a27108e5be801c344c67118fa0c52b84a28df3",
+    "externalIds": {
+      "DOI": "10.1186/s43066-025-00439-7",
+      "CorpusId": 280285370
+    },
+    "title": "Non-invasive detection of fibrosis in non-alcoholic fatty liver disease by serum microfibrillar-associated protein 4 and its correlation with FIB-4 and transient elastography",
+    "venue": "Egyptian Liver Journal",
+    "year": 2025,
+    "citationCount": 0,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1186/s43066-025-00439-7?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1186/s43066-025-00439-7, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": null,
+    "authors": [
+      {
+        "authorId": "2373413432",
+        "name": "Heba Abdel Rahman Eltony"
+      },
+      {
+        "authorId": "1401789688",
+        "name": "Gamal K. Kasem"
+      },
+      {
+        "authorId": "1420450569",
+        "name": "R. Elsharaby"
+      },
+      {
+        "authorId": "2361964055",
+        "name": "Rehab Badawi"
+      },
+      {
+        "authorId": "2321089805",
+        "name": "Eman M. Helal"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "6f5c43a863ead17dc3ffceabf1e1e98b43827ae2",
+    "externalIds": {
+      "MAG": "2125759933",
+      "DOI": "10.1152/ajpgi.00309.2012",
+      "CorpusId": 16554584,
+      "PubMed": "23139221"
+    },
+    "title": "Ethanol administration exacerbates the abnormalities in hepatic lipid oxidation in genetically obese mice.",
+    "venue": "American Journal of Physiology - Gastrointestinal and Liver Physiology",
+    "year": 2013,
+    "citationCount": 61,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "https://europepmc.org/articles/pmc3543633",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1152/ajpgi.00309.2012?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1152/ajpgi.00309.2012, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "9860686",
+        "name": "Hannah E. Everitt"
+      },
+      {
+        "authorId": "2145917357",
+        "name": "Ming Hu"
+      },
+      {
+        "authorId": "6219074",
+        "name": "Joanne M. Ajmo"
+      },
+      {
+        "authorId": "7758234",
+        "name": "Christopher Q. Rogers"
+      },
+      {
+        "authorId": "8565300",
+        "name": "Xiaomei Liang"
+      },
+      {
+        "authorId": "2110044836",
+        "name": "Ray Zhang"
+      },
+      {
+        "authorId": "9874609",
+        "name": "Huquan Yin"
+      },
+      {
+        "authorId": "153766928",
+        "name": "A. Choi"
+      },
+      {
+        "authorId": "13965372",
+        "name": "E. Bennett"
+      },
+      {
+        "authorId": "145760709",
+        "name": "Min You"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "e5a52688ce6b4372f761adbfee7845c7cafecd8e",
+    "externalIds": {
+      "MAG": "2038028662",
+      "DOI": "10.1055/s-0033-1358527",
+      "CorpusId": 206355426,
+      "PubMed": "24222092"
+    },
+    "title": "The Role of Gastrointestinal Hormones in Hepatic Lipid Metabolism",
+    "venue": "Seminars in liver disease (Print)",
+    "year": 2013,
+    "citationCount": 71,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "https://europepmc.org/articles/pmc3956077?pdf=render",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1055/s-0033-1358527?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1055/s-0033-1358527, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "6024972",
+        "name": "Jamie Mells"
+      },
+      {
+        "authorId": "6276066",
+        "name": "F. Anania"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "618501cbf869218da114e55e115c307cb0f58acb",
+    "externalIds": {
+      "PubMedCentral": "10470208",
+      "DOI": "10.1016/j.jlr.2023.100361",
+      "CorpusId": 257713664,
+      "PubMed": "36958721"
+    },
+    "title": "Identification of bile acid-CoA:amino acid N-acyltransferase as the hepatic N-acyl taurine synthase for polyunsaturated fatty acids",
+    "venue": "Journal of Lipid Research",
+    "year": 2023,
+    "citationCount": 8,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1016/j.jlr.2023.100361",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10470208, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "51166817",
+        "name": "Samuel A. J. Trammell"
+      },
+      {
+        "authorId": "51291890",
+        "name": "L. Gamon"
+      },
+      {
+        "authorId": "3711850",
+        "name": "Kamil Gotfryd"
+      },
+      {
+        "authorId": "2212599075",
+        "name": "Katja Thorøe Michler"
+      },
+      {
+        "authorId": "1711114814",
+        "name": "Bandar D Alrehaili"
+      },
+      {
+        "authorId": "13460565",
+        "name": "Iben Rix"
+      },
+      {
+        "authorId": "145512243",
+        "name": "F. Knop"
+      },
+      {
+        "authorId": "4961361",
+        "name": "P. Gourdon"
+      },
+      {
+        "authorId": "46357687",
+        "name": "Yoon‐Kwang Lee"
+      },
+      {
+        "authorId": "145622267",
+        "name": "M. Davies"
+      },
+      {
+        "authorId": "5916178",
+        "name": "M. Gillum"
+      },
+      {
+        "authorId": "6281789",
+        "name": "Trisha J. Grevengoed"
+      }
+    ],
+    "abstract": "N-acyl taurines (NATs) are bioactive lipids with emerging roles in glucose homeostasis and lipid metabolism. The acyl chains of hepatic and biliary NATs are enriched in polyunsaturated fatty acids (PUFAs). Dietary supplementation with a class of PUFAs, the omega-3 fatty acids, increases their cognate NATs in mice and humans. However, the synthesis pathway of the PUFA-containing NATs remains undiscovered. Here, we report that human livers synthesize NATs and that the acyl-chain preference is similar in murine liver homogenates. In the mouse, we found that hepatic NAT synthase activity localizes to the peroxisome and depends upon an active-site cysteine. Using unbiased metabolomics and proteomics, we identified bile acid-CoA:amino acid N-acyltransferase (BAAT) as the likely hepatic NAT synthase in vitro. Subsequently, we confirmed that BAAT knockout livers lack up to 90% of NAT synthase activity and that biliary PUFA-containing NATs are significantly reduced compared with wildtype. In conclusion, we identified the in vivo PUFA-NAT synthase in the murine liver and expanded the known substrates of the bile acid-conjugating enzyme, BAAT, beyond classic bile acids to the synthesis of a novel class of bioactive lipids."
+  },
+  {
+    "paperId": "716564a40c981c4b827f84028f88d41d05cb2f8c",
+    "externalIds": {
+      "PubMedCentral": "12261135",
+      "DOI": "10.5009/gnl240539",
+      "CorpusId": 278393806,
+      "PubMed": "40336226"
+    },
+    "title": "Gut-Liver Axis: The Role of Intestinal Microbiota and Their Metabolites in the Progression of Metabolic Dysfunction-Associated Steatotic Liver Disease",
+    "venue": "Gut and Liver",
+    "year": 2025,
+    "citationCount": 21,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": "CCBYNC",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12261135, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2314907537",
+        "name": "Chao Cui"
+      },
+      {
+        "authorId": "145147596",
+        "name": "Shuai Gao"
+      },
+      {
+        "authorId": "2330146076",
+        "name": "Jingfei Shi"
+      },
+      {
+        "authorId": "2350176032",
+        "name": "Kai Wang"
+      }
+    ],
+    "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) has emerged as one of the most prevalent chronic liver diseases globally, and its pathogenesis is closely linked to the imbalance of intestinal microbiota and their metabolites. This article reviews the mechanisms through which intestinal microbiota influence the progression of MASLD via the gut-liver axis, elaborating on the complex roles of immune cell hyperactivation, impaired intestinal barrier function, and intestinal microbial metabolites such as short-chain fatty acids and bile acids. The imbalance of intestinal microbiota not only directly promotes the development of MASLD but also further exacerbates disease progression through abnormalities in their metabolites. Various novel therapeutic strategies are being actively developed on the basis of gut-liver axis theory, including probiotic/prebiotic/synbiotic treatment, fecal microbiota transplantation, and targeted drug therapy. These strategies aim to precisely regulate microbial homeostasis and improve glucose and lipid metabolism, thereby alleviating hepatic inflammation and fibrosis and optimizing the therapeutic outcomes of patients with MASLD. In the future, as research progresses, we will further uncover the interaction mechanisms between intestinal microbiota and MASLD and continuously explore more effective treatment methods, with the goal of improving the prognosis and quality of life for MASLD patients."
+  },
+  {
+    "paperId": "b3d8e2f553ade61561e869dac2500e3191dcf7cd",
+    "externalIds": {
+      "PubMedCentral": "10665942",
+      "DOI": "10.1016/j.jlr.2023.100454",
+      "CorpusId": 263849652,
+      "PubMed": "37827334"
+    },
+    "title": "Deletion of hepatic small heterodimer partner ameliorates development of nonalcoholic steatohepatitis in mice",
+    "venue": "Journal of Lipid Research",
+    "year": 2023,
+    "citationCount": 4,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "http://www.jlr.org/article/S002222752300127X/pdf",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10665942, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2257133554",
+        "name": "Yoon-Kwang Lee"
+      },
+      {
+        "authorId": "2257316951",
+        "name": "Jung Eun Park"
+      },
+      {
+        "authorId": "11206529",
+        "name": "Mikang Lee"
+      },
+      {
+        "authorId": "11333790",
+        "name": "R. Mifflin"
+      },
+      {
+        "authorId": "2115683439",
+        "name": "Yang Xu"
+      },
+      {
+        "authorId": "2257116646",
+        "name": "Robert Novak"
+      },
+      {
+        "authorId": "2254046039",
+        "name": "Yanqiao Zhang"
+      },
+      {
+        "authorId": "2258512380",
+        "name": "James P. Hardwick"
+      }
+    ],
+    "abstract": "Small heterodimer partner (SHP, Nr0b2) is an orphan nuclear receptor that regulates bile acid, lipid, and glucose metabolism. Shp−/− mice are resistant to diet-induced obesity and hepatic steatosis. In this study, we explored the potential role of SHP in the development of nonalcoholic steatohepatitis (NASH). A 6-month Western diet (WD) regimen was used to induce NASH. Shp deletion protected mice from NASH progression by inhibiting inflammatory and fibrotic genes, oxidative stress, and macrophage infiltration. WD feeding disrupted the ultrastructure of hepatic mitochondria in WT mice but not in Shp−/− mice. In ApoE−/− mice, Shp deletion also effectively ameliorated hepatic inflammation after a 1 week WD regimen without an apparent antisteatotic effect. Moreover, Shp−/− mice resisted fibrogenesis induced by a methionine- and choline-deficient diet. Notably, the observed protection against NASH was recapitulated in liver-specific Shp−/− mice fed either the WD or methionine- and choline-deficient diet. Hepatic cholesterol was consistently reduced in the studied mouse models with Shp deletion. Our data suggest that Shp deficiency ameliorates NASH development likely by modulating hepatic cholesterol metabolism and inflammation."
+  },
+  {
+    "paperId": "ad393bd62a5ff6c2287ac9f6504e3c7641bcd944",
+    "externalIds": {
+      "PubMedCentral": "11179628",
+      "DOI": "10.1016/j.jlr.2024.100558",
+      "CorpusId": 269663787,
+      "PubMed": "38729350"
+    },
+    "title": "Pharmacological SERCA activation limits diet-induced steatohepatitis and restores liver metabolic function in mice",
+    "venue": "Journal of Lipid Research",
+    "year": 2024,
+    "citationCount": 12,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "http://www.jlr.org/article/S0022227524000634/pdf",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11179628, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "49441473",
+        "name": "T. Bednarski"
+      },
+      {
+        "authorId": "145317704",
+        "name": "Mohsin Rahim"
+      },
+      {
+        "authorId": "4377217",
+        "name": "C. Hasenour"
+      },
+      {
+        "authorId": "2133648305",
+        "name": "Deveena R. Banerjee"
+      },
+      {
+        "authorId": "3902016",
+        "name": "Irina A. Trenary"
+      },
+      {
+        "authorId": "2292722549",
+        "name": "David H. Wasserman"
+      },
+      {
+        "authorId": "2256720650",
+        "name": "Jamey D. Young"
+      }
+    ],
+    "abstract": "Metabolic dysfunction-associated steatotic liver disease is the most common form of liver disease and poses significant health risks to patients who progress to metabolic dysfunction-associated steatohepatitis. Fatty acid overload alters endoplasmic reticulum (ER) calcium stores and induces mitochondrial oxidative stress in hepatocytes, leading to hepatocellular inflammation and apoptosis. Obese mice have impaired liver sarco/ER Ca2+-ATPase (SERCA) function, which normally maintains intracellular calcium homeostasis by transporting Ca2+ ions from the cytoplasm to the ER. We hypothesized that restoration of SERCA activity would improve diet-induced steatohepatitis in mice by limiting ER stress and mitochondrial dysfunction. WT and melanocortin-4 receptor KO (Mc4r−/−) mice were placed on either chow or Western diet (WD) for 8 weeks. Half of the WD-fed mice were administered CDN1163 to activate SERCA, which reduced liver fibrosis and inflammation. SERCA activation also restored glucose tolerance and insulin sensitivity, improved histological markers of metabolic dysfunction-associated steatohepatitis, increased expression of antioxidant enzymes, and decreased expression of oxidative stress and ER stress genes. CDN1163 decreased hepatic citric acid cycle flux and liver pyruvate cycling, enhanced expression of mitochondrial respiratory genes, and shifted hepatocellular [NADH]/[NAD+] and [NADPH]/[NADP+] ratios to a less oxidized state, which was associated with elevated PUFA content of liver lipids. In sum, the data demonstrate that pharmacological SERCA activation limits metabolic dysfunction-associated steatotic liver disease progression and prevents metabolic dysfunction induced by WD feeding in mice."
+  },
+  {
+    "paperId": "17c8841ab7e0cd34ae67e4f1bfd5160d0ffe5cdd",
+    "externalIds": {
+      "DOI": "10.1136/gutjnl-2018-bsgabstracts.251",
+      "CorpusId": 201021559
+    },
+    "title": "PTH-095 Minimising non-hepatic complications following liver transplant: evaluation of practice from a single referral centre",
+    "venue": "Liver",
+    "year": 2018,
+    "citationCount": 0,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://gut.bmj.com/content/gutjnl/67/Suppl_1/A126.1.full.pdf",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1136/gutjnl-2018-bsgabstracts.251?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1136/gutjnl-2018-bsgabstracts.251, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": null,
+    "authors": [
+      {
+        "authorId": "13745290",
+        "name": "J. Hawken"
+      },
+      {
+        "authorId": "49928593",
+        "name": "Ben Hudson"
+      },
+      {
+        "authorId": "48225346",
+        "name": "T. Valliani"
+      }
+    ],
+    "abstract": "Introduction Non-hepatic complications of liver transplant are common and associated with significant morbidity and mortality. The American Association for the Study of Liver Diseases (AASLD) practice guideline on the long-term management of liver transplant recipients aims to assist with modifying the risk of these complications. There is currently no equivalent European guideline. We analysed clinical records from a large UK centre to ascertain whether post-transplant care was comparable to the AASLD standards of care. Methods Consecutive patients who had been transplanted at two UK centres following referral from a single UK centre between 1988 and 2016 were analysed retrospectively. All clinical documentation and test Results over a 12 month period were analysed. Outcome measures were aligned with AASLD guidelines, including; screening for diabetes, chronic kidney disease, hypertension, dyslipidaemia and osteopenia. Results 48 patients (29 female/19 male) were included in analysis. Mean age was 57 (SD 13.4). Median time since transplantation was six years (IQR 3–13). 10/17 (58.8%) diabetic patients met the recommendation of having their HbA1c measured in the preceding 3 months. Of non-diabetic patients, 15/29 (51.7%) underwent annual fasting glucose (or HbA1c) during the study period. 48/48 (100%) of patients had evidence of renal function monitoring within the last 12 months. Yearly urine albumin-creatinine ratio testing was performed in 10/48 (20.8%). Blood pressure was measured in 13/48 (27%) of patients. Of those, 7/13 (53.8%) had a satisfactory blood pressure of <130/80 mmHg. The recommendation of annual blood lipid measurement took place in 30/48 (62.5%) and annual Vitamin D in 20/48 (41.7%). 8/18 (44.4%) of patients transplanted between 2005 and 2012 underwent a Dual Energy X-ray Absorptiometry (DEXA) scan within 5 years. 12/14 (85.7%) of osteopenic patients were receiving the recommended calcium supplementation, while 2/14 (14.3%) of them were receiving annual Bone Mineral Density testing. Conclusion Liver transplant recipients in this study did not receive a consistent approach to screening for common non-hepatic complications. Although there was often evidence that these complications were appropriately considered, there was wide variability between patients. The level of monitoring for patients, who are high risk for cardiovascular and metabolic disease, was insufficient overall. Consideration should be made to adoption of models of care which provide standardised recommendations for patients in the post-transplant phase. This may lead to a more rigorous and robust approach to patients’ long-term management, which in turn may reduce late morbidity and mortality."
+  },
+  {
+    "paperId": "6e61084c65b47825b9609a39832901106180087c",
+    "externalIds": {
+      "PubMedCentral": "6463267",
+      "MAG": "2922286484",
+      "DOI": "10.15252/embj.2018100156",
+      "CorpusId": 75138814,
+      "PubMed": "30858281"
+    },
+    "title": "Cideb controls sterol‐regulated ER export of SREBP/SCAP by promoting cargo loading at ER exit sites",
+    "venue": "EMBO Journal",
+    "year": 2019,
+    "citationCount": 44,
+    "influentialCitationCount": 3,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.15252/embj.2018100156",
+      "status": "HYBRID",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6463267, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "2069858108",
+        "name": "Lu Su"
+      },
+      {
+        "authorId": "5428671",
+        "name": "Linkang Zhou"
+      },
+      {
+        "authorId": "49102844",
+        "name": "Feng-Jung Chen"
+      },
+      {
+        "authorId": "2113218845",
+        "name": "Huimin Wang"
+      },
+      {
+        "authorId": "2112126460",
+        "name": "Hui Qian"
+      },
+      {
+        "authorId": "2053803908",
+        "name": "Yuanyuan Sheng"
+      },
+      {
+        "authorId": "49781486",
+        "name": "Yuangang Zhu"
+      },
+      {
+        "authorId": "2118683461",
+        "name": "Hua Yu"
+      },
+      {
+        "authorId": "39934950",
+        "name": "Xinqi Gong"
+      },
+      {
+        "authorId": "83593888",
+        "name": "Li'e Cai"
+      },
+      {
+        "authorId": "2252614",
+        "name": "Xuerui Yang"
+      },
+      {
+        "authorId": "46265756",
+        "name": "Li Xu"
+      },
+      {
+        "authorId": "145262110",
+        "name": "Tong-Jin Zhao"
+      },
+      {
+        "authorId": "46276021",
+        "name": "J. Li"
+      },
+      {
+        "authorId": "49794236",
+        "name": "Xiao-Wei Chen"
+      },
+      {
+        "authorId": "2152926564",
+        "name": "Peng Li"
+      }
+    ],
+    "abstract": "SREBPs are master regulators of lipid homeostasis and undergo sterol‐regulated export from ER to Golgi apparatus for processing and activation via COPII‐coated vesicles. While COPII recognizes SREBP through its escort protein SCAP, factor(s) specifically promoting SREBP/SCAP loading to the COPII machinery remains unknown. Here, we show that the ER/lipid droplet‐associated protein Cideb selectively promotes the loading of SREBP/SCAP into COPII vesicles. Sterol deprivation releases SCAP from Insig and enhances ER export of SREBP/SCAP by inducing SCAP‐Cideb interaction, thereby modulating sterol sensitivity. Moreover, Cideb binds to the guanine nucleotide exchange factor Sec12 to enrich SCAP/SREBP at ER exit sites, where assembling of COPII complex initiates. Loss of Cideb inhibits the cargo loading of SREBP/SCAP, reduces SREBP activation, and alleviates diet‐induced hepatic steatosis. Our data point to a linchpin role of Cideb in regulated ER export of SREBP and lipid homeostasis."
+  },
+  {
+    "paperId": "1946906427a900afa2371f27ccb78cf19c7b8084",
+    "externalIds": {
+      "MAG": "2080955035",
+      "DOI": "10.1111/liv.12331",
+      "CorpusId": 37764350,
+      "PubMed": "24106929"
+    },
+    "title": "Inhibition of ceramide de novo synthesis reduces liver lipid accumulation in rats with nonalcoholic fatty liver disease",
+    "venue": "Liver international (Print)",
+    "year": 2014,
+    "citationCount": 132,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/liv.12331?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/liv.12331, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "39417708",
+        "name": "K. Kurek"
+      },
+      {
+        "authorId": "40070456",
+        "name": "Dominika M. Piotrowska"
+      },
+      {
+        "authorId": "1420202656",
+        "name": "Patrycja Wiesiołek-Kurek"
+      },
+      {
+        "authorId": "5079169",
+        "name": "B. Łukaszuk"
+      },
+      {
+        "authorId": "4732904",
+        "name": "A. Chabowski"
+      },
+      {
+        "authorId": "143761950",
+        "name": "J. Górski"
+      },
+      {
+        "authorId": "1398527279",
+        "name": "M. Żendzian-Piotrowska"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "db947cfb7e667ef00f59a60cdec07d80e9ae954f",
+    "externalIds": {
+      "MAG": "2036689136",
+      "DOI": "10.1210/ENDO-124-5-2336",
+      "CorpusId": 35146740,
+      "PubMed": "2707158"
+    },
+    "title": "Tumor necrosis factor stimulates hepatic lipid synthesis and secretion.",
+    "venue": "Endocrinology",
+    "year": 1989,
+    "citationCount": 191,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1210/ENDO-124-5-2336?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1210/ENDO-124-5-2336, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "6391458",
+        "name": "K. Feingold"
+      },
+      {
+        "authorId": "1949226",
+        "name": "M. Serio"
+      },
+      {
+        "authorId": "143855313",
+        "name": "S. Adi"
+      },
+      {
+        "authorId": "1705351",
+        "name": "A. Moser"
+      },
+      {
+        "authorId": "4043617",
+        "name": "C. Grunfeld"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "a07d83a7940127c8742ca17e51e36804e005313f",
+    "externalIds": {
+      "MAG": "1983478346",
+      "DOI": "10.1016/J.NUT.2005.12.014",
+      "CorpusId": 31091827,
+      "PubMed": "16814985"
+    },
+    "title": "Effects of dietary genistein on hepatic lipid metabolism and mitochondrial function in mice fed high-fat diets.",
+    "venue": "Nutrition (Burbank, Los Angeles County, Calif.)",
+    "year": 2006,
+    "citationCount": 118,
+    "influentialCitationCount": 3,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.NUT.2005.12.014?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.NUT.2005.12.014, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2146316131",
+        "name": "Young Min Lee"
+      },
+      {
+        "authorId": "2821288",
+        "name": "J. Choi"
+      },
+      {
+        "authorId": "47596890",
+        "name": "M. H. Kim"
+      },
+      {
+        "authorId": "2207521",
+        "name": "M. Jung"
+      },
+      {
+        "authorId": "2119393179",
+        "name": "Y. S. Lee"
+      },
+      {
+        "authorId": "2517280",
+        "name": "Jihyun Song"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "3ac8b49ca1667de30658d40cc1ecef7089509404",
+    "externalIds": {
+      "MAG": "2087793723",
+      "DOI": "10.1016/0026-0495(77)90020-8",
+      "CorpusId": 20047483,
+      "PubMed": "895533"
+    },
+    "title": "Hepatic lipid metabolism in severe human obesity.",
+    "venue": "Metabolism: Clinical and Experimental",
+    "year": 1977,
+    "citationCount": 69,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/0026-0495(77)90020-8?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/0026-0495(77)90020-8, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "73769791",
+        "name": "J. Kral"
+      },
+      {
+        "authorId": "74087122",
+        "name": "K. Lundholm"
+      },
+      {
+        "authorId": "5931210",
+        "name": "P. Björntorp"
+      },
+      {
+        "authorId": "4214422",
+        "name": "L. Sjöström"
+      },
+      {
+        "authorId": "4208520",
+        "name": "T. Scherstén"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "dfea93a38871bbea60e20cd6a29c34340a6f35c6",
+    "externalIds": {
+      "PubMedCentral": "8488246",
+      "DOI": "10.1016/j.jlr.2021.100104",
+      "CorpusId": 236999339,
+      "PubMed": "34384788"
+    },
+    "title": "Nonalcoholic fatty liver disease stratification by liver lipidomics",
+    "venue": "Journal of Lipid Research",
+    "year": 2021,
+    "citationCount": 63,
+    "influentialCitationCount": 5,
+    "openAccessPdf": {
+      "url": "http://www.jlr.org/article/S0022227521000869/pdf",
+      "status": "GOLD",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8488246, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "46887726",
+        "name": "O. Vvedenskaya"
+      },
+      {
+        "authorId": "73488360",
+        "name": "T. D. Rose"
+      },
+      {
+        "authorId": "5220072",
+        "name": "Oskar Knittelfelder"
+      },
+      {
+        "authorId": "40126457",
+        "name": "A. Palladini"
+      },
+      {
+        "authorId": "2123087434",
+        "name": "Judith A. H. Wodke"
+      },
+      {
+        "authorId": "101626999",
+        "name": "K. Schumann"
+      },
+      {
+        "authorId": "12596011",
+        "name": "Jacobo Miranda Ackerman"
+      },
+      {
+        "authorId": "2108069744",
+        "name": "Yuting Wang"
+      },
+      {
+        "authorId": "35004368",
+        "name": "Canan Has"
+      },
+      {
+        "authorId": "6044357",
+        "name": "M. Brosch"
+      },
+      {
+        "authorId": "5283302",
+        "name": "V. Thangapandi"
+      },
+      {
+        "authorId": "5643311",
+        "name": "S. Buch"
+      },
+      {
+        "authorId": "31429597",
+        "name": "Thomas Züllig"
+      },
+      {
+        "authorId": "2334460",
+        "name": "J. Hartler"
+      },
+      {
+        "authorId": "3101078",
+        "name": "H. Köfeler"
+      },
+      {
+        "authorId": "50410482",
+        "name": "C. Röcken"
+      },
+      {
+        "authorId": "6146230",
+        "name": "Ü. Coskun"
+      },
+      {
+        "authorId": "1685386",
+        "name": "E. Klipp"
+      },
+      {
+        "authorId": "1394290447",
+        "name": "W. von Schoenfels"
+      },
+      {
+        "authorId": "38620316",
+        "name": "Justus Gross"
+      },
+      {
+        "authorId": "6731342",
+        "name": "C. Schafmayer"
+      },
+      {
+        "authorId": "2075222293",
+        "name": "J. Hampe"
+      },
+      {
+        "authorId": "2270764",
+        "name": "J. Pauling"
+      },
+      {
+        "authorId": "143661899",
+        "name": "A. Shevchenko"
+      }
+    ],
+    "abstract": "Nonalcoholic fatty liver disease (NAFLD) is a common metabolic dysfunction leading to hepatic steatosis. However, NAFLD's global impact on the liver lipidome is poorly understood. Using high-resolution shotgun mass spectrometry, we quantified the molar abundance of 316 species from 22 major lipid classes in liver biopsies of 365 patients, including nonsteatotic patients with normal or excessive weight, patients diagnosed with NAFL (nonalcoholic fatty liver) or NASH (nonalcoholic steatohepatitis), and patients bearing common mutations of NAFLD-related protein factors. We confirmed the progressive accumulation of di- and triacylglycerols and cholesteryl esters in the liver of NAFL and NASH patients, while the bulk composition of glycerophospho- and sphingolipids remained unchanged. Further stratification by biclustering analysis identified sphingomyelin species comprising n24:2 fatty acid moieties as membrane lipid markers of NAFLD. Normalized relative abundance of sphingomyelins SM 43:3;2 and SM 43:1;2 containing n24:2 and n24:0 fatty acid moieties, respectively, showed opposite trends during NAFLD progression and distinguished NAFL and NASH lipidomes from the lipidome of nonsteatotic livers. Together with several glycerophospholipids containing a C22:6 fatty acid moiety, these lipids serve as markers of early and advanced stages of NAFL."
+  },
+  {
+    "paperId": "60e2889c5e104232234c00dfbe8342c9d2c45954",
+    "externalIds": {
+      "DOI": "10.1111/liv.15812",
+      "CorpusId": 266360060,
+      "PubMed": "38110988"
+    },
+    "title": "Protein O‐GlcNAcylation: The sweet hub in liver metabolic flexibility from a (patho)physiological perspective",
+    "venue": "Liver international (Print)",
+    "year": 2023,
+    "citationCount": 10,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/liv.15812",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/liv.15812?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/liv.15812, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2241527477",
+        "name": "Yanyan Hu"
+      },
+      {
+        "authorId": "2275381232",
+        "name": "Xu Zhang"
+      },
+      {
+        "authorId": "2142527343",
+        "name": "Hong Lv"
+      },
+      {
+        "authorId": "2275219155",
+        "name": "Yang Liu"
+      },
+      {
+        "authorId": "2400856784",
+        "name": "Shi-Ze Li"
+      }
+    ],
+    "abstract": "O‐GlcNAcylation is a dynamic, reversible and atypical O‐glycosylation that regulates various cellular physiological processes via conformation, stabilisation, localisation, chaperone interaction or activity of target proteins. The O‐GlcNAcylation cycle is precisely controlled by collaboration between O‐GlcNAc transferase and O‐GlcNAcase. Uridine‐diphosphate‐N‐acetylglucosamine, the sole donor of O‐GlcNAcylation produced by the hexosamine biosynthesis pathway, is controlled by the input of glucose, glutamine, acetyl coenzyme A and uridine triphosphate, making it a sensor of the fluctuation of molecules, making O‐GlcNAcylation a pivotal nutrient sensor for the metabolism of carbohydrates, amino acids, lipids and nucleotides. O‐GlcNAcylation, particularly prevalent in liver, is the core hub for controlling systemic glucose homeostasis due to its nutritional sensitivity and precise spatiotemporal regulation of insulin signal transduction. The pathology of various liver diseases has highlighted hepatic metabolic disorder and dysfunction, and abnormal O‐GlcNAcylation also plays a specific pathological role in these processes. Therefore, this review describes the unique features of O‐GlcNAcylation and its dynamic homeostasis maintenance. Additionally, it explains the underlying nutritional sensitivity of O‐GlcNAcylation and discusses its mechanism of spatiotemporal modulation of insulin signal transduction and liver metabolic homeostasis during the fasting and feeding cycle. This review emphasises the pathophysiological implications of O‐GlcNAcylation in nonalcoholic fatty liver disease, nonalcoholic steatohepatitis and hepatic fibrosis, and focuses on the adverse effects of hyper O‐GlcNAcylation on liver cancer progression and metabolic reprogramming."
+  },
+  {
+    "paperId": "90bd2a460f42c82bd9a27abc924c1224fd2dce98",
+    "externalIds": {
+      "MAG": "2156986963",
+      "DOI": "10.1194/jlr.M034249",
+      "CorpusId": 6030377,
+      "PubMed": "23355744"
+    },
+    "title": "Disruption of uridine homeostasis links liver pyrimidine metabolism to lipid accumulation[S]",
+    "venue": "Journal of Lipid Research",
+    "year": 2013,
+    "citationCount": 103,
+    "influentialCitationCount": 4,
+    "openAccessPdf": {
+      "url": "http://www.jlr.org/content/54/4/1044.full.pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1194/jlr.M034249?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1194/jlr.M034249, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "1745441",
+        "name": "Thuc T. Le"
+      },
+      {
+        "authorId": "6124284",
+        "name": "A. Ziemba"
+      },
+      {
+        "authorId": "39495060",
+        "name": "Y. Urasaki"
+      },
+      {
+        "authorId": "50503240",
+        "name": "Eugene Hayes"
+      },
+      {
+        "authorId": "39682439",
+        "name": "S. Brotman"
+      },
+      {
+        "authorId": "4691942",
+        "name": "G. Pizzorno"
+      }
+    ],
+    "abstract": "We report in this study an intrinsic link between pyrimidine metabolism and liver lipid accumulation utilizing a uridine phosphorylase 1 transgenic mouse model UPase1-TG. Hepatic microvesicular steatosis is induced by disruption of uridine homeostasis through transgenic overexpression of UPase1, an enzyme of the pyrimidine catabolism and salvage pathway. Microvesicular steatosis is also induced by the inhibition of dihydroorotate dehydrogenase (DHODH), an enzyme of the de novo pyrimidine biosynthesis pathway. Interestingly, uridine supplementation completely suppresses microvesicular steatosis in both scenarios. The effective concentration (EC50) for uridine to suppress microvesicular steatosis is approximately 20 µM in primary hepatocytes of UPase1-TG mice. We find that uridine does not have any effect on in vitro DHODH enzymatic activity. On the other hand, uridine supplementation alters the liver NAD+/NADH and NADP+/NADPH ratios and the acetylation profile of metabolic, oxidation-reduction, and antioxidation enzymes. Protein acetylation is emerging as a key regulatory mechanism for cellular metabolism. Therefore, we propose that uridine suppresses fatty liver by modulating the liver protein acetylation profile. Our findings reveal a novel link between uridine homeostasis, pyrimidine metabolism, and liver lipid metabolism."
+  },
+  {
+    "paperId": "deebeba87d38a6c06a0578cffe9d40be1b7a4e3d",
+    "externalIds": {
+      "DOI": "10.1152/ajpgi.00011.2023",
+      "CorpusId": 258437838,
+      "PubMed": "37129245"
+    },
+    "title": "Heterozygous midnolin knockout attenuates severity of nonalcoholic fatty liver disease in mice fed a Western-style diet high in fat, cholesterol, and fructose.",
+    "venue": "American Journal of Physiology - Gastrointestinal and Liver Physiology",
+    "year": 2023,
+    "citationCount": 6,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1152/ajpgi.00011.2023?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1152/ajpgi.00011.2023, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "47656039",
+        "name": "S. Kweon"
+      },
+      {
+        "authorId": "1401511147",
+        "name": "José M. Irimia-Dominguez"
+      },
+      {
+        "authorId": "2115997390",
+        "name": "G. Kim"
+      },
+      {
+        "authorId": "6983025",
+        "name": "P. Fueger"
+      },
+      {
+        "authorId": "35140191",
+        "name": "K. Asahina"
+      },
+      {
+        "authorId": "48022755",
+        "name": "Keith K. Lai"
+      },
+      {
+        "authorId": "6689135",
+        "name": "D. Allende"
+      },
+      {
+        "authorId": "2215890830",
+        "name": "Quincy R Lai"
+      },
+      {
+        "authorId": "31435967",
+        "name": "Chih‐Hong Lou"
+      },
+      {
+        "authorId": "4529653",
+        "name": "W. Tsark"
+      },
+      {
+        "authorId": "2115182882",
+        "name": "J. D. Yang"
+      },
+      {
+        "authorId": "32823898",
+        "name": "D. Ng"
+      },
+      {
+        "authorId": "31558857",
+        "name": "Ju-Seog Lee"
+      },
+      {
+        "authorId": "3103305",
+        "name": "P. Tso"
+      },
+      {
+        "authorId": "2401608",
+        "name": "Wendong Huang"
+      },
+      {
+        "authorId": "5098087",
+        "name": "Keane K Y Lai"
+      }
+    ],
+    "abstract": "Although midnolin has been studied for over 20 years, its biological roles in vivo remain largely unknown, especially due to the lack of a functional animal model. Indeed, given our recent discovery that knockdown of midnolin suppresses liver cancer cell tumorigenicity and that this anti-tumorigenic effect is associated with modulation of lipid metabolism, we hypothesized that knockout of midnolin in vivo could potentially protect from nonalcoholic fatty liver disease (NAFLD) which has become the most common cause of chronic liver disease in the Western world. Accordingly, in the present study, we have developed and now report on the first functional global midnolin knockout mouse model. While the overwhelming majority of global homozygous midnolin knockout mice demonstrated embryonic lethality, heterozygous knockout mice were observed to be similar to wild-type mice in their viability and were used to determine the effect of reduced midnolin expression on NAFLD. We found that global heterozygous midnolin knockout attenuated the severity of NAFLD in mice fed a Western-style diet, high in fat, cholesterol, and fructose, and this attenuation in disease was associated with significantly reduced levels of large lipid droplets, hepatic free cholesterol, and serum LDL, with significantly differential gene expression involved in cholesterol/lipid metabolism. Collectively, our results support a role for midnolin in regulating cholesterol/lipid metabolism in the liver. Thus, midnolin may represent a novel therapeutic target for NAFLD. Finally, our observation that midnolin was essential for survival underscores the broad importance of this gene beyond its role in liver biology."
+  },
+  {
+    "paperId": "e9a8e69afd5bc15b7c4dd0a0c96b640055aa84ca",
+    "externalIds": {
+      "DOI": "10.1186/s43066-022-00216-w",
+      "CorpusId": 252213453
+    },
+    "title": "Angiotensin II type 1 receptor (AT1) blockade by Telmisartan attenuates hepatic steatosis in high-fat fed mice reducing Resistin, TRL4, and Myd88 expression",
+    "venue": "Egyptian Liver Journal",
+    "year": 2022,
+    "citationCount": 3,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://eglj.springeropen.com/counter/pdf/10.1186/s43066-022-00216-w",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1186/s43066-022-00216-w?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1186/s43066-022-00216-w, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": null,
+    "authors": [
+      {
+        "authorId": "6675539",
+        "name": "L. M. A. Borém"
+      },
+      {
+        "authorId": "2056093651",
+        "name": "Daniela Fernanda Freitas"
+      },
+      {
+        "authorId": "144709238",
+        "name": "A. S. Machado"
+      },
+      {
+        "authorId": "4823511",
+        "name": "A. Paraíso"
+      },
+      {
+        "authorId": "2184732318",
+        "name": "B. V. Caldas"
+      },
+      {
+        "authorId": "153210439",
+        "name": "J. F. Neto"
+      },
+      {
+        "authorId": "1600847252",
+        "name": "Juliana Lima"
+      },
+      {
+        "authorId": "2078805061",
+        "name": "A. Guimarães"
+      },
+      {
+        "authorId": "2063054983",
+        "name": "A. D. de Paula"
+      },
+      {
+        "authorId": "38814310",
+        "name": "S. Santos"
+      }
+    ],
+    "abstract": "Background Telmisartan is a non-peptide angiotensin II receptor antagonist which acts by ACE/AngII/AT1 axis blockade (ARB). In the last years increasing evidence of its metabolic benefits pointed out this drug as the most promising ARB for nonalcoholic fatty liver disease (NAFLD) treatment. The aim of the present study was to investigate the Telmisartan effect on treating NAFLD in mice fed with a high-fat diet evaluating liver gene modulation. Twenty-four male mice were divided into four groups and fed for 60 days with a standard diet (ST), standard diet plus TEL (ST+TEL 5 mg/kg/day by gavage for 4 weeks), high-fat diet (HFD), or high-fat diet plus TEL (HFD+TEL 5 mg/kg/day by gavage for 4 weeks). Body weight, lipid profile, insulin, alanine transaminase, and aspartate aminotransferase were evaluated. Liver histology was analyzed. US imaging was performed to access liver dimension and echogenicity and also epididymal fat pad thickness. The expression of proinflammatory resistin/TRL4/MYD88 pathway was analyzed. Results The main findings showed that TEL reduced the resistin, TRL4, and Myd88 liver expression in the HFD + TEL group when compared to the obese control group (HFD). Decreased hepatic steatosis in the HFD + TEL group demonstrated by US measurements of the liver longitudinal axis and echogenicity were observed. In addition, TEL reduced epididymal adipose pad thickness, body weight, transaminases, and improved glucose tolerance test and HDL cholesterol. Conclusions We observed that Telmisartan treatment improved metabolism, decreasing NAFLD. Graphical Abstract Telmisartan improves metabolic and lipid profile and liver steatosis of obese mice"
+  },
+  {
+    "paperId": "610b8fc71946fd1be140e960cf30987e6f40fc16",
+    "externalIds": {
+      "MAG": "2154198306",
+      "DOI": "10.1194/jlr.M050682",
+      "CorpusId": 23765348,
+      "PubMed": "25193995"
+    },
+    "title": "Disruption of tumor suppressor gene Hint1 leads to remodeling of the lipid metabolic phenotype of mouse liver[S]",
+    "venue": "Journal of Lipid Research",
+    "year": 2014,
+    "citationCount": 10,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "http://www.jlr.org/content/55/11/2309.full.pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1194/jlr.M050682?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1194/jlr.M050682, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "5383769",
+        "name": "D. Beyoğlu"
+      },
+      {
+        "authorId": "3764184",
+        "name": "K. Krausz"
+      },
+      {
+        "authorId": "50422784",
+        "name": "Juliette Martin"
+      },
+      {
+        "authorId": "10136614",
+        "name": "O. Maurhofer"
+      },
+      {
+        "authorId": "3727497",
+        "name": "J. Dorow"
+      },
+      {
+        "authorId": "152355942",
+        "name": "U. Ceglarek"
+      },
+      {
+        "authorId": "144907275",
+        "name": "F. Gonzalez"
+      },
+      {
+        "authorId": "144692518",
+        "name": "J. Dufour"
+      },
+      {
+        "authorId": "5431050",
+        "name": "J. Idle"
+      }
+    ],
+    "abstract": "A lipidomic and metabolomic investigation of serum and liver from mice was performed to gain insight into the tumor suppressor gene Hint1. A major reprogramming of lipid homeostasis was found in both serum and liver of Hint1-null (Hint−/−) mice, with significant changes in the levels of many lipid molecules, as compared with gender-, age-, and strain-matched WT mice. In the Hint1−/− mice, serum total and esterified cholesterol were reduced 2.5-fold, and lysophosphatidylcholines (LPCs) and lysophosphatidic acids were 10-fold elevated in serum, with a corresponding fall in phosphatidylcholines (PCs). In the liver, MUFAs and PUFAs, including arachidonic acid (AA) and its metabolic precursors, were also raised, as was mRNA encoding enzymes involved in AA de novo synthesis. There was also a significant 50% increase in hepatic macrophages in the Hint1−/− mice. Several hepatic ceramides and acylcarnitines were decreased in the livers of Hint1−/− mice. The changes in serum LPCs and PCs were neither related to hepatic phospholipase A2 activity nor to mRNAs encoding lysophosphatidylcholine acetyltransferases 1-4. The lipidomic phenotype of the Hint1−/− mouse revealed decreased inflammatory eicosanoids with elevated proliferative mediators that, combined with decreased ceramide apoptosis signaling molecules, may contribute to the tumor suppressor activity of Hint1."
+  },
+  {
+    "paperId": "4dd438419ec2b9b39c7201fa76c6ee235d2b70be",
+    "externalIds": {
+      "DOI": "10.1055/a-1934-5588",
+      "CorpusId": 251977403,
+      "PubMed": "36044928"
+    },
+    "title": "Three-Dimensional Organoids as a Model to Study Nonalcoholic Fatty Liver Disease",
+    "venue": "Seminars in liver disease (Print)",
+    "year": 2022,
+    "citationCount": 11,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1055/a-1934-5588?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1055/a-1934-5588, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "74275343",
+        "name": "Yujin Park"
+      },
+      {
+        "authorId": "2144823567",
+        "name": "Deepthi Thadasina"
+      },
+      {
+        "authorId": "2044807986",
+        "name": "Ifeoluwa Bolujo"
+      },
+      {
+        "authorId": "1390068004",
+        "name": "A. Isidan"
+      },
+      {
+        "authorId": "1581512634",
+        "name": "Arthur A. Cross-Najafi"
+      },
+      {
+        "authorId": "2114919731",
+        "name": "Kevin J Lopez"
+      },
+      {
+        "authorId": "144785152",
+        "name": "Ping Li"
+      },
+      {
+        "authorId": "5583823",
+        "name": "A. M. Dahlem"
+      },
+      {
+        "authorId": "65831352",
+        "name": "Lindsey Kennedy"
+      },
+      {
+        "authorId": "29323393",
+        "name": "Keisaku Sato"
+      },
+      {
+        "authorId": "145833102",
+        "name": "H. Francis"
+      },
+      {
+        "authorId": "5112858",
+        "name": "G. Alpini"
+      },
+      {
+        "authorId": "2124474327",
+        "name": "Wenjun Zhang"
+      },
+      {
+        "authorId": "5420001",
+        "name": "B. Ekser"
+      }
+    ],
+    "abstract": "Despite the rising prevalence of nonalcoholic fatty liver disease (NAFLD), the underlying disease pathophysiology remains unclear. The need is great for an efficient and reliable 'human' in vitro model to study NAFLD and the progression to nonalcoholic steatohepatitis (NASH), which will soon become the leading indication for liver transplantation. Here, we review the recent developments in the use of 3D liver organoids as a model to study NAFLD and NASH pathophysiology and possible treatments. Various techniques that are currently used to make liver organoids are discussed, such as the use of induced pluripotent stem cells vs. primary cell lines and human vs. murine cells. Moreover, methods for inducing lipid droplet accumulation and fibrosis to model NAFLD are explored. Finally, the limitations specific to the 3D organoid model for NAFLD/NASH are reviewed, highlighting the need for further development of multilineage models to include hepatic nonparenchymal cells and immune cells. The ultimate goal is to be able to accurately recapitulate the complex liver microenvironment in which NAFLD develops and progresses to NASH."
+  },
+  {
+    "paperId": "80034333131678d891488f02acaebd8ea1d4a6e2",
+    "externalIds": {
+      "MAG": "2897376095",
+      "DOI": "10.1194/jlr.P089953",
+      "CorpusId": 53503619,
+      "PubMed": "30323112"
+    },
+    "title": "Splice variant rs72613567 prevents worst histologic outcomes in patients with nonalcoholic fatty liver disease[S]",
+    "venue": "Journal of Lipid Research",
+    "year": 2018,
+    "citationCount": 115,
+    "influentialCitationCount": 10,
+    "openAccessPdf": {
+      "url": "http://www.jlr.org/content/60/1/176.full.pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1194/jlr.P089953?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1194/jlr.P089953, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2160614",
+        "name": "C. Pirola"
+      },
+      {
+        "authorId": "48410310",
+        "name": "M. Garaycoechea"
+      },
+      {
+        "authorId": "6218006",
+        "name": "D. Flichman"
+      },
+      {
+        "authorId": "144774514",
+        "name": "M. Arrese"
+      },
+      {
+        "authorId": "5601489",
+        "name": "J. San Martino"
+      },
+      {
+        "authorId": "15648339",
+        "name": "Carla Gazzi"
+      },
+      {
+        "authorId": "4538530",
+        "name": "G. Castaño"
+      },
+      {
+        "authorId": "5594493",
+        "name": "S. Sookoian"
+      }
+    ],
+    "abstract": "Hydroxysteroid 17-β dehydrogenase 13 (HSD17B13) is a lipid droplet-associated protein; its gene-encoding variants affect the chronic liver diseases, including nonalcoholic fatty liver disease (NAFLD). To estimate the effect of rs72613567, a splice variant with an adenine insertion (A-INS), on NAFLD susceptibility and severity, we performed a case-control study with 609 individuals. We investigated the effect of carrying the A-INS allele in 356 patients with biopsy-proven disease and explored the relationship between rs72613567 genotypes and the hepatic transcriptome. The A-INS allele protected against NAFLD [odds ratio (OR) per adenine allele = 0.667; 95% CI, 0.486−0.916; P = 0.012]; this effect was nonsignificant when logistic regression analysis included BMI. The A-INS allele protected against nonalcoholic steatohepatitis (NASH) (OR = 0.612; 95% CI, 0.388−0.964; P = 0.033), ballooning degeneration (OR = 0.474; 95% CI, 0.267−0.842; P = 0.01), lobular inflammation (OR = 0.475; 95% CI, 0.275−0.821; P = 0.007), and fibrosis (OR = 0.590; 95% CI, 0.361−0.965; P = 0.035). In patients carrying A-INS, HSD17B13 levels decreased proportionally to allele dosage. Whole-transcriptome genotype profiling showed overrepresented immune response-related pathways. Thus, the rs72613567 A-INS allele reduces the risk of NASH and progressive liver damage and may become a therapeutic target."
+  },
+  {
+    "paperId": "3235be74e69635f9b8a340a4b3b67fc1f5b679d1",
+    "externalIds": {
+      "DOI": "10.1111/liv.15278",
+      "CorpusId": 248345180,
+      "PubMed": "35460172"
+    },
+    "title": "The DEAD‐box helicase DDX3x ameliorates non‐alcoholic fatty liver disease via mTORC1 signalling pathway",
+    "venue": "Liver international (Print)",
+    "year": 2022,
+    "citationCount": 3,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/liv.15278?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/liv.15278, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "144371847",
+        "name": "Peihao Liu"
+      },
+      {
+        "authorId": "2108424138",
+        "name": "Yuwei Zhang"
+      },
+      {
+        "authorId": "2118762445",
+        "name": "Chenxi Tang"
+      },
+      {
+        "authorId": "2633668",
+        "name": "Li Cen"
+      },
+      {
+        "authorId": "5227101",
+        "name": "Yishu Chen"
+      },
+      {
+        "authorId": "1409883606",
+        "name": "Sha Li"
+      },
+      {
+        "authorId": "48283114",
+        "name": "Xueyang Chen"
+      },
+      {
+        "authorId": "1492028281",
+        "name": "Mengli Yu"
+      },
+      {
+        "authorId": "2155862684",
+        "name": "Jie Zhang"
+      },
+      {
+        "authorId": "46447935",
+        "name": "Xiaofen Zhang"
+      },
+      {
+        "authorId": "5080575",
+        "name": "Hang Zeng"
+      },
+      {
+        "authorId": "3564188",
+        "name": "Chengfu Xu"
+      },
+      {
+        "authorId": "2406628",
+        "name": "Chaohui Yu"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "c81ff9e42a8c221280230db53002bbd80451f15d",
+    "externalIds": {
+      "MAG": "2165859364",
+      "DOI": "10.1016/j.cmet.2008.12.013",
+      "CorpusId": 17344319,
+      "PubMed": "19187774"
+    },
+    "title": "Cideb, an ER- and lipid droplet-associated protein, mediates VLDL lipidation and maturation by interacting with apolipoprotein B.",
+    "venue": "Cell Metabolism",
+    "year": 2009,
+    "citationCount": 241,
+    "influentialCitationCount": 13,
+    "openAccessPdf": {
+      "url": "http://www.cell.com/article/S1550413108004208/pdf",
+      "status": "BRONZE",
+      "license": "publisher-specific-oa",
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.cmet.2008.12.013?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.cmet.2008.12.013, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2116475226",
+        "name": "Jing Ye"
+      },
+      {
+        "authorId": "46276021",
+        "name": "J. Li"
+      },
+      {
+        "authorId": "2152802379",
+        "name": "Yang Liu"
+      },
+      {
+        "authorId": "2144461382",
+        "name": "Xuanhe Li"
+      },
+      {
+        "authorId": "2994330",
+        "name": "Tianshu Yang"
+      },
+      {
+        "authorId": "2391499882",
+        "name": "Xiaodong Ma"
+      },
+      {
+        "authorId": "2117895072",
+        "name": "Qing Li"
+      },
+      {
+        "authorId": "38487231",
+        "name": "Z. Yao"
+      },
+      {
+        "authorId": "2152926564",
+        "name": "Peng Li"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "909e51e176a5e425edd04a12f2ea06adc648d8d8",
+    "externalIds": {
+      "DOI": "10.1152/ajpgi.00342.2020",
+      "CorpusId": 231651767,
+      "PubMed": "33470903"
+    },
+    "title": "GCSF deficiency attenuates non-alcoholic fatty liver disease through regulating GCSFR-SOCS3-JAK-STAT3 pathway and immune cells infiltration.",
+    "venue": "American Journal of Physiology - Gastrointestinal and Liver Physiology",
+    "year": 2021,
+    "citationCount": 21,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1152/ajpgi.00342.2020?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1152/ajpgi.00342.2020, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2108424138",
+        "name": "Yuwei Zhang"
+      },
+      {
+        "authorId": "2117916566",
+        "name": "Xuefeng Zhou"
+      },
+      {
+        "authorId": "144371847",
+        "name": "Peihao Liu"
+      },
+      {
+        "authorId": "48283114",
+        "name": "Xueyang Chen"
+      },
+      {
+        "authorId": "2155862684",
+        "name": "Jie Zhang"
+      },
+      {
+        "authorId": "2146242456",
+        "name": "Hong Zhang"
+      },
+      {
+        "authorId": "1409883606",
+        "name": "Sha Li"
+      },
+      {
+        "authorId": "5227101",
+        "name": "Yishu Chen"
+      },
+      {
+        "authorId": "51205913",
+        "name": "Xin Song"
+      },
+      {
+        "authorId": "1778488600",
+        "name": "Jinghua Wang"
+      },
+      {
+        "authorId": "5080575",
+        "name": "Hang Zeng"
+      },
+      {
+        "authorId": "46447935",
+        "name": "Xiaofen Zhang"
+      },
+      {
+        "authorId": "2118762445",
+        "name": "Chenxi Tang"
+      },
+      {
+        "authorId": "2406628",
+        "name": "Chaohui Yu"
+      },
+      {
+        "authorId": "48513823",
+        "name": "Youming Li"
+      },
+      {
+        "authorId": "3564188",
+        "name": "Chengfu Xu"
+      }
+    ],
+    "abstract": "Granulocyte colony stimulating factor (GCSF) is a cytokine with immunomodulation effects. However, little is known about its role in metabolic diseases. In the current study we aimed to explore the role of GCSF in non-alcoholic fatty liver disease (NAFLD). GCSF-/- mice were used to investigate the function of GCSF in vivo after high fat diet (HFD). Primary hepatocytes were used for evaluating the function of GCSF in vitro. Liver immune cells were isolated and analyzed by flow cytometry. Our results showed that GCSF administration significantly increased serum triglyceride (TG) levels in patients. Circulating GCSF was markedly elevated in HFD-fed mice. GCSF-/- mice exhibited alleviated HFD-induced obesity, insulin resistance and hepatic steatosis. Extra administration of GCSF significantly aggravated palmitic acid (PA)-induced lipid accumulation in primary hepatocytes. Mechanically, GCSF could bind to granulocyte colony stimulating factor receptor (GCSFR) and regulate suppressors of cytokine signaling 3, Janus kinase, signal transducer and activator of transcription 3 (SOCS3-JAK-STAT3) pathway. GCSF also enhanced hepatic neutrophils and macrophages infiltration, thereby modulating NAFLD. These findings suggest that GCSF plays an important regulatory role in NAFLD and may be a potential therapeutic target for NAFLD."
+  },
+  {
+    "paperId": "b50c7bcb1ef1fbf3d845e36c05d40b24c89ead42",
+    "externalIds": {
+      "MAG": "2951672084",
+      "DOI": "10.1016/J.LIVRES.2019.06.001",
+      "CorpusId": 196509853
+    },
+    "title": "Inhibition of mitochondrial fatty acid oxidation in drug-induced hepatic steatosis",
+    "venue": "Liver Research",
+    "year": 2019,
+    "citationCount": 34,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1016/j.livres.2019.06.001",
+      "status": "GOLD",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.LIVRES.2019.06.001?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.LIVRES.2019.06.001, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "3774988",
+        "name": "B. Fromenty"
+      }
+    ],
+    "abstract": "Abstract Mitochondrial fatty acid oxidation (mtFAO) is a key metabolic pathway required for energy production in the liver, in particular during periods of fasting. One major consequence of drug-induced impairment of mtFAO is hepatic steatosis, which is characterized by an accumulation of triglycerides and other lipid species, such as acyl-carnitines. Actually, the severity of this liver lesion is dependent on the residual mitochondrial β-oxidation flux. Indeed, a severe inhibition of mtFAO leads to microvesicular steatosis, hypoglycemia and liver failure. In contrast, moderate impairment of mtFAO can cause macrovacuolar steatosis, which is a benign lesion in the short term. Because some drugs can induce both microvesicular and macrovacuolar steatosis, it is surmised that severe mitochondrial dysfunction could be favored in some patients by non-genetic factors (e.g., high doses and polymedication), or genetic predispositions involving genes that encode proteins playing directly or indirectly a role in the mtFAO pathway. Example of drugs inducing steatosis include acetaminophen (APAP), amiodarone, ibuprofen, linezolid, nucleoside reverse transcriptase inhibitors, such as stavudine and didanosine, perhexiline, tamoxifen, tetracyclines, troglitazone and valproic acid. Because several previous articles reviewed in depth the mechanism(s) whereby most of these drugs are able to inhibit mtFAO and induce steatosis, the present review is rather focused on APAP, linezolid and troglitazone. These steatogenic drugs are indeed rarely discussed in the literature as regards their ability to impair mtFAO."
+  },
+  {
+    "paperId": "9513ffd6c5a964d14208e858ccd0a37db0bcb503",
+    "externalIds": {
+      "PubMedCentral": "4865914",
+      "MAG": "2303094910",
+      "DOI": "10.1074/jbc.M116.719955",
+      "CorpusId": 40215197,
+      "PubMed": "27013658"
+    },
+    "title": "Inactivation of Tm6sf2, a Gene Defective in Fatty Liver Disease, Impairs Lipidation but Not Secretion of Very Low Density Lipoproteins*",
+    "venue": "Journal of Biological Chemistry",
+    "year": 2016,
+    "citationCount": 192,
+    "influentialCitationCount": 13,
+    "openAccessPdf": {
+      "url": "https://europepmc.org/articles/pmc4865914?pdf=render",
+      "status": "GREEN",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4865914, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "6990831",
+        "name": "E. Smagris"
+      },
+      {
+        "authorId": "1396898137",
+        "name": "S. Gilyard"
+      },
+      {
+        "authorId": "6080572",
+        "name": "Soumik Basuray"
+      },
+      {
+        "authorId": "143608281",
+        "name": "Jonathan C. Cohen"
+      },
+      {
+        "authorId": "2393289",
+        "name": "H. Hobbs"
+      }
+    ],
+    "abstract": "A missense mutation (E167K) in TM6SF2 (transmembrane 6 superfamily member 2), a polytopic protein of unknown function, is associated with the full spectrum of fatty liver disease. To investigate the role of TM6SF2 in hepatic triglyceride (TG) metabolism, we inactivated the gene in mice. Chronic inactivation of Tm6sf2 in mice is associated with hepatic steatosis, hypocholesterolemia, and transaminitis, thus recapitulating the phenotype observed in humans. No dietary challenge was required to elicit the phenotype. Immunocytochemical and cell fractionation studies revealed that TM6SF2 was present in the endoplasmic reticulum and Golgi complex, whereas the excess neutral lipids in the Tm6sf2−/− mice were located in lipid droplets. Plasma VLDL-TG levels were reduced in the KO animals due to a 3-fold decrease in VLDL-TG secretion rate without any associated reduction in hepatic apoB secretion. Both VLDL particle size and plasma cholesterol levels were significantly reduced in KO mice. Despite levels of TM6SF2 protein being 10-fold higher in the small intestine than in the liver, dietary lipid absorption was only modestly reduced in the KO mice. Our data, taken together, reveal that TM6SF2 is required to mobilize neutral lipids for VLDL assembly but is not required for secretion of apoB-containing lipoproteins. Despite TM6SF2 being located in the endoplasmic reticulum and Golgi complex, the lipids that accumulate in its absence reside in lipid droplets."
+  },
+  {
+    "paperId": "5c9ab52c2c66a02243b01dfcca51dcb1a0b2d7d9",
+    "externalIds": {
+      "MAG": "2115876819",
+      "DOI": "10.2337/db07-0040",
+      "CorpusId": 13002263,
+      "PubMed": "17646209"
+    },
+    "title": "Cideb Regulates Diet-Induced Obesity, Liver Steatosis, and Insulin Sensitivity by Controlling Lipogenesis and Fatty Acid Oxidation",
+    "venue": "Diabetes",
+    "year": 2007,
+    "citationCount": 172,
+    "influentialCitationCount": 5,
+    "openAccessPdf": {
+      "url": "https://diabetesjournals.org/diabetes/article-pdf/56/10/2523/385598/zdb01007002523.pdf",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.2337/db07-0040?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2337/db07-0040, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "46276021",
+        "name": "J. Li"
+      },
+      {
+        "authorId": "2116475226",
+        "name": "Jing Ye"
+      },
+      {
+        "authorId": "50649811",
+        "name": "Bofu Xue"
+      },
+      {
+        "authorId": "2112610976",
+        "name": "Jingzhong Qi"
+      },
+      {
+        "authorId": "2155697802",
+        "name": "Jing Zhang"
+      },
+      {
+        "authorId": "2149134551",
+        "name": "Zhihong Zhou"
+      },
+      {
+        "authorId": "2117895072",
+        "name": "Qing Li"
+      },
+      {
+        "authorId": "3194711",
+        "name": "Zilong Wen"
+      },
+      {
+        "authorId": "2152926564",
+        "name": "Peng Li"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "3d5edfa2d44c13dea71d41956cf06a63eeabf4d6",
+    "externalIds": {
+      "MAG": "2891823525",
+      "PubMedCentral": "6528826",
+      "DOI": "10.1016/j.livres.2018.09.004",
+      "CorpusId": 92100040,
+      "PubMed": "31123622"
+    },
+    "title": "Autophagy in non-alcoholic fatty liver disease and alcoholic liver disease",
+    "venue": "Liver Research",
+    "year": 2018,
+    "citationCount": 87,
+    "influentialCitationCount": 5,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1016/j.livres.2018.09.004",
+      "status": "GOLD",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6528826, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "3687087",
+        "name": "B. Khambu"
+      },
+      {
+        "authorId": "145442881",
+        "name": "Shengmin Yan"
+      },
+      {
+        "authorId": "38918796",
+        "name": "N. Huda"
+      },
+      {
+        "authorId": "2146560816",
+        "name": "Gang Liu"
+      },
+      {
+        "authorId": "3205442",
+        "name": "Xiao-Ming Yin"
+      }
+    ],
+    "abstract": "Autophagy is an evolutionarily conserved intracellular degradative function that is important for liver homeostasis. Accumulating evidence suggests that autophagy is deregulated during the progression and development of alcoholic and non-alcoholic liver diseases. Impaired autophagy prevents the clearance of excessive lipid droplets (LDs), damaged mitochondria, and toxic protein aggregates, which can be generated during the progression of various liver diseases, thus contributing to the development of steatosis, injury, steatohepatitis, fibrosis, and tumors. In this review, we look at the status of hepatic autophagy during the pathogenesis of alcoholic and non-alcoholic liver diseases. We also examine the mechanisms of defects in autophagy, and the hepato-protective roles of autophagy in non-alcoholic fatty liver disease (NAFLD) and alcoholic liver disease (ALD), focusing mainly on steatosis and liver injury. Finally, we discuss the therapeutic potential of autophagy modulating agents for the treatment of these two common liver diseases."
+  },
+  {
+    "paperId": "8b5fe4d9ae5e5bd4dfe35edd67817317f54d6f1f",
+    "externalIds": {
+      "DOI": "10.1111/liv.15859",
+      "CorpusId": 267383679,
+      "PubMed": "38305643"
+    },
+    "title": "The liver‐specific diagnosis and prognosis of fibrotic NASH through modulating fibroblast growth factor 21",
+    "venue": "Liver international (Print)",
+    "year": 2024,
+    "citationCount": 0,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/liv.15859?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/liv.15859, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2253257504",
+        "name": "Hsien-Hui Chung"
+      }
+    ],
+    "abstract": "The prevalence of non-alcoholic steatohepatitis (NASH) with sig - nificant liver fibrosis in patients with non-alcoholic fatty liver disease (NAFLD) should be precisely confirmed by reliable biomarkers. From the latest article published by Franck et al, 1 the authors indicated that the higher levels of serological fibroblast growth factor 21 (FGF21) were positively correlated with higher body mass index, higher triglycerides, higher HbA1c, diabetes, severe steatosis grades and significant fibrosis even in low or intermediate FIB-4. However, I have some opinions on the metabolic diagnosis and prognosis of fibrotic NASH in risk stratification through the modulation of FGF21. First, the changes in liver fat related to elevated serum FGF21 levels in NAFLD progression have not been mentioned. In newly diagnosed overweight patients with type 2 diabetes and NAFLD, the relative reduction of serum FGF21 levels was positively asso - ciated with the relative decrease of liver fat content (≥29%) after the 12-week liraglutide treatment, demonstrating that the serum FGF21 levels were positively correlated with liver fat content in the evaluation of NAFLD progression. 2 Thus, the changes in liver fat in fibrotic NASH associated with increased serum FGF21 levels should be considered. Second, the elevated serum FGF21 levels linked to FGF21 resis - tance in hepatic lipid metabolism have not been clarified in the pres-ent study. The aforementioned study showed that the serum FGF21 levels in NAFLD patients with triglyceride levels ≥150 mg/dL"
+  },
+  {
+    "paperId": "e8244a955a25280e2982728fdcaf7659f0c563fc",
+    "externalIds": {
+      "MAG": "2118193600",
+      "DOI": "10.1152/AJPGI.2000.279.2.G304",
+      "CorpusId": 29785973,
+      "PubMed": "10915638"
+    },
+    "title": "Biological activities of novel lipid mediator sphingosine 1-phosphate in rat hepatic stellate cells.",
+    "venue": "American Journal of Physiology - Gastrointestinal and Liver Physiology",
+    "year": 2000,
+    "citationCount": 46,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1152/AJPGI.2000.279.2.G304?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1152/AJPGI.2000.279.2.G304, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2250015585",
+        "name": "Hitoshi Ikeda"
+      },
+      {
+        "authorId": "2226957200",
+        "name": "Yutaka Yatomi"
+      },
+      {
+        "authorId": "2252498503",
+        "name": "Mikio Yanase"
+      },
+      {
+        "authorId": "2252504342",
+        "name": "Hiroaki Satoh"
+      },
+      {
+        "authorId": "50317973",
+        "name": "H. Maekawa"
+      },
+      {
+        "authorId": "1794886",
+        "name": "I. Ogata"
+      },
+      {
+        "authorId": "2239147057",
+        "name": "Yukio Ozaki"
+      },
+      {
+        "authorId": "5067024",
+        "name": "Y. Takuwa"
+      },
+      {
+        "authorId": "144799992",
+        "name": "S. Mochida"
+      },
+      {
+        "authorId": "2242125025",
+        "name": "Kenji Fujiwara"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "03c7927b95cef32171915576c4bb9c85a7a5af14",
+    "externalIds": {
+      "MAG": "2189572630",
+      "CorpusId": 12079009,
+      "PubMed": "8263414"
+    },
+    "title": "Hepatic expression of genes regulating lipid metabolism in rabbits.",
+    "venue": "Journal of Lipid Research",
+    "year": 1993,
+    "citationCount": 43,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "36346426",
+        "name": "T. Rea"
+      },
+      {
+        "authorId": "4039694",
+        "name": "R. DeMattos"
+      },
+      {
+        "authorId": "34919307",
+        "name": "M. Pape"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "cd5d84aa0f2b54584ef7118e14f71fd0aa7245b7",
+    "externalIds": {
+      "MAG": "2135072015",
+      "DOI": "10.1194/JLR.M200306-JLR200",
+      "CorpusId": 6176668,
+      "PubMed": "12576522"
+    },
+    "title": "Hepatic overexpression of sterol carrier protein-2 inhibits VLDL production and reciprocally enhances biliary lipid secretion Published, JLR Papers in Press, November 4, 2002. DOI 10.1194/jlr.M200306-JLR200",
+    "venue": "Journal of Lipid Research",
+    "year": 2003,
+    "citationCount": 39,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "http://www.jlr.org/article/S002222752031227X/pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1194/JLR.M200306-JLR200?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1194/JLR.M200306-JLR200, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "52477028",
+        "name": "L. Amigo"
+      },
+      {
+        "authorId": "4086119",
+        "name": "S. Zanlungo"
+      },
+      {
+        "authorId": "31623071",
+        "name": "J. Miquel"
+      },
+      {
+        "authorId": "40496786",
+        "name": "J. M. Glick"
+      },
+      {
+        "authorId": "5367441",
+        "name": "H. Hyogo"
+      },
+      {
+        "authorId": "2233766036",
+        "name": "D. Cohen"
+      },
+      {
+        "authorId": "3636806",
+        "name": "A. Rigotti"
+      },
+      {
+        "authorId": "152373854",
+        "name": "F. Nervi"
+      }
+    ],
+    "abstract": "We examined in vivo a role for sterol carrier protein-2 (SCP-2) in the regulation of lipid secretion across the hepatic sinusoidal and canalicular membranes. Recombinant adenovirus Ad.rSCP2 was used to overexpress SCP-2 in livers of mice. We determined plasma, hepatic, and biliary lipid concentrations; hepatic fatty acid (FA) and cholesterol synthesis; hepatic and biliary phosphatidylcholine (PC) molecular species; and VLDL triglyceride production. In Ad.rSCP2 mice, there was marked inhibition of hepatic fatty acids and cholesterol synthesis to <62% of control mice. Hepatic triglyceride contents were decreased, while cholesterol and phospholipids concentrations were elevated in Ad.rSCP2 mice. Hepatic VLDL triglyceride production fell in Ad.rSCP2 mice to 39% of control values. As expected, biliary cholesterol, phospholipids, bile acids outputs, and biliary PC hydrophobic index were significantly increased in Ad.rSCP2 mice. These studies indicate that SCP-2 overexpression in the liver markedly inhibits lipid synthesis as well as VLDL production, and alters hepatic lipid contents. In contrast, SCP-2 increased biliary lipid secretion and the proportion of hydrophobic PC molecular species in bile. These effects suggest a key regulatory role for SCP-2 in hepatic lipid metabolism and the existence of a reciprocal relationship between the fluxes of lipids across the sinusoidal and canalicular membranes."
+  },
+  {
+    "paperId": "b558fbfa2fee256ea7c3ebf753789291686b96e9",
+    "externalIds": {
+      "MAG": "2255711320",
+      "CorpusId": 9979316,
+      "PubMed": "6854153"
+    },
+    "title": "Ursodeoxycholic acid treatment in cholesterol gallstone disease: effects on hepatic 3-hydroxy-3-methylglutaryl coenzyme A reductase activity, biliary lipid composition, and plasma lipid levels.",
+    "venue": "Journal of Lipid Research",
+    "year": 1983,
+    "citationCount": 51,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "3679829",
+        "name": "B. Angelin"
+      },
+      {
+        "authorId": "3939262",
+        "name": "S. Ewerth"
+      },
+      {
+        "authorId": "3985871",
+        "name": "K. Einarsson"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "6652361af2cd11ac04fea1c952d393203a02ef54",
+    "externalIds": {
+      "PubMedCentral": "5683790",
+      "MAG": "2767887007",
+      "DOI": "10.2147/HMER.S125718",
+      "CorpusId": 13832536,
+      "PubMed": "29158695"
+    },
+    "title": "PNPLA3 expression and its impact on the liver: current perspectives",
+    "venue": "Hepatic Medicine : Evidence and Research",
+    "year": 2017,
+    "citationCount": 72,
+    "influentialCitationCount": 4,
+    "openAccessPdf": {
+      "url": "https://www.dovepress.com/getfile.php?fileID=39171",
+      "status": "GOLD",
+      "license": "CCBYNC",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5683790, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "16201494",
+        "name": "F. Bruschi"
+      },
+      {
+        "authorId": "4044170",
+        "name": "M. Tardelli"
+      },
+      {
+        "authorId": "4528952",
+        "name": "T. Claudel"
+      },
+      {
+        "authorId": "3305300",
+        "name": "M. Trauner"
+      }
+    ],
+    "abstract": "A single-nucleotide polymorphism occurring in the sequence of the human patatin-like phospholipase domain-containing 3 gene (PNPLA3), known as I148M variant, is one of the best characterized and deeply investigated variants in several clinical scenarios, because of its tight correlation with increased risk for developing hepatic steatosis and more aggressive part of the disease spectrum, such as nonalcoholic steatohepatitis, advanced fibrosis and cirrhosis. Further, the I148M variant is positively associated with alcoholic liver diseases, chronic hepatitis C–related cirrhosis and hepatocellular carcinoma. The native gene encodes for a protein that has not yet a fully defined role in liver lipid metabolism and, according to recent observations, seems to be divergently regulated among distinct liver cells type, such as hepatic stellate cells. Therefore, the aim of this review is to collect the latest data regarding PNPLA3 expression in human liver and to analyze the impact of its genetic variant in human hepatic pathologies. Moreover, a description of the current biochemical and metabolic data pertaining to PNPLA3 function in both animal models and in vitro studies is summarized to allow a better understanding of the relevant pathophysiological role of this enzyme in the progression of hepatic diseases."
+  },
+  {
+    "paperId": "7c8b2ff4c5d0fa6730bcd2e36508a95bc9b9b689",
+    "externalIds": {
+      "DOI": "10.1152/ajpgi.00054.2021",
+      "CorpusId": 246474934,
+      "PubMed": "35107032"
+    },
+    "title": "The therapeutic potential of exosomes derived from different cell sources in liver diseases.",
+    "venue": "American Journal of Physiology - Gastrointestinal and Liver Physiology",
+    "year": 2022,
+    "citationCount": 18,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8917924",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1152/ajpgi.00054.2021?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1152/ajpgi.00054.2021, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "51180324",
+        "name": "Yun-Fei Pan"
+      },
+      {
+        "authorId": "48509903",
+        "name": "Wei-Feng Tan"
+      },
+      {
+        "authorId": "4791433",
+        "name": "Mu-qing Yang"
+      },
+      {
+        "authorId": "46276057",
+        "name": "Jiyu Li"
+      },
+      {
+        "authorId": "3086252",
+        "name": "D. Geller"
+      }
+    ],
+    "abstract": "Exosomes are small nanovesicles with a size of approximately 40-120 nm that are secreted from cells. They are involved in the regulation of cell homeostasis and mediate intercellular communication. In addition, they carry proteins, nucleic acids, and lipids that regulate the biological activity of receptor cells. Recent studies have shown that exosomes perform important functions in liver diseases. This review will focus on liver diseases (drug-induced liver injury, hepatic ischemia-reperfusion injury, liver fibrosis, acute liver failure, and hepatocellular carcinoma) and summarize the therapeutic potential of exosomes from different cell sources in liver disease."
+  },
+  {
+    "paperId": "edd9ec6a6fdbf8133eda76e5df4ce1d786e05dd4",
+    "externalIds": {
+      "MAG": "2515285081",
+      "DOI": "10.1194/jlr.M069807",
+      "CorpusId": 9439701,
+      "PubMed": "27534992"
+    },
+    "title": "Cholesterol 7α-hydroxylase protects the liver from inflammation and fibrosis by maintaining cholesterol homeostasis[S]",
+    "venue": "Journal of Lipid Research",
+    "year": 2016,
+    "citationCount": 105,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "http://www.jlr.org/content/57/10/1831.full.pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1194/jlr.M069807?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1194/jlr.M069807, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "46936149",
+        "name": "Hailiang Liu"
+      },
+      {
+        "authorId": "9534002",
+        "name": "P. Pathak"
+      },
+      {
+        "authorId": "35633190",
+        "name": "Shannon Boehme"
+      },
+      {
+        "authorId": "144489634",
+        "name": "J. Chiang"
+      }
+    ],
+    "abstract": "Cholesterol 7α-hydroxylase (CYP7A1) plays a critical role in control of bile acid and cholesterol homeostasis. Bile acids activate farnesoid X receptor (FXR) and Takeda G protein-coupled receptor 5 (TGR5) to regulate lipid, glucose, and energy metabolism. However, the role of bile acids in hepatic inflammation and fibrosis remains unclear. In this study, we showed that adenovirus-mediated overexpression of Cyp7a1 ameliorated lipopolysaccharide (LPS)-induced inflammatory cell infiltration and pro-inflammatory cytokine production in WT and TGR5-deficient (Tgr5−/−) mice, but not in FXR-deficient (Fxr−/−) mice, suggesting that bile acid signaling through FXR protects against hepatic inflammation. Nuclear factor κ light-chain enhancer of activated B cells (NF-κB)-luciferase reporter assay showed that FXR agonists significantly inhibited TNF-α-induced NF-κB activity. Furthermore, chromatin immunoprecipitation and mammalian two-hybrid assays showed that ligand-activated FXR interacted with NF-κB and blocked recruitment of steroid receptor coactivator-1 to cytokine promoter and resulted in inhibition of NF-κB activity. Methionine/choline-deficient (MCD) diet increased hepatic inflammation, free cholesterol, oxidative stress, apoptosis, and fibrosis in CYP7A1-deficient (Cyp7a1−/−) mice compared with WT mice. Remarkably, adenovirus-mediated overexpression of Cyp7a1 effectively reduced hepatic free cholesterol and oxidative stress and reversed hepatic inflammation and fibrosis in MCD diet-fed Cyp7a1−/− mice. Current studies suggest that increased Cyp7a1 expression and bile acid synthesis ameliorate hepatic inflammation through activation of FXR, whereas reduced bile acid synthesis aggravates MCD diet-induced hepatic inflammation and fibrosis. Maintaining bile acid and cholesterol homeostasis is important for protecting against liver injury and nonalcoholic fatty liver disease."
+  },
+  {
+    "paperId": "116d6fac837954da461dd36f7e8357901f66839b",
+    "externalIds": {
+      "MAG": "2788400603",
+      "DOI": "10.1152/ajpgi.00008.2018",
+      "CorpusId": 3927559,
+      "PubMed": "29471671"
+    },
+    "title": "Cholesterol-enriched membrane microdomains are needed for insulin signaling and proliferation in hepatic cells.",
+    "venue": "American Journal of Physiology - Gastrointestinal and Liver Physiology",
+    "year": 2018,
+    "citationCount": 22,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://journals.physiology.org/doi/pdf/10.1152/ajpgi.00008.2018",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1152/ajpgi.00008.2018?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1152/ajpgi.00008.2018, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "authors": [
+      {
+        "authorId": "37199312",
+        "name": "M. Fonseca"
+      },
+      {
+        "authorId": "46964767",
+        "name": "Andressa França"
+      },
+      {
+        "authorId": "38479700",
+        "name": "R. Florentino"
+      },
+      {
+        "authorId": "5213695",
+        "name": "R. Fonseca"
+      },
+      {
+        "authorId": "35355586",
+        "name": "A. C. L. Lima Filho"
+      },
+      {
+        "authorId": "145446516",
+        "name": "P. Vidigal"
+      },
+      {
+        "authorId": "46994190",
+        "name": "A. Oliveira"
+      },
+      {
+        "authorId": "5298382",
+        "name": "L. Dubuquoy"
+      },
+      {
+        "authorId": "1724740",
+        "name": "M. Nathanson"
+      },
+      {
+        "authorId": "145630224",
+        "name": "M. Leite"
+      }
+    ],
+    "abstract": "Hepatocyte proliferation during liver regeneration is a well-coordinated process regulated by the activation of several growth factor receptors, including the insulin receptor (IR). The IR can be localized in part to cholesterol-enriched membrane microdomains, but the role of such domains in insulin-mediated events in hepatocytes is not known. We investigated whether partitioning of IRs into cholesterol-enriched membrane rafts is important for the mitogenic effects of insulin in the hepatic cells. IR and lipid rafts were labeled in HepG2 cells and primary rat hepatocytes. Membrane cholesterol was depleted in vitro with metyl-β-cyclodextrin (MβCD) and in vivo with lovastatin. Insulin-induced calcium (Ca2+) signals studies were examined in HepG2 cells and in freshly isolated rat hepatocytes as well as in whole liver in vivo by intravital confocal imaging. Liver regeneration was studied by 70% partial hepatectomy (PH), and hepatocyte proliferation was assessed by PCNA staining. A subpopulation of IR was found in membrane microdomains enriched in cholesterol. Depletion of cholesterol from plasma membrane resulted in redistribution of the IR along the cells, which was associated with impaired insulin-induced nuclear Ca2+ signals, a signaling event that regulates hepatocyte proliferation. Cholesterol depletion also led to ERK1/2 hyper-phosphorylation. Lovastatin administration to rats decreased hepatic cholesterol content, disrupted lipid rafts and decreased insulin-induced Ca2+ signaling in hepatocytes, and delayed liver regeneration after PH. Therefore, membrane cholesterol content and lipid rafts integrity showed to be important for the proliferative effects of insulin in hepatic cells. NEW & NOTEWORTHY One of insulin's actions is to stimulate liver regeneration. Here we show that a subpopulation of insulin receptors is in a specialized cholesterol-enriched region of the cell membrane and this subfraction is important for insulin's proliferative effects."
+  },
+  {
+    "paperId": "4537ebc0a5295552c5427e7c671105775dc431bc",
+    "externalIds": {
+      "MAG": "2010684234",
+      "DOI": "10.1016/S1096-4959(03)00146-5",
+      "CorpusId": 10804866,
+      "PubMed": "12892758"
+    },
+    "title": "Differential channelling of liver lipids in relation to susceptibility to hepatic steatosis in two species of ducks.",
+    "venue": "Comparative Biochemistry and Physiology Part B Comparative Biochemistry",
+    "year": 2003,
+    "citationCount": 100,
+    "influentialCitationCount": 7,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/S1096-4959(03)00146-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/S1096-4959(03)00146-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "3230053",
+        "name": "D. Hermier"
+      },
+      {
+        "authorId": "143684705",
+        "name": "G. Guy"
+      },
+      {
+        "authorId": "6303750",
+        "name": "S. Guillaumin"
+      },
+      {
+        "authorId": "4434051",
+        "name": "S. Davail"
+      },
+      {
+        "authorId": "152646680",
+        "name": "J. André"
+      },
+      {
+        "authorId": "1423830019",
+        "name": "R. Hoo-Paris"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "5c2f626293f15fd9d01fc932ef4c674e35a54735",
+    "externalIds": {
+      "MAG": "1898264975",
+      "CorpusId": 17740620,
+      "PubMed": "8381452"
+    },
+    "title": "Regulation of hepatic secretion of apolipoprotein B-containing lipoproteins: information obtained from cultured liver cells.",
+    "venue": "Journal of Lipid Research",
+    "year": 1993,
+    "citationCount": 349,
+    "influentialCitationCount": 6,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "34778405",
+        "name": "J. Dixon"
+      },
+      {
+        "authorId": "2230744373",
+        "name": "Henry N. Ginsbergt"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "139c06843e086bb0c5c9bd71f06ea454fbeb805f",
+    "externalIds": {
+      "PubMedCentral": "10134744",
+      "DOI": "10.1016/j.livres.2022.11.006",
+      "CorpusId": 253702022,
+      "PubMed": "37124481"
+    },
+    "title": "Liver-adipose tissue crosstalk in alcohol-associated liver disease: The role of mTOR",
+    "venue": "Liver Research",
+    "year": 2022,
+    "citationCount": 11,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1016/j.livres.2022.11.006",
+      "status": "GOLD",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10134744, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "80525029",
+        "name": "Yssa Rodriguez"
+      },
+      {
+        "authorId": "69891177",
+        "name": "J. Dunfield"
+      },
+      {
+        "authorId": "2191484182",
+        "name": "Tyson Roderique"
+      },
+      {
+        "authorId": "40457732",
+        "name": "Hong-Min Ni"
+      }
+    ],
+    "abstract": "Background Alcohol-associated liver disease (ALD) is a major chronic liver disease around the world without successful treatment. Acute alcoholic hepatitis is one of the most severe forms of ALD with high mortality, which is often associated with binge drinking. Alcohol drinking dysregulates lipid metabolism, increases adipose tissue lipolysis, and induces liver steatosis and adipose tissue atrophy. Increasing evidence implicates that crosstalk of liver and adipose tissue in the pathogenesis of ALD. Mechanistic target of rapamycin (mTOR) is a phosphatidylinositol 3-kinase (PI3K)-like serine/threonine protein kinase that regulates lipid metabolism, cell proliferation and autophagy. However, the role of mTOR in regulating adipose-liver crosstalk in binge drinking-induced organ damage remains unclear. Methods We generated liver-specific and adipocyte-specific regulatory-associated protein of mTOR (Rptor) knockout (RptorLKO and RptorAKO) as well as Mtor knockout (MtorLKO and MtorAKO) mice, by crossing Rptorflox and Mtorflox mice with albumin Cre or adiponectin Cre mice, respectively. In addition, we generated liver and adipocyte double deletion of Rptor or Mtor (MtorLAKO and RptorLAKO) mice. The knockout mice with their matched wild-type littermates (RptorWT and MtorWT) were subjected to acute gavage of 7 g/kg ethanol. Results Mice with adipocyte deletion of Rptor or Mtor developed hepatomegaly and adipose tissue atrophy. Alcohol gavage increased liver injury, hepatic steatosis and inflammation in mouse livers as demonstrated by elevated serum alanine aminotransferase activities, increased hepatic levels of triglyceride and increased hepatic numbers of CD68 positive macrophages in mouse livers after alcohol gavage. Liver injury was further exacerbated by deletion of adipocyte Rptor or Mtor. Serum adipokine array analysis revealed that increased levels of pro-inflammatory cytokines IL-6 and TNFα as well as chemokine MCP-1 following acute alcohol gavage in wild-type mice, which were further increased in adipocyte-specific Mtor or Rptor knockout mice. Conversely, levels of anti-inflammatory cytokine IL-10 decreased in adipocyte-specific Mtor or Rptor knockout mice. The levels of circulating fibroblast growth factor 21 (FGF21) increased whereas levels of circulating adiponectin and fetuin A decreased in wild-type mice after alcohol gavage. Intriguingly, adipocyte-specific Mtor or Rptor knockout mice already had decreased basal level of FGF21 which increased by alcohol gavage. Moreover, adipocyte-specific Mtor or Rptor knockout mice already had increased basal level of adiponectin and decreased fetuin A which were not further changed by alcohol gavage. Conclusions Adipocyte but not hepatocyte ablation of Mtor pathway contributes to acute alcohol-induced liver injury with increased inflammation. Our results demonstrate the critical role of adipocyte mTOR in regulating the adipose-liver crosstalk in ALD."
+  },
+  {
+    "paperId": "1d15954de82296a1d04df067258ed3d7c3c2de65",
+    "externalIds": {
+      "MAG": "2784880489",
+      "DOI": "10.1194/jlr.M073817",
+      "CorpusId": 3754326,
+      "PubMed": "29363559"
+    },
+    "title": "Sidt2 regulates hepatocellular lipid metabolism through autophagy",
+    "venue": "Journal of Lipid Research",
+    "year": 2018,
+    "citationCount": 28,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "http://www.jlr.org/content/59/3/404.full.pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1194/jlr.M073817?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1194/jlr.M073817, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "5483231",
+        "name": "Xueru Chen"
+      },
+      {
+        "authorId": "66524460",
+        "name": "Xuefan Gu"
+      },
+      {
+        "authorId": "7214174",
+        "name": "Huiwen Zhang"
+      }
+    ],
+    "abstract": "SID1 transmembrane family member 2 (Sidt2) is an integral lysosomal membrane protein. To investigate its explicit function, we generated a global Sidt2 knockout mouse model (Sidt2−/−). Compared with the littermate controls, Sidt2−/− mice exhibited a remarkable accumulation of lipid droplets in liver. First, it was observed that food consumption, hepatocyte fatty acid uptake and de novo lipogenesis, hepatocyte lipolysis, and TG secretion in the form of very low density lipoprotein were comparable between Sidt2−/− and WT mice. However, the hepatic β-oxidation of fatty acids decreased significantly as revealed by a low level of serum β-hydroxybutyrate in the Sidt2−/− mice along with normal mRNA expression of genes involved in fatty acid oxidation. In addition, the classical autophagy pathway marker proteins, p62 and LC3-II, increased in liver, along with compromised autophagic flux in primary hepatocytes, indicating a block of autophagosome maturation due to Sidt2 deficiency, which was also supported by electron microscopy image analysis both in livers and in primary hepatocytes from Sidt2−/− mice. It was concluded that Sidt2 plays an important role in mouse hepatic lipid homeostasis by regulating autophagy at the terminal stage."
+  },
+  {
+    "paperId": "8d2c9f12919ad789fe0fe90ff16c9ee65e77929a",
+    "externalIds": {
+      "MAG": "2039274099",
+      "DOI": "10.1034/J.1600-0676.2001.210604.X",
+      "CorpusId": 19407033,
+      "PubMed": "11903882"
+    },
+    "title": "Effects of salviainolic acid A (SA-A) on liver injury: SA-A action on hepatic peroxidation.",
+    "venue": "Liver",
+    "year": 2001,
+    "citationCount": 38,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1034/J.1600-0676.2001.210604.X?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1034/J.1600-0676.2001.210604.X, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "144881564",
+        "name": "Ping Liu"
+      },
+      {
+        "authorId": "48483515",
+        "name": "Yiding Hu"
+      },
+      {
+        "authorId": "2255410720",
+        "name": "Cheng-hai Liu"
+      },
+      {
+        "authorId": "2255410720",
+        "name": "Cheng-hai Liu"
+      },
+      {
+        "authorId": "1839834945",
+        "name": "DaHong Zhu"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "2065f1e8cab5ee97a15d16ff31ef6a1535ace543",
+    "externalIds": {
+      "MAG": "2068041970",
+      "DOI": "10.1016/j.dld.2014.09.020",
+      "CorpusId": 9851156,
+      "PubMed": "25739820"
+    },
+    "title": "Nonalcoholic fatty liver disease: a precursor of the metabolic syndrome.",
+    "venue": "Digestive and Liver Disease",
+    "year": 2015,
+    "citationCount": 645,
+    "influentialCitationCount": 30,
+    "openAccessPdf": {
+      "url": "http://www.dldjournalonline.com/article/S1590865814007178/pdf",
+      "status": "HYBRID",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.dld.2014.09.020?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.dld.2014.09.020, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "1938947",
+        "name": "A. Lonardo"
+      },
+      {
+        "authorId": "4465382",
+        "name": "S. Ballestri"
+      },
+      {
+        "authorId": "35268843",
+        "name": "G. Marchesini"
+      },
+      {
+        "authorId": "145418033",
+        "name": "P. Angulo"
+      },
+      {
+        "authorId": "6651179",
+        "name": "P. Loria"
+      }
+    ],
+    "abstract": "The conventional paradigm of nonalcoholic fatty liver disease representing the \"hepatic manifestation of the metabolic syndrome\" is outdated. We identified and summarized longitudinal studies that, supporting the association of nonalcoholic fatty liver disease with either type 2 diabetes mellitus or metabolic syndrome, suggest that nonalcoholic fatty liver disease precedes the development of both conditions. Online Medical databases were searched, relevant articles were identified, their references were further assessed and tabulated data were checked. Although several cross-sectional studies linked nonalcoholic fatty liver disease to either diabetes and other components of the metabolic syndrome, we focused on 28 longitudinal studies which provided evidence for nonalcoholic fatty liver disease as a risk factor for the future development of diabetes. Moreover, additional 19 longitudinal reported that nonalcoholic fatty liver disease precedes and is a risk factor for the future development of the metabolic syndrome. Finally, molecular and genetic studies are discussed supporting the view that aetiology of steatosis and lipid intra-hepatocytic compartmentation are a major determinant of whether fatty liver is/is not associated with insulin resistance and metabolic syndrome. Data support the novel paradigm of nonalcoholic fatty liver disease as a strong determinant for the development of the metabolic syndrome, which has potentially relevant clinical implications for diagnosing, preventing and treating metabolic syndrome."
+  },
+  {
+    "paperId": "1b7c6f786f0b54dc4bdaab9f89fb9e0cef5bc887",
+    "externalIds": {
+      "DOI": "10.1194/jlr.RA119000586",
+      "CorpusId": 231790031,
+      "PubMed": "33531237"
+    },
+    "title": "Membrane-bound sn-1,2-diacylglycerols explain the dissociation of hepatic insulin resistance from hepatic steatosis in MTTP knockout mice.",
+    "venue": "Journal of Lipid Research",
+    "year": 2020,
+    "citationCount": 5,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "http://www.jlr.org/article/S0022227520600190/pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1194/jlr.RA119000586?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1194/jlr.RA119000586, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "12584049",
+        "name": "Abudukadier Abulizi"
+      },
+      {
+        "authorId": "6715695",
+        "name": "D. Vatner"
+      },
+      {
+        "authorId": "47051288",
+        "name": "Z. Ye"
+      },
+      {
+        "authorId": "2107962534",
+        "name": "Yongliang Wang"
+      },
+      {
+        "authorId": "3994415",
+        "name": "J. Camporez"
+      },
+      {
+        "authorId": "2706632",
+        "name": "Dongyan Zhang"
+      },
+      {
+        "authorId": "48040305",
+        "name": "M. Kahn"
+      },
+      {
+        "authorId": "138008490",
+        "name": "Kun Lyu"
+      },
+      {
+        "authorId": "13554783",
+        "name": "Alaa Sirwi"
+      },
+      {
+        "authorId": "2231406",
+        "name": "G. Cline"
+      },
+      {
+        "authorId": "118056891",
+        "name": "M. Hussain"
+      },
+      {
+        "authorId": "5049325",
+        "name": "P. Aspichueta"
+      },
+      {
+        "authorId": "3610998",
+        "name": "V. Samuel"
+      },
+      {
+        "authorId": "1856502",
+        "name": "G. Shulman"
+      }
+    ],
+    "abstract": "Microsomal triglyceride transfer protein (MTTP) deficiency results in a syndrome of hypolipidemia and accelerated NAFLD. Animal models of decreased hepatic MTTP activity have revealed an unexplained dissociation between hepatic steatosis and hepatic insulin resistance. Here, we performed comprehensive metabolic phenotyping of liver-specific MTTP knockout (L-Mttp-/-) mice and age-weight matched wild-type control mice. Young (10-12-week-old) L-Mttp-/- mice exhibited hepatic steatosis and increased DAG content; however, the increase in hepatic DAG content was partitioned to the lipid droplet and was not increased in the plasma membrane. Young L-Mttp-/- mice also manifested normal hepatic insulin sensitivity, as assessed by hyperinsulinemic-euglycemic clamps, no PKCε activation, and normal hepatic insulin signaling from the insulin receptor through AKT Ser/Thr kinase. In contrast, aged (10-month-old) L-Mttp-/- mice exhibited glucose intolerance and hepatic insulin resistance along with an increase in hepatic plasma membrane sn-1,2-DAG content and PKCε activation. Treatment with a functionally liver-targeted mitochondrial uncoupler protected the aged L-Mttp-/- mice against the development of hepatic steatosis, increased plasma membrane sn-1,2-DAG content, PKCε activation, and hepatic insulin resistance. Furthermore, increased hepatic insulin sensitivity in the aged controlled-release mitochondrial protonophore-treated L-Mttp-/- mice was not associated with any reductions in hepatic ceramide content. Taken together, these data demonstrate that differences in the intracellular compartmentation of sn-1,2-DAGs in the lipid droplet versus plasma membrane explains the dissociation of NAFLD/lipid-induced hepatic insulin resistance in young L-Mttp-/- mice as well as the development of lipid-induced hepatic insulin resistance in aged L-Mttp-/- mice."
   }
 ]
