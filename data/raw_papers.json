@@ -46337,5 +46337,1557 @@
       }
     ],
     "abstract": "We studied the distribution of the PAT family proteins TIP47 and adipophilin in lipid bodies of THP-1 cell-derived macrophages using freeze-fracture immunolabeling and other techniques. Lipid bodies in macrophages comprise lipid droplets and extensive, previously scantily characterized sheet-like organelles, which we descriptively call “lipid sails.” TIP47 and adipophilin are components of many, but not all, the lipid droplets. Both proteins are not confined to the surface of lipid droplets, as supposed, but are also inside lipid droplet cores. They are not codistributed stoichiometrically in lipid droplets. How TIP47 and adipophilin, which are polar proteins, enter the lipid droplets and are packaged among the hydrophobic neutral lipids of the core is unclear. However, in the lipid layers of the core, these proteins are directed sometimes inward and sometimes outward. Because TIP47 and adipophilin also localize to lipid sails, lipid sails are intimately involved in intracellular lipid metabolism."
+  },
+  {
+    "paperId": "d5ce228fbb860c6edfa4a98919a9a4cd5fb27d9a",
+    "externalIds": {
+      "DOI": "10.1101/2025.05.07.652694",
+      "CorpusId": 278601850,
+      "PubMed": "40463259"
+    },
+    "title": "Pln1 Mediates Lipid Droplet-Vacuole Tethering During Microlipophagy in Saccharomyces cerevisiae",
+    "venue": "bioRxiv",
+    "year": 2025,
+    "citationCount": 1,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1101/2025.05.07.652694?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1101/2025.05.07.652694, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "38804678",
+        "name": "Monala Jayaprakash Rao"
+      },
+      {
+        "authorId": "2122947035",
+        "name": "Brayden Folger"
+      },
+      {
+        "authorId": "2361264411",
+        "name": "Joshua Reus"
+      },
+      {
+        "authorId": "2345611689",
+        "name": "Alexandre Toulmay"
+      },
+      {
+        "authorId": "2118398005",
+        "name": "Jin Li"
+      },
+      {
+        "authorId": "6644781",
+        "name": "Rudian Zhang"
+      },
+      {
+        "authorId": "2293456279",
+        "name": "William Prinz"
+      },
+      {
+        "authorId": "47104651",
+        "name": "J. Goodman"
+      },
+      {
+        "authorId": "2148955213",
+        "name": "Fei Wang"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "6e18cab06216c9c039959173210de8ebea7a2c40",
+    "externalIds": {
+      "DOI": "10.1038/s41589-025-02127-4",
+      "CorpusId": 284590440,
+      "PubMed": "41513856"
+    },
+    "title": "LipoID profiles lipid droplet interactions and identifies interorganelle regulators.",
+    "venue": "Nature Chemical Biology",
+    "year": 2026,
+    "citationCount": 0,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1038/s41589-025-02127-4?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/s41589-025-02127-4, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2291084740",
+        "name": "Hengke Guo"
+      },
+      {
+        "authorId": "2043067822",
+        "name": "Wang Wan"
+      },
+      {
+        "authorId": "2145433835",
+        "name": "Yanan Huang"
+      },
+      {
+        "authorId": "2289942179",
+        "name": "Nan Zhao"
+      },
+      {
+        "authorId": "2356007551",
+        "name": "Ci Wu"
+      },
+      {
+        "authorId": "2061199840",
+        "name": "Bowen Zhong"
+      },
+      {
+        "authorId": "2161720770",
+        "name": "Rui Sun"
+      },
+      {
+        "authorId": "2186957855",
+        "name": "Huan Feng"
+      },
+      {
+        "authorId": "2303332721",
+        "name": "Jing Yan"
+      },
+      {
+        "authorId": "2065249157",
+        "name": "Di Shen"
+      },
+      {
+        "authorId": "1738718076",
+        "name": "Xuepeng Dong"
+      },
+      {
+        "authorId": "2136110674",
+        "name": "Qun Zhao"
+      },
+      {
+        "authorId": "2211204159",
+        "name": "Xin Zhang"
+      },
+      {
+        "authorId": "2309879204",
+        "name": "Lihua Zhang"
+      },
+      {
+        "authorId": "2146400233",
+        "name": "Yu Liu"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "2caecc445ec7e86fba7fba339fdc500d5d52e070",
+    "externalIds": {
+      "PubMedCentral": "10350540",
+      "DOI": "10.3389/fcell.2023.1116491",
+      "CorpusId": 252357332,
+      "PubMed": "37465010"
+    },
+    "title": "Perilipin 3 promotes the formation of membrane domains enriched in diacylglycerol and lipid droplet biogenesis proteins",
+    "venue": "bioRxiv",
+    "year": 2022,
+    "citationCount": 19,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "https://www.frontiersin.org/articles/10.3389/fcell.2023.1116491/pdf",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10350540, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "11436736",
+        "name": "Rasha Khaddaj"
+      },
+      {
+        "authorId": "5742253",
+        "name": "R. Schneiter"
+      }
+    ],
+    "abstract": "Lipid droplets (LDs) serve as intracellular stores of energy-rich neutral lipids. LDs form at discrete sites in the endoplasmic reticulum (ER) and they remain closely associated with the ER during lipogenic growth and lipolytic consumption. Their hydrophobic neutral lipid core is covered by a monolayer of phospholipids, which harbors a specific set of proteins. This LD surface is coated and stabilized by perilipins, a family of soluble proteins that specifically target LDs from the cytosol. We have previously used chimeric fusion proteins between perilipins and integral ER membrane proteins to test whether proteins that are anchored to the ER bilayer could be dragged onto the LD monolayer. Expression of these chimeric proteins induces repositioning of the ER membrane around LDs. Here, we test the properties of membrane-anchored perilipins in cells that lack LDs. Unexpectedly, membrane-anchored perilipins induce the formation of crescent-shaped ER membrane domains that have LD-like properties. They are stained by lipophilic dyes and harbor LD marker proteins. In addition, these ER domains are enriched in diacylglycerol (DAG) and in ER proteins that are important for early steps of LD biogenesis, including seipin and Pex30. These ER membrane domains dissolve upon induction of neutral lipid synthesis and the formation of nascent LDs. Formation of these membrane domains in vivo requires DAG, and we show that perilipin 3 (PLIN3) binds to liposomes containing DAG in vitro. Taken together, these observations indicate that perilipin not only serve to stabilize the surface of mature LDs but that they are likely to exert a more active role in early steps of LD biogenesis at ER subdomains enriched in DAG, seipin, and neutral lipid biosynthetic enzymes."
+  },
+  {
+    "paperId": "1f55e70acb49f0a331c7a8252d169d08a465fadc",
+    "externalIds": {
+      "MAG": "2052018397",
+      "DOI": "10.1111/his.12038",
+      "CorpusId": 205168117,
+      "PubMed": "23347084"
+    },
+    "title": "Adipophilin/perilipin‐2 as a lipid droplet‐specific marker for metabolically active cells and diseases associated with metabolic dysregulation",
+    "venue": "Histopathology",
+    "year": 2013,
+    "citationCount": 122,
+    "influentialCitationCount": 4,
+    "openAccessPdf": {
+      "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/his.12038",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/his.12038?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/his.12038, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "4340192",
+        "name": "B. Straub"
+      },
+      {
+        "authorId": "2080233054",
+        "name": "Benedek Gyoengyoesi"
+      },
+      {
+        "authorId": "152731052",
+        "name": "M. Koenig"
+      },
+      {
+        "authorId": "16026384",
+        "name": "M. Hashani"
+      },
+      {
+        "authorId": "15032862",
+        "name": "L. M. Pawella"
+      },
+      {
+        "authorId": "4990784",
+        "name": "E. Herpel"
+      },
+      {
+        "authorId": "118325740",
+        "name": "W. Mueller"
+      },
+      {
+        "authorId": "1398242967",
+        "name": "S. Macher-Goeppinger"
+      },
+      {
+        "authorId": "46716135",
+        "name": "H. Heid"
+      },
+      {
+        "authorId": "4332006",
+        "name": "P. Schirmacher"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "1a95951c809f238d2a45f937824c6a103a8f1ae4",
+    "externalIds": {
+      "PubMedCentral": "10472854",
+      "DOI": "10.1080/15548627.2023.2213984",
+      "CorpusId": 258785941,
+      "PubMed": "37204119"
+    },
+    "title": "Impaired lipophagy induced-microglial lipid droplets accumulation contributes to the buildup of TREM1 in diabetes-associated cognitive impairment",
+    "venue": "Autophagy",
+    "year": 2023,
+    "citationCount": 149,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://www.tandfonline.com/doi/pdf/10.1080/15548627.2023.2213984?needAccess=true&role=button",
+      "status": "HYBRID",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10472854, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2117895070",
+        "name": "Qing Li"
+      },
+      {
+        "authorId": "2217540324",
+        "name": "Yujing Zhao"
+      },
+      {
+        "authorId": "2210245002",
+        "name": "Hongyan Guo"
+      },
+      {
+        "authorId": "1409939566",
+        "name": "Qiao Li"
+      },
+      {
+        "authorId": "33866342",
+        "name": "Chaoying Yan"
+      },
+      {
+        "authorId": "2154570115",
+        "name": "Yansong Li"
+      },
+      {
+        "authorId": "2160729697",
+        "name": "Shuxuan He"
+      },
+      {
+        "authorId": "144457723",
+        "name": "Nan Wang"
+      },
+      {
+        "authorId": "2153282653",
+        "name": "Qiang Wang"
+      }
+    ],
+    "abstract": "ABSTRACT Neuroinflammation caused by microglial activation and consequent neurological impairment are prominent features of diabetes-associated cognitive impairment (DACI). Microglial lipophagy, a significant fraction of autophagy contributing to lipid homeostasis and inflammation, had mostly been ignored in DACI. Microglial lipid droplets (LDs) accumulation is a characteristic of aging, however, little is known about the pathological role of microglial lipophagy and LDs in DACI. Therefore, we hypothesized that microglial lipophagy could be an Achilles’s heel exploitable to develop effective strategies for DACI therapy. Here, starting with characterization of microglial accumulation of LDs in leptin receptor-deficient (db/db) mice and in high-fat diet and STZ (HFD/STZ) induced T2DM mice, as well as in high-glucose (HG)-treated mice BV2, human HMC3 and primary mice microglia, we revealed that HG-dampened lipophagy was responsible for LDs accumulation in microglia. Mechanistically, accumulated LDs colocalized with the microglial specific inflammatory amplifier TREM1 (triggering receptor expressed on myeloid cells 1), resulting in the buildup of microglial TREM1, which in turn aggravates HG-induced lipophagy damage and subsequently promoted HG-induced neuroinflammatory cascades via NLRP3 (NLR family pyrin domain containing 3) inflammasome. Moreover, pharmacological blockade of TREM1 with LP17 in db/db mice and HFD/STZ mice inhibited accumulation of LDs and TREM1, reduced hippocampal neuronal inflammatory damage, and consequently improved cognitive functions. Taken together, these findings uncover a previously unappreciated mechanism of impaired lipophagy-induced TREM1 accumulation in microglia and neuroinflammation in DACI, suggesting its translational potential as an attractive therapeutic target for delaying diabetes-associated cognitive decline. Abbreviations: ACTB: beta actin; AIF1/IBA1: allograft inflammatory factor 1; ALB: albumin; ARG1: arginase 1; ATG3: autophagy related 3; Baf: bafilomycin A1; BECN1: beclin 1, autophagy related; BW: body weight; CNS: central nervous system; Co-IP: co-immunoprecipitation; DACI: diabetes-associated cognitive impairment; DAPI: 4’,6-diamidino-2-phenylindole; DGs: dentate gyrus; DLG4/PSD95: discs large MAGUK scaffold protein 4; DMEM: Dulbecco’s modified Eagle’s medium; DSST: digit symbol substitution test; EDTA: ethylenedinitrilotetraacetic acid; ELISA: enzyme linked immunosorbent assay; GFAP: glial fibrillary acidic protein; HFD: high-fat diet; HG: high glucose; IFNG/IFN-γ: interferon gamma; IL1B/IL-1β: interleukin 1 beta; IL4: interleukin 4; IL6: interleukin 6; IL10: interleukin 10; LDs: lipid droplets; LPS: lipopolysaccharide; MAP2: microtubule associated protein 2; MAP1LC3B/LC3B: microtubule associated protein 1 light chain 3 beta; MWM: morris water maze; NFKB/NF-κB: nuclear factor of kappa light polypeptide gene enhancer in B cells; NLRP3: NLR family pyrin domain containing 3; NOS2/iNOS: nitric oxide synthase 2, inducible; NOR: novel object recognition; OA: oleic acid; PA: palmitic acid; PBS: phosphate-buffered saline; PFA: paraformaldehyde; PLIN2: perilipin 2; PLIN3: perilipin 3; PS: penicillin-streptomycin solution; RAPA: rapamycin; RBFOX3/NeuN: RNA binding protein, fox-1 homolog (C. elegans) 3; RELA/p65: RELA proto-oncogene, NF-kB subunit; ROS: reactive oxygen species; RT: room temperature; RT-qPCR: Reverse transcription quantitative real-time polymerase chain reaction; STZ: streptozotocin; SQSTM1/p62: sequestosome 1; SYK: spleen asociated tyrosine kinase; SYP: synaptophysin; T2DM: type 2 diabetes mellitus; TNF/TNF-α: tumor necrosis factor; TREM1: triggering receptor expressed on myeloid cells 1; TUNEL: terminal deoxynucleotidyl transferase-mediated dUTP-biotin nick end labeling;"
+  },
+  {
+    "paperId": "31326dcceda1f99774ad849716636344b215a434",
+    "externalIds": {
+      "MAG": "2026390330",
+      "DOI": "10.1007/S12467-011-0097-1",
+      "CorpusId": 84197902
+    },
+    "title": "PS14 - 72. The lipid droplet coat protein perilipin 5 also localizes to muscle mitochondria",
+    "venue": "",
+    "year": 2011,
+    "citationCount": 0,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/S12467-011-0097-1?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/S12467-011-0097-1, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "46798141",
+        "name": "M. Bosma"
+      },
+      {
+        "authorId": "5938502",
+        "name": "R. Minnaard"
+      },
+      {
+        "authorId": "32381738",
+        "name": "L. Sparks"
+      },
+      {
+        "authorId": "4412470",
+        "name": "G. Schaart"
+      },
+      {
+        "authorId": "3803966",
+        "name": "M. Losen"
+      },
+      {
+        "authorId": "5682278",
+        "name": "M. Baets"
+      },
+      {
+        "authorId": "5857246",
+        "name": "H. Duimel"
+      },
+      {
+        "authorId": "8236321",
+        "name": "S. Kersten"
+      },
+      {
+        "authorId": "6835434",
+        "name": "P. Bickel"
+      },
+      {
+        "authorId": "4277792",
+        "name": "P. Schrauwen"
+      },
+      {
+        "authorId": "50033204",
+        "name": "M. Hesselink"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "2779a446da115cd0a4701cc4994a7eafbfb76521",
+    "externalIds": {
+      "DOI": "10.1101/2024.10.29.620978",
+      "CorpusId": 273819785,
+      "PubMed": "41046517"
+    },
+    "title": "PNPLA3-I148M is a Neomorph that Interferes with Two Primary Hepatic Triglyceride Clearance Pathways",
+    "venue": "bioRxiv",
+    "year": 2024,
+    "citationCount": 1,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://www.biorxiv.org/content/biorxiv/early/2024/11/03/2024.10.29.620978.full.pdf",
+      "status": "GREEN",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1101/2024.10.29.620978?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1101/2024.10.29.620978, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2259947080",
+        "name": "David J. Sherman"
+      },
+      {
+        "authorId": "2259975817",
+        "name": "Lei Liu"
+      },
+      {
+        "authorId": "2299519880",
+        "name": "Edward L. LaGory"
+      },
+      {
+        "authorId": "2329168395",
+        "name": "Preston Fordstrom"
+      },
+      {
+        "authorId": "2120446476",
+        "name": "Danielle Pruitt"
+      },
+      {
+        "authorId": "2320632957",
+        "name": "Jose Barreda"
+      },
+      {
+        "authorId": "2259963007",
+        "name": "Jiansong Xie"
+      },
+      {
+        "authorId": "2259938903",
+        "name": "John Ferbas"
+      },
+      {
+        "authorId": "2265126106",
+        "name": "Ingrid C Rulifson"
+      },
+      {
+        "authorId": "2298254671",
+        "name": "Raymond J. Deshaies"
+      }
+    ],
+    "abstract": "A common variant of PNPLA3, encoding PNPLA3-I148M, is the most significant genetic determinant of fatty liver disease worldwide. However, it is unclear precisely how PNPLA3-I148M drives disease risk. Here, we show that endogenous human PNPLA3-I148M impairs secretion of Apolipoprotein B (ApoB), the scaffolding protein of very low-density lipoproteins (VLDLs), from hepatocytes. This is not due to a generalized secretory pathway defect, nor is it equivalent to loss of function of PNPLA3. The VLDL secretory defect is conserved in mice expressing human I148M. Untargeted lipidomics reveal that I148M human cells are enriched in polyunsaturated fatty acid (PUFA)-containing triglycerides at the expense of PUFA-containing phosphatidylcholine, causing reduced membrane dynamics, concomitantly hindering biogenesis of secreted VLDLs. ApoB secretion is substantially rescued in I148M cells that overexpress ABHD5/CGI-58, an I148M binding partner that activates lipolysis by ATGL/PNPLA2 when not bound to I148M. Conversely, knocking down CGI-58 or PNPLA2 mimics I148M. We propose that neomorphic PNPLA3-I148M exacerbates fatty liver risk by simultaneously impeding two major CGI-58-dependent pathways for liver triglyceride clearance: lipolysis and secretion."
+  },
+  {
+    "paperId": "b9bc19febfe062a716f3bb9279305d25588eb939",
+    "externalIds": {
+      "MAG": "1983006621",
+      "DOI": "10.1038/nm.2439",
+      "CorpusId": 1809805,
+      "PubMed": "21857651"
+    },
+    "title": "ATGL-mediated fat catabolism regulates cardiac mitochondrial function via PPAR-α and PGC-1",
+    "venue": "Nature Medicine",
+    "year": 2011,
+    "citationCount": 713,
+    "influentialCitationCount": 28,
+    "openAccessPdf": {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3244833",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1038/nm.2439?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1038/nm.2439, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "4187769",
+        "name": "G. Haemmerle"
+      },
+      {
+        "authorId": "6053048",
+        "name": "T. Moustafa"
+      },
+      {
+        "authorId": "2084804477",
+        "name": "G. Woelkart"
+      },
+      {
+        "authorId": "114168696",
+        "name": "S. Büttner"
+      },
+      {
+        "authorId": "47394319",
+        "name": "A. Schmidt"
+      },
+      {
+        "authorId": "28130738",
+        "name": "T. Weijer"
+      },
+      {
+        "authorId": "32002548",
+        "name": "M. Hesselink"
+      },
+      {
+        "authorId": "38261138",
+        "name": "Doris Jaeger"
+      },
+      {
+        "authorId": "3900464",
+        "name": "P. Kienesberger"
+      },
+      {
+        "authorId": "31839875",
+        "name": "Kathrin A. Zierler"
+      },
+      {
+        "authorId": "50630117",
+        "name": "R. Schreiber"
+      },
+      {
+        "authorId": "4316110",
+        "name": "Thomas O. Eichmann"
+      },
+      {
+        "authorId": "2010421",
+        "name": "D. Kolb"
+      },
+      {
+        "authorId": "10196581",
+        "name": "P. Kotzbeck"
+      },
+      {
+        "authorId": "24139769",
+        "name": "M. Schweiger"
+      },
+      {
+        "authorId": "145135308",
+        "name": "M. Kumari"
+      },
+      {
+        "authorId": "2070849624",
+        "name": "S. Eder"
+      },
+      {
+        "authorId": "6530850",
+        "name": "Gabriele Schoiswohl"
+      },
+      {
+        "authorId": "4978733",
+        "name": "Nuttaporn Wongsiriroj"
+      },
+      {
+        "authorId": "36944247",
+        "name": "N. Pollak"
+      },
+      {
+        "authorId": "4876823",
+        "name": "F. Radner"
+      },
+      {
+        "authorId": "1398263514",
+        "name": "Karina Preiss-Landl"
+      },
+      {
+        "authorId": "2522281",
+        "name": "T. Kolbe"
+      },
+      {
+        "authorId": "3642246",
+        "name": "T. Rülicke"
+      },
+      {
+        "authorId": "4247050",
+        "name": "B. Pieske"
+      },
+      {
+        "authorId": "3305300",
+        "name": "M. Trauner"
+      },
+      {
+        "authorId": "5515764",
+        "name": "A. Lass"
+      },
+      {
+        "authorId": "144533238",
+        "name": "R. Zimmermann"
+      },
+      {
+        "authorId": "4675764",
+        "name": "G. Hoefler"
+      },
+      {
+        "authorId": "5616594",
+        "name": "S. Cinti"
+      },
+      {
+        "authorId": "5558361",
+        "name": "E. Kershaw"
+      },
+      {
+        "authorId": "4277792",
+        "name": "P. Schrauwen"
+      },
+      {
+        "authorId": "7440349",
+        "name": "F. Madeo"
+      },
+      {
+        "authorId": "2412948",
+        "name": "B. Mayer"
+      },
+      {
+        "authorId": "3531249",
+        "name": "R. Zechner"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "2441112ff95877bfca1fec5861276c50daa3019c",
+    "externalIds": {
+      "PubMedCentral": "10209018",
+      "DOI": "10.1016/j.jlr.2023.100379",
+      "CorpusId": 258279179,
+      "PubMed": "37087101"
+    },
+    "title": "Recombinant PNPLA1 catalyzes the synthesis of acylceramides and acyl acids with selective incorporation of linoleic acid",
+    "venue": "Journal of Lipid Research",
+    "year": 2023,
+    "citationCount": 7,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "http://www.jlr.org/article/S0022227523000524/pdf",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10209018, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "29863175",
+        "name": "Jason M. Meyer"
+      },
+      {
+        "authorId": "50327284",
+        "name": "W. Boeglin"
+      },
+      {
+        "authorId": "83733372",
+        "name": "A. Brash"
+      }
+    ],
+    "abstract": "Loss-of-function mutations in patatin-like phospholipase domain-containing protein 1 (PNPLA1) cause autosomal recessive congenital ichthyosis, and altered PNPLA1 activity is implicated in the pathogenesis of atopic dermatitis and other common skin diseases. To examine the hypothesis that PNPLA1 catalyzes the synthesis of acylceramides and acyl acids, we expressed and partially purified a soluble, truncated form of PNPLA1 in Escherichia coli, (PNPLA1trun) along with the related protein PNPLA2 (ATGL, adipose triglyceride lipase) and coactivator CGI-58. Liposomal substrates were incubated with recombinant enzymes for 0.5–24 h and products analyzed by HPLC-UV and LC-MS. Using trilinolein or dilinolein substrates, PNPLA1trun, like ATGLtrun, catalyzed lipolysis and acyltransferase reactions with 2–30% conversion into linoleic acid, monolinolein, and trilinolein. CGI-58 enhanced ATGL-catalyzed lipolysis as previously reported, but transacylase activity was not enhanced with ATGL or PNPLA1. In matching the proposed activity in vivo, PNPLA1 catalyzed acyl transfer from trilinolein and dilinolein donors to omega-hydroxy ceramide, omega-hydroxy glucosylceramide, and omega-hydroxy acid acceptors to form acylceramide, glucosyl-acylceramide, and acyl acid, respectively, albeit with only ∼0.05% conversion of the substrates. Notably, in experiments comparing dilinolein vs. diolein acyl donors, PNPLA1 transferred linoleate with 3:1 selectivity over oleate into acylceramide. These results support the role for PNPLA1 in the synthesis of acylceramides and acyl acids in epidermis and suggest that the enrichment of these lipids with linoleic acid could result from the substrate selectivity of PNPLA1."
+  },
+  {
+    "paperId": "3fa0f8928808f86192c80dea28177cbb16f0d67f",
+    "externalIds": {
+      "DOI": "10.1016/j.tjnut.2025.03.012",
+      "CorpusId": 277039704,
+      "PubMed": "40089111"
+    },
+    "title": "Zinc-Mediated Deacetylation of FXR Activates the ATGL Pathway to Reduce Hepatic Lipid Accumulation and Enhance Lipolysis in Yellow Catfish.",
+    "venue": "Journal of NutriLife",
+    "year": 2025,
+    "citationCount": 4,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.tjnut.2025.03.012?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.tjnut.2025.03.012, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2221295996",
+        "name": "Chuangsi Chen"
+      },
+      {
+        "authorId": "2302811766",
+        "name": "Xuebo Liu"
+      },
+      {
+        "authorId": "2275533521",
+        "name": "Jiawei Wang"
+      },
+      {
+        "authorId": "2275680402",
+        "name": "Xiaobo Wen"
+      },
+      {
+        "authorId": "2275619008",
+        "name": "Huihong Zhao"
+      },
+      {
+        "authorId": "2350239433",
+        "name": "Guanghui Chen"
+      },
+      {
+        "authorId": "2281059132",
+        "name": "Kun Wu"
+      }
+    ],
+    "abstract": "BACKGROUND\nHigh-fat diets (HFD) can lead to excessive accumulation of lipids in the liver, leading to liver injury. Dietary zinc (Zn) has been shown to reduce high-fat diets-induced lipid accumulation and improve lipid profiles in mammals, yet it remains unclear whether waterborne Zn maintains its lipid-lowering effects in osteichthyes.\n\n\nOBJECTIVE\nThis study aimed to elucidate the regulatory role of Zn in high fat diet-induced hepatic lipid accumulation in yellow catfish (Pelteobagrus fulvidraco) and its potential mechanisms.\n\n\nMETHODS\nYellow catfish were fed a control diet (11.21% lipid level), high-fat diets (HFD) (16.10% lipid level), or an HFD combined with waterborne Zn exposure (0.2 mg/L) for 8 weeks. Various biochemical, genetic, histological, and molecular techniques were conducted to evaluate hepatic lipid deposition and lipid metabolism, and determine protein interactions between silent information regulator 1 (SIRT1) and farnesoid X receptor (FXR), as well as protein-gene interactions between FXR and adipose triglyceride lipase (ATGL).\n\n\nRESULTS\nHFD feeding significantly increased liver fat content and induced hepatic damage in yellow catfish, but concurrent exposure to waterborne Zn alleviated these detrimental effects. Zn treatment increased mRNA and protein levels of SIRT1 (97.19% ± 11.67% and 83.25% ± 28.60%, values are expressed as mean ± standard error of means, same below.) and FXR (163.90% ± 24.60%, 24.90% ± 11.12%) in yellow catfish liver (P < 0.05). Zn-activated FXR directly interacted with the promoter of ATGL, stimulating the expression of atgl (54.40% ± 16.33%, P < 0.05) and facilitating the hydrolysis of triglycerides and lipid droplets. Furthermore, Zn reduced the acetylation level of FXR by SIRT1 deacetylation of FXR protein K167.\n\n\nCONCLUSIONS\nThe findings revealed that Zn protect against HFD-induced liver injury in yellow catfish by promoting the deacetylation of FXR protein K167 by SIRT1 and activating FXR, thereby promoting the transcriptional activation of ATGL to increase lipolysis."
+  },
+  {
+    "paperId": "0d3c53b59afaf8155b4cbec0fa368f0e6fea0d44",
+    "externalIds": {
+      "DOI": "10.1126/sciimmunol.adp0849",
+      "CorpusId": 282373687,
+      "PubMed": "41134875"
+    },
+    "title": "Lipolysis-microlipophagy cascade regulated by adipose triglyceride lipase drives pathogenic adaptive type 2 immunity.",
+    "venue": "Science immunology",
+    "year": 2025,
+    "citationCount": 1,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1126/sciimmunol.adp0849?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1126/sciimmunol.adp0849, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2268664791",
+        "name": "Hiroyuki Yagyu"
+      },
+      {
+        "authorId": "47228016",
+        "name": "M. Kiuchi"
+      },
+      {
+        "authorId": "2268663978",
+        "name": "Atsushi Sasaki"
+      },
+      {
+        "authorId": "6435360",
+        "name": "Eisuke Itakura"
+      },
+      {
+        "authorId": "32295094",
+        "name": "Kota Kokubo"
+      },
+      {
+        "authorId": "6402691",
+        "name": "C. Iwamura"
+      },
+      {
+        "authorId": "39946858",
+        "name": "A. Onodera"
+      },
+      {
+        "authorId": "10180249",
+        "name": "A. Aoki"
+      },
+      {
+        "authorId": "2018258146",
+        "name": "Takahisa Hishiya"
+      },
+      {
+        "authorId": "46876019",
+        "name": "K. Tsuji"
+      },
+      {
+        "authorId": "2293685278",
+        "name": "Takuto Hiramoto"
+      },
+      {
+        "authorId": "2199498858",
+        "name": "Rie Shinmi"
+      },
+      {
+        "authorId": "2093527930",
+        "name": "Yurie Sonobe"
+      },
+      {
+        "authorId": "1398933660",
+        "name": "Takahiro Arano"
+      },
+      {
+        "authorId": "2297355910",
+        "name": "Kanae Ohishi"
+      },
+      {
+        "authorId": "2387655458",
+        "name": "S. Baba"
+      },
+      {
+        "authorId": "87576956",
+        "name": "Junya Kurita"
+      },
+      {
+        "authorId": "80966693",
+        "name": "Tomohisa Iinuma"
+      },
+      {
+        "authorId": "31619285",
+        "name": "S. Yonekura"
+      },
+      {
+        "authorId": "2250308338",
+        "name": "Yukio Hara"
+      },
+      {
+        "authorId": "2313904132",
+        "name": "M. Y. Kimura"
+      },
+      {
+        "authorId": "5424007",
+        "name": "S. Motohashi"
+      },
+      {
+        "authorId": "8669500",
+        "name": "D. Tumes"
+      },
+      {
+        "authorId": "2364023962",
+        "name": "Toyoyuki Hanazawa"
+      },
+      {
+        "authorId": "2297300698",
+        "name": "T. Kaneko"
+      },
+      {
+        "authorId": "2243782210",
+        "name": "Toshinori Nakayama"
+      },
+      {
+        "authorId": "2342817961",
+        "name": "Kiyoshi Hirahara"
+      }
+    ],
+    "abstract": "A unique subpopulation of memory T helper 2 (TH2) cells expressing the interleukin-33 (IL-33) receptor ST2 drives allergic disease pathogenesis. However, the immunometabolic mechanisms that induce ST2hi memory TH2 cells remain unclear. We show using a mouse model of chronic allergic airway inflammation that long-chain unsaturated fatty acids (LC-UFAs) accumulate in the inflammatory milieu during chronic airway inflammation. Activated TH2 cells take up LC-UFAs, transiently store them in lipid droplets (LDs), and catabolize LDs through lipolysis and microlipophagy. LD catabolism regulated by adipose triglyceride lipase (ATGL) activates peroxisome proliferator-activated receptor γ (PPARγ). PPARγ then binds the Il1rl1 locus encoding ST2 and induces ST2hi effector and memory TH2 cells. In eosinophilic chronic rhinosinusitis, CD45RO+ CD4 T cells in nasal polyps exhibit microlipophagy and an accessible IL1RL1 enhancer, indicating that these mechanisms are conserved in humans. Thus, the storage and catabolism of inflammatory milieu-derived LC-UFAs direct pathogenic adaptive type 2 immunity, offering potential therapeutic strategies for persistent allergic inflammation."
+  },
+  {
+    "paperId": "3b97acc61ed3114ad5805bf4531035f6ab54472c",
+    "externalIds": {
+      "PubMedCentral": "11420453",
+      "DOI": "10.1016/j.jbc.2024.107690",
+      "CorpusId": 271906228,
+      "PubMed": "39159807"
+    },
+    "title": "Iron supplementation and iron accumulation promote adipocyte thermogenesis through PGC1α-ATGL–mediated lipolysis",
+    "venue": "Journal of Biological Chemistry",
+    "year": 2024,
+    "citationCount": 8,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1016/j.jbc.2024.107690",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11420453, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "1585481580",
+        "name": "Xudong Mai"
+      },
+      {
+        "authorId": "2277152293",
+        "name": "Yifan Liu"
+      },
+      {
+        "authorId": "2316676675",
+        "name": "Jigang Fan"
+      },
+      {
+        "authorId": "2226049347",
+        "name": "Lanling Xiao"
+      },
+      {
+        "authorId": "2284121764",
+        "name": "Miaomiao Liao"
+      },
+      {
+        "authorId": "2316642025",
+        "name": "Zhipeng Huang"
+      },
+      {
+        "authorId": "2391966413",
+        "name": "Zijian Chen"
+      },
+      {
+        "authorId": "2316520468",
+        "name": "Shaojun Huang"
+      },
+      {
+        "authorId": "2375303208",
+        "name": "Rui Sun"
+      },
+      {
+        "authorId": "2318923912",
+        "name": "Xiaowan Jiang"
+      },
+      {
+        "authorId": "2129429555",
+        "name": "Liujing Huang"
+      },
+      {
+        "authorId": "2295797100",
+        "name": "Jia Sun"
+      },
+      {
+        "authorId": "46330416",
+        "name": "Liwei Xie"
+      },
+      {
+        "authorId": "2284274951",
+        "name": "Hong Chen"
+      }
+    ],
+    "abstract": "Iron homeostasis is essential for maintaining metabolic health and iron disorder has been linked to chronic metabolic diseases. Increasing thermogenic capacity in adipose tissue has been considered as a potential approach to regulate energy homeostasis. Both mitochondrial biogenesis and mitochondrial function are iron-dependent and essential for adipocyte thermogenic capacity, but the underlying relationships between iron accumulation and adipose thermogenesis is unclear. Firstly, we confirmed that iron homeostasis and the iron regulatory markers (e.g., Tfr1 and Hfe) are involved in cold-induced thermogenesis in subcutaneous adipose tissues using RNA-seq and bioinformatic analysis. Secondly, an Hfe (Hfe−/−)-deficient mouse model, in which tissues become overloaded with iron, was employed. We found iron accumulation caused by Hfe deficiency enhanced mitochondrial respiratory chain expression in subcutaneous white adipose in vivo and resulted in enhanced tissue thermogenesis with upregulation of PGC-1α and adipose triglyceride lipase, mitochondrial biogenesis and lipolysis. To investigate the thermogenic capacity in vitro, stromal vascular fraction from adipose tissues was isolated, followed with adipogenic differentiation. Primary adipocyte from Hfe−/− mice exhibited higher cellular oxygen consumption, associated with enhanced expression of mitochondrial oxidative respiratory chain protein, while primary adipocytes or stromal vascular fractions from WT mice supplemented with iron citrate) exhibited similar effect in thermogenic capacity. Taken together, these findings indicate iron supplementation and iron accumulation (Hfe deficiency) can regulate adipocyte thermogenic capacity, suggesting a potential role for iron homeostasis in adipose tissues."
+  },
+  {
+    "paperId": "5235518a94b3b475b13b74b3c4fec43247a370b8",
+    "externalIds": {
+      "MAG": "2313710871",
+      "CorpusId": 87963794
+    },
+    "title": "γand is a target for transactivation by PPAR in 3T3-L1 α is downregulated by insulin and TNF- The adipose tissue triglyceride lipase ATGL/PNPLA2",
+    "venue": "",
+    "year": 2011,
+    "citationCount": 0,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Chemistry"
+    ],
+    "authors": [
+      {
+        "authorId": "1590811406",
+        "name": "Ji Young Kim"
+      },
+      {
+        "authorId": "9749672",
+        "name": "Kristin Tillison"
+      },
+      {
+        "authorId": "2157183442",
+        "name": "Jun‐Ho Lee"
+      },
+      {
+        "authorId": "5672629",
+        "name": "D. Rearick"
+      },
+      {
+        "authorId": "5262922",
+        "name": "U. Panzenboeck"
+      },
+      {
+        "authorId": "3625859",
+        "name": "L. Kenner"
+      },
+      {
+        "authorId": "1746001",
+        "name": "Z. Trajanoski"
+      },
+      {
+        "authorId": "4675764",
+        "name": "G. Hoefler"
+      },
+      {
+        "authorId": "3091551",
+        "name": "A. Prokesch"
+      },
+      {
+        "authorId": "2128466",
+        "name": "H. Hackl"
+      },
+      {
+        "authorId": "4980559",
+        "name": "P. Voshol"
+      },
+      {
+        "authorId": "4405720",
+        "name": "Ariane Klatzer"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "00eedb314d43efb3aba7019d1f3c1826ad4ba9c7",
+    "externalIds": {
+      "DOI": "10.1016/j.metabol.2022.155331",
+      "CorpusId": 252841734,
+      "PubMed": "36228741"
+    },
+    "title": "Microsomal triglyceride transfer protein regulates intracellular lipolysis in adipocytes independent of its lipid transfer activity.",
+    "venue": "Metabolism: Clinical and Experimental",
+    "year": 2022,
+    "citationCount": 13,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://figshare.com/ndownloader/files/38792805",
+      "status": "GREEN",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.metabol.2022.155331?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.metabol.2022.155331, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "37815018",
+        "name": "Sujith Rajan"
+      },
+      {
+        "authorId": "1405299138",
+        "name": "Peter Hofer"
+      },
+      {
+        "authorId": "150008786",
+        "name": "A. Christiano"
+      },
+      {
+        "authorId": "47428554",
+        "name": "M. Stevenson"
+      },
+      {
+        "authorId": "4133768",
+        "name": "L. Ragolia"
+      },
+      {
+        "authorId": "1422308655",
+        "name": "Eugenia Villa-Cuesta"
+      },
+      {
+        "authorId": "4178449",
+        "name": "S. Fried"
+      },
+      {
+        "authorId": "50208818",
+        "name": "Raymond G. Lau"
+      },
+      {
+        "authorId": "2149799216",
+        "name": "Collin Braithwaite"
+      },
+      {
+        "authorId": "3531249",
+        "name": "R. Zechner"
+      },
+      {
+        "authorId": "5114313",
+        "name": "G. Schwartz"
+      },
+      {
+        "authorId": "50661597",
+        "name": "M. Hussain"
+      }
+    ],
+    "abstract": "BACKGROUND\nThe triglyceride (TG) transfer activity of microsomal triglyceride transfer protein (MTP) is essential for lipoprotein assembly in the liver and intestine; however, its function in adipose tissue, which does not assemble lipoproteins, is unknown. Here we have elucidated the function of MTP in adipocytes.\n\n\nAPPROACH AND RESULTS\nWe demonstrated that MTP is present on lipid droplets in human adipocytes. Adipose-specific MTP deficient (A-Mttp-/-) male and female mice fed an obesogenic diet gained less weight than Mttpf/f mice, had less fat mass, smaller adipocytes and were insulin sensitive. A-Mttp-/- mice showed higher energy expenditure than Mttpf/f mice. During a cold challenge, A-Mttp-/- mice maintained higher body temperature by mobilizing more fatty acids. Biochemical studies indicated that MTP deficiency de-repressed adipose triglyceride lipase (ATGL) activity and increased TG lipolysis. Both wild type MTP and mutant MTP deficient in TG transfer activity interacted with and inhibited ATGL activity. Thus, the TG transfer activity of MTP is not required for ATGL inhibition. C-terminally truncated ATGL that retains its lipase activity interacted less efficiently than full-length ATGL.\n\n\nCONCLUSION\nOur findings demonstrate that adipose-specific MTP deficiency increases ATGL-mediated TG lipolysis and enhances energy expenditure, thereby resisting diet-induced obesity. We speculate that the regulatory function of MTP involving protein-protein interactions might have evolved before the acquisition of TG transfer activity in vertebrates. Adipose-specific inhibition of MTP-ATGL interactions may ameliorate obesity while avoiding the adverse effects associated with inhibition of the lipid transfer activity of MTP."
+  },
+  {
+    "paperId": "6f9d1e7bff97673a1caccd6de0931dcf371eb2f6",
+    "externalIds": {
+      "PubMedCentral": "9818421",
+      "DOI": "10.3390/cells12010073",
+      "CorpusId": 255206762,
+      "PubMed": "36611868"
+    },
+    "title": "PNPLA3(I148M) Inhibits Lipolysis by Perilipin-5-Dependent Competition with ATGL",
+    "venue": "Cells",
+    "year": 2022,
+    "citationCount": 8,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://www.mdpi.com/2073-4409/12/1/73/pdf?version=1672887477",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9818421, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "46956790",
+        "name": "H. Witzel"
+      },
+      {
+        "authorId": "1395287442",
+        "name": "I. Schwittai"
+      },
+      {
+        "authorId": "1403344911",
+        "name": "N. Hartmann"
+      },
+      {
+        "authorId": "47522374",
+        "name": "S. Mueller"
+      },
+      {
+        "authorId": "5792776",
+        "name": "J. Schattenberg"
+      },
+      {
+        "authorId": "15243257",
+        "name": "Xue-Min Gong"
+      },
+      {
+        "authorId": "5087573",
+        "name": "J. Backs"
+      },
+      {
+        "authorId": "2150716014",
+        "name": "P. Schirmacher"
+      },
+      {
+        "authorId": "4475073",
+        "name": "D. Schuppan"
+      },
+      {
+        "authorId": "1402035590",
+        "name": "W. Roth"
+      },
+      {
+        "authorId": "4340192",
+        "name": "B. Straub"
+      }
+    ],
+    "abstract": "The single nucleotide polymorphism I148M of the lipase patatin-like phospholipase domain containing 3 (PNPLA3) is associated with an unfavorable prognosis in alcoholic and non-alcoholic steatohepatitis (ASH, NASH), with progression to liver cirrhosis and development of hepatocellular carcinoma. In this study, we investigated the mechanistic interaction of PNPLA3 with lipid droplet (LD)-associated proteins of the perilipin family, which serve as gatekeepers for LD degradation. In a collective of 106 NASH, ASH and control liver samples, immunohistochemical analyses revealed increased ballooning, inflammation and fibrosis, as well as an accumulation of PNPLA3–perilipin 5 complexes on larger LDs in patients homo- and heterozygous for PNPLA3(I148M). Co-immunoprecipitation demonstrated an interaction of PNPLA3 with perilipin 5 and the key enzyme of lipolysis, adipose triglyceride lipase (ATGL). Localization studies in cell cultures and human liver showed colocalization of perilipin 5, ATGL and PNPLA3. Moreover, the lipolytic activity of ATGL was negatively regulated by PNPLA3 and perilipin 5, whereas perilipin 1 displaced PNPLA3 from the ATGL complex. Furthermore, ballooned hepatocytes, the hallmark of steatohepatitis, were positive for PNPLA3 and perilipins 2 and 5, but showed decreased perilipin 1 expression with respect to neighboured hepatocytes. In summary, PNPLA3- and ATGL-driven lipolysis is significantly regulated by perilipin 1 and 5 in steatohepatitis."
+  },
+  {
+    "paperId": "542e0950edcaa87ce34442526c0b8539152adc50",
+    "externalIds": {
+      "PubMedCentral": "8899412",
+      "DOI": "10.1016/j.isci.2022.103941",
+      "CorpusId": 246956222,
+      "PubMed": "35265813"
+    },
+    "title": "Adipose triglyceride lipase mediates lipolysis and lipid mobilization in response to iron-mediated negative energy balance",
+    "venue": "iScience",
+    "year": 2022,
+    "citationCount": 11,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8899412",
+      "status": "GREEN",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8899412, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2125660748",
+        "name": "A. Romero"
+      },
+      {
+        "authorId": "89502023",
+        "name": "Andre Mu"
+      },
+      {
+        "authorId": "2135082060",
+        "name": "Jane Ayres"
+      }
+    ],
+    "abstract": "Summary Maintenance of energy balance is essential for overall organismal health. Mammals have evolved complex regulatory mechanisms that control energy intake and expenditure. Traditionally, studies have focused on understanding the role of macronutrient physiology in energy balance. In the present study, we examined the role of the essential micronutrient iron in regulating energy balance. We found that a short course of dietary iron caused a negative energy balance resulting in a severe whole body wasting phenotype. This disruption in energy balance was because of impaired intestinal nutrient absorption. In response to dietary iron-induced negative energy balance, adipose triglyceride lipase (ATGL) was necessary for wasting of subcutaneous white adipose tissue and lipid mobilization. Fat-specific ATGL deficiency protected mice from fat wasting, but caused a severe cachectic response in mice when fed iron. Our work reveals a mechanism for micronutrient control of lipolysis that is necessary for regulating mammalian energy balance."
+  },
+  {
+    "paperId": "f1918261c1719cfa44ffb497e80657894f57e99c",
+    "externalIds": {
+      "PubMedCentral": "10958042",
+      "DOI": "10.1038/s41467-024-46937-x",
+      "CorpusId": 258688370,
+      "PubMed": "38514628"
+    },
+    "title": "Mutational scanning pinpoints distinct binding sites of key ATGL regulators in lipolysis",
+    "venue": "bioRxiv",
+    "year": 2023,
+    "citationCount": 16,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "https://www.nature.com/articles/s41467-024-46937-x.pdf",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10958042, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "2123114535",
+        "name": "Johanna M. Kohlmayr"
+      },
+      {
+        "authorId": "27971117",
+        "name": "G. Grabner"
+      },
+      {
+        "authorId": "2217266043",
+        "name": "Anna Nusser"
+      },
+      {
+        "authorId": "2207668218",
+        "name": "Anna Höll"
+      },
+      {
+        "authorId": "1983164",
+        "name": "B. Halwachs"
+      },
+      {
+        "authorId": "2047699776",
+        "name": "Evelyne Jany-Luig"
+      },
+      {
+        "authorId": "2217276582",
+        "name": "Hanna Engelke"
+      },
+      {
+        "authorId": "144533238",
+        "name": "R. Zimmermann"
+      },
+      {
+        "authorId": "2878524",
+        "name": "U. Stelzl"
+      }
+    ],
+    "abstract": "ATGL is the key enzyme in intracellular lipolysis playing a critical role in metabolic and cardiovascular diseases. ATGL is tightly regulated through a known set of protein-protein interaction partners with activating or inhibiting functions in control of lipolysis. However, the binding mode and protein interaction sites of ATGL and its partners are unknown. Using deep mutational protein interaction perturbation scanning we generated comprehensive profiles of single amino acid variants effecting the interactions of ATGL with its regulatory partners: CGI-58, G0S2, PLIN1, PLIN5 and CIDEC. Twenty-three ATGL variants gave a specific interaction perturbation pattern when validated in co-immunoprecipitation experiments in mammalian cells. We identified and characterized eleven, highly selective ATGL “switch” mutations which affect the interaction of one of the five partners without affecting the others. Switch mutations thus provided distinct interaction determinants for ATGL’s key regulatory proteins at an amino acid resolution. When tested for triglyceride hydrolase activity in vitro and lipolysis in cells, the activity patterns of the ATGL switch variants traced to their protein interaction profile. In the context of structural data, the integration of variant binding and activity profiles provided important insights into lipolysis regulation and the impact of mutations in human disease."
+  },
+  {
+    "paperId": "0e51320f0743fe24bc3403552b9dbe7514c2bcfb",
+    "externalIds": {
+      "MAG": "2804937140",
+      "PubMedCentral": "5953401",
+      "DOI": "10.1186/s12943-018-0838-5",
+      "CorpusId": 21697095,
+      "PubMed": "29764424"
+    },
+    "title": "Long non-coding RNA NEAT1-modulated abnormal lipolysis via ATGL drives hepatocellular carcinoma proliferation",
+    "venue": "Molecular Cancer",
+    "year": 2018,
+    "citationCount": 217,
+    "influentialCitationCount": 10,
+    "openAccessPdf": {
+      "url": "https://molecular-cancer.biomedcentral.com/track/pdf/10.1186/s12943-018-0838-5",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5953401, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2108701321",
+        "name": "Xirui Liu"
+      },
+      {
+        "authorId": "7668630",
+        "name": "Ying-jian Liang"
+      },
+      {
+        "authorId": "37373687",
+        "name": "Rui-peng Song"
+      },
+      {
+        "authorId": "2188972",
+        "name": "Guangchao Yang"
+      },
+      {
+        "authorId": "4881382",
+        "name": "Jihua Han"
+      },
+      {
+        "authorId": "9750353",
+        "name": "Yaliang Lan"
+      },
+      {
+        "authorId": "8011565",
+        "name": "Shangha Pan"
+      },
+      {
+        "authorId": "49716470",
+        "name": "Mingxi Zhu"
+      },
+      {
+        "authorId": "2108923740",
+        "name": "Yao Liu"
+      },
+      {
+        "authorId": "2152540509",
+        "name": "Yan Wang"
+      },
+      {
+        "authorId": "47923275",
+        "name": "F. Meng"
+      },
+      {
+        "authorId": "50355366",
+        "name": "Yifeng Cui"
+      },
+      {
+        "authorId": "48093602",
+        "name": "Jiabei Wang"
+      },
+      {
+        "authorId": "2156622236",
+        "name": "Bo Zhang"
+      },
+      {
+        "authorId": "49195989",
+        "name": "Xuan Song"
+      },
+      {
+        "authorId": "121552855",
+        "name": "Zhaoyang Lu"
+      },
+      {
+        "authorId": "7726533",
+        "name": "T. Zheng"
+      },
+      {
+        "authorId": "46458492",
+        "name": "Lianxin Liu"
+      }
+    ],
+    "abstract": "BackgroundAbnormal metabolism, including abnormal lipid metabolism, is a hallmark of cancer cells. Some studies have demonstrated that the lipogenic pathway might promote the development of hepatocellular carcinoma (HCC). However, the role of the lipolytic pathway in HCC has not been elucidated.MethodsWe compared levels of adipose triglyceride lipase (ATGL) in human HCC and healthy liver tissues by real time PCR, western blot and immunohistochemistry. We measured diacylglycerol(DAG) and free fatty acid (FFA) levels in HCC cells driven by the NEAT1-ATGL axis and in HCC tissues. We also assessed the effects of ATGL, DAG, FFA, and NEAT1 on HCC cells proliferation in vitro and in an orthotopic xenograft HCC mouse model. We also performed a luciferase reporter assay to investigate the interaction between NEAT1/ATGL and miR-124-3p.ResultsWe found that the lipolytic enzyme, ATGL is highly expressed in human HCC tissues and predicts poor prognosis. We also found that high levels of DAG and FFA are present in HCC tissues. Furthermore, the lncRNA-NEAT1 was found to modulate ATGL expression and disrupt lipolysis in HCC cells via ATGL. Notably, ATGL and its products, DAG and FFA, were shown to be responsible for NEAT1-mediated HCC cell growth. NEAT1 regulated ATGL expression by binding miR-124-3p. Additionally, NEAT1 knockdown attenuated HCC cell growth through miR-124-3p/ATGL/DAG+FFA/PPARα signaling.ConclusionOur results reveal that NEAT1-modulates abnormal lipolysis via ATGL to drive HCC proliferation."
+  },
+  {
+    "paperId": "6e6db9bf5df7021b9f04c7f312107beacc92abb1",
+    "externalIds": {
+      "DOI": "10.1021/acs.jafc.0c07342",
+      "CorpusId": 231586925,
+      "PubMed": "33433211"
+    },
+    "title": "Lauric Triglyceride Ameliorates High-Fat-Diet-Induced Obesity in Rats by Reducing Lipogenesis and Increasing Lipolysis and β-Oxidation.",
+    "venue": "Journal of Agricultural and Food Chemistry",
+    "year": 2021,
+    "citationCount": 43,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1021/acs.jafc.0c07342?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1021/acs.jafc.0c07342, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "14972674",
+        "name": "Jiaheng Xia"
+      },
+      {
+        "authorId": "123385364",
+        "name": "Ping Yu"
+      },
+      {
+        "authorId": "30489615",
+        "name": "Zheling Zeng"
+      },
+      {
+        "authorId": "21291088",
+        "name": "Maomao Ma"
+      },
+      {
+        "authorId": "49288601",
+        "name": "Guohua Zhang"
+      },
+      {
+        "authorId": "2004491250",
+        "name": "Dongman Wan"
+      },
+      {
+        "authorId": "1747987",
+        "name": "D. Gong"
+      },
+      {
+        "authorId": "2830238",
+        "name": "S. Deng"
+      },
+      {
+        "authorId": "145575958",
+        "name": "Jun Wang"
+      }
+    ],
+    "abstract": "Medium-chain triglycerides (MCTs) are found in limited foods. In these medium-chain oil resources, the abundance of lauric acid (LA) is the highest among medium-chain fatty acids (MCFAs), and its effects on lipid metabolism in obese rats have not been well-studied. This study aimed to determine the anti-obesity effects and mechanisms of lauric triglyceride (LT) in Sprague Dawley (SD) rats. LA and glycerin were used to synthesize LT, then LT was used to treat obese rats for 12 weeks. The results showed that LT significantly reduced the body weight, body mass index, and Lee's index in obese rats. The mRNA expression levels of the anorexic neuropeptide POMC in the hypothalamus between the LT group and the other groups were not different, while the gene expression levels of the orexigenic neuropeptides NPY and AGRP decreased significantly in the LT group. Except serum cholesterol, LT improved the serum triglyceride metabolism in the obese rats and reduced adipocyte and hepatic lipid deposition. Moreover, LT inhibited the expression of lipogenesis-related genes and proteins (SREBP-1c, ACC1, and FASN) and increased the expression of lipolysis (ATGL, HSL, and LPL) and β-oxidation (PPARα, CPT-1a, and PCG-1α) related genes and proteins in the white fat and liver. Furthermore, LT increased the mRNA expression of mitochondrial-biosynthesis-related genes (SIRT1, NRF1, and TFAM) in the liver. The results indicated that LT ameliorates diet-induced obesity in rats."
+  },
+  {
+    "paperId": "151523076fcb75a9881a2217685cf3a7a81f6aec",
+    "externalIds": {
+      "MAG": "2014154105",
+      "DOI": "10.1074/jbc.M109.068478",
+      "CorpusId": 28079639,
+      "PubMed": "19850935"
+    },
+    "title": "Perilipin Controls Lipolysis by Regulating the Interactions of AB-hydrolase Containing 5 (Abhd5) and Adipose Triglyceride Lipase (Atgl)*",
+    "venue": "Journal of Biological Chemistry",
+    "year": 2009,
+    "citationCount": 372,
+    "influentialCitationCount": 27,
+    "openAccessPdf": {
+      "url": "http://www.jbc.org/article/S0021925820375761/pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1074/jbc.M109.068478?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1074/jbc.M109.068478, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "3526038",
+        "name": "J. Granneman"
+      },
+      {
+        "authorId": "69410304",
+        "name": "H. Moore"
+      },
+      {
+        "authorId": "153504018",
+        "name": "R. Krishnamoorthy"
+      },
+      {
+        "authorId": "2340047",
+        "name": "M. Rathod"
+      }
+    ],
+    "abstract": "The mobilization of stored lipid by hormones is a fundamental function of fat cells, and there is strong evidence that perilipin (Plin), a lipid droplet scaffold, and adipose tissue triglyceride lipase (Atgl), a triglyceride-specific lipase, play critical roles. Previous work suggested that Abhd5, a protein activator of Atgl, coordinates with Plin in controlling basal and stimulated lipolysis; however, the underlying mechanism is controversial. The present experiments investigated protein trafficking and interactions among Plin, Atgl, and Abhd5 in live cells. The results demonstrate that Plin binds Abhd5 with high affinity and thereby suppresses the interaction of Abhd5 with Atgl. Sequestration of Abhd5 appears to a major mechanism by which Plin reduces basal lipolysis. Phosphorylation of Plin on serine 492 or serine 517 rapidly releases Abhd5 from Plin, allowing Abhd5 to directly interact with Atgl. Imaging experiments demonstrated that the Plin-dependent interaction of Abhd5 and Atgl occurs mainly, but not exclusively, on lipid droplets that contain Plin."
+  },
+  {
+    "paperId": "66554ccd5ab7cdbdfe37a8c6c85b54e3ee9b2b1c",
+    "externalIds": {
+      "MAG": "3110341767",
+      "DOI": "10.1016/j.metabol.2020.154459",
+      "CorpusId": 227525614,
+      "PubMed": "33279499"
+    },
+    "title": "Prolyl isomerase Pin1 interacts with adipose triglyceride lipase and negatively controls both its expression and lipolysis.",
+    "venue": "Metabolism: Clinical and Experimental",
+    "year": 2020,
+    "citationCount": 12,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.metabol.2020.154459?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.metabol.2020.154459, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Chemistry"
+    ],
+    "authors": [
+      {
+        "authorId": "2001847",
+        "name": "Yusuke Nakatsu"
+      },
+      {
+        "authorId": "5635481",
+        "name": "Takeshi Yamamotoya"
+      },
+      {
+        "authorId": "2032392214",
+        "name": "Mizuki Okumura"
+      },
+      {
+        "authorId": "2032491090",
+        "name": "Tetsuhiro Ishii"
+      },
+      {
+        "authorId": "28992456",
+        "name": "Mayu Kanamoto"
+      },
+      {
+        "authorId": "35188362",
+        "name": "M. Naito"
+      },
+      {
+        "authorId": "88605155",
+        "name": "M. Nakanishi"
+      },
+      {
+        "authorId": "2032530090",
+        "name": "Shunya Aoyama"
+      },
+      {
+        "authorId": "6054517",
+        "name": "Y. Matsunaga"
+      },
+      {
+        "authorId": "5193771",
+        "name": "A. Kushiyama"
+      },
+      {
+        "authorId": "5725547",
+        "name": "H. Sakoda"
+      },
+      {
+        "authorId": "3640895",
+        "name": "M. Fujishiro"
+      },
+      {
+        "authorId": "4650033",
+        "name": "Hiraku Ono"
+      },
+      {
+        "authorId": "1928077",
+        "name": "T. Asano"
+      }
+    ],
+    "abstract": "BACKGROUND\nLipolysis is essential for the supply of nutrients during fasting, the control of body weight, and remodeling of white adipose tissues and thermogenesis. In the obese state, lipolysis activity and the expression of adipose triglyceride lipase (ATGL), a rate-limiting enzyme, is suppressed. However, the mechanism underlying the regulation of ATGL remains largely unknown. We previously reported that a high-fat diet obviously increases protein levels of the prolyl isomerase, Pin1, in epididymal white adipose tissue (epiWAT) of mice and that Pin1 KO mice are resistant to developing obesity.\n\n\nRESULTS\nThe present study found that deletion of the Pin1 gene in epiWAT upregulated lipolysis and increased ATGL protein expression by ~2-fold. In addition, it was demonstrated that Pin1 directly associated with ATGL and enhanced its degradation through the ubiquitin proteasome system. Indeed, Pin1 overexpression decreased ATGL expression levels, whereas Pin1 knockdown by siRNA treatment upregulated ATGL protein levels without altering mRNA levels. Moreover, under a high fat diet (HFD)-fed condition, adipocyte-specific Pin1 KO (adipoPin1 KO) mice had 2-fold increase lipolytic activity and upregulated β-oxidation-related gene expressions. These mice also gained less body weight, and had better glucose metabolism according to the results of glucose and insulin tolerance tests.\n\n\nCONCLUSION\nTaken together, these results showed that Pin1 directly interacted with and degraded ATGL via a ubiquitin-proteasome system, consequently causing the downregulation of lipolysis. Therefore, Pin1 could be considered a target for the treatment of dyslipidemia and related disorders."
+  },
+  {
+    "paperId": "05c6011bc399e831d9005e42e0a29b70aeba5de1",
+    "externalIds": {
+      "MAG": "2188363399",
+      "CorpusId": 85944726
+    },
+    "title": "FoxO1ControlsInsulin-dependent Adipose Triglyceride Lipase (ATGL) Expression and Lipolysis",
+    "venue": "",
+    "year": 2009,
+    "citationCount": 0,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Chemistry"
+    ],
+    "authors": [
+      {
+        "authorId": "49063150",
+        "name": "P. Chakrabarti"
+      },
+      {
+        "authorId": "3762566",
+        "name": "K. Kandror"
+      }
+    ],
+    "abstract": null
   }
 ]
