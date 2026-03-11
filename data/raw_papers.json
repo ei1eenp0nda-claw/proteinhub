@@ -33841,5 +33841,693 @@
       }
     ],
     "abstract": null
+  },
+  {
+    "paperId": "cb3f6606d0848fd25b11ae6820f1a7412498fb95",
+    "externalIds": {
+      "CorpusId": 29354388
+    },
+    "title": "LOSS OF MAP KINASE PHOSPHATASE-1 PROTECTS FROM HEPATIC STEATOSIS BY REPRESSION OF CIDEC / FAT-SPECIFIC PROTEIN 27",
+    "venue": "",
+    "year": 2011,
+    "citationCount": 1,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": null,
+    "authors": [
+      {
+        "authorId": "4109704",
+        "name": "R. Flach"
+      },
+      {
+        "authorId": "2152827660",
+        "name": "Lei Zhang"
+      },
+      {
+        "authorId": "1490436304",
+        "name": "H. Qin"
+      },
+      {
+        "authorId": "5690245",
+        "name": "A. Bennett"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "3bad4f7342ee89d3ad22cf22155e2512f62d3df1",
+    "externalIds": {
+      "MAG": "2428141877",
+      "CorpusId": 45006885,
+      "PubMed": "24229606"
+    },
+    "title": "[Research advances on CIDEC in insulin resistance].",
+    "venue": "Zhongguo dang dai er ke za zhi = Chinese journal of contemporary pediatrics",
+    "year": 2013,
+    "citationCount": 0,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "15321924",
+        "name": "Xinrui Tan"
+      },
+      {
+        "authorId": "11633209",
+        "name": "Yan-feng Xiao"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "ba04eee8e152862c8cf52a57ced20617ee6bb2e9",
+    "externalIds": {
+      "MAG": "3016444275",
+      "DOI": "10.1194/jlr.ILR120000808",
+      "CorpusId": 215792790,
+      "PubMed": "32295827"
+    },
+    "title": "Dispersed lipid droplets: an intermediate site for lipid transport and metabolism in primary human adipocytes",
+    "venue": "Journal of Lipid Research",
+    "year": 2020,
+    "citationCount": 1,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "http://www.jlr.org/article/S0022227520434820/pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1194/jlr.ILR120000808?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1194/jlr.ILR120000808, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "47530275",
+        "name": "Björn Morén"
+      },
+      {
+        "authorId": "5867973",
+        "name": "Karin G. Stenkula"
+      }
+    ],
+    "abstract": "Mature, primary adipocytes contain a central lipid droplet, which accounts for most of the cellular volume (>95%). As recently reported (1), primary adipocytes also hold small lipid droplets scattered throughout the cytosol, which rarely have been recognized due to technical limitations in performing image acquisition and analysis of these cells. Mitochondria connect to lipid droplets in tissues with high fatty acid storage and oxidative capacity (2), where they play an important role for energy transfer. This image illustrates mitochondria (white) organized in close vicinity to small lipid droplets (green), on the background of the large central lipid droplet (red), dispersed at the cell sur- face in a human primary adipocyte. An inverted grayscale image of each channel is provided to clearly illustrate the appearance and organization of both lipid droplets and mitochondria. We have confirmed this phenotype in both isolated adipocytes and intact adipose tissue using electron microscopy. We hypothesize that these small droplets serve as an intermediate stage in lipid transfer to and from the large central lipid droplet, and therefore significantly contribute to adipocyte metabolism. In support of this, we have detected the lipid transport protein CIDEC to be located to the droplets. Also, the fact that the small lipid droplets are spatially organized together with mitochondria supports that they are interconnected with energy metabolism. Primary adipocytes were isolated from subcutaneous human adipose tissue removed during reconstructive surgery. After washing in Krebs-Ringer Bicarbonate HEPES (KRBH) buffer containing 1% albumin, cells were incubated with MitoTracker for 30 min at 37°C. Next, cells were fixed with 4% paraformaldehyde in KRBH without albumin and stained with Bodipy. Cells were imaged on a Nikon A1+ confocal using 60× magnification objective, NA 1.40, and imaged as described (3) using Mattek glass bottom dishes. Because the smallest droplets are difficult to visualize due to optical effects of the central lipid droplet, a limited z-stack was acquired using 8× averaging and a very limited pinhole size. Projections were made using Fiji."
+  },
+  {
+    "paperId": "c90cdb025cf962daa129afebae7ffaf52e86a560",
+    "externalIds": {
+      "MAG": "3017083559",
+      "DOI": "10.1096/fasebj.2020.34.s1.05450",
+      "CorpusId": 218790761
+    },
+    "title": "Protein Binding to Lipid Droplets with Altered Ratios of Surface Phospholipids",
+    "venue": "The FASEB Journal",
+    "year": 2020,
+    "citationCount": 0,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1096/fasebj.2020.34.s1.05450",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1096/fasebj.2020.34.s1.05450?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1096/fasebj.2020.34.s1.05450, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Chemistry"
+    ],
+    "authors": [
+      {
+        "authorId": "2260738619",
+        "name": "Olivia Paetz"
+      },
+      {
+        "authorId": "1711669194",
+        "name": "Timothy J. Renier"
+      },
+      {
+        "authorId": "1711633425",
+        "name": "Sunny Vuong"
+      },
+      {
+        "authorId": "50381531",
+        "name": "Laura L. Listenberger"
+      }
+    ],
+    "abstract": "Alcoholic Fatty Liver Disease (AFLD) is characterized by an increase in lipid droplets in the liver after acute ingestion of alcohol. Previous experiments with a rat model of AFLD show hepatic lipid droplets contain altered levels of the predominant classes of phospholipids. Specifically, hepatic lipid droplets from AFLD rats were found with lower amounts of phosphatidylcholine (PC) relative to phosphatidylethanolamine (PE). Our experiments aim to determine if the altered phospholipid composition of AFLD lipid droplets causes differences in the numbers or types of lipid droplet‐associated proteins. We selected proteins based on their membrane binding motifs and roles in lipid droplet homeostasis. AML12 cells cultured in choline‐deficient media simulate the altered phospholipid composition of AFLD lipid droplets. We isolated lipid droplets from AML12 cells cultured with and without choline and examined proteins of interest by SDS‐PAGE and western blotting. We found equivalent levels of rab18 and lanosterol synthase in lipid droplet fractions from cells grown with and without choline. Alternatively, perilipin 1, perilipin 2, and CIDE‐C are predominantly found in lipid droplet fractions from cells grown without choline (with lower ratios of PC:PE). The proteins that are most influenced by lipid droplet surface composition are all predicted to associate with lipid droplets through amphipathic alpha helices. By evaluating how altered phospholipid monolayer composition affects the binding of lipid droplet proteins, we seek to further elucidate the biochemical pathways that contribute to AFLD."
+  },
+  {
+    "paperId": "6cfe5865b030c254df94729a00b2d272d8425a7a",
+    "externalIds": {
+      "MAG": "2002758999",
+      "DOI": "10.1016/j.metabol.2008.04.028",
+      "CorpusId": 5389975,
+      "PubMed": "18702959"
+    },
+    "title": "Cell death-inducing DFF45-like effector C is reduced by caloric restriction and regulates adipocyte lipid metabolism.",
+    "venue": "Metabolism: Clinical and Experimental",
+    "year": 2008,
+    "citationCount": 58,
+    "influentialCitationCount": 3,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.metabol.2008.04.028?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.metabol.2008.04.028, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "40401770",
+        "name": "B. Magnusson"
+      },
+      {
+        "authorId": "2247098301",
+        "name": "Anders Gummesson"
+      },
+      {
+        "authorId": "4106357",
+        "name": "C. Glad"
+      },
+      {
+        "authorId": "1947616",
+        "name": "J. Goedecke"
+      },
+      {
+        "authorId": "4166322",
+        "name": "M. Jernås"
+      },
+      {
+        "authorId": "48744625",
+        "name": "T. Lystig"
+      },
+      {
+        "authorId": "49724686",
+        "name": "B. Carlsson"
+      },
+      {
+        "authorId": "48797207",
+        "name": "B. Fagerberg"
+      },
+      {
+        "authorId": "1767954",
+        "name": "L. Carlsson"
+      },
+      {
+        "authorId": "38816586",
+        "name": "P. Svensson"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "d6285e66383a31722c63776d11574d083698c65b",
+    "externalIds": {
+      "PubMedCentral": "8870369",
+      "DOI": "10.3390/cells11040720",
+      "CorpusId": 247037131,
+      "PubMed": "35203369"
+    },
+    "title": "Selective PPARα Modulator Pemafibrate and Sodium-Glucose Cotransporter 2 Inhibitor Tofogliflozin Combination Treatment Improved Histopathology in Experimental Mice Model of Non-Alcoholic Steatohepatitis",
+    "venue": "Cells",
+    "year": 2022,
+    "citationCount": 24,
+    "influentialCitationCount": 4,
+    "openAccessPdf": {
+      "url": "https://www.mdpi.com/2073-4409/11/4/720/pdf?version=1645168182",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8870369, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "47359050",
+        "name": "K. Murakami"
+      },
+      {
+        "authorId": "49857208",
+        "name": "Yusuke Sasaki"
+      },
+      {
+        "authorId": "13794919",
+        "name": "Masato Asahiyama"
+      },
+      {
+        "authorId": "2151333",
+        "name": "Wataru Yano"
+      },
+      {
+        "authorId": "9472832",
+        "name": "T. Takizawa"
+      },
+      {
+        "authorId": "14547813",
+        "name": "Wakana Kamiya"
+      },
+      {
+        "authorId": "4767759",
+        "name": "Y. Matsumura"
+      },
+      {
+        "authorId": "3954484",
+        "name": "M. Anai"
+      },
+      {
+        "authorId": "5535507",
+        "name": "T. Osawa"
+      },
+      {
+        "authorId": "144073196",
+        "name": "J. Fruchart"
+      },
+      {
+        "authorId": "1402421482",
+        "name": "J. Fruchart‐Najib"
+      },
+      {
+        "authorId": "9434374",
+        "name": "H. Aburatani"
+      },
+      {
+        "authorId": "46545469",
+        "name": "J. Sakai"
+      },
+      {
+        "authorId": "1826096",
+        "name": "T. Kodama"
+      },
+      {
+        "authorId": "2116798235",
+        "name": "Toshiya Tanaka"
+      }
+    ],
+    "abstract": "Ballooning degeneration of hepatocytes is a major distinguishing histological feature of non-alcoholic steatosis (NASH) progression that can lead to cirrhosis and hepatocellular carcinoma (HCC). In this study, we evaluated the effect of the selective PPARα modulator (SPPARMα) pemafibrate (Pema) and sodium-glucose cotransporter 2 (SGLT2) inhibitor tofogliflozin (Tofo) combination treatment on pathological progression in the liver of a mouse model of NASH (STAM) at two time points (onset of NASH progression and HCC survival). At both time points, the Pema and Tofo combination treatment significantly alleviated hyperglycemia and hypertriglyceridemia. The combination treatment significantly reduced ballooning degeneration of hepatocytes. RNA-seq analysis suggested that Pema and Tofo combination treatment resulted in an increase in glyceroneogenesis, triglyceride (TG) uptake, lipolysis and liberated fatty acids re-esterification into TG, lipid droplet (LD) formation, and Cidea/Cidec ratio along with an increased number and reduced size and area of LDs. In addition, combination treatment reduced expression levels of endoplasmic reticulum stress-related genes (Ire1a, Grp78, Xbp1, and Phlda3). Pema and Tofo treatment significantly improved survival rates and reduced the number of tumors in the liver compared to the NASH control group. These results suggest that SPPARMα and SGLT2 inhibitor combination therapy has therapeutic potential to prevent NASH-HCC progression."
+  },
+  {
+    "paperId": "259cd37969bba88c67cb0c7cb4bd4a7ca813c8b4",
+    "externalIds": {
+      "MAG": "2024103922",
+      "DOI": "10.1194/jlr.M031591",
+      "CorpusId": 21476517,
+      "PubMed": "23515281"
+    },
+    "title": "A novel JNK2/SREBP-1c pathway involved in insulin-induced fatty acid synthesis in human adipocytes",
+    "venue": "Journal of Lipid Research",
+    "year": 2013,
+    "citationCount": 37,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "http://www.jlr.org/content/54/6/1531.full.pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1194/jlr.M031591?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1194/jlr.M031591, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2108814056",
+        "name": "Minoru Ito"
+      },
+      {
+        "authorId": "6474172",
+        "name": "Michiaki Nagasawa"
+      },
+      {
+        "authorId": "8243727",
+        "name": "Naoki Omae"
+      },
+      {
+        "authorId": "8309128",
+        "name": "Masaki Tsunoda"
+      },
+      {
+        "authorId": "91230058",
+        "name": "J. Ishiyama"
+      },
+      {
+        "authorId": "4874181",
+        "name": "T. Ide"
+      },
+      {
+        "authorId": "40612684",
+        "name": "Yunike Akasaka"
+      },
+      {
+        "authorId": "153358443",
+        "name": "K. Murakami"
+      }
+    ],
+    "abstract": "Insulin plays important roles in apoptosis and lipid droplet (LD) formation, and it is one of the determinants involved in increasing fat mass. However, the mechanisms underlying insulin-induced enlargement of fat mass remain unclear. Our previous study suggested that insulin-induced increases in LDs are related to c-Jun N-terminal kinase (JNK)2-mediated upregulation of cell death-inducing DNA fragmentation factor-α-like effector (CIDE)C in human adipocytes. However, other genes involved in insulin/JNK2-induced LD formation are unknown. Here, we explored insulin/JNK2-regulated genes to clarify the mechanism of enlargement of LDs. Microarray analysis revealed that an insulin/JNK2 pathway mostly regulates expression of genes involved in lipid metabolism, including sterol regulatory element binding protein (SREBP)-1, a key transcription factor of lipogenesis. The JNK inhibitor SP600125 blocked insulin-induced upregulation of SREBP-1c expression. Small interfering RNA-mediated depletion of JNK2 suppressed insulin-induced nuclear accumulation of the active form of SREBP-1 protein and upregulation of SREBP-1c. Furthermore, depletion of JNK2 attenuated insulin-induced upregulation of SREBP-1c target lipogenic enzymes, leading to reduced de novo fatty acid synthesis. In addition, JNK2 coimmunoprecipitated with SREBP-1, reinforcing the correlation between JNK2 and SREBP-1. These results suggest that SREBP-1c is a novel insulin/JNK2-regulated gene and that the JNK2/SREBP-1c pathway mediates insulin-induced fatty acid synthesis, which may lead to enlargement of LDs in human adipocytes."
+  },
+  {
+    "paperId": "923d17e6b92dd882a4bfed3e92679f2b2b7639c2",
+    "externalIds": {
+      "DOI": "10.1016/j.ejphar.2021.174679",
+      "CorpusId": 245640912,
+      "PubMed": "34982965"
+    },
+    "title": "Berbamine reduces body weight via suppression of small GTPase Rab8a activity and activation of paraventricular hypothalamic neurons in obese mice.",
+    "venue": "European Journal of Pharmacology",
+    "year": 2022,
+    "citationCount": 9,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.ejphar.2021.174679?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.ejphar.2021.174679, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "145667510",
+        "name": "Liufang Yin"
+      },
+      {
+        "authorId": "2108878454",
+        "name": "Lijun Zhang"
+      },
+      {
+        "authorId": "2093225275",
+        "name": "Lingling Luo"
+      },
+      {
+        "authorId": "51288201",
+        "name": "Yalei Liu"
+      },
+      {
+        "authorId": "2148954688",
+        "name": "Fei Wang"
+      },
+      {
+        "authorId": "11722992",
+        "name": "Yaru Feng"
+      },
+      {
+        "authorId": "2109602912",
+        "name": "Hongqing Wang"
+      },
+      {
+        "authorId": "8361693",
+        "name": "Yongli Han"
+      },
+      {
+        "authorId": "2152642923",
+        "name": "Yingxuan Yan"
+      },
+      {
+        "authorId": "143836365",
+        "name": "Cheng Huang"
+      },
+      {
+        "authorId": "3621347",
+        "name": "Shengjie Fan"
+      }
+    ],
+    "abstract": "Small GTPase Rab8a is involved in fat-specific protein 27 (Fsp27) mediated lipid droplet accumulation in adipocytes. By screening inhibitors of Rab8a GTPase from a natural compound library, berbamine (BBM), a marketing drug for treatment of leukopenia in China, was identified to inhibit the activity of Rab8a GTPase and block the differentiation of 3T3-L1 adipocytes. Animal study showed that BBM could reduce body weight, improved glucose and lipid metabolic homeostasis in high-fat diet-induced obesity (DIO) C57BL/6 mice and db/db mice. Additional, BBM increased energy expenditure and inhibited food intake in mice but not in lean mice. Moreover, intracerebroventricular injection (i.c.v.) of BBM inhibited feeding behavior and increased c-Fos expression in paraventricular nucleus of the hypothalamus (PVH) of mice. Our data suggest that BBM may improve obesity through the inhibition of Rab8a GTPase activity and the activation of anorexigenic energy-sensing neuron in PVH."
+  },
+  {
+    "paperId": "12b8707f21dab06b10e9704b019986dab01bf4e0",
+    "externalIds": {
+      "MAG": "2379591160",
+      "CorpusId": 73625110
+    },
+    "title": "The role of cell-death-inducing DNA-fragmentation-factor-like effector (CIDE) family in TG metabolism",
+    "venue": "",
+    "year": 2010,
+    "citationCount": 1,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "fieldsOfStudy": [
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "2101045075",
+        "name": "Xiang Shu-xia"
+      },
+      {
+        "authorId": "73413787",
+        "name": "Pan Zhi-xiong"
+      },
+      {
+        "authorId": "2106773112",
+        "name": "L. Liang"
+      },
+      {
+        "authorId": "11147755",
+        "name": "Wang Jiwen"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "37c386012eb33818e426ca42fe55ded16eb76af7",
+    "externalIds": {
+      "MAG": "2061310231",
+      "DOI": "10.1248/BPB.33.346",
+      "CorpusId": 42470497,
+      "PubMed": "20190390"
+    },
+    "title": "A physiological role for fat specific protein 27/cell death-inducing DFF45-like effector C in adipose and liver.",
+    "venue": "Biological and Pharmaceutical Bulletin",
+    "year": 2010,
+    "citationCount": 43,
+    "influentialCitationCount": 2,
+    "openAccessPdf": {
+      "url": "https://www.jstage.jst.go.jp/article/bpb/33/3/33_3_346/_pdf",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1248/BPB.33.346?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1248/BPB.33.346, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "7143281",
+        "name": "K. Matsusue"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "41f27bcede60e1f8987abe87db0b195e8017b64b",
+    "externalIds": {
+      "MAG": "2740839503",
+      "DOI": "10.1099/jgv.0.000813",
+      "CorpusId": 6255530,
+      "PubMed": "28745269"
+    },
+    "title": "Hepatitis B virus prevents excessive viral production via reduction of cell death-inducing DFF45-like effectors.",
+    "venue": "Journal of General Virology",
+    "year": 2017,
+    "citationCount": 13,
+    "influentialCitationCount": 3,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1099/jgv.0.000813",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1099/jgv.0.000813?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1099/jgv.0.000813, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "11686568",
+        "name": "J. Yasumoto"
+      },
+      {
+        "authorId": "4146511",
+        "name": "Hirotake Kasai"
+      },
+      {
+        "authorId": "1882120",
+        "name": "K. Yoshimura"
+      },
+      {
+        "authorId": "11766848",
+        "name": "Teruhime Otoguro"
+      },
+      {
+        "authorId": "4966395",
+        "name": "Koichi Watashi"
+      },
+      {
+        "authorId": "3117297",
+        "name": "T. Wakita"
+      },
+      {
+        "authorId": "14627190",
+        "name": "A. Yamashita"
+      },
+      {
+        "authorId": "2116799150",
+        "name": "Tomohisa Tanaka"
+      },
+      {
+        "authorId": "5895580",
+        "name": "S. Takeda"
+      },
+      {
+        "authorId": "4222837",
+        "name": "K. Moriishi"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "af28d1b3d0eaf282787ebb07d754da5d78ad86fb",
+    "externalIds": {
+      "MAG": "3090558236",
+      "DOI": "10.1002/mnfr.202000771",
+      "CorpusId": 222165450,
+      "PubMed": "32997872"
+    },
+    "title": "CREBH: a Complex Array of Regulatory Mechanisms in Nutritional Signalling, Metabolic Inflammation and Metabolic Disease.",
+    "venue": "Molecular Nutrition & Food Research",
+    "year": 2020,
+    "citationCount": 26,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mnfr.202000771",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/mnfr.202000771?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/mnfr.202000771, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2076135344",
+        "name": "H. Wade"
+      },
+      {
+        "authorId": "33983501",
+        "name": "Kaichao Pan"
+      },
+      {
+        "authorId": "4681051",
+        "name": "Q. Su"
+      }
+    ],
+    "abstract": "The ER-resident basic leucine zipper (bZIP) transcription factor c-AMP responsive element binding protein H (CREBH/CREB3L3) is exclusively expressed in the liver and intestine. Physiologically, CREBH is intrinsically linked to nutritional homeostasis via its regulation on fatty acid β-oxidation, lipid droplet process, very low-density lipoprotein metabolism, gluconeogenesis, and iron metabolism. Pathologically, CREBH enhances hepatic acute-phase response gene expression (e.g., C-reactive protein and serum amyloid P-component) and mediates nutrient-surplus induced metabolic inflammation. Hyperactivation of CREBH in metabolic inflammation further contributes to the development of hyperlipidemia, lipotoxicity, non-alcoholic fatty liver disease, and potentially non-alcoholic steatohepatitis. This review highlights recent findings that delineate the interactions between CREBH and PPARα, FGF21, FSP27 and lipoprotein metabolism with a focus on the molecular and biochemical mechanisms that underlie the development of metabolic inflammation, non-alcoholic fatty liver disease and inflammatory associated bone disease. This article is protected by copyright. All rights reserved."
+  },
+  {
+    "paperId": "60554b2bf036570090493af4fa72b1783a23a0b0",
+    "externalIds": {
+      "PubMedCentral": "10554645",
+      "DOI": "10.1210/jendso/bvad114.031",
+      "CorpusId": 263700116
+    },
+    "title": "FRI020 Adipocyte Subpopulations Regulate Growth Hormone-induced Lipolysis And Insulin Resistance",
+    "venue": "Journal of the Endocrine Society",
+    "year": 2023,
+    "citationCount": 0,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1210/jendso/bvad114.031",
+      "status": "GOLD",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10554645, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": null,
+    "authors": [
+      {
+        "authorId": "2254970245",
+        "name": "Sohana Siyar"
+      },
+      {
+        "authorId": "2256226575",
+        "name": "Jun Huang"
+      },
+      {
+        "authorId": "2255765951",
+        "name": "Rita Sharma"
+      },
+      {
+        "authorId": "10230419",
+        "name": "J. Kopchick"
+      },
+      {
+        "authorId": "2254970517",
+        "name": "Vishwajeet Puri"
+      },
+      {
+        "authorId": "2210739409",
+        "name": "Kevin Y Lee"
+      }
+    ],
+    "abstract": "Abstract Disclosure: S. Siyar: None. J. Huang: None. R. Sharma: None. J.J. Kopchick: None. V. Puri: None. K.Y. Lee: None. Growth Hormone (GH) administration has long been known to increase lipolysis in adipose tissue leading to increased circulating free fatty acid levels and insulin resistance. Previous studies from our lab have found that this effect is mediated, at least in part, through transcriptional repression of the lipid droplet associated protein Fat specific protein (FSP27 also known as CIDEC). Furthermore, recent studies suggest that within a single adipose tissue depot there are different subpopulations of adipocytes. We have identified three distinct subpopulations of adipocytes with unique gene expression profiles and metabolic activities. We have found that one of these subpopulations of adipocytes, termed Type 2 adipocytes, are highly responsive to GH stimulation. In order to assess the physiological role of GH-mediated lipolysis mediated by this subpopulation, we specifically expressed human FSP27 (hFSP27) in Type 2 adipocytes (Type2Ad-hFSP27tg mice). Type2AdhFSP27tg mice had reduced systemic plasma glycerol release after acute GH treatment, and improvement in acute, but not chronic, GH-induced glucose intolerance. These mice exhibited an 45% increase in fat mass and significant increase in adipocyte cell size further indicating a decreased lipolytic response to GH. This decreased lipolytic response was associated with improved hepatic insulin signaling and insulin-induced gene expression in Type2Ad-hFSP27tg mice. Taken together, these results indicate that specifically targeting a subpopulation of adipocytes is sufficient to reduce GH-induced lipolysis and insulin resistance and may provide a platform for improved medical therapies for growth and endocrine disorders. Presentation: Friday, June 16, 2023"
+  },
+  {
+    "paperId": "6b32b7212b166cb4377f16695b7001de60ea72a2",
+    "externalIds": {
+      "MAG": "2401791988",
+      "DOI": "10.1016/j.bbrc.2016.05.079",
+      "CorpusId": 24702663,
+      "PubMed": "27207838"
+    },
+    "title": "Molecular cloning, genomic organization, chromosome mapping, tissues expression pattern and identification of a novel splicing variant of porcine CIDEb gene.",
+    "venue": "Biochemical and Biophysical Research Communications - BBRC",
+    "year": 2016,
+    "citationCount": 3,
+    "influentialCitationCount": 0,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.bbrc.2016.05.079?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.bbrc.2016.05.079, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "2144433791",
+        "name": "Yanhua Li"
+      },
+      {
+        "authorId": "40374885",
+        "name": "Aihua Li"
+      },
+      {
+        "authorId": "121937600",
+        "name": "Zaiqing Yang"
+      }
+    ],
+    "abstract": null
   }
 ]
