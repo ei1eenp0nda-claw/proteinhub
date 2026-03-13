@@ -224,44 +224,65 @@ class MultimodalFusionRecommender:
         
     def _multi_channel_recall(self, profile: UserInterestProfile, 
                              n_candidates: int = 100) -> List[int]:
-        """多路召回策略"""
-        candidates = set()
+        """多路召回策略 - 确保多样性，让各模态都能发挥作用"""
+        candidates = []
         
-        # 通道1：基于用户感兴趣蛋白的PPI邻居
+        # 通道1：基于PPI网络的召回 (30%)
+        ppi_candidates = []
         top_proteins = profile.get_top_proteins(k=5)
         for protein, weight in top_proteins:
-            # 找PPI邻居
             neighbors = self.ppi_graph.get(protein, [])
-            for neighbor_protein, ppi_score in neighbors[:3]:  # 取Top3邻居
-                # 找包含邻居蛋白的笔记
+            for neighbor_protein, ppi_score in neighbors[:5]:
                 for note_id, features in self.note_features.items():
                     if neighbor_protein in features['proteins']:
-                        candidates.add(note_id)
-                        if len(candidates) >= n_candidates // 3:
-                            break
-                            
-        # 通道2：基于标签匹配
+                        ppi_candidates.append(note_id)
+                        break
+        candidates.extend(random.sample(ppi_candidates, min(len(ppi_candidates), 30)) if len(ppi_candidates) > 30 else ppi_candidates)
+        
+        # 通道2：基于内容标签的召回 (40%)
+        content_candidates = []
         top_tags = profile.get_top_tags(k=5)
         for tag, weight in top_tags:
             for note_id, features in self.note_features.items():
-                if tag in features['tags']:
-                    candidates.add(note_id)
-                    if len(candidates) >= n_candidates * 2 // 3:
+                if tag in features['tags'] and note_id not in content_candidates:
+                    content_candidates.append(note_id)
+                    if len(content_candidates) >= 40:
                         break
-                        
-        # 通道3：热门补充
-        if len(candidates) < n_candidates:
-            popular_notes = sorted(
-                self.note_features.items(),
-                key=lambda x: x[1]['stats'][0],  # 按点赞数排序
-                reverse=True
-            )
-            for note_id, _ in popular_notes:
-                candidates.add(note_id)
-                if len(candidates) >= n_candidates:
-                    break
-                    
-        return list(candidates)
+        candidates.extend(content_candidates)
+        
+        # 通道3：基于行为的协同过滤召回 (20%)
+        behavior_candidates = []
+        similar_users = self._find_similar_users(profile.user_id, k=10)
+        for other_user_id, similarity in similar_users:
+            if similarity > 0.3:  # 只取高相似度用户
+                other_profile = self.user_profiles.get(other_user_id)
+                if other_profile:
+                    for note_id in other_profile.liked_notes:
+                        if note_id not in behavior_candidates:
+                            behavior_candidates.append(note_id)
+                    for note_id in other_profile.favorited_notes:
+                        if note_id not in behavior_candidates:
+                            behavior_candidates.append(note_id)
+        candidates.extend(behavior_candidates[:20])
+        
+        # 通道4：热门补充 + 随机探索 (10%)
+        all_note_ids = list(self.note_features.keys())
+        popular_notes = sorted(
+            all_note_ids,
+            key=lambda x: self.note_features[x]['stats'][0],  # 按点赞数
+            reverse=True
+        )
+        # 混合热门和随机
+        popular_sample = popular_notes[:10]
+        random_sample = random.sample(all_note_ids, min(5, len(all_note_ids)))
+        exploration_candidates = list(set(popular_sample + random_sample))
+        candidates.extend(exploration_candidates)
+        
+        # 去重并打乱顺序
+        unique_candidates = list(set(candidates))
+        random.shuffle(unique_candidates)
+        
+        return unique_candidates[:n_candidates]
         
     def _multimodal_score(self, profile: UserInterestProfile, 
                          note_id: int) -> Tuple[float, Dict]:
@@ -308,33 +329,48 @@ class MultimodalFusionRecommender:
         
     def _compute_graph_match_score(self, profile: UserInterestProfile,
                                    note_feature: Dict) -> float:
-        """图表征匹配得分（用户兴趣蛋白 vs 笔记蛋白的PPI关系）"""
+        """图表征匹配得分（用户兴趣蛋白 vs 笔记蛋白的PPI关系）- 修复版"""
         user_proteins = set(profile.interested_proteins)
         note_proteins = set(note_feature['proteins'])
         
         if not user_proteins or not note_proteins:
             return 0.0
             
-        # 直接PPI匹配
-        direct_matches = 0
-        ppi_scores = []
+        # 计算三种匹配关系
+        direct_matches = []  # 用户蛋白直接出现在笔记中
+        ppi_neighbors = []   # 用户蛋白与笔记蛋白有PPI关系
+        no_relation = 0      # 无关系
         
         for user_protein in user_proteins:
-            for note_protein in note_proteins:
-                if user_protein == note_protein:
-                    direct_matches += 1
-                    ppi_scores.append(1.0)
-                else:
-                    # 检查PPI关系
-                    neighbors = self.ppi_graph.get(user_protein, [])
-                    for neighbor, score in neighbors:
-                        if neighbor == note_protein:
-                            ppi_scores.append(score)
-                            break
-                            
-        if ppi_scores:
-            return np.mean(ppi_scores) * min(len(ppi_scores) / 3, 1.0)
-        return 0.0
+            if user_protein in note_proteins:
+                # 直接匹配：权重最高
+                weight = profile.protein_weights.get(user_protein, 1.0)
+                direct_matches.append(min(weight / 5.0, 1.0))  # 归一化
+            else:
+                # 检查PPI关系
+                neighbors = self.ppi_graph.get(user_protein, [])
+                found_relation = False
+                for neighbor, score in neighbors:
+                    if neighbor in note_proteins:
+                        # PPI邻居：权重 = PPI得分 * 用户兴趣权重
+                        user_weight = profile.protein_weights.get(user_protein, 1.0)
+                        combined_score = score * min(user_weight / 5.0, 1.0)
+                        ppi_neighbors.append(combined_score)
+                        found_relation = True
+                        break
+                if not found_relation:
+                    no_relation += 1
+                    
+        # 综合得分：直接匹配 > PPI邻居 > 无关系
+        if direct_matches:
+            # 有直接匹配：高分
+            return 0.8 + 0.2 * np.mean(direct_matches)
+        elif ppi_neighbors:
+            # 只有PPI邻居：中等分数 (0.3-0.7)
+            return 0.3 + 0.4 * np.mean(ppi_neighbors)
+        else:
+            # 无关系：低分
+            return 0.0
         
     def _compute_content_match_score(self, profile: UserInterestProfile,
                                     note_feature: Dict) -> float:
@@ -361,26 +397,36 @@ class MultimodalFusionRecommender:
         
     def _compute_behavior_match_score(self, profile: UserInterestProfile,
                                      note_id: int) -> float:
-        """行为匹配得分（协同过滤）"""
+        """行为匹配得分（协同过滤）- 修复版"""
         # 找到与当前用户相似的用户
-        similar_users = self._find_similar_users(profile.user_id, k=5)
+        similar_users = self._find_similar_users(profile.user_id, k=10)
         
         if not similar_users:
             return 0.0
             
         # 看相似用户是否喜欢这个笔记
-        score = 0.0
+        total_score = 0.0
+        total_weight = 0.0
+        
         for other_user_id, similarity in similar_users:
+            if similarity <= 0:
+                continue
             other_profile = self.user_profiles.get(other_user_id)
             if other_profile:
-                if note_id in other_profile.liked_notes:
-                    score += 2.0 * similarity
-                elif note_id in other_profile.favorited_notes:
-                    score += 3.0 * similarity
+                if note_id in other_profile.favorited_notes:
+                    total_score += 3.0 * similarity
+                    total_weight += similarity
+                elif note_id in other_profile.liked_notes:
+                    total_score += 2.0 * similarity
+                    total_weight += similarity
                 elif note_id in other_profile.read_notes:
-                    score += 0.5 * similarity
+                    total_score += 0.5 * similarity
+                    total_weight += similarity * 0.5
                     
-        return min(score / 5.0, 1.0)  # 归一化
+        if total_weight > 0:
+            normalized_score = min(total_score / (total_weight * 2), 1.0)
+            return normalized_score
+        return 0.0
         
     def _find_similar_users(self, user_id: int, k: int = 5) -> List[Tuple[int, float]]:
         """找到与指定用户兴趣相似的其他用户"""
