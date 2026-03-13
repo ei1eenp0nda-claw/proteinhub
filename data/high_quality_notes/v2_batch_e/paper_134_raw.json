@@ -1,0 +1,34 @@
+{
+  "paperId": "ae54e7ddc2fe75c02a9edfd02015024484912fbf",
+  "externalIds": {
+    "PubMedCentral": "11791920",
+    "DOI": "10.1016/j.livres.2023.11.006",
+    "CorpusId": 265550225,
+    "PubMed": "39958775"
+  },
+  "title": "Dietary pattern and hepatic lipid metabolism",
+  "venue": "Liver Research",
+  "year": 2023,
+  "citationCount": 17,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.livres.2023.11.006",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11791920, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "authors": [
+    {
+      "authorId": "2378320878",
+      "name": "Peng Zou"
+    },
+    {
+      "authorId": "2269127243",
+      "name": "Lin Wang"
+    }
+  ],
+  "abstract": "The liver is the leading site for lipid metabolism, involving not only fatty acid beta-oxidation but also de novo synthesis of endogenous triglycerides and ketogenesis. The liver maintains systemic lipid homeostasis by regulating lipid synthesis, catabolism, and transportation. Dysregulation of hepatic lipid metabolism precipitates disorders, such as non-alcoholic fatty liver disease (NAFLD), affecting the whole body. Thus, comprehending and studying hepatic lipid metabolism is crucial for preventing and treating metabolic liver diseases. Traditionally, researchers have investigated the impact of a single nutrient on hepatic lipid metabolism. However, real-life dietary patterns encompass diverse nutrients rather than single components. In recent years, there have been increased studies and notable progress regarding the effects of distinct dietary patterns on hepatic lipid metabolism. This review summarizes the influence of diverse dietary patterns on hepatic lipid metabolism, elucidating underlying molecular mechanisms and appraising the therapeutic potential of dietary patterns in managing hepatic steatosis."
+}

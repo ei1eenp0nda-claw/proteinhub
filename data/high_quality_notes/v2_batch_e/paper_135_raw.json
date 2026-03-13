@@ -1,0 +1,66 @@
+{
+  "paperId": "ccf1248eacaf51caad481cd4a992d2d779dae797",
+  "externalIds": {
+    "PubMedCentral": "11791924",
+    "DOI": "10.1016/j.livres.2023.05.003",
+    "CorpusId": 259063015,
+    "PubMed": "39958949"
+  },
+  "title": "Glucokinase activator improves glucose tolerance and induces hepatic lipid accumulation in mice with diet-induced obesity",
+  "venue": "Liver Research",
+  "year": 2023,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.livres.2023.05.003",
+    "status": "CLOSED",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11791924, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "authors": [
+    {
+      "authorId": "73948025",
+      "name": "Cai Nan"
+    },
+    {
+      "authorId": "13472842",
+      "name": "Xuanrong Chen"
+    },
+    {
+      "authorId": "2218844252",
+      "name": "Jia Liu"
+    },
+    {
+      "authorId": "2026033842",
+      "name": "Z. Wen"
+    },
+    {
+      "authorId": "2075385458",
+      "name": "Siying Wen"
+    },
+    {
+      "authorId": "153025959",
+      "name": "Wen Zeng"
+    },
+    {
+      "authorId": "1737814238",
+      "name": "Shuo Lin"
+    },
+    {
+      "authorId": "2145263649",
+      "name": "Yanming Chen"
+    },
+    {
+      "authorId": "2146869963",
+      "name": "Guojun Shi"
+    },
+    {
+      "authorId": "7287347",
+      "name": "L. Zeng"
+    }
+  ],
+  "abstract": "Background and aims Type 2 diabetes mellitus remains a substantial medical problem with increasing global prevalence. Pharmacological research is becoming increasingly focused on personalized treatment strategies. Drug development based on glucokinase (GK) activation is an important strategy for lowering blood glucose. This study aimed to investigate the effect of GK activation on glucose and lipid metabolism in diet-induced obese mice. Materials and methods Mice were fed with a high-fat diet (HFD) for 16 weeks to induce obesity, followed by a GK activator (GKA, AZD1656) or vehicle treatment by gavage for 4 weeks. The effect of GKA treatment on glucose metabolism was evaluated using glucose and insulin tolerance tests. Hepatic lipid accumulation was assessed by hematoxylin and eosin staining, Oil Red O staining, and transmission electron microscopy. The underlying mechanism of GK activation in glucose and lipid metabolism in the liver was studied using transcriptomic analysis, with a mechanistic study in mouse livers in vivo and AML12 cells in vitro. Results GK activation by GKA treatment improved glucose tolerance in HFD-fed mice while increasing hepatic lipid accumulation. Transcriptomic analysis of liver tissues indicated the lipogenesis and protein kinase RNA-like endoplasmic reticulum kinase (PERK)-unfolded protein response (UPR) pathway activations in GKA-treated HFD-fed mice. Inhibition of the ACC activity, which is an important protein in lipogenesis, attenuated GKA treatment-induced lipid accumulation and PERK-UPR activation in vitro. Conclusions GK activation improved glucose tolerance and insulin sensitivity while inducing hepatic lipid accumulation by increasing the lipogenic gene expression, which subsequently activated the hepatic PERK-UPR signaling pathway."
+}

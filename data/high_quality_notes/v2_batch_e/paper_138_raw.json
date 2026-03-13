@@ -1,0 +1,90 @@
+{
+  "paperId": "2922877388a22b1d1f66a7489e153c3a61bda296",
+  "externalIds": {
+    "PubMedCentral": "11849619",
+    "DOI": "10.1016/j.jlr.2025.100744",
+    "CorpusId": 275533870,
+    "PubMed": "39814317"
+  },
+  "title": "Physiological accumulation of lipid droplets in the newborn liver during breastfeeding is driven by TLR4 ligands",
+  "venue": "Journal of Lipid Research",
+  "year": 2025,
+  "citationCount": 2,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11849619, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "authors": [
+    {
+      "authorId": "2293909850",
+      "name": "Wanderson Ferreira da Silva J\u00fanior"
+    },
+    {
+      "authorId": "1824923501",
+      "name": "Karen Marques de Oliveira Costa"
+    },
+    {
+      "authorId": "2131736990",
+      "name": "Hort\u00eancia Maciel Castro Oliveira"
+    },
+    {
+      "authorId": "65836161",
+      "name": "M. Antunes"
+    },
+    {
+      "authorId": "30450483",
+      "name": "Kassiana Mafra"
+    },
+    {
+      "authorId": "4487937",
+      "name": "Brenda N. Nakagaki"
+    },
+    {
+      "authorId": "2340126445",
+      "name": "Pedro S\u00e9rgio Corradi da Silva"
+    },
+    {
+      "authorId": "2220885906",
+      "name": "J\u00falia Duarte Megale"
+    },
+    {
+      "authorId": "2128569889",
+      "name": "Sarah Campos de Sales"
+    },
+    {
+      "authorId": "11816353",
+      "name": "D. C. Caixeta"
+    },
+    {
+      "authorId": "2341436686",
+      "name": "M\u00e1rio Machado Martins"
+    },
+    {
+      "authorId": "1401807321",
+      "name": "R. Sabino-Silva"
+    },
+    {
+      "authorId": "34424190",
+      "name": "Cristina Maria Pinto de Paula"
+    },
+    {
+      "authorId": "2282921293",
+      "name": "Luiz Ricardo Goulart"
+    },
+    {
+      "authorId": "2126441",
+      "name": "R. Rezende"
+    },
+    {
+      "authorId": "2274548929",
+      "name": "G. B. Menezes"
+    }
+  ],
+  "abstract": "The liver plays a central role in fat storage, but little is known about physiological fat accumulation during early development. Here we investigated a transient surge in hepatic lipid droplets observed in newborn mice immediately after birth. We developed a novel model to quantify liver fat content without tissue processing. Using high-resolution microscopy assessed the spatial distribution of lipid droplets within hepatocytes. Lugol's iodine staining determined the timing weaning period, and milk deprivation experiments investigated the relationship between milk intake and fat accumulation. Lipidomic analysis revealed changes in the metabolic profile of the developing liver. Finally, we investigated the role of Toll-like receptor 4 (TLR4) signaling in fat storage using knockout mice and cell-specific deletion strategies. Newborn mice displayed a dramatic accumulation of hepatic lipid droplets within the first 12 h after birth, persisting for the initial two weeks of life. This pattern coincided with exclusive milk feeding and completely abated by the third week, aligning with weaning. Importantly, the observed fat accumulation shared characteristics with established models of pathological steatosis, suggesting potential biological relevance. Lipid droplets were primarily localized within the cytoplasm of hepatocytes. Milk deprivation experiments demonstrated that milk intake is the primary driver of this transient fat accumulation. Lipidomic analysis revealed significant changes in the metabolic profile of newborn livers compared to adults. Interestingly, several highly abundant lipids in newborns were identified as putative ligands for TLR4. Subsequent studies using TLR4-deficient mice and cell-specific deletion revealed that TLR4 signaling, particularly within hepatocytes, plays a critical role in driving fat storage within the newborn liver. Additionally, a potential collaboration between metabolic and immune systems was suggested by the observed effects of myeloid cell-specific TLR4 ablation. This study demonstrates a unique phenomenon of transient hepatic fat accumulation in newborn mice driven by milk intake and potentially regulated by TLR4 signaling, particularly within hepatocytes."
+}

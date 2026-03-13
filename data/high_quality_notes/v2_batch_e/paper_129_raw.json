@@ -1,0 +1,42 @@
+{
+  "paperId": "f72a292f402193e1c287d9f270607a2e2756c8b7",
+  "externalIds": {
+    "PubMedCentral": "11388789",
+    "DOI": "10.1016/j.jlr.2024.100599",
+    "CorpusId": 271324706,
+    "PubMed": "39032559"
+  },
+  "title": "Spatial lipidomics reveals zone-specific hepatic lipid alteration and remodeling in metabolic dysfunction-associated steatohepatitis",
+  "venue": "Journal of Lipid Research",
+  "year": 2024,
+  "citationCount": 18,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://boris.unibe.ch/199125/1/1-s2.0-S0022227524001044-main.pdf",
+    "status": "GREEN",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11388789, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "authors": [
+    {
+      "authorId": "21484885",
+      "name": "P. Seubnooch"
+    },
+    {
+      "authorId": "2303875297",
+      "name": "Matteo Montani"
+    },
+    {
+      "authorId": "2290059712",
+      "name": "Jean-Fran\u00e7ois Dufour"
+    },
+    {
+      "authorId": "5359774",
+      "name": "M. Masoodi"
+    }
+  ],
+  "abstract": "Alteration in lipid metabolism plays a pivotal role in developing metabolic dysfunction-associated steatohepatitis (MASH). However, our understanding of alteration in lipid metabolism across liver zonation in MASH remains limited. Within this study, we investigated MASH-associated zone-specific lipid metabolism in a diet and chemical-induced MASH mouse model. Spatial lipidomics using mass spectrometry imaging in a MASH mouse model revealed 130 lipids from various classes altered across liver zonation and exhibited zone-specific lipid signatures in MASH. Triacylglycerols, diacylglycerols, sphingolipids and ceramides showed distinct zone-specific changes and re-distribution from pericentral to periportal localization in MASH. Saturated and monounsaturated fatty acids (FA) were the primary FA composition of increased lipids in MASH, while polyunsaturated FAs were the major FA composition of decreased lipids. We observed elevated fibrosis in the periportal region, which could be the result of observed metabolic alteration across zonation. Our study provides valuable insights into zone-specific hepatic lipid metabolism and demonstrates the significance of spatial lipidomics in understanding liver lipid metabolism. Identifying unique lipid distribution patterns may offer valuable insights into the pathophysiology of MASH and facilitate the discovery of diagnostic markers associated with liver zonation."
+}

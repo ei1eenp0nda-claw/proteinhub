@@ -1,0 +1,49 @@
+{
+  "paperId": "0e53028bf5d467046db5a1318879a5c24b97ce7e",
+  "externalIds": {
+    "DOI": "10.1152/ajpgi.00208.2025",
+    "CorpusId": 281884267,
+    "PubMed": "41051952"
+  },
+  "title": "Hepatic protein kinase Cbeta antagonizing p38MAPK to activate ERK1/2 to dysregulate biliary lipid composition upon lithogenic stress.",
+  "venue": "American Journal of Physiology - Gastrointestinal and Liver Physiology",
+  "year": 2025,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1152/ajpgi.00208.2025?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1152/ajpgi.00208.2025, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "authors": [
+    {
+      "authorId": "2295309568",
+      "name": "Yaoling Shu"
+    },
+    {
+      "authorId": "2257242537",
+      "name": "A. Rai"
+    },
+    {
+      "authorId": "3675127",
+      "name": "G. Sizemore"
+    },
+    {
+      "authorId": "2366107852",
+      "name": "Michael C Ostrowski"
+    },
+    {
+      "authorId": "2358028949",
+      "name": "Wei Huang"
+    },
+    {
+      "authorId": "2250529382",
+      "name": "Kamal D Mehta"
+    }
+  ],
+  "abstract": "Lithogenic diet exposure disrupts biliary lipid homeostasis to promote precipitation of excess biliary cholesterol; however, the underlying pathogenic signaling mechanism remains unclear. Protein kinase Cbeta (PKC\u03b2) is involved in regulating hepatic cholesterol and bile acid metabolism. In this study, we aimed to identify the initiating signaling and biological changes in the liver upon loss of hepatic PKC\u03b2 function under lithogenic stress. Transcriptome analysis of the liver revealed that hepatic deletion of PKC\u03b2 altered the expression of 183 liver genes, 118 of which were upregulated, and 65 were downregulated. We identified marked increases in the expression of genes involved in bile acid biosynthesis (Cyp7a1 and Cyp8b1) and a decrease in retinol metabolism (Cyp26b1) as the most relevant changes, with blunted expression of genes involved in bile acid and phosphatidylcholine transporters. Mechanistic studies revealed that the hepatic PKC\u03b2 deficiency was associated with reduced ERK1/2 phosphorylation in concert with increased p38MAPK phosphorylation in the liver. Overexpression of PKC\u03b2 in the liver blocked p38MAPK activation as well as resulted in increased ERK1/2 phosphorylation and was accompanied by suppression of both Cyp7a1 and Cyp8b1 expression, demonstrating that hepatic PKC\u03b2 functions as a positive regulator of ERK1/2 to suppress expression of both genes by antagonizing p38MAPK. Furthermore, depletion of liver p38MAPK in PKC\u03b2Hep-/- mice resulted in enhanced ERK1/2 phosphorylation and suppression of Cyp7a1 and Cyp8b1 expression. The findings yielded by this study support our understanding of the intricate interplay among PKC\u03b2, p38MAPK, and ERK1/2 signaling in vivo, and provide valuable insights into potential therapeutic targets for the development of novel strategies to combat cholelithiasis."
+}

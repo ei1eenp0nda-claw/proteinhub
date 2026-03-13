@@ -1,0 +1,78 @@
+{
+  "paperId": "e896cbf881b987c342cd38fbdcf85ce3574eeccc",
+  "externalIds": {
+    "PubMedCentral": "12743511",
+    "DOI": "10.1016/j.jlr.2025.100943",
+    "CorpusId": 283049613,
+    "PubMed": "41238190"
+  },
+  "title": "HSD17\u03b211 regulates PLIN5-ATGL mediated lipolysis, but not hepatic lipid metabolism in mice",
+  "venue": "Journal of Lipid Research",
+  "year": 2025,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12743511, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "authors": [
+    {
+      "authorId": "67022216",
+      "name": "Stacey N. Keenan"
+    },
+    {
+      "authorId": "2392623887",
+      "name": "Natasha D. Suriani"
+    },
+    {
+      "authorId": "2392624908",
+      "name": "Gio Fidellito"
+    },
+    {
+      "authorId": "2309619471",
+      "name": "Jacqueline Bayliss"
+    },
+    {
+      "authorId": "46744397",
+      "name": "Jieqiong Lou"
+    },
+    {
+      "authorId": "153720764",
+      "name": "Ashleigh Solano"
+    },
+    {
+      "authorId": "2251803088",
+      "name": "Joanna Sacharz"
+    },
+    {
+      "authorId": "2350653516",
+      "name": "D. Stroud"
+    },
+    {
+      "authorId": "1398371532",
+      "name": "Ayenachew Bezawork\u2010Geleta"
+    },
+    {
+      "authorId": "2356206334",
+      "name": "Geraldine J. Ooi"
+    },
+    {
+      "authorId": "2280868375",
+      "name": "Paul R. Burton"
+    },
+    {
+      "authorId": "2280871318",
+      "name": "Elizabeth Hinde"
+    },
+    {
+      "authorId": "2254748413",
+      "name": "Matthew J. Watt"
+    }
+  ],
+  "abstract": "Hydroxysteroid 17\u03b2 dehydrogenase 11 (HSD17\u03b211) is a member of the 17\u03b2-HSD family with canonical roles in steroid metabolism. Given its predominant localization on lipid droplets, we investigated HSD17\u03b211's role in lipid metabolism. In patients with metabolic dysfunction-associated fatty liver disease (MASLD), liver HSD17\u03b211 levels are reduced, correlating with liver steatosis severity. HSD17\u03b211 deletion in human cell lines increased lipid droplet size and number. This is associated with triglyceride accumulation due to impaired lipolysis and increased fatty acid uptake. Mechanistically, HSD17\u03b211 facilitates the interaction between PLIN5 and ATGL, enabling efficient protein kinase A (PKA)-stimulated lipolysis. Surprisingly, Hsd17\u03b211 deletion did not affect liver lipid metabolism or MASLD development in lean or obese mice. These findings demonstrate that while HSD17\u03b211 is crucial for efficient PKA-mediated lipolysis in human cells, its deficiency appears redundant for lipid metabolism in mice."
+}

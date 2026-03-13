@@ -1,0 +1,34 @@
+{
+  "paperId": "eadb93421cdadaf32a28279e296630b1332d29ab",
+  "externalIds": {
+    "PubMedCentral": "10815951",
+    "DOI": "10.3390/ijms25021109",
+    "CorpusId": 267024414,
+    "PubMed": "38256181"
+  },
+  "title": "The Role of SCAP/SREBP as Central Regulators of Lipid Metabolism in Hepatic Steatosis",
+  "venue": "International Journal of Molecular Sciences",
+  "year": 2024,
+  "citationCount": 57,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.mdpi.com/1422-0067/25/2/1109/pdf?version=1705411672",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10815951, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "authors": [
+    {
+      "authorId": "46852386",
+      "name": "Preethi Chandrasekaran"
+    },
+    {
+      "authorId": "2255695570",
+      "name": "Ralf Weiskirchen"
+    }
+  ],
+  "abstract": "The prevalence of metabolic dysfunction-associated steatotic liver disease (MASLD) is rapidly increasing worldwide at an alarming pace, due to an increase in obesity, sedentary and unhealthy lifestyles, and unbalanced dietary habits. MASLD is a unique, multi-factorial condition with several phases of progression including steatosis, steatohepatitis, fibrosis, cirrhosis, and hepatocellular carcinoma. Sterol element binding protein 1c (SREBP1c) is the main transcription factor involved in regulating hepatic de novo lipogenesis. This transcription factor is synthesized as an inactive precursor, and its proteolytic maturation is initiated in the membrane of the endoplasmic reticulum upon stimulation by insulin. SREBP cleavage activating protein (SCAP) is required as a chaperon protein to escort SREBP from the endoplasmic reticulum and to facilitate the proteolytic release of the N-terminal domain of SREBP into the Golgi. SCAP inhibition prevents activation of SREBP and inhibits the expression of genes involved in triglyceride and fatty acid synthesis, resulting in the inhibition of de novo lipogenesis. In line, previous studies have shown that SCAP inhibition can resolve hepatic steatosis in animal models and intensive research is going on to understand the effects of SCAP in the pathogenesis of human disease. This review focuses on the versatile roles of SCAP/SREBP regulation in de novo lipogenesis and the structure and molecular features of SCAP/SREBP in the progression of hepatic steatosis. In addition, recent studies that attempt to target the SCAP/SREBP axis as a therapeutic option to interfere with MASLD are discussed."
+}

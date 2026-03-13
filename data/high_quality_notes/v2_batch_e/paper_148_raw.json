@@ -1,0 +1,55 @@
+{
+  "paperId": "7c6d1cedce93ff52933f37bd84cbbe751411ae8b",
+  "externalIds": {
+    "MAG": "2119144998",
+    "DOI": "10.1002/hep.27153",
+    "CorpusId": 205892961,
+    "PubMed": "24677249"
+  },
+  "title": "Inhibition of microRNA\u201024 expression in liver prevents hepatic lipid accumulation and hyperlipidemia",
+  "venue": "Hepatology",
+  "year": 2014,
+  "citationCount": 158,
+  "influentialCitationCount": 9,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hep.27153",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/hep.27153?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/hep.27153, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Biology"
+  ],
+  "authors": [
+    {
+      "authorId": "48895005",
+      "name": "R. Ng"
+    },
+    {
+      "authorId": "2115727111",
+      "name": "Heng Wu"
+    },
+    {
+      "authorId": "143795443",
+      "name": "Hong Xiao"
+    },
+    {
+      "authorId": "48283751",
+      "name": "Xin Chen"
+    },
+    {
+      "authorId": "5359476",
+      "name": "H. Willenbring"
+    },
+    {
+      "authorId": "2236440",
+      "name": "C. Steer"
+    },
+    {
+      "authorId": "7436506",
+      "name": "Guisheng Song"
+    }
+  ],
+  "abstract": null
+}

@@ -1,0 +1,46 @@
+{
+  "paperId": "6f1309aa5ccb4ee898458666fcf6b90bfd7190ad",
+  "externalIds": {
+    "DOI": "10.15586/jrenhep.v8i1.170",
+    "CorpusId": 269322778
+  },
+  "title": "The Interplay of Iron and Lipid Homeostasis in Non-Alcoholic Fatty Liver Disease",
+  "venue": "Journal of Renal and Hepatic Disorders",
+  "year": 2024,
+  "citationCount": 0,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://jrenhep.com/index.php/jrenhep/article/download/170/343",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.15586/jrenhep.v8i1.170?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.15586/jrenhep.v8i1.170, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": null,
+  "authors": [
+    {
+      "authorId": "2051350591",
+      "name": "Clinton J Kidman"
+    },
+    {
+      "authorId": "145354886",
+      "name": "C. Mamotte"
+    },
+    {
+      "authorId": "2297979160",
+      "name": "Keea R Inder-Smith"
+    },
+    {
+      "authorId": "2332995738",
+      "name": "Mark J. Tobin"
+    },
+    {
+      "authorId": "2073335107",
+      "name": "M. Hackett"
+    },
+    {
+      "authorId": "2297981131",
+      "name": "Ross M Graham"
+    }
+  ],
+  "abstract": "The liver is essential for numerous metabolic functions and is the primary site of iron storage and regulation in addition to maintaining critical functions in lipid metabolism. Both iron deficiency and overload have been demonstrated as being involved with metabolic dysfunction; hence, tight regulation of iron absorption is essential to maintain health. Approximately one-third of individuals suffering from non-alcoholic fatty liver disease have elevated hepatic iron concentrations, with increased iron associated with increased disease severity, suggesting a convergence in dysregulation between lipid and iron metabolism. Increasingly, the literature is demonstrating, using a myriad of model organisms and iron-loading methods, that iron loading induces dysregulation in multiple aspects of hepatic lipid metabolism. However, the molecular mechanisms involved, and their subsequent effects on human diseases, are unclear. As iron is a fundamental component of many enzymes and proteins involved in lipid metabolism and is involved in the production of free radicals and oxidative stress, the mechanisms are numerous. In this review, we examine and summarise the dysregulation that iron loading elicits on hepatic lipid availability, de novo synthesis, catabolism, and export. We propose that understanding the interplay between iron and lipid metabolism holds the key to unlocking the complexities of disease development and progression, ultimately leading to improved therapeutic avenues."
+}

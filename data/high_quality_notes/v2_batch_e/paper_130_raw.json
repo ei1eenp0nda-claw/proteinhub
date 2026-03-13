@@ -1,0 +1,30 @@
+{
+  "paperId": "e8af0b479a04687cbd8725ec5976895f1f9250ae",
+  "externalIds": {
+    "MAG": "2898090263",
+    "DOI": "10.1055/s-0038-1670677",
+    "CorpusId": 53024566,
+    "PubMed": "30357769"
+  },
+  "title": "Unfolded Protein Response Sensors in Hepatic Lipid Metabolism and Nonalcoholic Fatty Liver Disease",
+  "venue": "Seminars in liver disease (Print)",
+  "year": 2018,
+  "citationCount": 22,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1055/s-0038-1670677?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1055/s-0038-1670677, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "authors": [
+    {
+      "authorId": "38879570",
+      "name": "Anne S Henkel"
+    }
+  ],
+  "abstract": "Abstract Activation of the hepatic unfolded protein response (UPR), a highly conserved cellular response to endoplasmic reticulum (ER) stress, is a firmly established feature of nonalcoholic fatty liver disease (NAFLD). ER stress is now widely accepted as both a cause and a consequence of hepatic steatosis. Moreover, the accumulation of hepatic lipids induces ER stress, which, in turn, disrupts hepatic lipid metabolism thus creating a vicious cycle that potentiates hepatic lipid accumulation. Additionally, there is interplay between the UPR and the inflammatory cascades associated with progressive nonalcoholic steatohepatitis. Understanding the molecular mechanisms by which the UPR regulates hepatic lipid metabolism and lipotoxic liver injury may lead to the identification of novel therapeutic targets for the treatment of NAFLD."
+}

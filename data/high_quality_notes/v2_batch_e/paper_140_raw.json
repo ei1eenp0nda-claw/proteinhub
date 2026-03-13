@@ -1,0 +1,63 @@
+{
+  "paperId": "f4737e8d1055f9132b7c50e03d873c2a696e5237",
+  "externalIds": {
+    "MAG": "2090365424",
+    "DOI": "10.1096/fj.14-264937",
+    "CorpusId": 20981314,
+    "PubMed": "25609431"
+  },
+  "title": "Protein kinase STK25 regulates hepatic lipid partitioning and progression of liver steatosis and NASH",
+  "venue": "The FASEB Journal",
+  "year": 2015,
+  "citationCount": 76,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1096/fj.14-264937?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1096/fj.14-264937, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "authors": [
+    {
+      "authorId": "52238241",
+      "name": "M. Amrutkar"
+    },
+    {
+      "authorId": "5760655",
+      "name": "E. Cansby"
+    },
+    {
+      "authorId": "1401598313",
+      "name": "Esther Nu\u00f1ez-Dur\u00e1n"
+    },
+    {
+      "authorId": "4663792",
+      "name": "C. Pirazzi"
+    },
+    {
+      "authorId": "50570123",
+      "name": "M. St\u00e5hlman"
+    },
+    {
+      "authorId": "6794501",
+      "name": "Elin Stenfeldt"
+    },
+    {
+      "authorId": "145424681",
+      "name": "U. Smith"
+    },
+    {
+      "authorId": "144952701",
+      "name": "J. Bor\u00e9n"
+    },
+    {
+      "authorId": "5651903",
+      "name": "M. Mahlapuu"
+    }
+  ],
+  "abstract": null
+}

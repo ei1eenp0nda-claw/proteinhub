@@ -1,0 +1,61 @@
+{
+  "paperId": "cbaa33b3df52c583064255994646a79ef8529341",
+  "externalIds": {
+    "DOI": "10.1152/ajpgi.00247.2021",
+    "CorpusId": 245702580,
+    "PubMed": "34984925"
+  },
+  "title": "Maternal Obesogenic Diet Regulates Offspring Bile Acid Homeostasis and Hepatic Lipid Metabolism via the Gut Microbiome in Mice.",
+  "venue": "American Journal of Physiology - Gastrointestinal and Liver Physiology",
+  "year": 2022,
+  "citationCount": 12,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8816615",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1152/ajpgi.00247.2021?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1152/ajpgi.00247.2021, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "authors": [
+    {
+      "authorId": "145949063",
+      "name": "M. Thompson"
+    },
+    {
+      "authorId": "1390827740",
+      "name": "J. Kang"
+    },
+    {
+      "authorId": "2148602436",
+      "name": "Austin Faerber"
+    },
+    {
+      "authorId": "1710343996",
+      "name": "Holly Hinrichs"
+    },
+    {
+      "authorId": "2044676583",
+      "name": "Oguz Ozler"
+    },
+    {
+      "authorId": "30226000",
+      "name": "Jamie Cowen"
+    },
+    {
+      "authorId": "143669547",
+      "name": "Yan Xie"
+    },
+    {
+      "authorId": "3741762",
+      "name": "P. Tarr"
+    },
+    {
+      "authorId": "145092967",
+      "name": "N. Davidson"
+    }
+  ],
+  "abstract": "Mice exposed in gestation to maternal high fat/high sucrose (HF/HS) diet develop altered bile acid (BA) homeostasis. We hypothesized that these reflect an altered microbiome and asked if microbiota transplanted from HF/HS offspring change hepatic BA and lipid metabolism to determine the directionality of effect. Female mice were fed HF/HS or chow (CON) for 6 weeks and bred with lean males. 16S sequencing was performed to compare taxa in offspring. Cecal microbiome transplantation (CMT) was performed from HF/HS or CON offspring into antibiotic treated mice fed chow or high fructose. BA, lipid metabolic, and gene expression analyses performed in recipient mice. Gut microbiomes from HF/HS offspring segregated from CON offspring, with increased Firmicutes to Bacteriodetes ratios and Verrucomicrobial abundance. Following CMT, HF/HS recipient mice had larger BA pools, and increased intrahepatic muricholic acid and decreased deoxycholic acid species. HF/HS recipient mice exhibited downregulated hepatic Mrp2, increased hepatic Oatp1b2, and decreased ileal Asbt mRNA expression. HF/HS recipient mice exhibited decreased cecal butyrate and increased hepatic expression of Il6. HF/HS recipient mice had larger livers, and increased intrahepatic triglyceride versus CON recipient mice after fructose feeding, with increased hepatic mRNA expression of lipogenic genes including Srebf1, Fabp1, Mogat1, and Mogat2. CMT from HF/HS offspring increased BA pool and shifted the composition of the intrahepatic BA pool. CMT from HF/HS donor offspring increased fructose-induced liver triglyceride accumulation. These findings support a causal role for vertical transfer of an altered microbiome in hepatic BA and lipid metabolism in HF/HS offspring."
+}

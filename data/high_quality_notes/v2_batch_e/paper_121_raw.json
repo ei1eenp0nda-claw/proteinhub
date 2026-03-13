@@ -1,0 +1,39 @@
+{
+  "paperId": "03929ae0048c92db1837ff46e0b1d9850e3ffbc2",
+  "externalIds": {
+    "MAG": "2810629608",
+    "PubMedCentral": "6105174",
+    "DOI": "10.1007/s00018-018-2860-6",
+    "CorpusId": 49412859,
+    "PubMed": "29936596"
+  },
+  "title": "Molecular mechanisms of hepatic lipid accumulation in non-alcoholic fatty liver disease",
+  "venue": "Cellular and Molecular Life Sciences",
+  "year": 2018,
+  "citationCount": 1167,
+  "influentialCitationCount": 66,
+  "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007%2Fs00018-018-2860-6.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6105174, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "authors": [
+    {
+      "authorId": "5564471",
+      "name": "D. H. Ipsen"
+    },
+    {
+      "authorId": "5895634",
+      "name": "J. Lykkesfeldt"
+    },
+    {
+      "authorId": "1397822393",
+      "name": "P. Tveden-Nyborg"
+    }
+  ],
+  "abstract": "Non-alcoholic fatty liver disease (NAFLD) is currently the world\u2019s most common liver disease, estimated to affect up to one-fourth of the population. Hallmarked by hepatic steatosis, NAFLD is associated with a multitude of detrimental effects and increased mortality. This narrative review investigates the molecular mechanisms of hepatic steatosis in NAFLD, focusing on the four major pathways contributing to lipid homeostasis in the liver. Hepatic steatosis is a consequence of lipid acquisition exceeding lipid disposal, i.e., the uptake of fatty acids and de novo lipogenesis surpassing fatty acid oxidation and export. In NAFLD, hepatic uptake and de novo lipogenesis are increased, while a compensatory enhancement of fatty acid oxidation is insufficient in normalizing lipid levels and may even promote cellular damage and disease progression by inducing oxidative stress, especially with compromised mitochondrial function and increased oxidation in peroxisomes and cytochromes. While lipid export initially increases, it plateaus and may even decrease with disease progression, sustaining the accumulation of lipids. Fueled by lipo-apoptosis, hepatic steatosis leads to systemic metabolic disarray that adversely affects multiple organs, placing abnormal lipid metabolism associated with NAFLD in close relation to many of the current life-style-related diseases."
+}

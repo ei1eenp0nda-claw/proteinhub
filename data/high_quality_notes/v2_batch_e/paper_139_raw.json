@@ -1,0 +1,58 @@
+{
+  "paperId": "7982cc6ff357fd12db9393022ca5fb5ae4d12dde",
+  "externalIds": {
+    "PubMedCentral": "12173144",
+    "DOI": "10.1016/j.jlr.2025.100824",
+    "CorpusId": 278469026,
+    "PubMed": "40350036"
+  },
+  "title": "Stearoyl-CoA desaturase 1 deficiency drives saturated lipid accumulation and increases liver and plasma acylcarnitines",
+  "venue": "Journal of Lipid Research",
+  "year": 2025,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.jlr.2025.100824",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12173144, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "authors": [
+    {
+      "authorId": "89033566",
+      "name": "Mugagga Kalyesubula"
+    },
+    {
+      "authorId": "67244641",
+      "name": "Helaina Von Bank"
+    },
+    {
+      "authorId": "2332721459",
+      "name": "Jessica W. Davidson"
+    },
+    {
+      "authorId": "47184759",
+      "name": "Maggie S. Burhans"
+    },
+    {
+      "authorId": "2360087315",
+      "name": "Madelaine M. Becker"
+    },
+    {
+      "authorId": "79602406",
+      "name": "Ahmed Aljohani"
+    },
+    {
+      "authorId": "2293490558",
+      "name": "Judith Simcox"
+    },
+    {
+      "authorId": "2293465400",
+      "name": "James M. Ntambi"
+    }
+  ],
+  "abstract": "Stearoyl-CoA desaturase-1 (SCD1) is a critical regulator of lipogenesis that catalyzes the synthesis of MUFAs, mainly oleate (18:1n-9) and palmitoleate (16:1n-7) from saturated fatty acids, stearoyl-CoA (18:0) and palmitoyl-CoA (16:0), respectively. Elevated SCD1 expression and its products are associated with obesity, metabolic dysfunction-associated steatotic liver disease, insulin resistance, and cancer. Conversely, Scd1 deficiency diminishes de novo lipogenesis and protects mice against adiposity, hepatic steatosis, and hyperglycemia. Yet, the comprehensive impact of Scd1 deficiency on hepatic and circulating lipids remains incompletely understood. To further delineate the effects of SCD1 on lipid metabolism, we employed lipidomics on the liver from mice under a lipogenic high carbohydrate, very low-fat diet. We found that Scd1 deficiency leads to an accumulation of saturated lipids and an increase in hepatic and plasma acylcarnitines. Remarkably, transgenic replenishment of de novo oleate synthesis by human SCD5 in the liver of Scd1-deficient mice not only restored hepatic lipid desaturation levels but also attenuated acylcarnitine accumulation, highlighting the distinct role of SCD1 and oleate in regulating intracellular lipid homeostasis."
+}

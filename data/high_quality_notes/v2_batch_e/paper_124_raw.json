@@ -1,0 +1,62 @@
+{
+  "paperId": "dcf9cc3237851fc0f3bb7f29f1365771242c1745",
+  "externalIds": {
+    "PubMedCentral": "12203460",
+    "DOI": "10.1111/liv.70130",
+    "CorpusId": 279608148,
+    "PubMed": "40575956"
+  },
+  "title": "HFD Exacerbates Hepatic Lipid Metabolism Disorders After Cholecystectomy by Regulating the Bile Acid and Neutrophil Recruitment",
+  "venue": "Liver international (Print)",
+  "year": 2025,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12203460, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "authors": [
+    {
+      "authorId": "2316428400",
+      "name": "Yanting Xu"
+    },
+    {
+      "authorId": "2369612722",
+      "name": "Feng Zhang"
+    },
+    {
+      "authorId": "2279538181",
+      "name": "Ziliang Ke"
+    },
+    {
+      "authorId": "2341569464",
+      "name": "Yiken Lin"
+    },
+    {
+      "authorId": "2329100105",
+      "name": "Yang Zhang"
+    },
+    {
+      "authorId": "2266062926",
+      "name": "Yun Liu"
+    },
+    {
+      "authorId": "2108463818",
+      "name": "Yifan Zhang"
+    },
+    {
+      "authorId": "2328793600",
+      "name": "Jun Xu"
+    },
+    {
+      "authorId": "2279575416",
+      "name": "Yulan Liu"
+    }
+  ],
+  "abstract": "Previous studies have suggested that cholecystectomy may lead to an elevated risk of metabolic dysfunction\u2010associated fatty liver disease (MAFLD). However, there is a dearth of knowledge concerning the precise effects and underlying mechanisms through which cholecystectomy influences hepatic lipid metabolism, necessitating further investigation."
+}

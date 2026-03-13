@@ -1,0 +1,48 @@
+{
+  "paperId": "06e0fe165deaf8a637d080346dc9986953e4203b",
+  "externalIds": {
+    "PubMedCentral": "7379091",
+    "MAG": "3012090483",
+    "DOI": "10.12997/jla.2020.9.2.291",
+    "CorpusId": 216567883,
+    "PubMed": "32821738"
+  },
+  "title": "Hepatic Expression of the Serine Palmitoyltransferase Subunit Sptlc2 Reduces Lipid Droplets in the Liver by Activating VLDL Secretion",
+  "venue": "Journal of Lipid and Atherosclerosis",
+  "year": 2020,
+  "citationCount": 9,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.12997/jla.2020.9.2.291",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC7379091, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine",
+    "Chemistry"
+  ],
+  "authors": [
+    {
+      "authorId": "8716864",
+      "name": "Goon-Tae Kim"
+    },
+    {
+      "authorId": "48388224",
+      "name": "Su-jung Kim"
+    },
+    {
+      "authorId": "2107955225",
+      "name": "Si-Hyun Park"
+    },
+    {
+      "authorId": "117068638",
+      "name": "Dongyup Lee"
+    },
+    {
+      "authorId": "3785623",
+      "name": "Tae-Sik Park"
+    }
+  ],
+  "abstract": "Objective Ceramide is a signaling molecule that contributes to insulin resistance and hepatosteatosis. In the present study, we activated de novo ceramide synthesis by inducing the hepatic expression of Sptlc2 to investigate the role of ceramide in glucose and lipid metabolism. Methods We first constructed an adenovirus containing Sptlc2 (AdSptlc2), which encodes a major catalytic subunit of serine palmitoyltransferase (SPT). We then infected hepatocytes and mice fed a regular diet with AdSptlc2 to activate de novo ceramide biosynthesis. The liver-specific effects of ceramide biosynthesis on glucose and lipid metabolism were investigated by measuring changes in insulin signaling, lipid droplet formation, and very low-density lipoprotein (VLDL) secretion. Results In HepG2 hepatocytes, adenoviral Sptlc2 expression inhibited insulin signaling and increased ceramide levels via activation of c-Jun N-terminal kinase and serine phosphorylation of insulin receptor substrate 1. In contrast, in mice, AdSptlc2 infection decreased plasma glucose levels by downregulating gluconeogenic genes and increased plasma triglyceride levels by increasing VLDL secretion. In mice infected with AdSptlc2, glucose intolerance and insulin sensitivity improved, while pyruvate utilization via gluconeogenesis decreased. Conclusion Hepatic ceramide was found to modulate hepatosteatosis and the insulin response via increased VLDL secretion and inhibition of gluconeogenesis in vivo. Although inhibition of the insulin response was observed in vitro, the compensatory mechanism of relieving ceramide-induced stress and reducing ceramide levels resulted in improvements of glucose and lipid metabolic profiles in vivo. This discrepancy between in vitro and in vivo regulation mechanisms suggests that ceramide plays a role in non-alcoholic fatty liver disease and insulin resistance."
+}

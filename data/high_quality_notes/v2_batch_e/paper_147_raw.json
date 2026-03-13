@@ -1,0 +1,51 @@
+{
+  "paperId": "f8d031f7e9d2772a68c81629dd68f6fd99f6763d",
+  "externalIds": {
+    "MAG": "2095591310",
+    "DOI": "10.1016/j.jhep.2011.08.025",
+    "CorpusId": 206116169,
+    "PubMed": "22173168"
+  },
+  "title": "The interaction of hepatic lipid and glucose metabolism in liver diseases.",
+  "venue": "Journal of Hepatology",
+  "year": 2012,
+  "citationCount": 899,
+  "influentialCitationCount": 39,
+  "openAccessPdf": {
+    "url": "http://www.journal-of-hepatology.eu/article/S016882781100852X/pdf",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jhep.2011.08.025?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jhep.2011.08.025, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "authors": [
+    {
+      "authorId": "4367796",
+      "name": "L. Bechmann"
+    },
+    {
+      "authorId": "3741252",
+      "name": "Rebekka A. Hannivoort"
+    },
+    {
+      "authorId": "4054698",
+      "name": "G. Gerken"
+    },
+    {
+      "authorId": "9914949",
+      "name": "G. Hotam\u0131\u015fl\u0131gil"
+    },
+    {
+      "authorId": "3305300",
+      "name": "M. Trauner"
+    },
+    {
+      "authorId": "47567792",
+      "name": "A. Canbay"
+    }
+  ],
+  "abstract": "It is widely known that the liver is a central organ in lipogenesis, gluconeogenesis and cholesterol metabolism. However, over the last decades, a variety of pathological conditions highlighted the importance of metabolic functions within the diseased liver. As observed in Western societies, an increase in the prevalence of obesity and the metabolic syndrome promotes pathophysiological changes that cause non-alcoholic fatty liver disease (NAFLD). NAFLD increases the susceptibility of the liver to acute liver injury and may lead to cirrhosis and hepatocellular cancer. Alterations in insulin response, \u03b2-oxidation, lipid storage and transport, autophagy and an imbalance in chemokines and nuclear receptor signaling are held accountable for these changes. Furthermore, recent studies revealed a role for lipid accumulation in inflammation and ER stress in the clinical context of liver regeneration and hepatic carcinogenesis. This review focuses on novel findings related to nuclear receptor signaling - including the vitamin D receptor and the liver receptor homolog 1 - in hepatic lipid and glucose uptake, storage and metabolism in the clinical context of NAFLD, liver regeneration, and cancer."
+}

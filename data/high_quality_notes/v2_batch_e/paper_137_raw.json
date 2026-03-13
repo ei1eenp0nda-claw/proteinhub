@@ -1,0 +1,41 @@
+{
+  "paperId": "63d4838c5f0ae98da1f057ebec63153872a62985",
+  "externalIds": {
+    "DOI": "10.1016/j.prostaglandins.2025.106997",
+    "CorpusId": 278644419,
+    "PubMed": "40378915"
+  },
+  "title": "Magnoflorine Alleviates Nonalcoholic Fatty Liver Disease by Modulating Lipid Metabolism, Mitophagy and Inflammation.",
+  "venue": "Prostaglandins & other lipid mediators",
+  "year": 2025,
+  "citationCount": 6,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.prostaglandins.2025.106997?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.prostaglandins.2025.106997, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "authors": [
+    {
+      "authorId": "2342879447",
+      "name": "Liming Wang"
+    },
+    {
+      "authorId": "2287811972",
+      "name": "Yan Yang"
+    },
+    {
+      "authorId": "2361526493",
+      "name": "Haibing Sun"
+    },
+    {
+      "authorId": "91937967",
+      "name": "M. Fei"
+    }
+  ],
+  "abstract": "BACKGROUND\nNonalcoholic fatty liver disease (NAFLD) is a prevalent liver condition associated with metabolic syndrome, often aggravated by inflammation and mitochondrial dysfunction. This study aims to explore the therapeutic potential of magnoflorine, an alkaloid with known anti-inflammatory properties, in ameliorating NAFLD by modulating mitochondrial autophagy and inhibiting the NLRP3 inflammasome.\n\n\nMETHODS\nMale C57BL/6J mice were fed a high-fat diet (HFD) for 16 weeks to induce NAFLD. Magnoflorine (5 and 10mg/kg) was administered by gavage daily for 16 weeks. Liver and serum samples were analyzed for lipid profiles, inflammation markers, and autophagy-related proteins, and liver histology was examined to assess changes.\n\n\nRESULTS\nMagnoflorine treatment improved dyslipidemia in NAFLD mice, shown by decreased serum triglycerides, total cholesterol, and LDL-C, and increased HDL-C. Histological analysis showed reduced hepatic steatosis and inflammation, with less lipid droplet accumulation and hepatocyte ballooning. Western blot results indicated upregulation of Parkin and PINK1, and downregulation of NLRP3, ASC, and caspase-1, with lower serum IL-1\u03b2 levels, reflecting reduced inflammation.\n\n\nCONCLUSIONS\nMagnoflorine offers a promising approach for mitigating NAFLD progression through modulating mitochondrial autophagy and inhibiting inflammation."
+}

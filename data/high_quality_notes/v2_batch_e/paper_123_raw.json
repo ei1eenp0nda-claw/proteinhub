@@ -1,0 +1,54 @@
+{
+  "paperId": "1be76a5b07a89d29c0ab472eef4d5df73a1679dd",
+  "externalIds": {
+    "PubMedCentral": "11808498",
+    "DOI": "10.1016/j.jlr.2024.100740",
+    "CorpusId": 275322872,
+    "PubMed": "39755206"
+  },
+  "title": "Small molecule-driven LKB1 deacetylation is responsible for the inhibition of hepatic lipid response in NAFLD",
+  "venue": "Journal of Lipid Research",
+  "year": 2025,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.jlr.2024.100740",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11808498, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "authors": [
+    {
+      "authorId": "2220277754",
+      "name": "Weiwei Qin"
+    },
+    {
+      "authorId": "2111070159",
+      "name": "Yu Ding"
+    },
+    {
+      "authorId": "2338798492",
+      "name": "Wenhao Zhang"
+    },
+    {
+      "authorId": "2271701906",
+      "name": "Lu Sun"
+    },
+    {
+      "authorId": "2261210203",
+      "name": "Jianping Weng"
+    },
+    {
+      "authorId": "47410533",
+      "name": "Xueying Zheng"
+    },
+    {
+      "authorId": "144499673",
+      "name": "S. Luo"
+    }
+  ],
+  "abstract": "Nonalcoholic fatty liver disease (NAFLD) is a progressive condition characterized by ectopic fat accumulation in the liver, for which no FAD-approved drugs currently exist. Emerging evidence highlights the role of liver kinase B1 (LKB1), a key metabolic regulator, has been proposed in NAFLD, particularly in response to excessive nutrient levels. However, few agents have been identified that can prevent the progression of nonalcoholic steatohepatitis (NASH) by targeting LKB1 deacetylation. Through comprehensive screening of our in-house chemical library, we identified tranilast, a small molecule with remarkable inhibitory efficacy against lipid deposition induced by palmitic acid/oleic acid (PO). In this study, we investigated the novel biological function and mechanism of tranilast in regulating hepatic lipid response in NAFLD, focusing on its role in LKB1 deacetylation within hepatocytes. Our findings demonstrate that tranilast effectively reduced hepatic steatosis, inflammation, and fibrosis in NASH models induced by high-fat and high-cholesterol (HFHC) and methionine choline-deficient (MCD) diets. Mechanistic analysis using RNA sequencing revealed that tranilast mitigated hepatic lipid response by promoting LKB1 deacetylation and activating AMPK. Notably, in vivo experiments showed that the beneficial effects of tranilast in MCD diet-induced NASH model were reversed by the compound C (C-C), a known AMPK inhibitor, confirming that tranilast\u2019s effects on hepatic lipid response are mediated through the AMPK pathway. In summary, tranilast inhibits hepatic lipid response in NAFLD through LKB1 deacetylation, providing robust experimental evidence for the role of LKB1 in NAFLD. These findings position tranilast as a promising therapeutic candidate for the pharmacological management of metabolic diseases."
+}

@@ -1,0 +1,49 @@
+{
+  "paperId": "4af9e3b500ed5e9f8f0af74c98d0c0499999d474",
+  "externalIds": {
+    "DOI": "10.1152/ajpgi.00129.2025",
+    "CorpusId": 279864016,
+    "PubMed": "40601868"
+  },
+  "title": "Adolescent binge drinking disrupts hepatic lipid homeostasis leading to steatosis in rats: protective role of folic acid in cholesterol and fatty acid balance.",
+  "venue": "American Journal of Physiology - Gastrointestinal and Liver Physiology",
+  "year": 2025,
+  "citationCount": 1,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1152/ajpgi.00129.2025?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1152/ajpgi.00129.2025, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "authors": [
+    {
+      "authorId": "2369893914",
+      "name": "Mar\u00eda del Carmen Gallego L\u00f3pez"
+    },
+    {
+      "authorId": "30041428",
+      "name": "F. Nogales"
+    },
+    {
+      "authorId": "2369890740",
+      "name": "In\u00e9s Romero Herrera"
+    },
+    {
+      "authorId": "2369893909",
+      "name": "Alvaro Santana Garrido"
+    },
+    {
+      "authorId": "152584221",
+      "name": "O. Carreras"
+    },
+    {
+      "authorId": "2276496",
+      "name": "M. L. Ojeda"
+    }
+  ],
+  "abstract": "Alcohol liver damage (ALD) is increasing worldwide among adolescents, along with binge drinking (BD). BD is an acute alcohol consumption pattern, strongly pro-oxidant in the liver, and may be associated with steatosis, the first step in ALD. Folic acid (FA), an antioxidant crucial for liver function, shows compromised hepatic stores after BD. Therefore, this study aims to analyze the hepatic lipid changes associated with BD-induced steatosis during adolescence in rats and to evaluate the efficacy of FA supplementation in preventing these alterations. Four groups of adolescent rats were used: control, BD (intraperitoneal alcohol exposure), control FA-supplemented, and BD-FA-supplemented. FA content was 2 ppm in control diets and 8 ppm in supplemented groups. BD impaired liver function by increasing transaminases and UGT-1 expression. BD also induced dyslipidemia and an anabolic liver lipid state by increasing hepatic cholesteryl esters depots through dysregulation of cholesterol modulators (HMGCR, SREBP1, LDLR, SR-B1, ACAT-2, Ces1d) and enhancing FXR expression, which affected liver bile acid balance. Furthermore, BD promoted all sources of hepatic free fatty acids (de novo synthesis, dietary source, and adipose tissue uptake) and impaired their hepatic clearance, contributing to steatosis as confirmed by microvesicular lipid droplet accumulation. FA supplementation, mainly by improving hepatic cholesterol balance and stimulating free fatty acid mobilization, partially prevented these alterations, with beneficial effects on cardiovascular health. In conclusion, this study demonstrates for the first time that BD in adolescents disturbs hepatic lipid homeostasis, leading to steatosis, and that FA therapy could be used to mitigate these deleterious effects."
+}

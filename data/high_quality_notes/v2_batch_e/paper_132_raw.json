@@ -1,0 +1,50 @@
+{
+  "paperId": "3d3fb3b14477982e9e0bc7dc8d478a954856ec61",
+  "externalIds": {
+    "PubMedCentral": "9619182",
+    "DOI": "10.1016/j.jlr.2022.100288",
+    "CorpusId": 252507708,
+    "PubMed": "36162520"
+  },
+  "title": "Lactation alters the relationship between liver lipid synthesis and hepatic fat stores in the postpartum period",
+  "venue": "Journal of Lipid Research",
+  "year": 2022,
+  "citationCount": 4,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "http://www.jlr.org/article/S0022227522001213/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC9619182, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "authors": [
+    {
+      "authorId": "1399230111",
+      "name": "M. Ramos-Roman"
+    },
+    {
+      "authorId": "1412700924",
+      "name": "M. M. Syed-Abdul"
+    },
+    {
+      "authorId": "2814987",
+      "name": "B. Casey"
+    },
+    {
+      "authorId": "2111972",
+      "name": "J. Alger"
+    },
+    {
+      "authorId": "2108354354",
+      "name": "Yu-Lun Liu"
+    },
+    {
+      "authorId": "2550442",
+      "name": "E. Parks"
+    }
+  ],
+  "abstract": "In mothers who are nursing their infants, increased clearance of plasma metabolites into the mammary gland may reduce ectopic lipid in the liver. No study to date has investigated the role of lactation on liver lipid synthesis in humans, and we hypothesized that lactation would modify fatty acid and glucose handling to support liver metabolism in a manner synchronized with the demands of milk production. Lactating (n = 18) and formula-feeding women (n = 10) underwent metabolic testing at 6-week postpartum to determine whether lactation modified intrahepatic triacylglycerols (IHTGs), measured by proton magnetic resonance spectroscopy. Subjects ingested oral deuterated water to measure fractional de novo lipogenesis (DNL) in VLDL-TG during fasting and during an isotope-labeled clamp at an insulin infusion rate of 10 mU/m2/min. Compared with formula-feeding women, we found that lactating women exhibited lower plasma VLDL-TG concentrations, similar IHTG content and similar contribution of DNL to total VLDL-TG production. These findings suggest that lactation lowers plasma VLDL-TG concentrations for reasons that are unrelated to IHTG and DNL. Surprisingly, we determined that the rate of appearance of nonesterified fatty acids was not related to IHTG in either group, and the expected positive association between DNL and IHTG was only significant in formula-feeding women. Further, in lactating women only, the higher the prolactin concentration, the lower the IHTG, while greater DNL strongly associated with elevations in VLDL-TG. In conclusion, we suggest that future studies should investigate the role of lactation and prolactin in liver lipid secretion and metabolism."
+}

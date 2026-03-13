@@ -1,0 +1,53 @@
+{
+  "paperId": "89edcea00ca7db0afc03880b2494058686609750",
+  "externalIds": {
+    "DOI": "10.1111/liv.15059",
+    "CorpusId": 237594742,
+    "PubMed": "34547171"
+  },
+  "title": "The role of hepatic lipid composition in obesity\u2010related metabolic disease",
+  "venue": "Liver international (Print)",
+  "year": 2021,
+  "citationCount": 42,
+  "influentialCitationCount": 1,
+  "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/liv.15059",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/liv.15059?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/liv.15059, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "authors": [
+    {
+      "authorId": "6288382",
+      "name": "S. Willis"
+    },
+    {
+      "authorId": "7726171",
+      "name": "Stephen J. Bawden"
+    },
+    {
+      "authorId": "2127735087",
+      "name": "Sundus Malaikah"
+    },
+    {
+      "authorId": "40362415",
+      "name": "J. Sargeant"
+    },
+    {
+      "authorId": "6034566",
+      "name": "D. Stensel"
+    },
+    {
+      "authorId": "5280694",
+      "name": "G. Aithal"
+    },
+    {
+      "authorId": "2548398",
+      "name": "J. King"
+    }
+  ],
+  "abstract": "Obesity is a primary antecedent to non\u2010alcoholic fatty liver disease whose cardinal feature is excessive hepatic lipid accumulation. Although total hepatic lipid content closely associates with hepatic and systemic metabolic dysfunction, accumulating evidence suggests that the composition of hepatic lipids may be more discriminatory. This review summarises cross\u2010sectional human studies using liver biopsy/lipidomics and proton magnetic resonance spectroscopy to characterise hepatic lipid composition in people with obesity and related metabolic disease. A comprehensive literature search identified 26 relevant studies published up to 31st March 2021 which were included in the review. The available evidence provides a consistent picture showing that people with hepatic steatosis possess elevated saturated and/or monounsaturated hepatic lipids and a reduced proportion of polyunsaturated hepatic lipids. This altered hepatic lipid profile associates more directly with metabolic derangements, such as insulin resistance, and may be exacerbated in non\u2010alcoholic steatohepatitis. Further evidence from lipidomic studies suggests that these deleterious changes may be related to defects in lipid desaturation and elongation, and an augmentation of the de novo lipogenic pathway. These observations are consistent with mechanistic studies implicating saturated fatty acids and associated bioactive lipid intermediates (ceramides, lysophosphatidylcholines and diacylglycerol) in the development of hepatic lipotoxicity and wider metabolic dysfunction, whilst monounsaturated fatty acids and polyunsaturated fatty acids may exhibit a protective role. Future studies are needed to prospectively determine the relevance of hepatic lipid composition for hepatic and non\u2010hepatic morbidity and mortality; and to further evaluate the impact of therapeutic interventions such as pharmacotherapy and lifestyle interventions."
+}

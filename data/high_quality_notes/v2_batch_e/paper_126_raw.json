@@ -1,0 +1,90 @@
+{
+  "paperId": "593a59bd68478fb3144b8270d2ad1e9308429473",
+  "externalIds": {
+    "PubMedCentral": "12164036",
+    "DOI": "10.1016/j.jlr.2025.100818",
+    "CorpusId": 278380620,
+    "PubMed": "40339699"
+  },
+  "title": "Exosome-derived miR-548ag drives hepatic lipid accumulation via upregulating FASN through inhibition of DNMT3B",
+  "venue": "Journal of Lipid Research",
+  "year": 2025,
+  "citationCount": 5,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12164036, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "authors": [
+    {
+      "authorId": "2056599323",
+      "name": "Xiaolong Chu"
+    },
+    {
+      "authorId": "2282135508",
+      "name": "Yanting Hou"
+    },
+    {
+      "authorId": "2289824496",
+      "name": "Chaoling Peng"
+    },
+    {
+      "authorId": "2157336634",
+      "name": "Wei Li"
+    },
+    {
+      "authorId": "2204431348",
+      "name": "Maodi Liang"
+    },
+    {
+      "authorId": "2281841834",
+      "name": "Jin Mei"
+    },
+    {
+      "authorId": "2281837460",
+      "name": "Meiyu Qian"
+    },
+    {
+      "authorId": "2327502700",
+      "name": "Juan Wang"
+    },
+    {
+      "authorId": "2360001247",
+      "name": "Shibo Xu"
+    },
+    {
+      "authorId": "2360585492",
+      "name": "Yidan Jiang"
+    },
+    {
+      "authorId": "2289114482",
+      "name": "Xin Wen"
+    },
+    {
+      "authorId": "2281904329",
+      "name": "Yao Chen"
+    },
+    {
+      "authorId": "2309755975",
+      "name": "Fang Yuan"
+    },
+    {
+      "authorId": "49598387",
+      "name": "Jianxin Xie"
+    },
+    {
+      "authorId": "4979927",
+      "name": "Cuizhe Wang"
+    },
+    {
+      "authorId": "2327340498",
+      "name": "Jun Zhang"
+    }
+  ],
+  "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is the leading cause of chronic liver disease worldwide. This study investigates the role of serum miR-548ag in regulating lipid metabolism and its contribution to MASLD in obesity. We found that miR-548ag levels were significantly elevated in the serum of both obese and MASLD patients and positively correlated with body mass index, fasting plasma glucose, triglycerides, total cholesterol, LDL, HDL, aspartate aminotransferase, and alanine aminotransferase levels. Additionally, miR-548ag expression was significantly higher in the liver and abdominal adipose tissue of obese individuals than those of normal weight. In vitro studies in HepG2 and L02 cells, along with previous findings, demonstrated that miR-548ag promotes fatty acid synthase (FASN) expression by inhibiting DNA methyltransferase 3B (DNMT3B), thereby enhancing lipid synthesis. This was confirmed in two mouse models: one with tail vein injections of miR-548ag mimic/inhibitor adeno-associated viruses and another with tail vein injections of exosomes from serum of normal-weight and obese individuals. Both models showed that miR-548ag upregulated FASN through DNMT3B inhibition, leading to increased lipid synthesis and larger hepatic lipid droplets, effects that were reversed by miR-548ag inhibition. Together, this study revealed a significant increase in the levels of exosome miR-548ag in the serum of obese patients, which reaches the liver through blood circulation. In the liver, miR-548ag can target and inhibit DNMT3B, upregulate FASN expression, and increase hepatic lipid synthesis, thereby promoting the development of MASLD."
+}

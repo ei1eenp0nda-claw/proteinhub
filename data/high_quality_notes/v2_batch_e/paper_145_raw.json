@@ -1,0 +1,78 @@
+{
+  "paperId": "e1d12cb2d675c316f2245f431b458cff751b265e",
+  "externalIds": {
+    "PubMedCentral": "11364043",
+    "DOI": "10.1016/j.jlr.2024.100595",
+    "CorpusId": 271222107,
+    "PubMed": "39019343"
+  },
+  "title": "ANGPTL8 deficiency attenuates lipopolysaccharide-induced liver injury by improving lipid metabolic dysregulation",
+  "venue": "Journal of Lipid Research",
+  "year": 2024,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11364043, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "authors": [
+    {
+      "authorId": "2214648177",
+      "name": "Ying Feng"
+    },
+    {
+      "authorId": "2311636400",
+      "name": "Shan Luo"
+    },
+    {
+      "authorId": "2277161628",
+      "name": "Chen Fang"
+    },
+    {
+      "authorId": "2298970276",
+      "name": "Shinan Ma"
+    },
+    {
+      "authorId": "2220446122",
+      "name": "Dandan Fan"
+    },
+    {
+      "authorId": "90682502",
+      "name": "Yang-mei Chen"
+    },
+    {
+      "authorId": "2311580960",
+      "name": "Zhuo Chen"
+    },
+    {
+      "authorId": "2311817557",
+      "name": "Xiang Zheng"
+    },
+    {
+      "authorId": "2311582818",
+      "name": "Yijun Tang"
+    },
+    {
+      "authorId": "2251060022",
+      "name": "Xiao-Qiong Duan"
+    },
+    {
+      "authorId": "2311532943",
+      "name": "Xingling Liu"
+    },
+    {
+      "authorId": "40325133",
+      "name": "Xuzhi Ruan"
+    },
+    {
+      "authorId": "2311782482",
+      "name": "Xingrong Guo"
+    }
+  ],
+  "abstract": "Liver injury is closely related to poor outcomes in sepsis patients. Current studies indicate that sepsis is accompanied by metabolic disorders, especially those related to lipid metabolism. It is highly important to explore the mechanism of abnormal liver lipid metabolism during sepsis. As a key regulator of glucose and lipid metabolism, angiopoietin-like 8 (ANGPTL8) is involved in the regulation of multiple chronic metabolic diseases. In the present study, severe liver lipid deposition and lipid peroxidation were observed in the early stages of lipopolysaccharide (LPS) induced liver injury. LPS promotes the expression of ANGPTL8 both in vivo and in vitro. Knockout of Angptl8 reduced hepatic lipid accumulation and lipid peroxidation, improved fatty acid oxidation and liver function, and increased the survival rate of septic mice by activating the PGC1\u03b1/PPAR\u03b1 pathway. We also found that the expression of ANGPTL8 induced by LPS depends on TNF-\u03b1, and that inhibiting the TNF-\u03b1 pathway reduces LPS-induced hepatic lipid deposition and lipid peroxidation. However, knocking out Angptl8 improved the survival rate of septic mice better than inhibiting the TNF-\u03b1 pathway. Taken together, the results of our study suggest that ANGPTL8 functions as a novel cytokine in LPS-induced liver injury by suppressing the PGC1\u03b1/PPAR\u03b1 signaling pathway. Therefore, targeting ANGPTL8 to improve liver lipid metabolism represents an attractive strategy for the management of sepsis patients."
+}

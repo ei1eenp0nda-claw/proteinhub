@@ -1,0 +1,46 @@
+{
+  "paperId": "1ea47301864d66fbf1266f19c0adeff6573494a7",
+  "externalIds": {
+    "MAG": "2898576858",
+    "DOI": "10.1002/lt.25365",
+    "CorpusId": 206215928,
+    "PubMed": "30358115"
+  },
+  "title": "Overproduction of Tenascin\u2010C Driven by Lipid Accumulation in the Liver Aggravates Hepatic Ischemia/Reperfusion Injury in Steatotic Mice",
+  "venue": "Liver transplantation",
+  "year": 2019,
+  "citationCount": 11,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "https://europepmc.org/articles/pmc6355355?pdf=render",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/lt.25365?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/lt.25365, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "authors": [
+    {
+      "authorId": "2115644794",
+      "name": "H. Kato"
+    },
+    {
+      "authorId": "122765533",
+      "name": "S. Duarte"
+    },
+    {
+      "authorId": "2107492000",
+      "name": "M. Miller"
+    },
+    {
+      "authorId": "5114575",
+      "name": "R. Busuttil"
+    },
+    {
+      "authorId": "2194786",
+      "name": "A. Coito"
+    }
+  ],
+  "abstract": "The purpose of this study was to assess the significance of tenascin\u2010C (Tnc) expression in steatotic liver ischemia/reperfusion injury (IRI). The critical shortage in donor organs has led to the use of steatotic livers in transplantation regardless of their elevated susceptibility to hepatic IRI. Tnc is an endogenous danger signal extracellular matrix molecule involved in various aspects of immunity and tissue injury. In the current study, mice were fed with a steatosis\u2010inducing diet and developed approximately 50% hepatic steatosis, predominantly macrovesicular, before being subjected to hepatic IRI. We report here that lipid accumulation in hepatocytes inflated the production of Tnc in steatotic livers and in isolated hepatic stellate cells. Moreover, we show that the inability of Tnc\u2013/\u2013 deficient steatotic mice to express Tnc significantly protected these mice from liver IRI. Compared with fatty controls, Tnc\u2013/\u2013 steatotic mice showed significantly reduced serum transaminase levels and enhanced liver histological preservation at both 6 and 24 hours after hepatic IRI. The lack of Tnc expression resulted in impaired lymphocyte antigen 6 complex, locus (Ly6G) neutrophil and macrophage antigen\u20101 (Mac\u20101) leukocyte recruitment as well as in decreased expression of proinflammatory mediators (interleukin 1\u03b2, tumor necrosis factor \u03b1, and chemokine [C\u2010X\u2010C motif] ligand 2) after liver reperfusion. Myeloperoxidase (MPO) is the most abundant cytotoxic enzyme secreted by neutrophils and a key mediator of neutrophil\u2010induced oxidative tissue injuries. Using an in vitro model of steatosis, we also show that Tnc markedly potentiated the effect of steatotic hepatocytes on neutrophil\u2010derived MPO activity. In conclusion, our data support the view that inhibition of Tnc is a promising therapeutic approach to lessen inflammation in steatotic livers and to maximize their successful use in organ transplantation."
+}

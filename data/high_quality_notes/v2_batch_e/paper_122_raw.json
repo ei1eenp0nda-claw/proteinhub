@@ -1,0 +1,43 @@
+{
+  "paperId": "ab921075883818c63a1ff49be773b9778b45a341",
+  "externalIds": {
+    "MAG": "3026131973",
+    "DOI": "10.1016/j.semcdb.2020.04.011",
+    "CorpusId": 218857309,
+    "PubMed": "32444289"
+  },
+  "title": "Hepatic lipid droplet homeostasis and fatty liver disease.",
+  "venue": "Seminars in Cell and Developmental Biology",
+  "year": 2020,
+  "citationCount": 151,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.semcdb.2020.04.011?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.semcdb.2020.04.011, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Biology",
+    "Medicine"
+  ],
+  "authors": [
+    {
+      "authorId": "2529293",
+      "name": "Fabian Seebacher"
+    },
+    {
+      "authorId": "6907931",
+      "name": "Anja Zeigerer"
+    },
+    {
+      "authorId": "4445443",
+      "name": "Nora Kory"
+    },
+    {
+      "authorId": "6581307",
+      "name": "Natalie Krahmer"
+    }
+  ],
+  "abstract": "In cells, lipids are stored in lipid droplets, dynamic organelles that adapt their size, abundance, lipid and protein composition and organelle interactions to metabolic changes. Lipid droplet accumulation in the liver is the hallmark of non-alcoholic fatty liver disease (NAFLD). Due to the prevalence of obesity, the strongest risk factor for steatosis, NAFLD and its associated complications are currently affecting more than 1 billion people worldwide. Here, we review how triglyceride and phospholipid homeostasis are regulated in hepatocytes and how imbalances between lipid storage, degradation and lipoprotein secretion lead to NAFLD. We discuss how organelle interactions are altered in NAFLD and provide insights how NAFLD progression is associated with changes in hepatocellular signaling and organ-crosstalk. Finally, we highlight unsolved questions in hepatic LD and lipoprotein biology and give an outlook on therapeutic options counteracting hepatic lipid accumulation."
+}

@@ -1,0 +1,78 @@
+{
+  "paperId": "b98193c601287facf0c751277e1301e91fff4361",
+  "externalIds": {
+    "PubMedCentral": "10839691",
+    "DOI": "10.1016/j.jlr.2023.100434",
+    "CorpusId": 261217533,
+    "PubMed": "37640283"
+  },
+  "title": "Acute activation of adipocyte lipolysis reveals dynamic lipid remodeling of the hepatic lipidome",
+  "venue": "Journal of Lipid Research",
+  "year": 2023,
+  "citationCount": 18,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "http://www.jlr.org/article/S0022227523001074/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC10839691, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "authors": [
+    {
+      "authorId": "48691733",
+      "name": "Sicheng Zhang"
+    },
+    {
+      "authorId": "2249071023",
+      "name": "K. Williams"
+    },
+    {
+      "authorId": "2234051785",
+      "name": "Amandine Verlande-Ferrero"
+    },
+    {
+      "authorId": "35305725",
+      "name": "Alvin P. Chan"
+    },
+    {
+      "authorId": "2234054297",
+      "name": "Gino B. Su"
+    },
+    {
+      "authorId": "5558361",
+      "name": "E. Kershaw"
+    },
+    {
+      "authorId": "50604929",
+      "name": "James E. Cox"
+    },
+    {
+      "authorId": "5108177",
+      "name": "J. Maschek"
+    },
+    {
+      "authorId": "5985113",
+      "name": "Suzanne N. Shapira"
+    },
+    {
+      "authorId": "4164415",
+      "name": "H. Christofk"
+    },
+    {
+      "authorId": "7350286",
+      "name": "T. Q. de Aguiar Vallim"
+    },
+    {
+      "authorId": "84065782",
+      "name": "S. Masri"
+    },
+    {
+      "authorId": "6381579",
+      "name": "Claudio J. Villanueva"
+    }
+  ],
+  "abstract": "Adipose tissue is the site of long-term energy storage. During the fasting state, exercise, and cold exposure, the white adipose tissue mobilizes energy for peripheral tissues through lipolysis. The mobilization of lipids from white adipose tissue to the liver can lead to excess triglyceride accumulation and fatty liver disease. Although the white adipose tissue is known to release free fatty acids, a comprehensive analysis of lipids mobilized from white adipocytes in vivo has not been completed. In these studies, we provide a comprehensive quantitative analysis of the adipocyte-secreted lipidome and show that there is interorgan crosstalk with liver. Our analysis identifies multiple lipid classes released by adipocytes in response to activation of lipolysis. Time-dependent analysis of the serum lipidome showed that free fatty acids increase within 30 min of \u03b23-adrenergic receptor activation and subsequently decrease, followed by a rise in serum triglycerides, liver triglycerides, and several ceramide species. The triglyceride composition of liver is enriched for linoleic acid despite higher concentrations of palmitate in the blood. To further validate that these findings were a specific consequence of lipolysis, we generated mice with conditional deletion of adipose tissue triglyceride lipase exclusively in adipocytes. This loss of in vivo adipocyte lipolysis prevented the rise in serum free fatty acids and hepatic triglycerides. Furthermore, conditioned media from adipocytes promotes lipid remodeling in hepatocytes with concomitant changes in genes/pathways mediating lipid utilization. Together, these data highlight critical role of adipocyte lipolysis in interorgan crosstalk between adipocytes and liver."
+}

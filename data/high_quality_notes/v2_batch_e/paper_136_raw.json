@@ -1,0 +1,70 @@
+{
+  "paperId": "afc93403e87a8036a26766693e697d091950a574",
+  "externalIds": {
+    "PubMedCentral": "12147229",
+    "DOI": "10.1016/j.jlr.2025.100794",
+    "CorpusId": 277547316,
+    "PubMed": "40180215"
+  },
+  "title": "S-adenosylmethionine deficit disrupts very low-density lipoprotein metabolism promoting liver lipid accumulation in mice",
+  "venue": "Journal of Lipid Research",
+  "year": 2025,
+  "citationCount": 7,
+  "influentialCitationCount": 0,
+  "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12147229, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Medicine"
+  ],
+  "authors": [
+    {
+      "authorId": "2151588014",
+      "name": "Mar\u00eda Luque-Urbano"
+    },
+    {
+      "authorId": "1397906901",
+      "name": "David Fern\u00e1ndez\u2010Ramos"
+    },
+    {
+      "authorId": "1401686324",
+      "name": "F. Lopitz\u2010Otsoa"
+    },
+    {
+      "authorId": "1403983995",
+      "name": "Virginia Guti\u00e9rrez de Juan"
+    },
+    {
+      "authorId": "1500676676",
+      "name": "Maider Bizkarguenaga"
+    },
+    {
+      "authorId": "2353588448",
+      "name": "Lia Castro-Espadas"
+    },
+    {
+      "authorId": "2353590260",
+      "name": "Uxue Hermoso-Mart\u00ednez"
+    },
+    {
+      "authorId": "1397906791",
+      "name": "Luc\u00eda Barbier-Torres"
+    },
+    {
+      "authorId": "2254259905",
+      "name": "Shelly C. Lu"
+    },
+    {
+      "authorId": "2274846669",
+      "name": "\u00d3scar Millet"
+    },
+    {
+      "authorId": "1748948774",
+      "name": "J. Mato"
+    }
+  ],
+  "abstract": "Hepatic deletion of methionine adenosyltransferase-1a (Mat1a) in mice reduces S-adenosylmethionine (SAMe), a key methyl donor essential for many biological processes, which promotes the development and progression of metabolic dysfunction-associated steatotic liver disease (MASLD). Hyperglycemia and reduced MAT1A expression, along with low SAMe levels, are common in MASLD patients. This study explores how Mat1a-knockout (KO) hepatocytes respond to prolonged high glucose conditions, focusing on glucose metabolism and lipid accumulation. Hepatocytes from methionine adenosyltransferase-1a-knockout (Mat1a-KO) mice were incubated in high glucose conditions overnight, allowing for analysis of key metabolic intermediates and gene expression related to glycolysis, gluconeogenesis, glyceroneogenesis, phospholipid synthesis, and very low density lipoprotein (VLDL) secretion. SAMe deficiency in Mat1a-KO hepatocytes led to reduced protein methyltransferase-1 activity, resulting in increased expression of glycolytic enzymes (glucokinase, phosphofructokinase, and pyruvate kinase) and decreased expression of gluconeogenic enzymes (phosphoenolpyruvate carboxykinase, fructose-1,6-bisphosphatase, and glucose-6-phosphatase). These alterations led to a reduction in dihydroxyacetone phosphate (DHAP), which subsequently inhibited mammalian target of rapamycin complex 1 (mTORC1) activity. This inhibition resulted in decreased phosphatidylcholine synthesis via the CDP-choline pathway and impaired VLDL secretion, ultimately causing lipid accumulation. Thus, under high glucose conditions, SAMe deficiency in hepatocytes depletes DHAP, inhibits mTORC1 activity, and promotes lipid buildup."
+}

@@ -1,0 +1,35 @@
+{
+  "paperId": "49c873a904b8b48f78077be7f122d36dd0906f51",
+  "externalIds": {
+    "MAG": "2967638167",
+    "DOI": "10.1016/j.pharmthera.2019.107401",
+    "CorpusId": 201041189,
+    "PubMed": "31419516"
+  },
+  "title": "The Unfolded Protein Response and Hepatic Lipid Metabolism in Non-alcoholic fatty liver disease.",
+  "venue": "Pharmacology and Therapeutics",
+  "year": 2019,
+  "citationCount": 117,
+  "influentialCitationCount": 3,
+  "openAccessPdf": {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6848795",
+    "status": "GREEN",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.pharmthera.2019.107401?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.pharmthera.2019.107401, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "fieldsOfStudy": [
+    "Chemistry",
+    "Medicine"
+  ],
+  "authors": [
+    {
+      "authorId": "144127306",
+      "name": "Myeong Jun Song"
+    },
+    {
+      "authorId": "4894757",
+      "name": "H. Malhi"
+    }
+  ],
+  "abstract": "Nonalcoholic fatty liver disease is a major public health burden. Although many features of nonalcoholic fatty liver disease pathogenesis are known, the specific mechanisms and susceptibilities that determine an individual's risk of developing nonalcoholic steatohepatitis versus isolated steatosis are not well delineated. The predominant and defining histologic and imaging characteristic of nonalcoholic fatty liver disease is the accumulation of lipids. Dysregulation of lipid homeostasis in hepatocytes leads to transient generation or accumulation of toxic lipids that result in endoplasmic reticulum (ER) stress with inflammation, hepatocellular damage, and apoptosis. ER stress activates the unfolded protein response (UPR) which is classically viewed as an adaptive pathway to maintain protein folding homeostasis. Recent studies have uncovered the contribution of the UPR sensors in the regulation of hepatic steatosis and in the cellular response to lipotoxic stress. Interestingly, the UPR sensors can be directly activated by toxic lipids, independently of the accumulation of misfolded proteins, termed lipotoxic and proteotoxic stress, respectively. The dual function of the UPR sensors in protein and lipid homeostasis suggests that these two types of stress are interconnected likely due to the central role of the ER in protein folding and trafficking and lipid biosynthesis and trafficking, such that perturbations in either impact the function of the ER and activate the UPR sensors in an effort to restore homeostasis. The precise molecular similarities and differences between proteotoxic and lipotoxic ER stress are beginning to be understood. Herein, we provide an overview of the mechanisms involved in the activation and cross-talk between the UPR sensors, hepatic lipid metabolism, and lipotoxic stress, and discuss the possible therapeutic potential of targeting the UPR in nonalcoholic fatty liver disease."
+}
