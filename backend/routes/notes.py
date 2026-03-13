@@ -20,10 +20,19 @@ except ImportError:
     RECOMMENDATION_AVAILABLE = False
     print("Warning: recommendation_engine not available")
 
+# 导入PPI推荐器
+try:
+    from ppi_recommender import PPIRecommender
+    PPI_AVAILABLE = True
+except ImportError:
+    PPI_AVAILABLE = False
+    print("Warning: ppi_recommender not available")
+
 notes_bp = Blueprint('notes', __name__)
 
 # 全局推荐引擎实例
 _recommender = None
+_ppi_recommender = None
 
 def get_recommender():
     """获取或初始化推荐引擎"""
@@ -31,6 +40,90 @@ def get_recommender():
     if _recommender is None and RECOMMENDATION_AVAILABLE:
         _recommender = HybridRecommender(cf_weight=0.5, cb_weight=0.5, exploration_rate=0.15)
     return _recommender
+
+
+def get_ppi_recommender():
+    """获取或初始化PPI推荐引擎"""
+    global _ppi_recommender
+    if _ppi_recommender is None and PPI_AVAILABLE:
+        _ppi_recommender = PPIRecommender(threshold=0.6)
+        
+        # 尝试加载PPI数据
+        tsv_path = os.path.join(os.path.dirname(__file__), '../../data/whole.tsv')
+        if os.path.exists(tsv_path):
+            _ppi_recommender.load_ppi_data(tsv_path)
+            
+            # 构建蛋白-笔记索引
+            notes_with_proteins = _build_protein_note_index()
+            _ppi_recommender.build_protein_note_index(notes_with_proteins)
+            
+    return _ppi_recommender
+
+
+def _build_protein_note_index():
+    """从笔记内容构建蛋白-笔记索引"""
+    notes_data = []
+    
+    # 常见蛋白关键词列表（基于已知蛋白）
+    common_proteins = [
+        'CIDEA', 'CIDEC', 'FSP27', 'ATGL', 'HSL', 'Perilipin', 'PLIN1', 'PLIN2', 'PLIN3', 'PLIN5',
+        'DGAT1', 'DGAT2', 'SREBP', 'PPAR', 'AMPK', 'mTOR', 'LXR', 'FXR', 'SIRT1', 'PGC1',
+        'FASN', 'SCD1', 'ACC', 'ACL', 'GPAT', 'AGPAT', 'LPAAT', 'MGL', 'MGAT',
+        'CIDE', 'ADRP', 'TIP47', 'S3-12', 'MLDP', 'OXPAT', 'LSDP5',
+        'SEIPIN', 'Rab', 'SNARE', 'NSF', 'αSNAP',
+        'LPL', 'HL', 'EL', 'LRP', 'VLDLR', 'LDLR', 'SR-BI',
+        'ApoB', 'ApoE', 'ApoA', 'ApoC', 'ApoM',
+        'ABHD5', 'CGI-58', 'G0S2', 'HILPDA', 'FIT2',
+        'UCP1', 'UCP2', 'UCP3', 'PRDM16', 'FGF21', 'BMP', 'WNT', 'Notch',
+        'Insig', 'SCAP', 'S1P', 'S2P', 'MBTPS',
+        'FADS', 'ELOVL', 'ACOX', 'MCAD', 'LCAD', 'VLCAD', 'CPT', 'CACT',
+        'PNPLA', 'PNPLA2', 'PNPLA3', 'PNPLA4', 'PNPLA5', 'PNPLA6', 'PNPLA7', 'PNPLA8',
+        'Adiponectin', 'Leptin', 'Resistin', 'Visfatin', 'Vaspin', 'Omentin', 'Apelin', 'Chemerin',
+        'TNFα', 'IL-6', 'IL-1β', 'MCP-1', 'MIP-1', 'RANTES', 'Adipsin',
+        'ER', 'PERK', 'IRE1', 'ATF6', 'BiP', 'CHOP', 'XBP1',
+        'JNK', 'IKK', 'NFκB', 'AP-1', 'STAT', 'SOCS',
+        'FOXO', 'PGC-1α', 'TFEB', 'TFE3', 'MITF',
+        'LKB1', 'CaMKK', 'TAK1', 'STRAD', 'MO25',
+        'Raptor', 'Rictor', 'GβL', 'PRAS40', 'DEPTOR',
+        'TSC1', 'TSC2', 'Rheb', 'GATOR', 'Rag', 'Ragulator',
+        'ULK1', 'FIP200', 'ATG13', 'RB1CC1',
+        'LC3', 'p62', 'NBR1', 'NDP52', 'OPTN', 'TAX1BP1',
+        'Beclin1', 'VPS34', 'VPS15', 'ATG14', 'NRBF2',
+        'ATG3', 'ATG4', 'ATG5', 'ATG7', 'ATG8', 'ATG10', 'ATG12', 'ATG16L1',
+        'STX17', 'SNAP29', 'VAMP8', 'YKT6',
+        'LAL', 'LIPA', 'LIPB', 'LIPC', 'LIPD', 'LIPE', 'LIPF', 'LIPG', 'LIPH', 'LIPI', 'LIPJ', 'LIPK', 'LIPM', 'LIPN',
+        'GL', 'HSL', 'ATGL', 'MGL', 'DAGL', 'MAGL',
+        'ACAT', 'SOAT', 'CEH', 'NCEH', 'HSL', 'MGL',
+        'SREBP-1c', 'SREBP-2', 'SCAP', 'Insig-1', 'Insig-2',
+        'ChREBP', 'MondoA', 'Mlx', 'Mnt', 'Max',
+        'LXRα', 'LXRβ', 'FXR', 'PXR', 'CAR', 'VDR', 'RXR', 'PPARα', 'PPARβ', 'PPARγ', 'PPARδ',
+        'HNF4α', 'FOXA2', 'GATA', 'EBF', 'KLF', 'C/EBP',
+        'KLF2', 'KLF3', 'KLF4', 'KLF5', 'KLF6', 'KLF7', 'KLF8', 'KLF9', 'KLF10', 'KLF11', 'KLF12', 'KLF13', 'KLF14', 'KLF15', 'KLF16', 'KLF17'
+    ]
+    
+    # 从数据库获取笔记
+    try:
+        notes = Note.query.all()
+        for note in notes:
+            content = note.content or ''
+            title = note.title or ''
+            text = title + ' ' + content
+            
+            # 提取文中提到的蛋白
+            found_proteins = []
+            for protein in common_proteins:
+                if protein in text:
+                    found_proteins.append(protein)
+                    
+            if found_proteins:
+                notes_data.append({
+                    'note_id': note.id,
+                    'proteins': found_proteins
+                })
+    except Exception as e:
+        print(f"Error building protein index: {e}")
+        
+    return notes_data
 
 
 def get_current_user_id():
@@ -149,6 +242,18 @@ def get_personalized_feed(user_id, page=1, per_page=20):
                 if preferred_tags and note_tags_list:
                     matching_tags = set(preferred_tags) & set(note_tags_list)
                     score += len(matching_tags) * 10
+                
+                # PPI蛋白互作推荐分数
+                if PPI_AVAILABLE:
+                    ppi_rec = get_ppi_recommender()
+                    if ppi_rec and hasattr(ppi_rec, 'protein_to_notes'):
+                        # 检查该笔记是否通过PPI推荐
+                        for watched_id in history_ids:
+                            ppi_recs = ppi_rec.recommend_by_ppi([watched_id], top_k=50, exclude_seen=True)
+                            for rec in ppi_recs:
+                                if rec['note_id'] == note.id:
+                                    score += rec['ppi_score'] * 20  # PPI推荐加权
+                                    break
                 
                 # 热度分数（较低的权重）
                 hot_score = (note.like_count * 2 + note.favorite_count + note.comment_count) / 100
