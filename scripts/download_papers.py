@@ -32,6 +32,17 @@ class WeeklyPaperDownloader:
         "HSL hormone-sensitive lipase LIPE",
         "CGI-58 ABHD5 ATGL coactivator",
         "MGL monoglyceride lipase MGLL",
+        # 新增蛋白
+        "DGAT1 DGAT2 triglyceride synthesis",
+        "FASN fatty acid synthase",
+        "SCD1 stearoyl-CoA desaturase",
+        "ACC acetyl-CoA carboxylase",
+        "ACLY ATP citrate lyase",
+        "GPAT glycerol-3-phosphate acyltransferase",
+        "AGPAT lysophosphatidic acid",
+        "SREBP1 SREBP2 lipogenesis",
+        "PPARalpha PPARgamma adipogenesis",
+        "AMPK mTOR energy metabolism",
         # 相关主题
         "lipid droplet biogenesis fusion",
         "lipid droplet protein coat PAT",
@@ -45,6 +56,17 @@ class WeeklyPaperDownloader:
         "diabetes type 2 adipose",
         "triglyceride storage mobilization",
         "fatty acid oxidation adipose",
+        "cholesterol metabolism HDL LDL",
+        "mitochondria fatty acid oxidation",
+        "endoplasmic reticulum lipid metabolism",
+        "autophagy lipophagy lipid droplet",
+        "inflammation adipose tissue macrophage",
+        "adipokine leptin adiponectin",
+        "circadian rhythm metabolism",
+        "exercise training lipid metabolism",
+        "dietary fat absorption chylomicron",
+        "ketogenesis ketone body liver",
+        "bile acid cholesterol metabolism",
     ]
     
     FIELDS = "title,authors,year,abstract,fieldsOfStudy,venue,externalIds,citationCount,influentialCitationCount"

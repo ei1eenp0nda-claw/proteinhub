@@ -1,0 +1,1892 @@
+[
+  {
+    "paperId": "fc72e3a7bb6a50e754d06d8533ac115eb7f03682",
+    "externalIds": {
+      "MAG": "2071608742",
+      "DOI": "10.1242/jcs.045849",
+      "CorpusId": 20274874,
+      "PubMed": "19461073"
+    },
+    "title": "Coatomer-dependent protein delivery to lipid droplets",
+    "venue": "Journal of Cell Science",
+    "year": 2009,
+    "citationCount": 242,
+    "influentialCitationCount": 19,
+    "openAccessPdf": {
+      "url": "https://europepmc.org/articles/pmc2684835",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1242/jcs.045849?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1242/jcs.045849, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "49462954",
+        "name": "Krishnakant G. Soni"
+      },
+      {
+        "authorId": "6337988",
+        "name": "G. Mardones"
+      },
+      {
+        "authorId": "3473434",
+        "name": "R. Sougrat"
+      },
+      {
+        "authorId": "80886222",
+        "name": "E. Smirnova"
+      },
+      {
+        "authorId": "4433137",
+        "name": "C. L. Jackson"
+      },
+      {
+        "authorId": "5269672",
+        "name": "J. Bonifacino"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "b5f2d343e5d2d1ef50032261c1ad768c48f3c90c",
+    "externalIds": {
+      "MAG": "2220777476",
+      "DOI": "10.1146/annurev-nutr-071813-105410",
+      "CorpusId": 4617071,
+      "PubMed": "27431369"
+    },
+    "title": "The Perilipins: Major Cytosolic Lipid Droplet-Associated Proteins and Their Roles in Cellular Lipid Storage, Mobilization, and Systemic Homeostasis.",
+    "venue": "Annual review of nutrition",
+    "year": 2016,
+    "citationCount": 241,
+    "influentialCitationCount": 17,
+    "openAccessPdf": {
+      "url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-nutr-071813-105410",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1146/annurev-nutr-071813-105410?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1146/annurev-nutr-071813-105410, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2805764",
+        "name": "A. Kimmel"
+      },
+      {
+        "authorId": "5423887",
+        "name": "C. Sztalryd"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "c81ff9e42a8c221280230db53002bbd80451f15d",
+    "externalIds": {
+      "MAG": "2165859364",
+      "DOI": "10.1016/j.cmet.2008.12.013",
+      "CorpusId": 17344319,
+      "PubMed": "19187774"
+    },
+    "title": "Cideb, an ER- and lipid droplet-associated protein, mediates VLDL lipidation and maturation by interacting with apolipoprotein B.",
+    "venue": "Cell Metabolism",
+    "year": 2009,
+    "citationCount": 241,
+    "influentialCitationCount": 13,
+    "openAccessPdf": {
+      "url": "http://www.cell.com/article/S1550413108004208/pdf",
+      "status": "BRONZE",
+      "license": "publisher-specific-oa",
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.cmet.2008.12.013?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.cmet.2008.12.013, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2116475226",
+        "name": "Jing Ye"
+      },
+      {
+        "authorId": "46276021",
+        "name": "J. Li"
+      },
+      {
+        "authorId": "2152802379",
+        "name": "Yang Liu"
+      },
+      {
+        "authorId": "2144461382",
+        "name": "Xuanhe Li"
+      },
+      {
+        "authorId": "2994330",
+        "name": "Tianshu Yang"
+      },
+      {
+        "authorId": "2391499882",
+        "name": "Xiaodong Ma"
+      },
+      {
+        "authorId": "2117895072",
+        "name": "Qing Li"
+      },
+      {
+        "authorId": "38487231",
+        "name": "Z. Yao"
+      },
+      {
+        "authorId": "2152926564",
+        "name": "Peng Li"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "b4fc8d3bef0f12f79eb456e9972301539bb518c5",
+    "externalIds": {
+      "MAG": "2901106636",
+      "DOI": "10.1016/j.celrep.2018.10.068",
+      "CorpusId": 53433165,
+      "PubMed": "30428350"
+    },
+    "title": "Circadian Clock Regulation of Hepatic Lipid Metabolism by Modulation of m6A mRNA Methylation.",
+    "venue": "Cell Reports",
+    "year": 2018,
+    "citationCount": 241,
+    "influentialCitationCount": 5,
+    "openAccessPdf": {
+      "url": "https://www.cell.com/article/S2211124718316723/pdf",
+      "status": "GOLD",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.celrep.2018.10.068?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.celrep.2018.10.068, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "145865722",
+        "name": "X. Zhong"
+      },
+      {
+        "authorId": "2338221808",
+        "name": "Jiayao Yu"
+      },
+      {
+        "authorId": "49547086",
+        "name": "Katya Frazier"
+      },
+      {
+        "authorId": "2759951",
+        "name": "X. Weng"
+      },
+      {
+        "authorId": "2153682680",
+        "name": "Yi Li"
+      },
+      {
+        "authorId": "6723228",
+        "name": "C. Cham"
+      },
+      {
+        "authorId": "46773484",
+        "name": "Kyle T. Dolan"
+      },
+      {
+        "authorId": "2795566",
+        "name": "Xiaorong Zhu"
+      },
+      {
+        "authorId": "47063763",
+        "name": "N. Hubert"
+      },
+      {
+        "authorId": "46762225",
+        "name": "Y. Tao"
+      },
+      {
+        "authorId": "12214858",
+        "name": "F. Lin"
+      },
+      {
+        "authorId": "2273192049",
+        "name": "Kristina Martinez-Guryn"
+      },
+      {
+        "authorId": "2145586767",
+        "name": "Yong Huang"
+      },
+      {
+        "authorId": "37555327",
+        "name": "Tian Wang"
+      },
+      {
+        "authorId": "46701144",
+        "name": "Jianzhao Liu"
+      },
+      {
+        "authorId": "145118884",
+        "name": "Chuan He"
+      },
+      {
+        "authorId": "1702329",
+        "name": "E. Chang"
+      },
+      {
+        "authorId": "37616204",
+        "name": "V. Leone"
+      }
+    ],
+    "abstract": "Transcriptional regulation of circadian rhythms is essential for lipid metabolic homeostasis, disruptions of which can lead to metabolic diseases. Whether N6-methyladenosine (m6A) mRNA methylation impacts circadian regulation of lipid metabolism is unclear. Here, we show m6A mRNA methylation oscillations in murine liver depend upon a functional circadian clock. Hepatic deletion of Bmal1 increases m6A mRNA methylation, particularly of PPaR\u03b1. Inhibition of m6A methylation via knockdown of m6A methyltransferase METTL3 decreases PPaR\u03b1 m6A abundance and increases PPaR\u03b1 mRNA lifetime and expression, reducing lipid\u00a0accumulation in cells in\u00a0vitro. Mechanistically, YTHDF2 binds to PPaR\u03b1 to mediate its mRNA stability to regulate lipid metabolism. Induction of reactive oxygen species both in\u00a0vitro and in\u00a0vivo increases PPaR\u03b1 transcript m6A levels, revealing a possible mechanism for circadian disruption on m6A mRNA methylation. These data show that m6A RNA methylation is important for circadian regulation of downstream genes and lipid metabolism, impacting metabolic outcomes."
+  },
+  {
+    "paperId": "d625b19134e145d1141487d167c7e69384ee64df",
+    "externalIds": {
+      "PubMedCentral": "5452040",
+      "MAG": "2599212030",
+      "DOI": "10.15252/embj.201694914",
+      "CorpusId": 1570642,
+      "PubMed": "28348166"
+    },
+    "title": "Mfn2 is critical for brown adipose tissue thermogenic function",
+    "venue": "EMBO Journal",
+    "year": 2017,
+    "citationCount": 241,
+    "influentialCitationCount": 15,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.15252/embj.201694914",
+      "status": "HYBRID",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5452040, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "4175638",
+        "name": "Marie Boutant"
+      },
+      {
+        "authorId": "50715738",
+        "name": "Sameer S. Kulkarni"
+      },
+      {
+        "authorId": "3927234",
+        "name": "Magali Joffraud"
+      },
+      {
+        "authorId": "46751722",
+        "name": "Joanna Ratajczak"
+      },
+      {
+        "authorId": "1402735820",
+        "name": "Miriam Valera-Alberni"
+      },
+      {
+        "authorId": "6989018",
+        "name": "R. Combe"
+      },
+      {
+        "authorId": "3145493",
+        "name": "A. Zorzano"
+      },
+      {
+        "authorId": "144191057",
+        "name": "C. Cant\u00f3"
+      }
+    ],
+    "abstract": "Mitochondrial fusion and fission events, collectively known as mitochondrial dynamics, act as quality control mechanisms to ensure mitochondrial function and fine\u2010tune cellular bioenergetics. Defective mitofusin 2 (Mfn2) expression and enhanced mitochondrial fission in skeletal muscle are hallmarks of insulin\u2010resistant states. Interestingly, Mfn2 is highly expressed in brown adipose tissue (BAT), yet its role remains unexplored. Using adipose\u2010specific Mfn2 knockout (Mfn2\u2010adKO) mice, we demonstrate that Mfn2, but not Mfn1, deficiency in BAT leads to a profound BAT dysfunction, associated with impaired respiratory capacity and a blunted response to adrenergic stimuli. Importantly, Mfn2 directly interacts with perilipin 1, facilitating the interaction between the mitochondria and the lipid droplet in response to adrenergic stimulation. Surprisingly, Mfn2\u2010adKO mice were protected from high\u2010fat diet\u2010induced insulin resistance and hepatic steatosis. Altogether, these results demonstrate that Mfn2 is a mediator of mitochondria to lipid droplet interactions, influencing lipolytic processes and whole\u2010body energy homeostasis."
+  },
+  {
+    "paperId": "16062e539ff25d799e3971826a349b66c98f2730",
+    "externalIds": {
+      "MAG": "2755306738",
+      "DOI": "10.1080/14728222.2017.1381087",
+      "CorpusId": 46749593,
+      "PubMed": "28922023"
+    },
+    "title": "Fatty acid synthase (FASN) as a therapeutic target in breast cancer",
+    "venue": "Expert opinion on therapeutic targets",
+    "year": 2017,
+    "citationCount": 239,
+    "influentialCitationCount": 3,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1080/14728222.2017.1381087?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1080/14728222.2017.1381087, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2164966",
+        "name": "J. Men\u00e9ndez"
+      },
+      {
+        "authorId": "1839833",
+        "name": "R. Lupu"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "e559b1a107a7777f16ff147ff5092af5b7ad0ba2",
+    "externalIds": {
+      "MAG": "2472054870",
+      "DOI": "10.1128/MCB.00244-16",
+      "CorpusId": 206822337,
+      "PubMed": "27185873"
+    },
+    "title": "AMPK Phosphorylates Desnutrin/ATGL and Hormone-Sensitive Lipase To Regulate Lipolysis and Fatty Acid Oxidation within Adipose Tissue",
+    "venue": "Molecular and Cellular Biology",
+    "year": 2016,
+    "citationCount": 238,
+    "influentialCitationCount": 14,
+    "openAccessPdf": {
+      "url": "https://mcb.asm.org/content/mcb/36/14/1961.full.pdf",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1128/MCB.00244-16?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1128/MCB.00244-16, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "2144244783",
+        "name": "Sun-Joong Kim"
+      },
+      {
+        "authorId": "122043188",
+        "name": "Tianyi Tang"
+      },
+      {
+        "authorId": "6927908",
+        "name": "M. Abbott"
+      },
+      {
+        "authorId": "8576458",
+        "name": "J. Viscarra"
+      },
+      {
+        "authorId": "46396464",
+        "name": "Yuhui Wang"
+      },
+      {
+        "authorId": "3721281",
+        "name": "H. Sul"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "45fd4d46044b10944dfb21dfaa8de07a07e19ec6",
+    "externalIds": {
+      "MAG": "1990351735",
+      "DOI": "10.1016/J.BBALIP.2006.11.011",
+      "CorpusId": 26065068,
+      "PubMed": "17234449"
+    },
+    "title": "LSDP5 is a PAT protein specifically expressed in fatty acid oxidizing tissues.",
+    "venue": "Biochimica et Biophysica Acta",
+    "year": 2007,
+    "citationCount": 236,
+    "influentialCitationCount": 17,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.BBALIP.2006.11.011?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.BBALIP.2006.11.011, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "6600647",
+        "name": "K. Dalen"
+      },
+      {
+        "authorId": "5390166",
+        "name": "T. Dahl"
+      },
+      {
+        "authorId": "46289553",
+        "name": "E. Holter"
+      },
+      {
+        "authorId": "26922935",
+        "name": "B. Arntsen"
+      },
+      {
+        "authorId": "4217394",
+        "name": "C. Londos"
+      },
+      {
+        "authorId": "5423887",
+        "name": "C. Sztalryd"
+      },
+      {
+        "authorId": "4452068",
+        "name": "H. Nebb"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "cc397429960c7a60cab8099e162eb8e0a6a22ca4",
+    "externalIds": {
+      "MAG": "2888447333",
+      "DOI": "10.1016/j.cmet.2018.07.019",
+      "CorpusId": 202020442,
+      "PubMed": "30146486"
+    },
+    "title": "Impairment of Angiogenesis by Fatty Acid Synthase Inhibition Involves mTOR Malonylation.",
+    "venue": "Cell Metabolism",
+    "year": 2018,
+    "citationCount": 236,
+    "influentialCitationCount": 7,
+    "openAccessPdf": {
+      "url": "http://www.cell.com/article/S1550413118304625/pdf",
+      "status": "BRONZE",
+      "license": "publisher-specific-oa",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.cmet.2018.07.019?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.cmet.2018.07.019, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "3085718",
+        "name": "Ulrike Bruning"
+      },
+      {
+        "authorId": "2076790176",
+        "name": "F. Morales-Rodr\u00edguez"
+      },
+      {
+        "authorId": "4523787",
+        "name": "Joanna Kalucka"
+      },
+      {
+        "authorId": "6593952",
+        "name": "J. Goveia"
+      },
+      {
+        "authorId": "40941752",
+        "name": "Federico Taverna"
+      },
+      {
+        "authorId": "5496095",
+        "name": "K. Queiroz"
+      },
+      {
+        "authorId": "6921192",
+        "name": "Charlotte Dubois"
+      },
+      {
+        "authorId": "5019200",
+        "name": "A. Cantelmo"
+      },
+      {
+        "authorId": "3855022",
+        "name": "Rongyuan Chen"
+      },
+      {
+        "authorId": "3568578",
+        "name": "S. Loroch"
+      },
+      {
+        "authorId": "2619032",
+        "name": "E. Timmerman"
+      },
+      {
+        "authorId": "11250313",
+        "name": "Vanessa Caixeta"
+      },
+      {
+        "authorId": "35973505",
+        "name": "Katarzyna Bloch"
+      },
+      {
+        "authorId": "6588887",
+        "name": "L. Conradi"
+      },
+      {
+        "authorId": "114586181",
+        "name": "Lucas Treps"
+      },
+      {
+        "authorId": "5709936",
+        "name": "A. Staes"
+      },
+      {
+        "authorId": "3142168",
+        "name": "K. Gevaert"
+      },
+      {
+        "authorId": "2269989360",
+        "name": "Andrew R. Tee"
+      },
+      {
+        "authorId": "3706721",
+        "name": "M. Dewerchin"
+      },
+      {
+        "authorId": "6791099",
+        "name": "C. Semenkovich"
+      },
+      {
+        "authorId": "2336148",
+        "name": "Francis Impens"
+      },
+      {
+        "authorId": "35123577",
+        "name": "B. Schilling"
+      },
+      {
+        "authorId": "144984118",
+        "name": "E. Verdin"
+      },
+      {
+        "authorId": "34083669",
+        "name": "J. Swinnen"
+      },
+      {
+        "authorId": "6033148",
+        "name": "J. Meier"
+      },
+      {
+        "authorId": "1394703479",
+        "name": "Rhushikesh A. Kulkarni"
+      },
+      {
+        "authorId": "3053981",
+        "name": "A. Sickmann"
+      },
+      {
+        "authorId": "4599821",
+        "name": "B. Ghesqui\u00e8re"
+      },
+      {
+        "authorId": "6700153",
+        "name": "L. Schoonjans"
+      },
+      {
+        "authorId": "2108256032",
+        "name": "Xuri Li"
+      },
+      {
+        "authorId": "2299789",
+        "name": "M. Mazzone"
+      },
+      {
+        "authorId": "3120863",
+        "name": "P. Carmeliet"
+      }
+    ],
+    "abstract": "The role of fatty acid synthesis in endothelial cells (ECs) remains incompletely characterized. We report that fatty acid synthase knockdown (FASNKD) in ECs impedes vessel sprouting by reducing proliferation. Endothelial loss of FASN impaired angiogenesis in\u00a0vivo, while FASN blockade reduced pathological ocular neovascularization, at >10-fold lower doses than used for anti-cancer treatment. Impaired angiogenesis was not due to energy stress, redox imbalance, or palmitate depletion. Rather, FASNKD elevated malonyl-CoA levels, causing malonylation (a post-translational modification) of mTOR at lysine 1218 (K1218). mTOR K-1218 malonylation impaired mTOR complex 1 (mTORC1) kinase activity, thereby reducing phosphorylation of downstream targets (p70S6K/4EBP1). Silencing acetyl-CoA carboxylase 1 (an enzyme producing malonyl-CoA) normalized malonyl-CoA levels and reactivated mTOR in FASNKD ECs. Mutagenesis unveiled the importance of mTOR K1218 malonylation for angiogenesis. This study unveils a novel role of FASN in metabolite signaling that contributes to explaining the anti-angiogenic effect of FASN blockade."
+  },
+  {
+    "paperId": "dfed7aa4ef1498bf2657452efb5a8decab9bd280",
+    "externalIds": {
+      "MAG": "2162558399",
+      "PubMedCentral": "2233741",
+      "DOI": "10.1155/2007/26839",
+      "CorpusId": 5715811,
+      "PubMed": "18288265"
+    },
+    "title": "Comprehensive Analysis of PPAR\u03b1-Dependent Regulation of Hepatic Lipid Metabolism by Expression Profiling",
+    "venue": "PPAR Research",
+    "year": 2007,
+    "citationCount": 232,
+    "influentialCitationCount": 18,
+    "openAccessPdf": {
+      "url": "https://downloads.hindawi.com/journals/ppar/2007/026839.pdf",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC2233741, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Chemistry",
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "5608018",
+        "name": "M. Rakhshandehroo"
+      },
+      {
+        "authorId": "144484585",
+        "name": "L. Sanderson"
+      },
+      {
+        "authorId": "40078432",
+        "name": "Merja Matilainen"
+      },
+      {
+        "authorId": "5418254",
+        "name": "R. Stienstra"
+      },
+      {
+        "authorId": "145342803",
+        "name": "C. Carlberg"
+      },
+      {
+        "authorId": "47793041",
+        "name": "Philip J. de Groot"
+      },
+      {
+        "authorId": "143989258",
+        "name": "Michael M\u00fcller"
+      },
+      {
+        "authorId": "8236321",
+        "name": "S. Kersten"
+      }
+    ],
+    "abstract": "PPAR\u03b1 is a ligand-activated transcription factor involved in the regulation of nutrient metabolism and inflammation. Although much is already known about the function of PPAR\u03b1 in hepatic lipid metabolism, many PPAR\u03b1-dependent pathways and genes have yet to be discovered. In order to obtain an overview of PPAR\u03b1-regulated genes relevant to lipid metabolism, and to probe for novel candidate PPAR\u03b1 target genes, livers from several animal studies in which PPAR\u03b1 was activated and/or disabled were analyzed by Affymetrix GeneChips. Numerous novel PPAR\u03b1-regulated genes relevant to lipid metabolism were identified. Out of this set of genes, eight genes were singled out for study of PPAR\u03b1-dependent regulation in mouse liver and in mouse, rat, and human primary hepatocytes, including thioredoxin interacting protein (Txnip), electron-transferring-flavoprotein \u03b2 polypeptide (Etfb), electron-transferring-flavoprotein dehydrogenase (Etfdh), phosphatidylcholine transfer protein (Pctp), endothelial lipase (EL, Lipg), adipose triglyceride lipase (Pnpla2), hormone-sensitive lipase (HSL, Lipe), and monoglyceride lipase (Mgll). Using an in silico screening approach, one or more PPAR response elements (PPREs) were identified in each of these genes. Regulation of Pnpla2, Lipe, and Mgll, which are involved in triglyceride hydrolysis, was studied under conditions of elevated hepatic lipids. In wild-type mice fed a high fat diet, the decrease in hepatic lipids following treatment with the PPAR\u03b1 agonist Wy14643 was paralleled by significant up-regulation of Pnpla2, Lipe, and Mgll, suggesting that induction of triglyceride hydrolysis may contribute to the anti-steatotic role of PPAR\u03b1. Our study illustrates the power of transcriptional profiling to uncover novel PPAR\u03b1-regulated genes and pathways in liver."
+  },
+  {
+    "paperId": "f173ca807dec83823109d0468a83c9c4dd62c345",
+    "externalIds": {
+      "MAG": "2766393670",
+      "DOI": "10.1016/j.tem.2017.10.003",
+      "CorpusId": 4686946,
+      "PubMed": "29089222"
+    },
+    "title": "Insights into Stearoyl-CoA Desaturase-1 Regulation of Systemic Metabolism.",
+    "venue": "Trends in endocrinology and metabolism",
+    "year": 2017,
+    "citationCount": 232,
+    "influentialCitationCount": 4,
+    "openAccessPdf": {
+      "url": "https://europepmc.org/articles/pmc5701860?pdf=render",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.tem.2017.10.003?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.tem.2017.10.003, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "79602406",
+        "name": "Ahmed Aljohani"
+      },
+      {
+        "authorId": "5349639",
+        "name": "D. Syed"
+      },
+      {
+        "authorId": "5195023",
+        "name": "J. Ntambi"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "451d171cd5bb934e1832c130e8a374245ae1aa8a",
+    "externalIds": {
+      "MAG": "1992232373",
+      "DOI": "10.1002/hep.24338",
+      "CorpusId": 23802675,
+      "PubMed": "21465509"
+    },
+    "title": "Deficiency of liver adipose triglyceride lipase in mice causes progressive hepatic steatosis",
+    "venue": "Hepatology",
+    "year": 2011,
+    "citationCount": 230,
+    "influentialCitationCount": 9,
+    "openAccessPdf": {
+      "url": "https://aasldpubs.onlinelibrary.wiley.com/doi/pdf/10.1002/hep.24338",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1002/hep.24338?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/hep.24338, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "2115691129",
+        "name": "J. Wu"
+      },
+      {
+        "authorId": "1421268457",
+        "name": "Shu Pei Wang"
+      },
+      {
+        "authorId": "144737734",
+        "name": "F. Alvarez"
+      },
+      {
+        "authorId": "4353896",
+        "name": "St\u00e9phanie Casavant"
+      },
+      {
+        "authorId": "2104100421",
+        "name": "N. Gauthier"
+      },
+      {
+        "authorId": "29456929",
+        "name": "L. Abed"
+      },
+      {
+        "authorId": "49462954",
+        "name": "Krishnakant G. Soni"
+      },
+      {
+        "authorId": "80651988",
+        "name": "Gongshe Yang"
+      },
+      {
+        "authorId": "1892528",
+        "name": "G. Mitchell"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "57fc7e1c0dab8b127e9f30d5717c9059c3121fae",
+    "externalIds": {
+      "MAG": "2145393091",
+      "DOI": "10.1111/j.1600-0854.2008.00767.x",
+      "CorpusId": 20609887,
+      "PubMed": "18489704"
+    },
+    "title": "Hepatitis C Virus Core Protein Induces Lipid Droplet Redistribution in a Microtubule\u2010 and Dynein\u2010Dependent Manner",
+    "venue": "Traffic : the International Journal of Intracellular Transport",
+    "year": 2008,
+    "citationCount": 227,
+    "influentialCitationCount": 10,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1111/j.1600-0854.2008.00767.x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/j.1600-0854.2008.00767.x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "6261814",
+        "name": "S. Boulant"
+      },
+      {
+        "authorId": "1839910",
+        "name": "M. Douglas"
+      },
+      {
+        "authorId": "50060194",
+        "name": "L. Moody"
+      },
+      {
+        "authorId": "5288679",
+        "name": "A. Budkowska"
+      },
+      {
+        "authorId": "1398096966",
+        "name": "P. Targett-Adams"
+      },
+      {
+        "authorId": "145295866",
+        "name": "J. McLauchlan"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "aa2772295359917d04c211a2cf7f9e3ccde39214",
+    "externalIds": {
+      "MAG": "2128693388",
+      "DOI": "10.1074/jbc.M304025200",
+      "CorpusId": 1591100,
+      "PubMed": "12840023"
+    },
+    "title": "Adipocyte Protein S3-12 Coats Nascent Lipid Droplets*",
+    "venue": "Journal of Biological Chemistry",
+    "year": 2003,
+    "citationCount": 224,
+    "influentialCitationCount": 11,
+    "openAccessPdf": {
+      "url": "http://www.jbc.org/article/S0021925820833365/pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1074/jbc.M304025200?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1074/jbc.M304025200, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "4800983",
+        "name": "N. Wolins"
+      },
+      {
+        "authorId": "153811383",
+        "name": "James R. Skinner"
+      },
+      {
+        "authorId": "3816344",
+        "name": "Marissa J. Schoenfish"
+      },
+      {
+        "authorId": "5811677",
+        "name": "A. Tzekov"
+      },
+      {
+        "authorId": "153716837",
+        "name": "K. Bensch"
+      },
+      {
+        "authorId": "6835434",
+        "name": "P. Bickel"
+      }
+    ],
+    "abstract": "Most animals store lipid intracellularly in protein-coated droplets. The protein coat usually contains at least one member of the PAT (perilipin, adipose differentiation-related protein, and TIP47) family. Evidence suggests that PAT proteins control access to the lipid they enclose. The protein S3-12, which has sequence similarity to the PAT proteins, was found in a screen for adipocyte-specific proteins. The adipocyte expression of S3-12 and its similarity to the PAT proteins suggest that S3-12 is involved in adipocyte lipid storage. To test this hypothesis, we supplemented 3T3-L1 adipocytes with fatty acids and assessed the distribution of S3-12 by immunofluorescence microscopy. Prior to fatty acid incubation, S3-12 was distributed diffusely throughout the cytoplasm on punctate structures of heterogeneous size. After 10 min of lipid loading, S3-12 localized to 500-nm structures concentrated at the adipocyte periphery. After longer incubations, S3-12 coated the surface of lipid droplets up to several micrometers in diameter. Initially, these droplets were distinct from those droplets surrounded by perilipin; but by 240 min, most perilipin-coated droplets had some S3-12 on the surface as well. We additionally report that the formation of S3-12-coated droplets 1) required glucose and fatty acids that can be incorporated into triacylglycerol, 2) was blocked by an inhibitor of triacylglycerol synthesis, and 3) was insulin-dependent. This study reports for the first time the early morphological events in the genesis and maturation of adipocyte lipid droplets."
+  },
+  {
+    "paperId": "90989acc17d2c5184225bb6fd9c4197224fa0cbf",
+    "externalIds": {
+      "MAG": "2078709311",
+      "DOI": "10.1007/s00335-01-2055-5",
+      "CorpusId": 33216665,
+      "PubMed": "11641724"
+    },
+    "title": "The murine perilipin gene: the lipid droplet-associated perilipins derive from tissue-specific, mRNA splice variants and define a gene family of ancient origin",
+    "venue": "Mammalian Genome",
+    "year": 2001,
+    "citationCount": 224,
+    "influentialCitationCount": 12,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s00335-01-2055-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s00335-01-2055-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "4062569",
+        "name": "Xinyue Lu"
+      },
+      {
+        "authorId": "1401710316",
+        "name": "J. Gruia-Gray"
+      },
+      {
+        "authorId": "3312579",
+        "name": "N. Copeland"
+      },
+      {
+        "authorId": "2268371",
+        "name": "D. Gilbert"
+      },
+      {
+        "authorId": "1708266",
+        "name": "N. Jenkins"
+      },
+      {
+        "authorId": "4217394",
+        "name": "C. Londos"
+      },
+      {
+        "authorId": "2805764",
+        "name": "A. Kimmel"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "00c74e02f0bbbabeb75308bf3152c779a9a9b194",
+    "externalIds": {
+      "MAG": "2002232196",
+      "DOI": "10.1073/pnas.1213738110",
+      "CorpusId": 25638917,
+      "PubMed": "23297223"
+    },
+    "title": "Spatial regulation of UBXD8 and p97/VCP controls ATGL-mediated lipid droplet turnover",
+    "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+    "year": 2013,
+    "citationCount": 224,
+    "influentialCitationCount": 9,
+    "openAccessPdf": {
+      "url": "https://www.pnas.org/content/pnas/110/4/1345.full.pdf",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1073/pnas.1213738110?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1073/pnas.1213738110, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "6713065",
+        "name": "James A. Olzmann"
+      },
+      {
+        "authorId": "10994727",
+        "name": "C. Richter"
+      },
+      {
+        "authorId": "5390861",
+        "name": "R. Kopito"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "533ff7f39428790452c7031d37b6046178cef37c",
+    "externalIds": {
+      "MAG": "2113637800",
+      "DOI": "10.2337/DIABETES.53.5.1243",
+      "CorpusId": 30357986,
+      "PubMed": "15111493"
+    },
+    "title": "Adipose tissue expression of the lipid droplet-associating proteins S3-12 and perilipin is controlled by peroxisome proliferator-activated receptor-gamma.",
+    "venue": "Diabetes",
+    "year": 2004,
+    "citationCount": 223,
+    "influentialCitationCount": 8,
+    "openAccessPdf": {
+      "url": "https://diabetesjournals.org/diabetes/article-pdf/53/5/1243/647079/zdb00504001243.pdf",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.2337/DIABETES.53.5.1243?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2337/DIABETES.53.5.1243, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "6600647",
+        "name": "K. Dalen"
+      },
+      {
+        "authorId": "2665834",
+        "name": "K. Schoonjans"
+      },
+      {
+        "authorId": "6250755",
+        "name": "S. Ulven"
+      },
+      {
+        "authorId": "1403491649",
+        "name": "M. S. Weedon-Fekjaer"
+      },
+      {
+        "authorId": "32188829",
+        "name": "T. Bentzen"
+      },
+      {
+        "authorId": "4209120",
+        "name": "H. Koutnikova"
+      },
+      {
+        "authorId": "3035748",
+        "name": "J. Auwerx"
+      },
+      {
+        "authorId": "4452068",
+        "name": "H. Nebb"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "ad490c4df8cdf2d8b7b2c4769256274e52e1e72a",
+    "externalIds": {
+      "MAG": "2070018025",
+      "DOI": "10.1074/jbc.M109.008631",
+      "CorpusId": 25792774,
+      "PubMed": "19433586"
+    },
+    "title": "Contribution of Adipose Triglyceride Lipase and Hormone-sensitive Lipase to Lipolysis in hMADS Adipocytes*",
+    "venue": "Journal of Biological Chemistry",
+    "year": 2009,
+    "citationCount": 219,
+    "influentialCitationCount": 4,
+    "openAccessPdf": {
+      "url": "http://www.jbc.org/article/S0021925820555890/pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1074/jbc.M109.008631?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1074/jbc.M109.008631, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "4070321",
+        "name": "Ve\u0301ronic Be\u0301zaire"
+      },
+      {
+        "authorId": "3651973",
+        "name": "A. Mairal"
+      },
+      {
+        "authorId": "34990353",
+        "name": "C. Ribet"
+      },
+      {
+        "authorId": "2075270456",
+        "name": "C. Lefort"
+      },
+      {
+        "authorId": "4420641",
+        "name": "A. Girousse"
+      },
+      {
+        "authorId": "4840665",
+        "name": "J. Jocken"
+      },
+      {
+        "authorId": "6654945",
+        "name": "J. Laurencikiene"
+      },
+      {
+        "authorId": "5037543",
+        "name": "R. Anesia"
+      },
+      {
+        "authorId": "113504562",
+        "name": "A. Rodriguez"
+      },
+      {
+        "authorId": "1810715",
+        "name": "M. Ryd\u00e9n"
+      },
+      {
+        "authorId": "32498935",
+        "name": "B. Stenson"
+      },
+      {
+        "authorId": "7694530",
+        "name": "C. Dani"
+      },
+      {
+        "authorId": "2073856818",
+        "name": "G. Ailhaud"
+      },
+      {
+        "authorId": "4212074",
+        "name": "P. Arner"
+      },
+      {
+        "authorId": "2036491",
+        "name": "D. Langin"
+      }
+    ],
+    "abstract": "Lipolysis is the catabolic pathway by which triglycerides are hydrolyzed into fatty acids. Adipose triglyceride lipase (ATGL) and hormone-sensitive lipase (HSL) have the capacity to hydrolyze in vitro the first ester bond of triglycerides, but their respective contributions to whole cell lipolysis in human adipocytes is unclear. Here, we have investigated the roles of HSL, ATGL, and its coactivator CGI-58 in basal and forskolin-stimulated lipolysis in a human white adipocyte model, the hMADS cells. The hMADS adipocytes express the various components of fatty acid metabolism and show lipolytic capacity similar to primary cultured adipocytes. We show that lipolysis and fatty acid esterification are tightly coupled except in conditions of stimulated lipolysis. Immunocytochemistry experiments revealed that acute forskolin treatment promotes HSL translocation from the cytosol to small lipid droplets and redistribution of ATGL from the cytosol and large lipid droplets to small lipid droplets, resulting in enriched colocalization of the two lipases. HSL or ATGL overexpression resulted in increased triglyceride-specific hydrolase capacity, but only ATGL overexpression increased whole cell lipolysis. HSL silencing had no effect on basal lipolysis and only partially reduced forskolin-stimulated lipolysis. Conversely, silencing of ATGL or CGI-58 significantly reduced basal lipolysis and essentially abolished forskolin-stimulated lipolysis. Altogether, these results suggest that ATGL/CGI-58 acts independently of HSL and precedes its action in the sequential hydrolysis of triglycerides in human hMADS adipocytes."
+  },
+  {
+    "paperId": "81e09fd48f6be084bea9f68205e9cffd891566b9",
+    "externalIds": {
+      "MAG": "2058381061",
+      "DOI": "10.1074/jbc.C800241200",
+      "CorpusId": 205290042,
+      "PubMed": "19297333"
+    },
+    "title": "FoxO1 Controls Insulin-dependent Adipose Triglyceride Lipase (ATGL) Expression and Lipolysis in Adipocytes*",
+    "venue": "Journal of Biological Chemistry",
+    "year": 2009,
+    "citationCount": 218,
+    "influentialCitationCount": 15,
+    "openAccessPdf": {
+      "url": "http://www.jbc.org/article/S0021925820581829/pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1074/jbc.C800241200?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1074/jbc.C800241200, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "49063150",
+        "name": "P. Chakrabarti"
+      },
+      {
+        "authorId": "3762566",
+        "name": "K. Kandror"
+      }
+    ],
+    "abstract": "FoxO1 represents a central regulator of metabolism in several cell types. Although FoxO1 is abundant in adipocytes, its biological functions in these cells remain largely unknown. We show here that the promotor region of the rate-limiting lipolytic enzyme, adipose triglyceride lipase (ATGL), has two FoxO1-binding sites, and co-transfection with wild type and unphosphorylated FoxO1 mutant activates the expression of luciferase driven by the ATGL promotor. In 3T3-L1 adipocytes, insulin controls nucleo-cytoplasmic shuttling of FoxO1 and regulates its interaction with endogenous ATGL promotors. Knockdown of FoxO1 in 3T3-L1 adipocytes decreases the expression of ATGL and attenuates basal and isoproterenol-stimulated lipolysis. Infection of mouse embryonic fibroblasts with FoxO1-encoding lentivirus increases ATGL expression and renders it sensitive to regulation by insulin. Thus, FoxO1 may play an important role in the regulation of lipolysis in adipocytes by controlling the expression of ATGL."
+  },
+  {
+    "paperId": "9bd65f09027406433d8286e3f1758ae0a01ae1f7",
+    "externalIds": {
+      "MAG": "2018637188",
+      "DOI": "10.1016/J.PHYTOCHEM.2006.09.020",
+      "CorpusId": 8085023,
+      "PubMed": "17084870"
+    },
+    "title": "Identification and functional expression of a type 2 acyl-CoA:diacylglycerol acyltransferase (DGAT2) in developing castor bean seeds which has high homology to the major triglyceride biosynthetic enzyme of fungi and animals.",
+    "venue": "Phytochemistry",
+    "year": 2006,
+    "citationCount": 218,
+    "influentialCitationCount": 17,
+    "openAccessPdf": {
+      "url": "",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1016/J.PHYTOCHEM.2006.09.020?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/J.PHYTOCHEM.2006.09.020, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "39025781",
+        "name": "J. Kroon"
+      },
+      {
+        "authorId": "34693839",
+        "name": "Wen-wen Wei"
+      },
+      {
+        "authorId": "49734139",
+        "name": "W. Simon"
+      },
+      {
+        "authorId": "5888496",
+        "name": "A. Slabas"
+      }
+    ],
+    "abstract": null
+  },
+  {
+    "paperId": "bd00a107bc24bc5517832653089cba5808dea092",
+    "externalIds": {
+      "PubMedCentral": "8040281",
+      "DOI": "10.1016/j.eclinm.2021.100797",
+      "CorpusId": 233241749,
+      "PubMed": "33870151"
+    },
+    "title": "First-in-human study of the safety, pharmacokinetics, and pharmacodynamics of first-in-class fatty acid synthase inhibitor TVB-2640 alone and with a taxane in advanced tumors",
+    "venue": "EClinicalMedicine",
+    "year": 2021,
+    "citationCount": 218,
+    "influentialCitationCount": 1,
+    "openAccessPdf": {
+      "url": "http://www.thelancet.com/article/S2589537021000778/pdf",
+      "status": "GOLD",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8040281, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "5185532",
+        "name": "G. Falchook"
+      },
+      {
+        "authorId": "5136787",
+        "name": "J. Infante"
+      },
+      {
+        "authorId": "3585615",
+        "name": "H. Arkenau"
+      },
+      {
+        "authorId": "144554417",
+        "name": "M. Patel"
+      },
+      {
+        "authorId": "38137157",
+        "name": "E. Dean"
+      },
+      {
+        "authorId": "14215566",
+        "name": "E. Borazanci"
+      },
+      {
+        "authorId": "46877944",
+        "name": "A. Brenner"
+      },
+      {
+        "authorId": "144753610",
+        "name": "N. Cook"
+      },
+      {
+        "authorId": "144869842",
+        "name": "Juanita Lopez"
+      },
+      {
+        "authorId": "4786681",
+        "name": "S. Pant"
+      },
+      {
+        "authorId": "2258241",
+        "name": "A. Frankel"
+      },
+      {
+        "authorId": "40948664",
+        "name": "P. Schmid"
+      },
+      {
+        "authorId": "2172901225",
+        "name": "K. Moore"
+      },
+      {
+        "authorId": "46797338",
+        "name": "W. McCulloch"
+      },
+      {
+        "authorId": "94334007",
+        "name": "K. Grimmer"
+      },
+      {
+        "authorId": "1411559648",
+        "name": "Marie O\u2019Farrell"
+      },
+      {
+        "authorId": "1381249543",
+        "name": "G. Kemble"
+      },
+      {
+        "authorId": "2749158",
+        "name": "H. Burris"
+      }
+    ],
+    "abstract": "Background We conducted a first-in-human dose-escalation study with the oral FASN inhibitor TVB-2640 to determine the maximum tolerated dose (MTD) and recommended phase 2 dose (RP2D), as monotherapy and with a taxane. Methods This completed open-label outpatient study was conducted at 11 sites in the United States and United Kingdom. Patients with previously-treated advanced metastatic solid tumors and adequate performance status and organ function were eligible. TVB-2640 was administered orally daily until PD. Dose escalation initially followed an accelerated titration design that switched to a standard 3 + 3 design after Grade 2 toxicity occurred. Disease-specific cohorts were enrolled at the MTD. Statistical analyses were primarily descriptive. Safety analyses were performed on patients who received at least 1 dose of study drug. (Clinicaltrials.gov identifier NCT02223247) Findings The study was conducted from 21 November 2013 to 07 February 2017. Overall, 136 patients received TVB-2640, 76 as monotherapy (weight-based doses of 60 mg/m2 to 240 mg/m2 and flat doses of 200 and 250 mg) and 60 in combination, (weight-based doses of 60 mg/m2 to 100 mg/m2 and flat dose of 200 mg) (55 paclitaxel, 5 docetaxel). DLTs with TVB-2640 were reversible skin and ocular effects. The MTD/RP2D was 100 mg/m2. The most common TEAEs (n,%) with TVB-2640 monotherapy were alopecia (46; 61%), PPE syndrome (35; 46%), fatigue (28; 37%), decreased appetite (20; 26%), and dry skin (17; 22%), and with TVB-2640+paclitaxel were fatigue (29 ; 53%), alopecia (25; 46%), PPE syndrome (25; 46%), nausea (22; 40%), and peripheral neuropathy (20; 36%). One fatal case of drug-related pneumonitis occurred with TVB-2640+paclitaxel; no other treatment-related deaths occurred. Target engagement (FASN inhibition) and inhibition of lipogenesis were demonstrated with TVB-2640. The disease control rate (DCR) with TVB-2640 monotherapy was 42%; no patient treated with monotherapy had a complete or partial response (CR or PR). In combination with paclitaxel, the PR rate was 11% and the DCR was 70%. Responses were seen across multiple tumor types, including in patients with KRASMUT NSCLC, ovarian, and breast cancer. Interpretation TVB-2640 demonstrated potent FASN inhibition and a predictable and manageable safety profile, primarily characterized by non-serious, reversible adverse events affecting skin and eyes. Further investigation of TVB-2640 in patients with solid tumors, particularly in KRASMUT lung, ovarian, and breast cancer, is warranted. Funding This trial was funded by 3-V Biosciences, Inc. (now known as Sagimet Biosciences Inc.)."
+  },
+  {
+    "paperId": "08392c529e6aa03b0bea78b94fed864694cbe7d0",
+    "externalIds": {
+      "MAG": "2911080438",
+      "DOI": "10.1152/ajpgi.00358.2018",
+      "CorpusId": 58593144,
+      "PubMed": "30653341"
+    },
+    "title": "Hepatic transcriptome signatures in patients with varying degrees of nonalcoholic fatty liver disease compared with healthy normal-weight individuals.",
+    "venue": "American Journal of Physiology - Gastrointestinal and Liver Physiology",
+    "year": 2019,
+    "citationCount": 217,
+    "influentialCitationCount": 11,
+    "openAccessPdf": {
+      "url": "https://journals.physiology.org/doi/pdf/10.1152/ajpgi.00358.2018",
+      "status": "BRONZE",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1152/ajpgi.00358.2018?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1152/ajpgi.00358.2018, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "32016466",
+        "name": "M. Suppli"
+      },
+      {
+        "authorId": "82929723",
+        "name": "Kristoffer T. G. Rigbolt"
+      },
+      {
+        "authorId": "5291658",
+        "name": "S. Veidal"
+      },
+      {
+        "authorId": "15962251",
+        "name": "Sara Heeb\u00f8ll"
+      },
+      {
+        "authorId": "32293108",
+        "name": "P. Eriksen"
+      },
+      {
+        "authorId": "51894318",
+        "name": "M. Demant"
+      },
+      {
+        "authorId": "39602637",
+        "name": "J. Bagger"
+      },
+      {
+        "authorId": "2117720347",
+        "name": "J. C. Nielsen"
+      },
+      {
+        "authorId": "2865826",
+        "name": "D. Or\u00f3"
+      },
+      {
+        "authorId": "5364466",
+        "name": "S. W. Thrane"
+      },
+      {
+        "authorId": "145800920",
+        "name": "A. Lund"
+      },
+      {
+        "authorId": "2082334128",
+        "name": "Charlotte Strandberg"
+      },
+      {
+        "authorId": "2076540652",
+        "name": "M. J. K\u00f8nig"
+      },
+      {
+        "authorId": "152271520",
+        "name": "T. Vilsb\u00f8ll"
+      },
+      {
+        "authorId": "3511441",
+        "name": "N. Vrang"
+      },
+      {
+        "authorId": "6194387",
+        "name": "K. Thomsen"
+      },
+      {
+        "authorId": "1397953309",
+        "name": "H. Gr\u00f8nb\u00e6k"
+      },
+      {
+        "authorId": "4208493",
+        "name": "J. Jelsing"
+      },
+      {
+        "authorId": "2053425348",
+        "name": "H. H. Hansen"
+      },
+      {
+        "authorId": "145512243",
+        "name": "F. Knop"
+      }
+    ],
+    "abstract": "Nonalcoholic fatty liver disease (NAFLD) represents a spectrum of conditions ranging from simple steatosis (NAFL), over nonalcoholic steatohepatitis (NASH) with or without fibrosis, to cirrhosis with end-stage disease. The hepatic molecular events underlying the development of NAFLD and transition to NASH are poorly understood. The present study aimed to determine hepatic transcriptome dynamics in patients with NAFL or NASH compared with healthy normal-weight and obese individuals. RNA sequencing and quantitative histomorphometry of liver fat, inflammation and fibrosis were performed on liver biopsies obtained from healthy normal-weight ( n = 14) and obese ( n = 12) individuals, NAFL ( n = 15) and NASH ( n = 16) patients. Normal-weight and obese subjects showed normal liver histology and comparable gene expression profiles. Liver transcriptome signatures were largely overlapping in NAFL and NASH patients, however, clearly separated from healthy normal-weight and obese controls. Most marked pathway perturbations identified in both NAFL and NASH were associated with markers of lipid metabolism, immunomodulation, extracellular matrix remodeling, and cell cycle control. Interestingly, NASH patients with positive Sonic hedgehog hepatocyte staining showed distinct transcriptome and histomorphometric changes compared with NAFL. In conclusion, application of immunohistochemical markers of hepatocyte injury may serve as a more objective tool for distinguishing NASH from NAFL, facilitating improved resolution of hepatic molecular changes associated with progression of NAFLD. NEW & NOTEWORTHY Nonalcoholic fatty liver disease (NAFLD) is the most common liver disease in Western countries. NAFLD is associated with the metabolic syndrome and can progress to the more serious form, nonalcoholic steatohepatitis (NASH), and ultimately lead to irreversible liver damage. Using gold standard molecular and histological techniques, this study demonstrates that the currently used diagnostic tools are problematic for differentiating mild NAFLD from NASH and emphasizes the marked need for developing improved histological markers of NAFLD progression."
+  },
+  {
+    "paperId": "0e51320f0743fe24bc3403552b9dbe7514c2bcfb",
+    "externalIds": {
+      "MAG": "2804937140",
+      "PubMedCentral": "5953401",
+      "DOI": "10.1186/s12943-018-0838-5",
+      "CorpusId": 21697095,
+      "PubMed": "29764424"
+    },
+    "title": "Long non-coding RNA NEAT1-modulated abnormal lipolysis via ATGL drives hepatocellular carcinoma proliferation",
+    "venue": "Molecular Cancer",
+    "year": 2018,
+    "citationCount": 217,
+    "influentialCitationCount": 10,
+    "openAccessPdf": {
+      "url": "https://molecular-cancer.biomedcentral.com/track/pdf/10.1186/s12943-018-0838-5",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC5953401, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "2108701321",
+        "name": "Xirui Liu"
+      },
+      {
+        "authorId": "7668630",
+        "name": "Ying-jian Liang"
+      },
+      {
+        "authorId": "37373687",
+        "name": "Rui-peng Song"
+      },
+      {
+        "authorId": "2188972",
+        "name": "Guangchao Yang"
+      },
+      {
+        "authorId": "4881382",
+        "name": "Jihua Han"
+      },
+      {
+        "authorId": "9750353",
+        "name": "Yaliang Lan"
+      },
+      {
+        "authorId": "8011565",
+        "name": "Shangha Pan"
+      },
+      {
+        "authorId": "49716470",
+        "name": "Mingxi Zhu"
+      },
+      {
+        "authorId": "2108923740",
+        "name": "Yao Liu"
+      },
+      {
+        "authorId": "2152540509",
+        "name": "Yan Wang"
+      },
+      {
+        "authorId": "47923275",
+        "name": "F. Meng"
+      },
+      {
+        "authorId": "50355366",
+        "name": "Yifeng Cui"
+      },
+      {
+        "authorId": "48093602",
+        "name": "Jiabei Wang"
+      },
+      {
+        "authorId": "2156622236",
+        "name": "Bo Zhang"
+      },
+      {
+        "authorId": "49195989",
+        "name": "Xuan Song"
+      },
+      {
+        "authorId": "121552855",
+        "name": "Zhaoyang Lu"
+      },
+      {
+        "authorId": "7726533",
+        "name": "T. Zheng"
+      },
+      {
+        "authorId": "46458492",
+        "name": "Lianxin Liu"
+      }
+    ],
+    "abstract": "BackgroundAbnormal metabolism, including abnormal lipid metabolism, is a hallmark of cancer cells. Some studies have demonstrated that the lipogenic pathway might promote the development of hepatocellular carcinoma (HCC). However, the role of the lipolytic pathway in HCC has not been elucidated.MethodsWe compared levels of adipose triglyceride lipase (ATGL) in human HCC and healthy liver tissues by real time PCR, western blot and immunohistochemistry. We measured diacylglycerol(DAG) and free fatty acid (FFA) levels in HCC cells driven by the NEAT1-ATGL axis and in HCC tissues. We also assessed the effects of ATGL, DAG, FFA, and NEAT1 on HCC cells proliferation in vitro and in an orthotopic xenograft HCC mouse model. We also performed a luciferase reporter assay to investigate the interaction between NEAT1/ATGL and miR-124-3p.ResultsWe found that the lipolytic enzyme, ATGL is highly expressed in human HCC tissues and predicts poor prognosis. We also found that high levels of DAG and FFA are present in HCC tissues. Furthermore, the lncRNA-NEAT1 was found to modulate ATGL expression and disrupt lipolysis in HCC cells via ATGL. Notably, ATGL and its products, DAG and FFA, were shown to be responsible for NEAT1-mediated HCC cell growth. NEAT1 regulated ATGL expression by binding miR-124-3p. Additionally, NEAT1 knockdown attenuated HCC cell growth through miR-124-3p/ATGL/DAG+FFA/PPAR\u03b1 signaling.ConclusionOur results reveal that NEAT1-modulates abnormal lipolysis via ATGL to drive HCC proliferation."
+  },
+  {
+    "paperId": "4edac0a0e7c0e82800db1d9bfb4da33460befb19",
+    "externalIds": {
+      "PubMedCentral": "4689147",
+      "MAG": "1247621250",
+      "DOI": "10.1038/nature14549",
+      "CorpusId": 4450918,
+      "PubMed": "26098370"
+    },
+    "title": "X-ray Structure of a Mammalian Stearoyl-CoA Desaturase",
+    "venue": "Nature",
+    "year": 2015,
+    "citationCount": 217,
+    "influentialCitationCount": 15,
+    "openAccessPdf": {
+      "url": "https://europepmc.org/articles/pmc4689147?pdf=render",
+      "status": "GREEN",
+      "license": "unspecified-oa",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC4689147, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Chemistry",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "7010315",
+        "name": "Yonghong Bai"
+      },
+      {
+        "authorId": "32421734",
+        "name": "J. McCoy"
+      },
+      {
+        "authorId": "32860333",
+        "name": "E. J. Levin"
+      },
+      {
+        "authorId": "49432668",
+        "name": "P. Sobrado"
+      },
+      {
+        "authorId": "6969532",
+        "name": "K. Rajashankar"
+      },
+      {
+        "authorId": "2782065",
+        "name": "B. Fox"
+      },
+      {
+        "authorId": "143849595",
+        "name": "Ming Zhou"
+      }
+    ],
+    "abstract": "Stearoyl-CoA desaturase (SCD) is conserved in all eukaryotes and introduces the first double bond into saturated fatty acyl-CoAs. Because the monounsaturated products of SCD are key precursors of membrane phospholipids, cholesterol esters and triglycerides, SCD is pivotal in fatty acid metabolism. Humans have two SCD homologues (SCD1 and SCD5), while mice have four (SCD1\u2013SCD4). SCD1-deficient mice do not become obese or diabetic when fed a high-fat diet because of improved lipid metabolic profiles and insulin sensitivity. Thus, SCD1 is a pharmacological target in the treatment of obesity, diabetes and other metabolic diseases. SCD1 is an integral membrane protein located in the endoplasmic reticulum, and catalyses the formation of a cis-double bond between the ninth and tenth carbons of stearoyl- or palmitoyl-CoA. The reaction requires molecular oxygen, which is activated by a di-iron centre, and cytochrome b5, which regenerates the di-iron centre. To understand better the structural basis of these characteristics of SCD function, here we crystallize and solve the structure of mouse SCD1 bound to stearoyl-CoA at 2.6 \u00c5 resolution. The structure shows a novel fold comprising four transmembrane helices capped by a cytosolic domain, and a plausible pathway for lateral substrate access and product egress. The acyl chain of the bound stearoyl-CoA is enclosed in a tunnel buried in the cytosolic domain, and the geometry of the tunnel and the conformation of the bound acyl chain provide a structural basis for the regioselectivity and stereospecificity of the desaturation reaction. The dimetal centre is coordinated by a unique spacial arrangement of nine conserved histidine residues that implies a potentially novel mechanism for oxygen activation. The structure also illustrates a possible route for electron transfer from cytochrome b5 to the di-iron centre."
+  },
+  {
+    "paperId": "4022d87a6df39de2a91f9c6100c8348e90b784cd",
+    "externalIds": {
+      "DOI": "10.1016/j.jhep.2021.09.039",
+      "CorpusId": 238582166,
+      "PubMed": "34627976"
+    },
+    "title": "Exposure to environmental contaminants is associated with altered hepatic lipid metabolism in non-alcoholic fatty liver disease.",
+    "venue": "Journal of Hepatology",
+    "year": 2021,
+    "citationCount": 216,
+    "influentialCitationCount": 6,
+    "openAccessPdf": {
+      "url": "http://www.journal-of-hepatology.eu/article/S0168827821021048/pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jhep.2021.09.039?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jhep.2021.09.039, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "3031496",
+        "name": "Partho Sen"
+      },
+      {
+        "authorId": "40010923",
+        "name": "S. Qadri"
+      },
+      {
+        "authorId": "8866133",
+        "name": "P. Luukkonen"
+      },
+      {
+        "authorId": "91278412",
+        "name": "Oddn\u00fd Ragnarsd\u00f3ttir"
+      },
+      {
+        "authorId": "4182222",
+        "name": "Aidan J. McGlinchey"
+      },
+      {
+        "authorId": "5915195",
+        "name": "S. J\u00e4ntti"
+      },
+      {
+        "authorId": "6406150",
+        "name": "A. Juuti"
+      },
+      {
+        "authorId": "4863438",
+        "name": "J. Arola"
+      },
+      {
+        "authorId": "3637717",
+        "name": "J. Schlezinger"
+      },
+      {
+        "authorId": "2079173",
+        "name": "T. Webster"
+      },
+      {
+        "authorId": "1885832",
+        "name": "M. Ore\u0161ic\u030c"
+      },
+      {
+        "authorId": "1396489870",
+        "name": "H. Yki-J\u00e4rvinen"
+      },
+      {
+        "authorId": "3839973",
+        "name": "T. Hy\u00f6tyl\u00e4inen"
+      }
+    ],
+    "abstract": "BACKGROUND & AIMS\nRecent experimental models and epidemiological studies suggest that specific environmental contaminants (ECs) contribute to the initiation and pathology of NAFLD. However, the underlying mechanisms linking EC exposure with NAFLD remain poorly understood and there is no data on their impact on the human liver metabolome. Herein, we hypothesized that exposure to ECs, particularly perfluorinated alkyl substances (PFAS), impacts liver metabolism, specifically bile acid metabolism.\n\n\nMETHODS\nIn a well-characterized human NAFLD cohort of 105 individuals, we investigated the effects of EC exposure on liver metabolism. We characterized the liver (via biopsy) and circulating metabolomes using four mass spectrometry-based analytical platforms, and measured PFAS and other ECs in serum. We subsequently compared these results with an exposure study in a PPAR\u03b1-humanized mouse model.\n\n\nRESULTS\nPFAS exposure appears associated with perturbation of key hepatic metabolic pathways previously found altered in NAFLD, particularly as regards bile acid and lipid metabolism. We identified stronger associations between the liver metabolome, chemical exposure and NAFLD-associated clinical variables (liver fat content, HOMA-IR), in female subjects versus males. Specifically, we observed PFAS-associated up-regulation of bile acids, triacylglycerols and ceramides, and association between chemical exposure and dysregulated glucose metabolism in females. The murine exposure study further corroborated our findings, vis-\u00e0-vis a sex-specific association between PFAS exposure and NAFLD-associated lipid changes.\n\n\nCONCLUSIONS\nFemales may be more sensitive to the harmful impacts of PFAS. Lipid-related changes subsequent to PFAS exposure may be secondary to the interplay between PFAS and bile acid metabolism.\n\n\nLAY SUMMARY\nThere is increasing evidence that specific environmental contaminants such, as per- and polyfluoroalkyl substances (PFAS), contribute to the progression of non-alcoholic fatty liver disease (NAFLD). However, it is poorly understood how these chemicals impact human liver metabolism. Here we show that human exposure to PFAS impacts liver metabolic processes associated with NAFLD, and does so in a sexually-dimorphic manner."
+  },
+  {
+    "paperId": "edec9282abbb81092a6cebe288c9690c92947c84",
+    "externalIds": {
+      "MAG": "3005408539",
+      "DOI": "10.1194/jlr.R119000547",
+      "CorpusId": 211048081,
+      "PubMed": "32029510"
+    },
+    "title": "Alcohol effects on hepatic lipid metabolism",
+    "venue": "Journal of Lipid Research",
+    "year": 2020,
+    "citationCount": 215,
+    "influentialCitationCount": 5,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1194/jlr.r119000547",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1194/jlr.R119000547?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1194/jlr.R119000547, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "47823391",
+        "name": "Sookyoung Jeon"
+      },
+      {
+        "authorId": "2068372",
+        "name": "R. Carr"
+      }
+    ],
+    "abstract": "Alcoholic liver disease (ALD) is the most prevalent type of chronic liver disease with significant morbidity and mortality worldwide. ALD begins with simple hepatic steatosis and progresses to alcoholic steatohepatitis, fibrosis, and cirrhosis. The severity of hepatic steatosis is highly associated with the development of later stages of ALD. This review explores the disturbances of alcohol-induced hepatic lipid metabolism through altered hepatic lipid uptake, de novo lipid synthesis, fatty acid oxidation, hepatic lipid export, and lipid droplet formation and catabolism. In addition, we review emerging data on the contributions of genetics and bioactive lipid metabolism in alcohol-induced hepatic lipid accumulation."
+  },
+  {
+    "paperId": "6c1d5c924f0498a55da8da94e59b66877a7b0822",
+    "externalIds": {
+      "PubMedCentral": "8163990",
+      "DOI": "10.1016/j.redox.2021.102006",
+      "CorpusId": 235197709,
+      "PubMed": "34030117"
+    },
+    "title": "Tumor resistance to ferroptosis driven by Stearoyl-CoA Desaturase-1 (SCD1) in cancer cells and Fatty Acid Biding Protein-4 (FABP4) in tumor microenvironment promote tumor recurrence",
+    "venue": "Redox Biology",
+    "year": 2021,
+    "citationCount": 208,
+    "influentialCitationCount": 4,
+    "openAccessPdf": {
+      "url": "https://doi.org/10.1016/j.redox.2021.102006",
+      "status": "GOLD",
+      "license": "CCBYNCND",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC8163990, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "6647775",
+        "name": "G. Luis"
+      },
+      {
+        "authorId": "91097858",
+        "name": "Adrien Godfroid"
+      },
+      {
+        "authorId": "4250705",
+        "name": "S. Nishiumi"
+      },
+      {
+        "authorId": "48235605",
+        "name": "J. Cimino"
+      },
+      {
+        "authorId": "5265511",
+        "name": "S. Blacher"
+      },
+      {
+        "authorId": "5250429",
+        "name": "E. Maquoi"
+      },
+      {
+        "authorId": "2105655288",
+        "name": "Coline Wery"
+      },
+      {
+        "authorId": "120579414",
+        "name": "A. Collignon"
+      },
+      {
+        "authorId": "6223010",
+        "name": "R\u00e9mi Longuesp\u00e9e"
+      },
+      {
+        "authorId": "1441136612",
+        "name": "Laetitia Montero-Ruiz"
+      },
+      {
+        "authorId": "2105655230",
+        "name": "Isabelle Dassoul"
+      },
+      {
+        "authorId": "79514277",
+        "name": "Na\u00efma Maloujahmoum"
+      },
+      {
+        "authorId": "29121398",
+        "name": "C. Pottier"
+      },
+      {
+        "authorId": "4088303",
+        "name": "G. Mazzucchelli"
+      },
+      {
+        "authorId": "13963346",
+        "name": "E. Depauw"
+      },
+      {
+        "authorId": "3876983",
+        "name": "A. Bellahc\u00e8ne"
+      },
+      {
+        "authorId": "152162672",
+        "name": "Masaru Yoshida"
+      },
+      {
+        "authorId": "144820145",
+        "name": "A. Noel"
+      },
+      {
+        "authorId": "4593994",
+        "name": "N. Sounni"
+      }
+    ],
+    "abstract": "Problem Tumor recurrence is a major clinical issue that represents the principal cause of cancer-related deaths, with few targetable common pathways. Mechanisms by which residual tumors persist and progress under a continuous shift between hypoxia-reoxygenation after neoadjuvent-therapy are unknown. In this study, we investigated the role of lipid metabolism and tumor redox balance in tumor recurrence. Methods Lipidomics, proteomics and mass spectrometry imaging approaches where applied to mouse tumor models of recurrence. Genetic and pharmacological inhibitions of lipid mediators in tumors were used in vivo and in functional assays in vitro. Results We found that stearoyl-CoA desaturase-1 (SCD1) expressed by cancer cells and fatty acid binding protein-4 (FABP4) produced by tumor endothelial cells (TECs) and adipocytes in the tumor microenvironment (TME) are essential for tumor relapse in response to tyrosine kinase inhibitors (TKI) and chemotherapy. SCD1 and FABP4 were also found upregulated in recurrent human breast cancer samples and correlated with worse prognosis of cancer patients with different types of tumors. Mechanistically, SCD1 leads to fatty acid (FA) desaturation and FABP4 derived from TEM enhances lipid droplet (LD) in cancer cells, which cooperatively protect from oxidative stress-induced ferroptosis. We revealed that lipid mobilization and desaturation elicit tumor intrinsic antioxidant and anti-ferroptotic resources for survival and regrowth in a harsh TME. Inhibition of lipid transport from TME by FABP4 inhibitor reduced tumor regrowth and by genetic \u2014 or by pharmacological \u2014 targeting SCD1 in vivo, tumor regrowth was abolished completely. Conclusion This finding unveils that it is worth taking advantage of tumor lipid addiction, as a tumor vulnerability to design novel treatment strategy to prevent cancer recurrence."
+  },
+  {
+    "paperId": "f7d7fc0c8896ac0d585ccdbe6093b22c94a59832",
+    "externalIds": {
+      "MAG": "2954572947",
+      "PubMedCentral": "6678606",
+      "DOI": "10.3390/cancers11070948",
+      "CorpusId": 195844913,
+      "PubMed": "31284458"
+    },
+    "title": "Stearoyl-CoA Desaturase 1 as a Therapeutic Target for the Treatment of Cancer",
+    "venue": "Cancers",
+    "year": 2019,
+    "citationCount": 208,
+    "influentialCitationCount": 10,
+    "openAccessPdf": {
+      "url": "https://www.mdpi.com/2072-6694/11/7/948/pdf?version=1562323948",
+      "status": "GOLD",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC6678606, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "1423241797",
+        "name": "Zuzanna Tracz-Gaszewska"
+      },
+      {
+        "authorId": "4136755",
+        "name": "P. Dobrzyn"
+      }
+    ],
+    "abstract": "A distinctive feature of cancer cells of various origins involves alterations of the composition of lipids, with significant enrichment in monounsaturated fatty acids. These molecules, in addition to being structural components of newly formed cell membranes of intensely proliferating cancer cells, support tumorigenic signaling. An increase in the expression of stearoyl-CoA desaturase 1 (SCD1), the enzyme that converts saturated fatty acids to \u22069-monounsaturated fatty acids, has been observed in a wide range of cancer cells, and this increase is correlated with cancer aggressiveness and poor outcomes for patients. Studies have demonstrated the involvement of SCD1 in the promotion of cancer cell proliferation, migration, metastasis, and tumor growth. Many studies have reported a role for this lipogenic factor in maintaining the characteristics of cancer stem cells (i.e., the population of cells that contributes to cancer progression and resistance to chemotherapy). Importantly, both the products of SCD1 activity and its direct impact on tumorigenic pathways have been demonstrated. Based on these findings, SCD1 appears to be a significant player in the development of malignant disease and may be a promising target for anticancer therapy. Numerous chemical compounds that exert inhibitory effects on SCD1 have been developed and preclinically tested. The present review summarizes our current knowledge of the ways in which SCD1 contributes to the progression of cancer and discusses opportunities and challenges of using SCD1 inhibitors for the treatment of cancer."
+  },
+  {
+    "paperId": "5035dfe37f56c1d65f9ee6963ef27c2f71479b02",
+    "externalIds": {
+      "MAG": "2017477539",
+      "DOI": "10.1074/jbc.M601682200",
+      "CorpusId": 40716187,
+      "PubMed": "16571721"
+    },
+    "title": "MLDP, a Novel PAT Family Protein Localized to Lipid Droplets and Enriched in the Heart, Is Regulated by Peroxisome Proliferator-activated Receptor \u03b1*",
+    "venue": "Journal of Biological Chemistry",
+    "year": 2006,
+    "citationCount": 207,
+    "influentialCitationCount": 14,
+    "openAccessPdf": {
+      "url": "http://www.jbc.org/article/S0021925820780671/pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1074/jbc.M601682200?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1074/jbc.M601682200, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Biology",
+      "Medicine"
+    ],
+    "authors": [
+      {
+        "authorId": "48659493",
+        "name": "Tomohiro Yamaguchi"
+      },
+      {
+        "authorId": "47804974",
+        "name": "Shuhei Matsushita"
+      },
+      {
+        "authorId": "5283636",
+        "name": "K. Motojima"
+      },
+      {
+        "authorId": "2122232",
+        "name": "F. Hirose"
+      },
+      {
+        "authorId": "4356221",
+        "name": "T. Osumi"
+      }
+    ],
+    "abstract": "Cytosolic lipid droplets (LDs) are multifunctional organelles that exist in all types of eukaryotic cells and control lipid homeostasis. In mammalian cells LDs contain a class of proteins in their surface layers that share a homologous sequence called the PAT domain, including perilipin, adipose differentiation-related protein (ADRP), a tail-interacting protein of 47 kDa (TIP47), and S3-12, which are distributed tissue- or cell type-selectively. Expression in some cases is regulated by peroxisome proliferator-activated receptors (PPARs). In this study we identified a new PAT family member named MLDP (myocardial LD protein) in a murine cDNA data base and showed the mRNA and protein to be highly enriched in the heart and also expressed at lower levels in the liver and adrenals. Upon subcellular fractionation, a substantial amount of MLDP was detected in the top fraction enriched with LDs. Furthermore, overexpressed MLDP tagged with green fluorescent protein accumulated at the surfaces of LDs and co-localized with perilipin and ADRP. Deletion analysis demonstrated the N-terminal region containing a PAT-1 domain and the following 33-mer domain to be required for targeting of MLDP to LDs. MLDP was found to be up-regulated at both mRNA and protein levels in the heart and liver by a selective ligand for PPAR\u03b1, Wy14,643, but not in PPAR\u03b1 knock-out mice. MLDP expression was also increased upon fasting in parallel with ADRP. These results indicate that MLDP is a bona fide new PAT family member localized in LDs. Its expression depends on the physiological conditions and the action of PPAR\u03b1."
+  },
+  {
+    "paperId": "1de502558e049f59125b25057a3693595208938c",
+    "externalIds": {
+      "MAG": "2014100153",
+      "DOI": "10.1074/jbc.M110.180711",
+      "CorpusId": 31287092,
+      "PubMed": "21148142"
+    },
+    "title": "Interactions of Perilipin-5 (Plin5) with Adipose Triglyceride Lipase*",
+    "venue": "Journal of Biological Chemistry",
+    "year": 2010,
+    "citationCount": 206,
+    "influentialCitationCount": 13,
+    "openAccessPdf": {
+      "url": "http://www.jbc.org/article/S0021925820520814/pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1074/jbc.M110.180711?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1074/jbc.M110.180711, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "fieldsOfStudy": [
+      "Medicine",
+      "Biology"
+    ],
+    "authors": [
+      {
+        "authorId": "3526038",
+        "name": "J. Granneman"
+      },
+      {
+        "authorId": "69410304",
+        "name": "H. Moore"
+      },
+      {
+        "authorId": "6267902",
+        "name": "E. Mottillo"
+      },
+      {
+        "authorId": "11595088",
+        "name": "Zhengxian Zhu"
+      },
+      {
+        "authorId": "2116635886",
+        "name": "Li Zhou"
+      }
+    ],
+    "abstract": "Members of the perilipin family of lipid droplet scaffold proteins are thought to play important roles in tissue-specific regulation of triglyceride metabolism, but the mechanisms involved are not fully understood. Present results indicate that adipose triglyceride lipase (Atgl) interacts with perilipin-5 (Plin5) but not perilipin-1 (Plin1). Protein interaction assays in live cells and in situ binding experiments showed that Atgl and its protein activator, \u03b1-\u03b2-hydrolase domain-containing 5 (Abhd5), each bind Plin5. Surprisingly, competition experiments indicated that individual Plin5 molecules bind Atgl or Abhd5 but not both simultaneously. Thus, the ability of Plin5 to concentrate these proteins at droplet surfaces involves binding to different Plin5 molecules, possibly in an oligomeric complex. The association of Plin5-Abhd5 complexes on lipid droplet surfaces was more stable than Plin5-Atgl complexes, and oleic acid treatment selectively promoted the interaction of Plin5 and Abhd5. Analysis of chimeric and mutant perilipin proteins demonstrated that amino acids 200\u2013463 are necessary and sufficient to bind both Atgl and Abhd5 and that the C-terminal 64 amino acids of Plin5 are critical for the differential binding of Atgl to Plin5 and Plin1. Mutant Plin5 that binds Abhd5 but not Atgl was defective in preventing neutral lipid accumulation compared with wild type Plin5, indicating that the ability of Plin5 to concentrate these proteins on lipid droplets is critical to functional Atgl activity in cells."
+  }
+]

@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ProteinHub - 蛋白发现平台</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f7fa;
+            min-height: 100vh;
+        }
+        .feed-container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .header h1 {
+            font-size: 28px;
+            color: #303133;
+            margin-bottom: 8px;
+        }
+        .header p {
+            color: #909399;
+        }
+        .feed-list {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+        .post-card {
+            background: #fff;
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+            cursor: pointer;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .post-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+        }
+        .post-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 12px;
+        }
+        .protein-tag {
+            background: #409eff;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 14px;
+        }
+        .post-time {
+            color: #909399;
+            font-size: 12px;
+        }
+        .post-title {
+            font-size: 18px;
+            color: #303133;
+            margin-bottom: 12px;
+            line-height: 1.4;
+        }
+        .post-summary {
+            color: #606266;
+            font-size: 14px;
+            line-height: 1.6;
+            margin-bottom: 16px;
+        }
+        .post-footer {
+            border-top: 1px solid #ebeef5;
+            padding-top: 12px;
+        }
+        .post-footer a {
+            color: #409eff;
+            text-decoration: none;
+            font-size: 14px;
+        }
+        .nav-bar {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: #fff;
+            border-top: 1px solid #e4e7ed;
+            display: flex;
+            justify-content: space-around;
+            padding: 10px 0;
+        }
+        .nav-item {
+            color: #909399;
+            font-size: 12px;
+            text-align: center;
+        }
+        .nav-item.active {
+            color: #409eff;
+        }
+    </style>
+</head>
+<body>
+    <div class="feed-container">
+        <header class="header">
+            <h1>🧬 ProteinHub</h1>
+            <p>发现你感兴趣的蛋白质</p>
+        </header>
+        
+        <div class="feed-list">
+            <div class="post-card">
+                <div class="post-header">
+                    <span class="protein-tag">PLIN2</span>
+                    <span class="post-time">2026-03-12</span>
+                </div>
+                <h3 class="post-title">PLIN2 与 ATGL 互作调控脂滴分解新机制</h3>
+                <p class="post-summary">
+                    最新研究发现 PLIN2 蛋白与 ATGL 之间的相互作用在脂滴分解过程中发挥关键调控作用。
+                    通过 Rosetta PPI 预测，两者互作概率达 0.92...
+                </p>
+                <div class="post-footer">
+                    <a href="#">查看原文 →</a>
+                </div>
+            </div>
+
+            <div class="post-card">
+                <div class="post-header">
+                    <span class="protein-tag">FSP27</span>
+                    <span class="post-time">2026-03-11</span>
+                </div>
+                <h3 class="post-title">FSP27 促进脂滴融合的结构基础研究</h3>
+                <p class="post-summary">
+                    结构生物学研究揭示了 FSP27 蛋白如何通过其 CIDE 结构域促进脂滴之间的融合过程，
+                    为理解脂滴动态调控提供了新视角...
+                </p>
+                <div class="post-footer">
+                    <a href="#">查看原文 →</a>
+                </div>
+            </div>
+
+            <div class="post-card">
+                <div class="post-header">
+                    <span class="protein-tag">ADRP</span>
+                    <span class="post-time">2026-03-10</span>
+                </div>
+                <h3 class="post-title">ADRP 在肝细胞脂肪变性中的保护作用</h3>
+                <p class="post-summary">
+                    实验表明 ADRP 蛋白表达上调可以显著减轻肝细胞脂肪变性程度，
+                    其机制涉及与多种脂代谢相关蛋白的相互作用网络...
+                </p>
+                <div class="post-footer">
+                    <a href="#">查看原文 →</a>
+                </div>
+            </div>
+
+            <div class="post-card">
+                <div class="post-header">
+                    <span class="protein-tag">CGI-58</span>
+                    <span class="post-time">2026-03-09</span>
+                </div>
+                <h3 class="post-title">CGI-58 激活 ATGL 的分子机制解析</h3>
+                <p class="post-summary">
+                    通过冷冻电镜技术，研究人员首次捕捉到 CGI-58 与 ATGL 结合的完整构象，
+                    揭示了其激活甘油三酯水解酶活性的结构基础...
+                </p>
+                <div class="post-footer">
+                    <a href="#">查看原文 →</a>
+                </div>
+            </div>
+
+            <div class="post-card">
+                <div class="post-header">
+                    <span class="protein-tag">Perilipin-1</span>
+                    <span class="post-time">2022026-03-08</span>
+                </div>
+                <h3 class="post-title">Perilipin-1 磷酸化调控脂肪动员</h3>
+                <p class="post-summary">
+                    PKA 介导的 Perilipin-1 磷酸化是激素敏感脂肪酶 (HSL) 
+                    招募到脂滴表面的关键步骤，最新研究发现了新的磷酸化位点...
+                </p>
+                <div class="post-footer">
+                    <a href="#">查看原文 →</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="nav-bar">
+        <div class="nav-item active">🏠<br>首页</div>
+        <div class="nav-item">🔍<br>探索</div>
+        <div class="nav-item">❤️<br>关注</div>
+        <div class="nav-item">👤<br>我的</div>
+    </div>
+</body>
+</html>

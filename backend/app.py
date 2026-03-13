@@ -2,133 +2,17 @@
 ProteinHub Backend API
 Flask + SQLAlchemy + JWT Authentication
 """
-from flask import Flask, jsonify, request
-from flask_sqlalchemy import SQLAlchemy
-from flask_cors import CORS
-from datetime import datetime
-import os
-
-app = Flask(__name__)
-CORS(app)
-
-# 配置
-app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv('DATABASE_URL', 'sqlite:///proteinhub.db')
-app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
-
-db = SQLAlchemy(app)
-
-# ==================== 模型 ====================
-
-class Protein(db.Model):
-    """蛋白质模型"""
-    __tablename__ = 'proteins'
-    id = db.Column(db.Integer, primary_key=True)
-    name = db.Column(db.String(50), unique=True, nullable=False)
-    family = db.Column(db.String(50))
-    uniprot_id = db.Column(db.String(20))
-    description = db.Column(db.Text)
-    created_at = db.Column(db.DateTime, default=datetime.utcnow)
-    
-    def to_dict(self):
-        return {
-            'id': self.id,
-            'name': self.name,
-            'family': self.family,
-            'uniprot_id': self.uniprot_id,
-            'description': self.description
-        }
-
-class ProteinInteraction(db.Model):
-    """蛋白质相互作用模型"""
-    __tablename__ = 'protein_interactions'
-    id = db.Column(db.Integer, primary_key=True)
-    protein_a_id = db.Column(db.Integer, db.ForeignKey('proteins.id'))
-    protein_b_id = db.Column(db.Integer, db.ForeignKey('proteins.id'))
-    interaction_score = db.Column(db.Float)
-
-class Post(db.Model):
-    """帖子模型（文献解读）"""
-    __tablename__ = 'posts'
-    id = db.Column(db.Integer, primary_key=True)
-    protein_id = db.Column(db.Integer, db.ForeignKey('proteins.id'))
-    title = db.Column(db.String(500), nullable=False)
-    summary = db.Column(db.Text)
-    source_url = db.Column(db.String(500))
-    source_title = db.Column(db.String(500))
-    created_at = db.Column(db.DateTime, default=datetime.utcnow)
-    
-    protein = db.relationship('Protein', backref='posts')
-    
-    def to_dict(self):
-        return {
-            'id': self.id,
-            'protein_id': self.protein_id,
-            'protein_name': self.protein.name if self.protein else None,
-            'title': self.title,
-            'summary': self.summary,
-            'source_url': self.source_url,
-            'created_at': self.created_at.isoformat()
-        }
-
-
-class User(db.Model):
-    """用户模型 - T001新增"""
-    __tablename__ = 'users'
-    
-    id = db.Column(db.Integer, primary_key=True)
-    username = db.Column(db.String(80), unique=True, nullable=False, index=True)
-    email = db.Column(db.String(120), unique=True, nullable=False, index=True)
-    password_hash = db.Column(db.String(128), nullable=False)
-    is_active = db.Column(db.Boolean, default=True)
-    created_at = db.Column(db.DateTime, default=datetime.utcnow)
-    updated_at = db.Column(db.DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
-    
-    def __init__(self, username, email, password):
-        self.username = username
-        self.email = email.lower().strip()
-        self.password_hash = self._hash_password(password)
-    
-    def _hash_password(self, password):
-        """使用bcrypt加密密码"""
-        import bcrypt
-        if isinstance(password, str):
-            password = password.encode('utf-8')
-        return bcrypt.hashpw(password, bcrypt.gensalt(rounds=12)).decode('utf-8')
-    
-    def verify_password(self, password):
-        """验证密码"""
-        import bcrypt
-        if isinstance(password, str):
-            password = password.encode('utf-8')
-        return bcrypt.checkpw(password, self.password_hash.encode('utf-8'))
-    
-    def to_dict(self, include_email=False):
-        """转换为字典"""
-        data = {
-            'id': self.id,
-            'username': self.username,
-            'is_active': self.is_active,
-            'created_at': self.created_at.isoformat() if self.created_at else None,
-        }
-        if include_email:
-            data['email'] = self.email
-        return data
-
-
-# 用户关注蛋白的中间表
-user_protein_follows = db.Table(
-    'user_protein_follows',
-    db.Column('user_id', db.Integer, db.ForeignKey('users.id'), primary_key=True),
-    db.Column('protein_id', db.Integer, db.ForeignKey('proteins.id'), primary_key=True),
-    db.Column('followed_at', db.DateTime, default=datetime.utcnow)
-)
-
-# ==================== 认证工具 - T001新增 ====================
-
+from flask import jsonify, request
+from datetime import datetime, timedelta
 import jwt
 import re
 from functools import wraps
-from datetime import timedelta
+import os
+
+# 从models导入所有模型和db
+from models import app, db, Protein, ProteinInteraction, Post, User, Note, Like, Favorite, Comment, Tag, note_tags
+
+# ==================== 认证工具 ====================
 
 def validate_email(email):
     """验证邮箱格式"""
@@ -136,7 +20,7 @@ def validate_email(email):
     return re.match(pattern, email) is not None
 
 def validate_password(password):
-    """验证密码强度（至少8位，包含字母和数字）"""
+    """验证密码强度"""
     if len(password) < 8:
         return False, '密码长度至少为8位'
     if not re.search(r'[A-Za-z]', password):
@@ -146,7 +30,7 @@ def validate_password(password):
     return True, None
 
 def create_access_token(user_id):
-    """创建JWT访问令牌（24小时有效）"""
+    """创建JWT访问令牌"""
     payload = {
         'user_id': user_id,
         'token_type': 'access',
@@ -156,7 +40,7 @@ def create_access_token(user_id):
     return jwt.encode(payload, 'proteinhub-secret-key', algorithm='HS256')
 
 def create_refresh_token(user_id):
-    """创建JWT刷新令牌（7天有效）"""
+    """创建JWT刷新令牌"""
     payload = {
         'user_id': user_id,
         'token_type': 'refresh',
@@ -199,7 +83,17 @@ def require_auth(f):
             return jsonify({'error': '无效的令牌'}), 401
     return decorated_function
 
-# ==================== API 路由 ====================
+
+def mock_auth(f):
+    """Mock认证装饰器"""
+    @wraps(f)
+    def decorated_function(*args, **kwargs):
+        request.user_id = 1
+        return f(*args, **kwargs)
+    return decorated_function
+
+
+# ==================== 路由 ====================
 
 @app.route('/')
 def home():
@@ -210,11 +104,9 @@ def home():
         'status': 'running',
         'endpoints': {
             'health': '/api/health',
-            'content_test': '/api/content/test',
-            'content_generate': 'POST /api/content/generate',
-            'content_preview': 'POST /api/content/preview'
-        },
-        'docs': '/swagger'
+            'notes': '/api/notes',
+            'tags': '/api/tags'
+        }
     })
 
 
@@ -223,7 +115,8 @@ def health_check():
     """健康检查端点"""
     return jsonify({'status': 'ok', 'service': 'proteinhub-api', 'version': '0.2.0'})
 
-# ==================== 认证路由 - T001新增 ====================
+
+# ==================== 认证路由 ====================
 
 @app.route('/api/auth/register', methods=['POST'])
 def register():
@@ -261,6 +154,7 @@ def register():
         db.session.rollback()
         return jsonify({'error': '注册失败'}), 500
 
+
 @app.route('/api/auth/login', methods=['POST'])
 def login():
     """用户登录"""
@@ -276,7 +170,12 @@ def login():
     
     user = User.query.filter_by(email=email).first()
     
-    if not user or not user.verify_password(password):
+    if not user:
+        return jsonify({'error': '邮箱或密码错误'}), 401
+    
+    import bcrypt
+    pwd = password.encode('utf-8') if isinstance(password, str) else password
+    if not bcrypt.checkpw(pwd, user.password_hash.encode('utf-8')):
         return jsonify({'error': '邮箱或密码错误'}), 401
     
     if not user.is_active:
@@ -291,11 +190,13 @@ def login():
         'user': user.to_dict(include_email=True)
     })
 
+
 @app.route('/api/auth/me', methods=['GET'])
 @require_auth
 def get_current_user(current_user):
     """获取当前用户信息"""
     return jsonify(current_user.to_dict(include_email=True))
+
 
 # ==================== 蛋白相关路由 ====================
 
@@ -309,15 +210,17 @@ def get_proteins():
     proteins = query.all()
     return jsonify([p.to_dict() for p in proteins])
 
+
 @app.route('/api/proteins/<int:protein_id>', methods=['GET'])
 def get_protein(protein_id):
     """获取单个蛋白详情"""
     protein = Protein.query.get_or_404(protein_id)
     return jsonify(protein.to_dict())
 
+
 @app.route('/api/proteins/<int:protein_id>/profile', methods=['GET'])
 def get_protein_profile(protein_id):
-    """获取蛋白主页（传记 + 帖子）"""
+    """获取蛋白主页"""
     protein = Protein.query.get_or_404(protein_id)
     posts = Post.query.filter_by(protein_id=protein_id).order_by(Post.created_at.desc()).all()
     
@@ -330,16 +233,25 @@ def get_protein_profile(protein_id):
         'posts': [p.to_dict() for p in posts]
     })
 
+
 @app.route('/api/feed', methods=['GET'])
 def get_feed():
     """获取推荐Feed"""
     posts = Post.query.order_by(Post.created_at.desc()).limit(20).all()
     return jsonify([p.to_dict() for p in posts])
 
+
+@app.route('/api/posts/<int:post_id>', methods=['GET'])
+def get_post(post_id):
+    """获取单篇帖子详情"""
+    post = Post.query.get_or_404(post_id)
+    return jsonify(post.to_dict())
+
+
 @app.route('/api/posts', methods=['POST'])
 @require_auth
 def create_post(current_user):
-    """创建帖子（需要登录）"""
+    """创建帖子"""
     data = request.json
     post = Post(
         protein_id=data['protein_id'],
@@ -351,6 +263,7 @@ def create_post(current_user):
     db.session.add(post)
     db.session.commit()
     return jsonify(post.to_dict()), 201
+
 
 @app.route('/api/init', methods=['POST'])
 def init_data():
@@ -374,119 +287,16 @@ def init_data():
     db.session.commit()
     return jsonify({'message': 'Data initialized', 'count': len(proteins)})
 
+
+# ==================== 注册笔记和互动路由Blueprints ====================
+
 if __name__ == '__main__':
+    from routes.notes import notes_bp
+    from routes.interactions import interactions_bp
+    
+    app.register_blueprint(notes_bp, url_prefix='/api')
+    app.register_blueprint(interactions_bp, url_prefix='/api')
+    
     with app.app_context():
         db.create_all()
-    app.run(debug=True, host='0.0.0.0', port=5000)
-
-
-# ==================== 内容生成 API - 新增 ====================
-
-@app.route('/api/content/test', methods=['GET'])
-def content_test():
-    """测试内容生成"""
-    try:
-        from crawler.content_generator_v2 import ContentGenerator
-        
-        generator = ContentGenerator()
-        
-        article = {
-            'title': 'The rhythmic coupling of Egr-1 and Cidea regulates age-related metabolic dysfunction',
-            'abstract': 'Study reveals mechanism...',
-            'authors': ['Wu J', 'Smith A'],
-            'journal': 'Nature Communications',
-            'pub_date': '2023-03',
-            'pmid': '36964140'
-        }
-        
-        post = generator.generate_xiaohongshu_post(article, 'CIDEA')
-        
-        return jsonify({
-            'success': True,
-            'data': post,
-            'note': '这是模拟数据，实际使用时会搜索PubMed'
-        })
-    except Exception as e:
-        return jsonify({'error': str(e)}), 500
-
-
-@app.route('/api/content/generate', methods=['POST'])
-@require_auth
-def content_generate(current_user):
-    """生成小红书风格内容"""
-    data = request.get_json()
-    
-    if not data or not data.get('protein_name'):
-        return jsonify({'error': '请提供蛋白名称'}), 400
-    
-    protein_name = data.get('protein_name')
-    
-    try:
-        from crawler.content_generator_v2 import ContentGenerator
-        from crawler.pubmed_crawler import PubMedCrawler
-        
-        # 搜索文献
-        crawler = PubMedCrawler()
-        articles = crawler.search_protein_interactions(protein_name, max_results=1)
-        
-        if not articles:
-            return jsonify({
-                'error': f'未找到 {protein_name} 的相关文献',
-                'suggestion': '请检查蛋白名称是否正确'
-            }), 404
-        
-        # 获取摘要
-        article = articles[0]
-        abstract = crawler.fetch_abstract(article['pmid'])
-        if abstract:
-            article['abstract'] = abstract
-        
-        # 生成内容
-        generator = ContentGenerator()
-        post = generator.generate_xiaohongshu_post(article, protein_name)
-        
-        return jsonify({
-            'success': True,
-            'data': post,
-            'protein_name': protein_name,
-            'generated_at': datetime.utcnow().isoformat()
-        })
-        
-    except Exception as e:
-        return jsonify({'error': str(e)}), 500
-
-
-@app.route('/api/content/preview', methods=['POST'])
-def content_preview():
-    """预览内容生成（无需登录）"""
-    data = request.get_json()
-    
-    if not data or not data.get('protein_name'):
-        return jsonify({'error': '请提供蛋白名称'}), 400
-    
-    protein_name = data.get('protein_name')
-    
-    try:
-        from crawler.content_generator_v2 import ContentGenerator
-        
-        # 使用模拟数据预览
-        article = {
-            'title': data.get('article', {}).get('title', f'{protein_name} regulates metabolic processes'),
-            'abstract': data.get('article', {}).get('abstract', 'Study reveals mechanism...'),
-            'authors': data.get('article', {}).get('authors', ['Research Team']),
-            'journal': data.get('article', {}).get('journal', 'Scientific Journal'),
-            'pub_date': data.get('article', {}).get('pub_date', '2024'),
-            'pmid': data.get('article', {}).get('pmid', '00000000')
-        }
-        
-        generator = ContentGenerator()
-        post = generator.generate_xiaohongshu_post(article, protein_name)
-        
-        return jsonify({
-            'success': True,
-            'data': post,
-            'note': '预览模式，使用提供的文章数据'
-        })
-        
-    except Exception as e:
-        return jsonify({'error': str(e)}), 500
+    app.run(debug=False, host='0.0.0.0', port=5000)

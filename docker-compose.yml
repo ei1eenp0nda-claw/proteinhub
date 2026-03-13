@@ -1,49 +1,38 @@
 version: '3.8'
-
 services:
-  # PostgreSQL 数据库
   db:
-    image: postgres:15-alpine
+    image: postgres:15
     environment:
       POSTGRES_DB: proteinhub
       POSTGRES_USER: proteinhub
-      POSTGRES_PASSWORD: proteinhub_secret
+      POSTGRES_PASSWORD: proteinhub123
     volumes:
       - postgres_data:/var/lib/postgresql/data
     ports:
       - "5432:5432"
-    healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U proteinhub"]
-      interval: 10s
-      timeout: 5s
-      retries: 5
-
-  # 后端 API
+  
   backend:
-    build: ./backend
-    environment:
-      DATABASE_URL: postgresql://proteinhub:proteinhub_secret@db:5432/proteinhub
-      JWT_SECRET_KEY: ${JWT_SECRET_KEY:-proteinhub-jwt-secret}
-      FLASK_ENV: production
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
     ports:
       - "5000:5000"
+    environment:
+      DATABASE_URL: postgresql://proteinhub:proteinhub123@db:5432/proteinhub
+      FLASK_ENV: development
     depends_on:
-      db:
-        condition: service_healthy
-    volumes:
-      - ./backend:/app
-    restart: unless-stopped
-
-  # 前端
+      - db
+  
   frontend:
-    build: ./frontend
+    build:
+      context: .
+      dockerfile: Dockerfile.frontend
     ports:
       - "5173:5173"
     environment:
-      VITE_API_URL: http://localhost:5000
+      VITE_API_BASE_URL: http://localhost:5000/api
     depends_on:
       - backend
-    restart: unless-stopped
 
 volumes:
   postgres_data:
