@@ -1,7 +1,7 @@
 <template>
   <div class="search-page">
     <div class="search-header">
-      <div class="search-box"
+      <div class="search-box">
         <input
           v-model="searchQuery"
           @input="handleInput"
@@ -35,7 +35,7 @@
       <!-- 蛋白结果 -->
       <section v-if="proteinResults.items.length > 0" class="result-section">
         <h2>蛋白质 ({{ proteinResults.total }})</h2>
-        <div class="protein-list"
+        <div class="protein-list">
           <div
             v-for="protein in proteinResults.items"
             :key="protein.id"
@@ -72,7 +72,7 @@
       <!-- 帖子结果 -->
       <section v-if="postResults.items.length > 0" class="result-section">
         <h2>文献解读 ({{ postResults.total }})</h2>
-        <div class="post-list"
+        <div class="post-list">
           <div
             v-for="post in postResults.items"
             :key="post.id"
