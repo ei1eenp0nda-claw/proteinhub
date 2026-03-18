@@ -24,14 +24,7 @@ export default defineConfig({
           'vendor': ['vue', 'vue-router', 'axios']
         }
       }
-    },
-    // 压缩
-    minify: 'terser',
-    terserOptions: {
-      compress: {
-        drop_console: true,  // 移除 console.log
-        drop_debugger: true
-      }
     }
+    // 使用默认的 esbuild 压缩（无需额外依赖）
   }
 })
