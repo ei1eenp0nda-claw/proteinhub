@@ -2,7 +2,7 @@
   <div class="feed-container">
     <!-- 顶部导航 -->
     <header class="feed-header">
-      <div class="logo">ProteinHub</div>
+      <div class="logo" @click="refreshFeed">ProteinHub</div>
       <div class="search-box">
         <el-input
           v-model="searchQuery"
@@ -51,6 +51,10 @@ import { useRouter } from 'vue-router'
 import { ElMessage } from 'element-plus'
 import NoteCard from '../components/NoteCard.vue'
 
+defineOptions({
+  name: 'Feed'
+})
+
 const router = useRouter()
 
 // 当前用户ID
@@ -64,6 +68,7 @@ const hasMore = ref(true)
 const page = ref(1)
 const pageSize = 10
 const userAvatar = ref('https://cube.elemecdn.com/3/7c/3ea6beec64369c2642b92c6726f1epng.png')
+const feedContent = ref(null)
 
 // 瀑布流列数（响应式）
 const columnCount = ref(2)
@@ -125,7 +130,6 @@ const getCurrentUserId = () => {
   } catch (e) {
     console.error('Failed to parse user from localStorage:', e)
   }
-  // 如果没有登录，返回null（后端会返回热度排序）
   return null
 }
 
@@ -140,7 +144,6 @@ const fetchNotes = async () => {
   try {
     const userId = getCurrentUserId()
     
-    // 构建请求URL（如果用户已登录，添加user_id参数）
     let url = `${API_BASE_URL}/notes/feed?page=${page.value}&per_page=${pageSize}`
     if (userId) {
       url += `&user_id=${userId}`
@@ -163,7 +166,6 @@ const fetchNotes = async () => {
       const newNotes = result.data.items || []
       const pagination = result.data.pagination
       
-      // 转换后端数据格式为前端格式
       const formattedNotes = newNotes.map(note => ({
         id: note.id,
         title: note.title,
@@ -171,7 +173,7 @@ const fetchNotes = async () => {
         author: note.author?.username || '匿名用户',
         authorId: note.author?.id,
         authorAvatar: note.author?.avatar_url || 'https://cube.elemecdn.com/0/88/03b0d39583f48206768a7534e55bcpng.png',
-        cover: null, // 笔记封面（如果有）
+        cover: null,
         likes: note.like_count || 0,
         favorites: note.favorite_count || 0,
         comments: note.comment_count || 0,
@@ -193,7 +195,6 @@ const fetchNotes = async () => {
   } catch (error) {
     console.error('Fetch error:', error)
     ElMessage.error('加载失败，请重试')
-    // 如果API失败，使用Mock数据作为降级方案
     if (notes.value.length === 0) {
       const mockNotes = generateMockNotes(page.value, pageSize)
       notes.value.push(...mockNotes)
@@ -202,6 +203,17 @@ const fetchNotes = async () => {
   } finally {
     loading.value = false
   }
+}
+
+// 刷新Feed
+const refreshFeed = () => {
+  notes.value = []
+  page.value = 1
+  hasMore.value = true
+  if (feedContent.value) {
+    feedContent.value.scrollTop = 0
+  }
+  fetchNotes()
 }
 
 // 滚动加载
@@ -215,7 +227,6 @@ const handleScroll = (e) => {
 // 搜索
 const handleSearch = () => {
   ElMessage.info(`搜索: ${searchQuery.value}`)
-  // 实际项目中这里会调用搜索API
 }
 
 // 创建笔记
@@ -226,11 +237,6 @@ const createNote = () => {
 // 跳转到详情页
 const goToDetail = (id) => {
   router.push(`/note/${id}`)
-}
-
-// 跳转到个人主页
-const goToProfile = () => {
-  router.push('/user/' + currentUserId.value)
 }
 
 // 响应式列数
@@ -246,7 +252,9 @@ const updateColumnCount = () => {
 }
 
 onMounted(() => {
-  fetchNotes()
+  if (notes.value.length === 0) {
+    fetchNotes()
+  }
   updateColumnCount()
   window.addEventListener('resize', updateColumnCount)
 })
