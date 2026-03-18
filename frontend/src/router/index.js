@@ -1,10 +1,17 @@
 import { createRouter, createWebHistory } from 'vue-router'
+
+// 首屏关键组件同步加载
 import Feed from '../views/Feed.vue'
-import ProteinProfile from '../views/ProteinProfile.vue'
-import LoginForm from '../components/LoginForm.vue'
-import RegisterForm from '../components/RegisterForm.vue'
-import NoteDetail from '../views/NoteDetail.vue'
-import UserProfile from '../views/UserProfile.vue'
+
+// 其他组件懒加载
+const NoteDetail = () => import('../views/NoteDetail.vue')
+const UserProfile = () => import('../views/UserProfile.vue')
+const ProteinProfile = () => import('../views/ProteinProfile.vue')
+const LoginForm = () => import('../components/LoginForm.vue')
+const RegisterForm = () => import('../components/RegisterForm.vue')
+const FollowedFeed = () => import('../views/FollowedFeed.vue')
+const Explore = () => import('../views/Explore.vue')
+const Search = () => import('../views/Search.vue')
 
 const routes = [
   {
@@ -47,13 +54,19 @@ const routes = [
   {
     path: '/followed',
     name: 'FollowedFeed',
-    component: () => import('../views/FollowedFeed.vue'),
+    component: FollowedFeed,
     meta: { requiresAuth: true }
   },
   {
     path: '/explore',
     name: 'Explore',
-    component: () => import('../views/Explore.vue'),
+    component: Explore,
+    meta: { requiresAuth: false }
+  },
+  {
+    path: '/search',
+    name: 'Search',
+    component: Search,
     meta: { requiresAuth: false }
   }
 ]

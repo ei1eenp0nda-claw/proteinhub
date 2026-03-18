@@ -13,5 +13,25 @@ export default defineConfig({
         changeOrigin: true
       }
     }
+  },
+  build: {
+    // 代码分割配置
+    rollupOptions: {
+      output: {
+        manualChunks: {
+          // 第三方库单独打包
+          'element-plus': ['element-plus'],
+          'vendor': ['vue', 'vue-router', 'axios']
+        }
+      }
+    },
+    // 压缩
+    minify: 'terser',
+    terserOptions: {
+      compress: {
+        drop_console: true,  // 移除 console.log
+        drop_debugger: true
+      }
+    }
   }
 })
