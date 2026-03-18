@@ -110,36 +110,31 @@ const parseNoteContent = (content) => {
 
 // 从本地JSON加载高清笔记
 const loadHighQualityNotes = async () => {
-  loading.value = true
-  try {
-    // 使用配置化的数据源
-    const notesData = await loadNotesData()
-    allNotes.value = notesData
-    
-    // 初始加载前10条
-    loadMoreNotes()
-  } catch (error) {
-    console.error('加载笔记失败:', error)
-    ElMessage.error('加载笔记失败')
-  } finally {
-    loading.value = false
-  }
+  // 初始化加载第一页
+  page.value = 1
+  notes.value = []
+  hasMore.value = true
+  await loadMoreNotes()
 }
 
 // 加载更多笔记（分页）
-const loadMoreNotes = () => {
-  const start = (page.value - 1) * pageSize
-  const end = start + pageSize
-  const newNotes = allNotes.value.slice(start, end)
+const loadMoreNotes = async () => {
+  if (loading.value || !hasMore.value) return
   
-  if (newNotes.length > 0) {
-    notes.value.push(...newNotes)
-    page.value++
-  }
-  
-  // 检查是否还有更多
-  if (end >= allNotes.value.length) {
-    hasMore.value = false
+  loading.value = true
+  try {
+    const { notes: newNotes, hasMore: more } = await loadNotesData(page.value, pageSize)
+    
+    if (newNotes.length > 0) {
+      notes.value.push(...newNotes)
+      page.value++
+    }
+    
+    hasMore.value = more
+  } catch (error) {
+    console.error('加载笔记失败:', error)
+  } finally {
+    loading.value = false
   }
 }
 

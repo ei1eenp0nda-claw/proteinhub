@@ -12,6 +12,9 @@ import os
 # 从models导入所有模型和db
 from models import app, db, Protein, ProteinInteraction, Post, User, Note, Like, Favorite, Comment, Tag, note_tags
 
+# 导入 markdown 笔记管理
+from note_manager import get_all_notes, get_note_content, search_notes
+
 # ==================== 认证工具 ====================
 
 def validate_email(email):
@@ -289,6 +292,55 @@ def init_data():
     
     db.session.commit()
     return jsonify({'message': 'Data initialized', 'count': len(proteins)})
+
+
+# ==================== Markdown 笔记 API ====================
+
+@app.route('/api/notes/list', methods=['GET'])
+def list_notes():
+    """获取所有 md 笔记列表"""
+    page = request.args.get('page', 1, type=int)
+    per_page = request.args.get('per_page', 10, type=int)
+    
+    notes = get_all_notes()
+    total = len(notes)
+    
+    # 分页
+    start = (page - 1) * per_page
+    end = start + per_page
+    paginated_notes = notes[start:end]
+    
+    return jsonify({
+        'notes': paginated_notes,
+        'total': total,
+        'page': page,
+        'per_page': per_page,
+        'has_more': end < total
+    })
+
+
+@app.route('/api/notes/<note_id>', methods=['GET'])
+def get_note(note_id):
+    """获取单篇笔记内容"""
+    content = get_note_content(note_id)
+    if content is None:
+        return jsonify({'error': 'Note not found'}), 404
+    
+    return jsonify({
+        'id': note_id,
+        'content': content
+    })
+
+
+@app.route('/api/notes/search', methods=['GET'])
+def search_notes_api():
+    """搜索笔记"""
+    query = request.args.get('q', '')
+    if not query:
+        return jsonify({'results': []})
+    
+    results = search_notes(query)
+    return jsonify({'results': results})
 
 
 # ==================== 注册笔记和互动路由Blueprints ====================

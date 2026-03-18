@@ -1,17 +1,50 @@
 // 数据源配置与加载
-// 切换数据源时只需修改 DATA_SOURCE.current
+// 切换数据源时只需修改 DATA_SOURCE
+
+// ============ 配置区 ============
+export const DATA_SOURCE = {
+  // 数据源模式: 'json' | 'api' | 'batch_d' | 'batch_f'
+  // 'json' - 读取 public/notes-data.json (预构建)
+  // 'api'  - 调用后端 API 实时读取 md 文件
+  // 'batch_d' - Batch D 论文数据
+  // 'batch_f' - Batch F 论文数据
+  current: 'json',
+  
+  sources: {
+    json: {
+      name: '静态 JSON (预构建)',
+      file: '/notes-data.json',
+      type: 'high_quality'
+    },
+    api: {
+      name: '后端 API (动态读取 md)',
+      baseUrl: '/api',
+      type: 'api'
+    },
+    batch_d: {
+      name: 'Batch D 论文集',
+      file: '/batch_d_papers.json',
+      type: 'batch_d'
+    },
+    batch_f: {
+      name: 'Batch F 论文集',
+      file: '/batch_f_papers.json',
+      type: 'batch_f'
+    }
+  }
+}
+// =================================
 
 // 数据格式转换器
 const formatConverters = {
-  // high_quality 格式: { id, file, content }
+  // 静态 JSON 格式
   high_quality: (rawData) => {
     const notes = rawData.notes || rawData
     return notes.map((note, index) => {
       const content = note.content || ''
-      // 从 markdown 提取标题
       const titleMatch = content.match(/^#\s+(.+)$/m)
-      const title = titleMatch ? titleMatch[1].trim() : '学术笔记'
-      // 提取预览（第一段非标题文字）
+      const title = titleMatch ? titleMatch[1].trim() : (note.title || '学术笔记')
+      
       const lines = content.split('\n').filter(l => l.trim())
       let preview = ''
       for (const line of lines) {
@@ -40,9 +73,27 @@ const formatConverters = {
     })
   },
   
-  // batch_d 格式（假设是原始论文数据，需要转换）
+  // API 模式 - 数据已经是格式化好的
+  api: (data) => {
+    // API 返回的数据已经格式化
+    if (Array.isArray(data)) {
+      return data.map(note => ({
+        ...note,
+        id: note.id || note.filename,
+        title: note.title || '学术笔记',
+        content: note.content || '',
+        likes: note.likes || Math.floor(Math.random() * 500) + 10,
+        comments: note.comments || Math.floor(Math.random() * 100) + 1,
+        favorites: note.favorites || Math.floor(Math.random() * 200) + 5,
+        isLiked: false,
+        isFavorited: false,
+      }))
+    }
+    return data.notes || []
+  },
+  
+  // 原始论文数据格式
   batch_d: (rawData) => {
-    // 如果是论文数组，需要生成笔记格式
     const papers = Array.isArray(rawData) ? rawData : (rawData.papers || [])
     return papers.map((paper, index) => ({
       id: paper.paperId || `batch_d_${index}`,
@@ -61,39 +112,8 @@ const formatConverters = {
     }))
   },
   
-  // batch_f 格式
   batch_f: (rawData) => {
-    // 复用 batch_d 的逻辑（假设格式相同）
     return formatConverters.batch_d(rawData)
-  }
-}
-
-export const DATA_SOURCE = {
-  // 当前使用的数据源 - 修改这里切换
-  current: 'high_quality', // 'high_quality' | 'batch_d' | 'batch_f' | 'all'
-  
-  // 数据源定义
-  sources: {
-    high_quality: {
-      name: '高质量笔记库',
-      file: '/notes-data.json',
-      type: 'high_quality'
-    },
-    batch_d: {
-      name: 'Batch D 论文集',
-      file: '/batch_d_papers.json',
-      type: 'batch_d'
-    },
-    batch_f: {
-      name: 'Batch F 论文集', 
-      file: '/batch_f_papers.json',
-      type: 'batch_f'
-    },
-    all: {
-      name: '全部数据合并',
-      file: '/all_notes.json',
-      type: 'high_quality'
-    }
   }
 }
 
@@ -102,33 +122,99 @@ export const getCurrentSource = () => {
   return DATA_SOURCE.sources[DATA_SOURCE.current]
 }
 
-// 加载笔记数据（统一格式）
-export const loadNotesData = async () => {
+// 加载笔记列表（支持分页）
+export const loadNotesData = async (page = 1, perPage = 10) => {
   const source = getCurrentSource()
   
-  // 如果是合并模式，加载多个源
-  if (DATA_SOURCE.current === 'all') {
-    const allNotes = []
-    for (const [key, src] of Object.entries(DATA_SOURCE.sources)) {
-      if (key === 'all') continue
-      try {
-        const response = await fetch(src.file)
-        const data = await response.json()
-        const converter = formatConverters[src.type] || formatConverters.high_quality
-        const notes = converter(data)
-        allNotes.push(...notes)
-      } catch (e) {
-        console.warn(`加载 ${key} 失败:`, e)
-      }
+  // API 模式
+  if (DATA_SOURCE.current === 'api') {
+    const response = await fetch(`${source.baseUrl}/notes/list?page=${page}&per_page=${perPage}`)
+    const data = await response.json()
+    const converter = formatConverters.api
+    return {
+      notes: converter(data),
+      total: data.total,
+      hasMore: data.has_more
     }
-    return allNotes
   }
   
-  // 单数据源模式
+  // 静态 JSON 模式
   const response = await fetch(source.file)
   const rawData = await response.json()
-  
-  // 使用对应的数据转换器
   const converter = formatConverters[source.type] || formatConverters.high_quality
-  return converter(rawData)
+  const allNotes = converter(rawData)
+  
+  // 手动分页
+  const start = (page - 1) * perPage
+  const end = start + perPage
+  return {
+    notes: allNotes.slice(start, end),
+    total: allNotes.length,
+    hasMore: end < allNotes.length
+  }
+}
+
+// 加载单篇笔记详情
+export const loadNoteDetail = async (noteId) => {
+  const source = getCurrentSource()
+  
+  // API 模式
+  if (DATA_SOURCE.current === 'api') {
+    const response = await fetch(`${source.baseUrl}/notes/${noteId}`)
+    if (!response.ok) return null
+    const data = await response.json()
+    
+    const content = data.content
+    const titleMatch = content.match(/^#\s+(.+)$/m)
+    
+    return {
+      id: noteId,
+      title: titleMatch ? titleMatch[1].trim() : '学术笔记',
+      content: content,
+      author: 'ProteinHub',
+      authorAvatar: 'https://cube.elemecdn.com/0/88/03b0d39583f48206768a7534e55bcpng.png',
+      publishTime: new Date().toLocaleString('zh-CN'),
+      tags: ['科研', '生物'],
+      likes: Math.floor(Math.random() * 500) + 10,
+      favorites: Math.floor(Math.random() * 200) + 5,
+      comments: Math.floor(Math.random() * 100) + 1,
+      isLiked: false,
+      isFavorited: false
+    }
+  }
+  
+  // 静态 JSON 模式 - 加载全部后查找
+  const { notes } = await loadNotesData(1, 10000) // 加载足够多的数量
+  let targetNote = notes.find(n => n.id === noteId)
+  
+  // 降级：通过索引匹配
+  if (!targetNote && noteId.startsWith('note_')) {
+    const index = parseInt(noteId.replace('note_', ''))
+    if (!isNaN(index) && index >= 0 && index < notes.length) {
+      targetNote = notes[index]
+    }
+  }
+  
+  return targetNote
+}
+
+// 搜索笔记
+export const searchNotes = async (query) => {
+  const source = getCurrentSource()
+  
+  // API 模式
+  if (DATA_SOURCE.current === 'api') {
+    const response = await fetch(`${source.baseUrl}/notes/search?q=${encodeURIComponent(query)}`)
+    const data = await response.json()
+    return data.results || []
+  }
+  
+  // 静态 JSON 模式 - 前端搜索
+  const { notes } = await loadNotesData(1, 10000)
+  const queryLower = query.toLowerCase()
+  return notes.filter(note => 
+    note.title.toLowerCase().includes(queryLower) ||
+    note.content.toLowerCase().includes(queryLower) ||
+    note.preview.toLowerCase().includes(queryLower)
+  )
 }

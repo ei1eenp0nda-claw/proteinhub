@@ -85,7 +85,7 @@ import { useRoute, useRouter } from 'vue-router'
 import { ElMessage } from 'element-plus'
 import InteractionBar from '../components/InteractionBar.vue'
 import CommentSection from '../components/CommentSection.vue'
-import { loadNotesData } from '../config/dataSource.js'
+import { loadNoteDetail } from '../config/dataSource.js'
 
 const route = useRoute()
 const router = useRouter()
@@ -123,27 +123,15 @@ const extractTitle = (content) => {
 }
 
 // 加载笔记数据
-const loadNoteDetail = async () => {
+const fetchNoteDetail = async () => {
   loading.value = true
   noteLoaded.value = false
   
   try {
     const noteId = route.params.id
     
-    // 使用配置化的数据源加载所有笔记
-    const notesData = await loadNotesData()
-    allNotes.value = notesData
-    
-    // 根据 ID 查找对应笔记
-    let targetNote = allNotes.value.find(n => n.id === noteId)
-    
-    // 如果没找到，尝试通过索引匹配
-    if (!targetNote && noteId.startsWith('note_')) {
-      const index = parseInt(noteId.replace('note_', ''))
-      if (!isNaN(index) && index >= 0 && index < allNotes.value.length) {
-        targetNote = allNotes.value[index]
-      }
-    }
+    // 使用配置化的数据源加载单篇笔记
+    const targetNote = await loadNoteDetail(noteId)
     
     if (targetNote) {
       note.value = {
@@ -293,7 +281,7 @@ const handleReply = ({ commentId, content }) => {
 }
 
 onMounted(() => {
-  loadNoteDetail()
+  fetchNoteDetail()
 })
 </script>
 
