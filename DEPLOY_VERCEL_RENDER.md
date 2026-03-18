@@ -80,6 +80,7 @@ VITE_API_BASE_URL=https://your-render-app.onrender.com/api
 ```bash
 # 调用初始化接口（用 curl 或浏览器访问）
 curl -X POST https://your-render-app.onrender.com/api/init
+curl -X POST https://proteinhub-2zea.onrender.com/api/init
 
 # 检查健康状态
 curl https://your-render-app.onrender.com/api/health
