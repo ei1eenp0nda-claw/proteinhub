@@ -55,10 +55,8 @@
                 :class="{ 'is-active': comment.isLiked }"
                 @click="handleLikeComment(comment)"
               >
-                <el-icon :size="14">
-                  <StarFilled v-if="comment.isLiked" />
-                  <Star v-else />
-                </el-icon>
+                <el-icon :size="14" v-if="comment.isLiked"><StarFilled /></el-icon>
+                <el-icon :size="14" v-else><Star /></el-icon>
                 <span>{{ comment.likes || '赞' }}</span>
               </button>
               
@@ -96,10 +94,8 @@
                   :class="{ 'is-active': reply.isLiked }"
                   @click="handleLikeReply(reply)"
                 >
-                  <el-icon :size="12">
-                    <StarFilled v-if="reply.isLiked" />
-                    <Star v-else />
-                  </el-icon>
+                  <el-icon :size="12" v-if="reply.isLiked"><StarFilled /></el-icon>
+                  <el-icon :size="12" v-else><Star /></el-icon>
                   <span>{{ reply.likes || '赞' }}</span>
                 </button>
               </div>
