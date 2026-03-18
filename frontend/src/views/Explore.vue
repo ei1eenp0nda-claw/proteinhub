@@ -8,7 +8,7 @@
     <!-- 家族筛选 -->
     <div class="family-filter">
       <span class="label">感兴趣的家族：</span>
-      <div class="family-tags"
+      <div class="family-tags">
         <span 
           v-for="family in families" 
           :key="family"
