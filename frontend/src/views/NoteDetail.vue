@@ -85,6 +85,7 @@ import { useRoute, useRouter } from 'vue-router'
 import { ElMessage } from 'element-plus'
 import InteractionBar from '../components/InteractionBar.vue'
 import CommentSection from '../components/CommentSection.vue'
+import { loadNotesData } from '../config/dataSource.js'
 
 const route = useRoute()
 const router = useRouter()
@@ -129,18 +130,14 @@ const loadNoteDetail = async () => {
   try {
     const noteId = route.params.id
     
-    // 加载所有笔记数据
-    const response = await fetch('/notes-data.json')
-    const data = await response.json()
-    allNotes.value = data.notes || []
+    // 使用配置化的数据源加载所有笔记
+    const notesData = await loadNotesData()
+    allNotes.value = notesData
     
     // 根据 ID 查找对应笔记
-    let targetNote = null
+    let targetNote = allNotes.value.find(n => n.id === noteId)
     
-    // 尝试通过 ID 匹配
-    targetNote = allNotes.value.find(n => n.id === noteId)
-    
-    // 如果没找到，尝试通过索引匹配 (note_0, note_1, ...)
+    // 如果没找到，尝试通过索引匹配
     if (!targetNote && noteId.startsWith('note_')) {
       const index = parseInt(noteId.replace('note_', ''))
       if (!isNaN(index) && index >= 0 && index < allNotes.value.length) {
@@ -148,23 +145,18 @@ const loadNoteDetail = async () => {
       }
     }
     
-    // 如果还是没找到，显示第一个笔记（降级方案）
-    if (!targetNote && allNotes.value.length > 0) {
-      targetNote = allNotes.value[0]
-    }
-    
     if (targetNote) {
       note.value = {
         id: targetNote.id || noteId,
-        title: extractTitle(targetNote.content),
+        title: targetNote.title || extractTitle(targetNote.content),
         content: targetNote.content,
-        author: 'ProteinHub',
-        authorAvatar: 'https://cube.elemecdn.com/0/88/03b0d39583f48206768a7534e55bcpng.png',
+        author: targetNote.author || 'ProteinHub',
+        authorAvatar: targetNote.authorAvatar || 'https://cube.elemecdn.com/0/88/03b0d39583f48206768a7534e55bcpng.png',
         publishTime: new Date().toLocaleString('zh-CN'),
-        tags: ['科研', '生物', '蛋白质'],
-        likes: Math.floor(Math.random() * 500) + 10,
-        favorites: Math.floor(Math.random() * 200) + 5,
-        comments: Math.floor(Math.random() * 100) + 1,
+        tags: targetNote.tags || ['科研', '生物'],
+        likes: targetNote.likes || Math.floor(Math.random() * 500) + 10,
+        favorites: targetNote.favorites || Math.floor(Math.random() * 200) + 5,
+        comments: targetNote.comments || Math.floor(Math.random() * 100) + 1,
         isLiked: false,
         isFavorited: false
       }

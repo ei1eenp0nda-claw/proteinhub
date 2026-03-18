@@ -50,6 +50,7 @@ import { ref, computed, onMounted, onUnmounted } from 'vue'
 import { useRouter } from 'vue-router'
 import { ElMessage } from 'element-plus'
 import NoteCard from '../components/NoteCard.vue'
+import { loadNotesData } from '../config/dataSource.js'
 
 defineOptions({
   name: 'Feed'
@@ -111,28 +112,9 @@ const parseNoteContent = (content) => {
 const loadHighQualityNotes = async () => {
   loading.value = true
   try {
-    const response = await fetch('/notes-data.json')
-    const data = await response.json()
-    
-    // 转换数据格式
-    allNotes.value = data.notes.map((note, index) => {
-      const { title, preview } = parseNoteContent(note.content)
-      return {
-        id: note.id || `note_${index}`,
-        title: title || '学术笔记',
-        preview: preview || '',
-        content: note.content,
-        author: 'ProteinHub',
-        authorAvatar: '',
-        likes: Math.floor(Math.random() * 500) + 10,
-        comments: Math.floor(Math.random() * 100) + 1,
-        favorites: Math.floor(Math.random() * 200) + 5,
-        isLiked: false,
-        isFavorited: false,
-        tags: ['科研', '生物'],
-        createdAt: new Date().toISOString()
-      }
-    })
+    // 使用配置化的数据源
+    const notesData = await loadNotesData()
+    allNotes.value = notesData
     
     // 初始加载前10条
     loadMoreNotes()
