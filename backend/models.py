@@ -12,8 +12,16 @@ import os
 app = Flask(__name__)
 CORS(app)
 
-# 配置
-app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv('DATABASE_URL', 'sqlite:///proteinhub.db')
+# 配置 - 支持 Render 和本地环境
+# Render 使用 /tmp 目录保证可写（免费版文件系统限制）
+if os.getenv('RENDER'):
+    # Render 环境 - 使用 /tmp 目录
+    db_path = '/tmp/proteinhub.db'
+else:
+    # 本地环境
+    db_path = os.path.join(os.path.dirname(__file__), 'proteinhub.db')
+
+app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv('DATABASE_URL', f'sqlite:///{db_path}')
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 db = SQLAlchemy(app)

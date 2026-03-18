@@ -1,0 +1,14 @@
+# ProteinHub Backend - Render Deployment
+# Start command: gunicorn app:app
+
+# Environment Variables:
+# - DATABASE_URL: sqlite:///proteinhub.db (default)
+# - SECRET_KEY: your-secret-key (optional, has default)
+# - FLASK_ENV: production
+
+buildCommand: "pip install -r requirements.txt"
+startCommand: "gunicorn app:app --bind 0.0.0.0:$PORT --workers 2 --timeout 60"
+
+# SQLite database is ephemeral on Render free tier
+# Data will reset on each deploy/restart
+# For production, migrate to PostgreSQL

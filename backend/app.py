@@ -31,23 +31,25 @@ def validate_password(password):
 
 def create_access_token(user_id):
     """创建JWT访问令牌"""
+    secret_key = os.getenv('SECRET_KEY', 'proteinhub-secret-key')
     payload = {
         'user_id': user_id,
         'token_type': 'access',
         'exp': datetime.utcnow() + timedelta(hours=24),
         'iat': datetime.utcnow()
     }
-    return jwt.encode(payload, 'proteinhub-secret-key', algorithm='HS256')
+    return jwt.encode(payload, secret_key, algorithm='HS256')
 
 def create_refresh_token(user_id):
     """创建JWT刷新令牌"""
+    secret_key = os.getenv('SECRET_KEY', 'proteinhub-secret-key')
     payload = {
         'user_id': user_id,
         'token_type': 'refresh',
         'exp': datetime.utcnow() + timedelta(days=7),
         'iat': datetime.utcnow()
     }
-    return jwt.encode(payload, 'proteinhub-secret-key', algorithm='HS256')
+    return jwt.encode(payload, secret_key, algorithm='HS256')
 
 def get_token_from_header():
     """从请求头提取Bearer令牌"""
@@ -67,7 +69,8 @@ def require_auth(f):
         if not token:
             return jsonify({'error': '缺少认证令牌'}), 401
         try:
-            payload = jwt.decode(token, 'proteinhub-secret-key', algorithms=['HS256'])
+            secret_key = os.getenv('SECRET_KEY', 'proteinhub-secret-key')
+            payload = jwt.decode(token, secret_key, algorithms=['HS256'])
             if payload.get('token_type') != 'access':
                 return jsonify({'error': '无效的访问令牌'}), 401
             user_id = payload.get('user_id')
