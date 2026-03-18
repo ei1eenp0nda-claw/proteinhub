@@ -12,25 +12,18 @@
       </div>
     </header>
 
-    <div class="detail-content">
+    <div class="detail-content" v-if="noteLoaded">
       <!-- 左侧内容区 -->
       <div class="content-main">
         <!-- 作者信息 -->
         <div class="author-section">
-          <router-link :to="'/user/' + note.authorId" class="author-link">
+          <div class="author-link">
             <el-avatar :size="48" :src="note.authorAvatar" />
             <div class="author-info">
               <div class="author-name">{{ note.author }}</div>
               <div class="publish-time">{{ note.publishTime }}</div>
             </div>
-          </router-link>
-          <el-button 
-            :type="isFollowing ? 'default' : 'primary'" 
-            @click="toggleFollow"
-            class="follow-btn"
-          >
-            {{ isFollowing ? '已关注' : '关注' }}
-          </el-button>
+          </div>
         </div>
 
         <!-- 笔记标题 -->
@@ -38,23 +31,6 @@
 
         <!-- 笔记正文 -->
         <div class="note-body" v-html="renderedContent"></div>
-
-        <!-- 原文信息 -->
-        <div class="source-info" v-if="note.source">
-          <el-divider content-position="left">原文信息</el-divider>
-          <div class="source-card">
-            <div class="source-title">{{ note.source.title }}</div>
-            <div class="source-meta">
-              <span class="source-journal">{{ note.source.journal }}</span>
-              <span class="source-year">{{ note.source.year }}</span>
-              <span class="source-citations">被引 {{ note.source.citations }} 次</span>
-            </div>
-            <div class="source-authors">{{ note.source.authors }}</div>
-            <el-link type="primary" :href="note.source.url" target="_blank">
-              查看原文 <el-icon><ArrowRight /></el-icon>
-            </el-link>
-          </div>
-        </div>
 
         <!-- 标签 -->
         <div class="note-tags" v-if="note.tags && note.tags.length">
@@ -88,32 +64,17 @@
           @reply="handleReply"
         />
       </div>
+    </div>
 
-      <!-- 右侧相关推荐 -->
-      <aside class="content-sidebar">
-        <div class="sidebar-section">
-          <h3>相关笔记推荐</h3>
-          <div class="related-notes">
-            <div 
-              v-for="related in relatedNotes" 
-              :key="related.id"
-              class="related-item"
-              @click="goToRelated(related.id)"
-            >
-              <div class="related-cover" v-if="related.cover">
-                <img :src="related.cover" :alt="related.title">
-              </div>
-              <div class="related-info">
-                <div class="related-title">{{ related.title }}</div>
-                <div class="related-author">{{ related.author }}</div>
-                <div class="related-stats">
-                  <span><el-icon><Star /></el-icon> {{ related.likes }}</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </aside>
+    <!-- 加载中 -->
+    <div v-else-if="loading" class="loading-state">
+      <el-skeleton :rows="10" animated />
+    </div>
+
+    <!-- 笔记不存在 -->
+    <div v-else class="error-state">
+      <el-empty description="笔记不存在或已被删除" />
+      <el-button @click="goBack">返回首页</el-button>
     </div>
   </div>
 </template>
@@ -127,174 +88,162 @@ import CommentSection from '../components/CommentSection.vue'
 
 const route = useRoute()
 const router = useRouter()
-const noteId = computed(() => route.params.id)
 
 // 状态
-const isFollowing = ref(false)
+const loading = ref(true)
+const noteLoaded = ref(false)
 const commentSection = ref(null)
+const allNotes = ref([])
 
-// Mock笔记数据
+// 当前笔记
 const note = ref({
-  id: noteId.value,
-  title: 'CRISPR-Cas9技术在基因编辑中的最新进展',
-  author: '张博士',
-  authorId: '1',
+  id: '',
+  title: '',
+  author: 'ProteinHub',
   authorAvatar: 'https://cube.elemecdn.com/0/88/03b0d39583f48206768a7534e55bcpng.png',
-  publishTime: '2024-03-10 14:30',
-  content: `# CRISPR-Cas9技术概述
-
-CRISPR-Cas9（规律成簇的间隔短回文重复序列及其相关蛋白9）是一种革命性的基因编辑技术，被誉为"基因剪刀"。
-
-## 技术原理
-
-CRISPR-Cas9系统主要由两部分组成：
-1. **Cas9蛋白**：一种能够切割DNA的核酸酶
-2. **sgRNA（单链向导RNA）**：引导Cas9蛋白到达特定基因位点
-
-## 最新研究进展
-
-### 1. 碱基编辑技术
-2023年，研究人员开发了更精确的碱基编辑器，可以在不切断DNA双链的情况下实现单碱基替换，大大降低了脱靶效应。
-
-### 2.  Prime Editing（先导编辑）
-David Liu团队开发的先导编辑技术能够实现所有类型的碱基替换，以及小片段的插入和删除，精度更高。
-
-### 3. 临床应用突破
-- **地中海贫血**：2023年有多项临床试验显示积极结果
-- **遗传性失明**：EDIT-101在临床试验中显示出安全性
-- **癌症免疫治疗**：CRISPR改造的CAR-T细胞疗法获批上市
-
-## 技术挑战与展望
-
-尽管CRISPR-Cas9技术取得了巨大进展，但仍面临一些挑战：
-- 脱靶效应的完全消除
-- 体内递送效率的提升
-- 伦理和监管问题
-
-未来，随着技术的不断完善，CRISPR有望在遗传病治疗、农业育种、合成生物学等领域发挥更大作用。`,
-  source: {
-    title: 'CRISPR-Cas9: A Revolutionary Tool for Genome Editing',
-    journal: 'Nature Reviews Molecular Cell Biology',
-    year: '2023',
-    citations: 12580,
-    authors: 'Doudna JA, Charpentier E, et al.',
-    url: 'https://www.nature.com/articles/crispr-review'
-  },
-  tags: ['CRISPR', '基因编辑', '生物技术', '医学进展'],
-  likes: 1280,
-  favorites: 456,
-  comments: 89,
+  publishTime: '',
+  content: '',
+  tags: [],
+  likes: 0,
+  favorites: 0,
+  comments: 0,
   isLiked: false,
   isFavorited: false
 })
 
-// Mock评论数据
-const comments = ref([
-  {
-    id: 1,
-    author: '李研究员',
-    avatar: 'https://cube.elemecdn.com/3/7c/3ea6beec64369c2642b92c6726f1epng.png',
-    content: '总结得很全面！特别是碱基编辑和先导编辑的部分，这些新技术确实大大降低了脱靶风险。',
-    time: '2小时前',
-    likes: 24,
-    isLiked: false,
-    replies: [
-      {
-        id: 11,
-        author: '张博士',
-        avatar: 'https://cube.elemecdn.com/0/88/03b0d39583f48206768a7534e55bcpng.png',
-        content: '谢谢认可！确实，精准度是临床应用的关键。',
-        time: '1小时前',
-        likes: 8,
-        isLiked: false,
-        replyTo: '李研究员'
-      }
-    ]
-  },
-  {
-    id: 2,
-    author: '王教授',
-    avatar: 'https://cube.elemecdn.com/9/9f/9f5c5f5c5f5c5f5c5f5c5f5c5f5c5f5c.png',
-    content: '建议补充一下CRISPR在农业领域的应用，比如抗病作物的培育。',
-    time: '5小时前',
-    likes: 15,
-    isLiked: false,
-    replies: []
-  },
-  {
-    id: 3,
-    author: '陈学者',
-    avatar: 'https://cube.elemecdn.com/1/1f/1f5c5f5c5f5c5f5c5f5c5f5c5f5c5f5c.png',
-    content: '请问一下，目前CRISPR治疗遗传病的临床试验有哪些是开放招募的？',
-    time: '1天前',
-    likes: 32,
-    isLiked: false,
-    replies: []
-  }
-])
+// 评论数据
+const comments = ref([])
 
-// Mock相关笔记
-const relatedNotes = ref([
-  {
-    id: 101,
-    title: 'mRNA疫苗技术原理与临床应用综述',
-    author: '刘博士',
-    cover: 'https://picsum.photos/200/150?random=101',
-    likes: 892
-  },
-  {
-    id: 102,
-    title: 'AlphaFold2预测蛋白质结构的突破性研究',
-    author: '赵研究员',
-    cover: 'https://picsum.photos/200/150?random=102',
-    likes: 2156
-  },
-  {
-    id: 103,
-    title: 'CAR-T细胞疗法治疗血液肿瘤的临床进展',
-    author: '孙教授',
-    cover: 'https://picsum.photos/200/150?random=103',
-    likes: 567
-  },
-  {
-    id: 104,
-    title: '单细胞测序技术在肿瘤研究中的应用',
-    author: '周博士',
-    cover: null,
-    likes: 423
+// 从 markdown 内容提取标题
+const extractTitle = (content) => {
+  if (!content) return '学术笔记'
+  const match = content.match(/^#\s+(.+)$/m)
+  return match ? match[1].trim() : '学术笔记'
+}
+
+// 加载笔记数据
+const loadNoteDetail = async () => {
+  loading.value = true
+  noteLoaded.value = false
+  
+  try {
+    const noteId = route.params.id
+    
+    // 加载所有笔记数据
+    const response = await fetch('/notes-data.json')
+    const data = await response.json()
+    allNotes.value = data.notes || []
+    
+    // 根据 ID 查找对应笔记
+    let targetNote = null
+    
+    // 尝试通过 ID 匹配
+    targetNote = allNotes.value.find(n => n.id === noteId)
+    
+    // 如果没找到，尝试通过索引匹配 (note_0, note_1, ...)
+    if (!targetNote && noteId.startsWith('note_')) {
+      const index = parseInt(noteId.replace('note_', ''))
+      if (!isNaN(index) && index >= 0 && index < allNotes.value.length) {
+        targetNote = allNotes.value[index]
+      }
+    }
+    
+    // 如果还是没找到，显示第一个笔记（降级方案）
+    if (!targetNote && allNotes.value.length > 0) {
+      targetNote = allNotes.value[0]
+    }
+    
+    if (targetNote) {
+      note.value = {
+        id: targetNote.id || noteId,
+        title: extractTitle(targetNote.content),
+        content: targetNote.content,
+        author: 'ProteinHub',
+        authorAvatar: 'https://cube.elemecdn.com/0/88/03b0d39583f48206768a7534e55bcpng.png',
+        publishTime: new Date().toLocaleString('zh-CN'),
+        tags: ['科研', '生物', '蛋白质'],
+        likes: Math.floor(Math.random() * 500) + 10,
+        favorites: Math.floor(Math.random() * 200) + 5,
+        comments: Math.floor(Math.random() * 100) + 1,
+        isLiked: false,
+        isFavorited: false
+      }
+      noteLoaded.value = true
+    } else {
+      noteLoaded.value = false
+    }
+  } catch (error) {
+    console.error('加载笔记失败:', error)
+    noteLoaded.value = false
+  } finally {
+    loading.value = false
   }
-])
+}
 
 // Markdown渲染（简单实现）
 const renderedContent = computed(() => {
   let content = note.value.content
+  if (!content) return ''
+  
   // 转换标题
-  content = content.replace(/^### (.*$)/gim, '<h3>$1</h3>')
-  content = content.replace(/^## (.*$)/gim, '<h2>$1</h2>')
-  content = content.replace(/^# (.*$)/gim, '<h1>$1</h1>')
+  content = content.replace(/^###\s+(.+)$/gim, '<h3>$1</h3>')
+  content = content.replace(/^##\s+(.+)$/gim, '<h2>$1</h2>')
+  content = content.replace(/^#\s+(.+)$/gim, '<h1>$1</h1>')
+  
   // 转换加粗
-  content = content.replace(/\*\*(.*)\*\*/gim, '<strong>$1</strong>')
+  content = content.replace(/\*\*(.+)\*\*/gim, '<strong>$1</strong>')
+  
   // 转换列表
-  content = content.replace(/^- (.*$)/gim, '<li>$1</li>')
-  content = content.replace(/(<li>.*<\/li>)/gims, '<ul>$1</ul>')
-  // 转换段落
-  content = content.replace(/\n\n/gim, '</p><p>')
-  content = '<p>' + content + '</p>'
-  // 清理多余的p标签
-  content = content.replace(/<p><(h[123]|ul)/gim, '<$1')
-  content = content.replace(/<\/(h[123]|ul)><\/p>/gim, '</$1>')
-  return content
+  content = content.replace(/^-\s+(.+)$/gim, '<li>$1</li>')
+  
+  // 包裹列表
+  content = content.replace(/(<li>.+<\/li>\n?)+/g, '<ul>$1</ul>')
+  
+  // 转换段落（按行处理）
+  const lines = content.split('\n')
+  const result = []
+  let inParagraph = false
+  
+  for (let line of lines) {
+    const trimmed = line.trim()
+    
+    // 跳过空行
+    if (!trimmed) {
+      if (inParagraph) {
+        result.push('</p>')
+        inParagraph = false
+      }
+      continue
+    }
+    
+    // 已经是标签的行直接添加
+    if (trimmed.startsWith('<')) {
+      if (inParagraph) {
+        result.push('</p>')
+        inParagraph = false
+      }
+      result.push(line)
+      continue
+    }
+    
+    // 普通文本
+    if (!inParagraph) {
+      result.push('<p>')
+      inParagraph = true
+    }
+    result.push(line)
+  }
+  
+  if (inParagraph) {
+    result.push('</p>')
+  }
+  
+  return result.join('\n')
 })
 
 // 返回上一页
 const goBack = () => {
   router.back()
-}
-
-// 关注/取消关注
-const toggleFollow = () => {
-  isFollowing.value = !isFollowing.value
-  ElMessage.success(isFollowing.value ? '已关注' : '已取消关注')
 }
 
 // 点赞
@@ -351,16 +300,8 @@ const handleReply = ({ commentId, content }) => {
   }
 }
 
-// 跳转到相关笔记
-const goToRelated = (id) => {
-  router.push(`/note/${id}`)
-  // 重新加载页面数据
-  window.location.reload()
-}
-
 onMounted(() => {
-  // 实际项目中这里会根据noteId获取笔记详情
-  ElMessage.success('笔记加载完成')
+  loadNoteDetail()
 })
 </script>
 
@@ -403,15 +344,12 @@ onMounted(() => {
 }
 
 .detail-content {
-  display: flex;
-  gap: 20px;
-  max-width: 1200px;
+  max-width: 800px;
   margin: 0 auto;
   padding: 80px 20px 40px;
 }
 
 .content-main {
-  flex: 1;
   background: #fff;
   border-radius: 12px;
   padding: 24px;
@@ -431,11 +369,6 @@ onMounted(() => {
   gap: 12px;
   text-decoration: none;
   flex: 1;
-  transition: opacity 0.2s;
-}
-
-.author-link:hover {
-  opacity: 0.7;
 }
 
 .author-info {
@@ -454,10 +387,6 @@ onMounted(() => {
   margin-top: 2px;
 }
 
-.follow-btn {
-  border-radius: 16px;
-}
-
 .note-title {
   font-size: 24px;
   font-weight: 600;
@@ -473,37 +402,39 @@ onMounted(() => {
 }
 
 .note-body :deep(h1) {
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 600;
-  margin: 24px 0 16px;
+  margin: 28px 0 16px;
   color: #1a1a1a;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 8px;
 }
 
 .note-body :deep(h2) {
   font-size: 18px;
   font-weight: 600;
-  margin: 20px 0 12px;
+  margin: 24px 0 12px;
   color: #1a1a1a;
 }
 
 .note-body :deep(h3) {
   font-size: 16px;
   font-weight: 600;
-  margin: 16px 0 10px;
+  margin: 20px 0 10px;
   color: #1a1a1a;
 }
 
 .note-body :deep(p) {
-  margin-bottom: 12px;
+  margin-bottom: 16px;
 }
 
 .note-body :deep(ul) {
-  margin: 12px 0;
+  margin: 16px 0;
   padding-left: 24px;
 }
 
 .note-body :deep(li) {
-  margin-bottom: 6px;
+  margin-bottom: 8px;
 }
 
 .note-body :deep(strong) {
@@ -511,135 +442,31 @@ onMounted(() => {
   color: #1a1a1a;
 }
 
-.source-info {
-  margin: 24px 0;
-}
-
-.source-card {
-  background: #f8f9fa;
-  border-radius: 8px;
-  padding: 16px;
-  border-left: 4px solid #409eff;
-}
-
-.source-title {
-  font-size: 15px;
-  font-weight: 500;
-  color: #333;
-  margin-bottom: 8px;
-}
-
-.source-meta {
-  display: flex;
-  gap: 16px;
-  font-size: 13px;
-  color: #666;
-  margin-bottom: 8px;
-}
-
-.source-authors {
-  font-size: 13px;
-  color: #999;
-  margin-bottom: 12px;
-}
-
 .note-tags {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
-  margin: 16px 0;
+  margin: 24px 0;
 }
 
 .note-meta {
   font-size: 13px;
   color: #999;
   margin-bottom: 20px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid #eee;
 }
 
-.content-sidebar {
-  width: 300px;
-  flex-shrink: 0;
+.loading-state {
+  max-width: 800px;
+  margin: 80px auto 0;
+  padding: 24px;
 }
 
-.sidebar-section {
-  background: #fff;
-  border-radius: 12px;
-  padding: 16px;
-  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
-}
-
-.sidebar-section h3 {
-  font-size: 16px;
-  font-weight: 600;
-  margin-bottom: 16px;
-  color: #1a1a1a;
-}
-
-.related-notes {
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
-}
-
-.related-item {
-  display: flex;
-  gap: 12px;
-  cursor: pointer;
-  padding: 8px;
-  border-radius: 8px;
-  transition: background 0.2s;
-}
-
-.related-item:hover {
-  background: #f5f7fa;
-}
-
-.related-cover {
-  width: 80px;
-  height: 60px;
-  border-radius: 6px;
-  overflow: hidden;
-  flex-shrink: 0;
-}
-
-.related-cover img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-.related-info {
-  flex: 1;
-  min-width: 0;
-}
-
-.related-title {
-  font-size: 14px;
-  font-weight: 500;
-  color: #333;
-  line-height: 1.4;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-  margin-bottom: 4px;
-}
-
-.related-author {
-  font-size: 12px;
-  color: #999;
-  margin-bottom: 4px;
-}
-
-.related-stats {
-  font-size: 12px;
-  color: #999;
-}
-
-@media (max-width: 968px) {
-  .content-sidebar {
-    display: none;
-  }
+.error-state {
+  max-width: 400px;
+  margin: 120px auto 0;
+  text-align: center;
 }
 
 @media (max-width: 768px) {
@@ -653,6 +480,10 @@ onMounted(() => {
   
   .note-title {
     font-size: 20px;
+  }
+  
+  .note-body {
+    font-size: 14px;
   }
 }
 </style>
