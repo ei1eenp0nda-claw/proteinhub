@@ -11,7 +11,7 @@
           v-model="commentContent"
           type="textarea"
           :rows="inputRows"
-          :placeholder="replyTo ? `回复 ${replyTo}...` : '写下你的评论...'
+          :placeholder="getPlaceholder()"
           maxlength="500"
           show-word-limit
           @focus="inputRows = 3"
@@ -135,6 +135,14 @@ const replyTo = ref(null)
 const replyCommentId = ref(null)
 
 const currentUserAvatar = ref('https://cube.elemecdn.com/3/7c/3ea6beec64369c2642b92c6726f1epng.png')
+
+// 获取placeholder
+const getPlaceholder = () => {
+  if (replyTo.value) {
+    return '回复 ' + replyTo.value + '...'
+  }
+  return '写下你的评论...'
+}
 
 // 计算总评论数（包括回复）
 const totalComments = computed(() => {

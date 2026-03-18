@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>ProteinHub - 发现</title>
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif;
+            background: #f5f5f5;
+            padding-bottom: 60px;
+        }
+        .header {
+            position: fixed; top: 0; left: 0; right: 0; height: 50px;
+            background: #fff; display: flex; align-items: center; justify-content: space-between;
+            padding: 0 16px; z-index: 100; box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+        .logo { font-size: 20px; font-weight: bold; color: #ff2442; display: flex; align-items: center; gap: 6px; }
+        .search-box {
+            flex: 1; margin: 0 16px; height: 36px; background: #f5f5f5; border-radius: 18px;
+            display: flex; align-items: center; padding: 0 16px; color: #999; font-size: 14px;
+        }
+        .tags-bar {
+            position: fixed; top: 50px; left: 0; right: 0; height: 44px; background: #fff;
+            display: flex; align-items: center; padding: 0 16px; gap: 20px; overflow-x: auto;
+            z-index: 99; border-bottom: 1px solid #f0f0f0;
+        }
+        .tags-bar::-webkit-scrollbar { display: none; }
+        .tag-item { white-space: nowrap; font-size: 14px; color: #666; cursor: pointer; }
+        .tag-item.active { color: #ff2442; font-weight: 600; }
+        .main-content { margin-top: 94px; padding: 8px; }
+        .waterfall { column-count: 2; column-gap: 8px; }
+        .note-card {
+            break-inside: avoid; margin-bottom: 8px; background: #fff; border-radius: 12px;
+            overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.04); cursor: pointer;
+        }
+        .note-image { width: 100%; aspect-ratio: 4/3; display: flex; align-items: center; justify-content: center; font-size: 40px; }
+        .note-content { padding: 10px; }
+        .note-title { font-size: 13px; line-height: 1.4; color: #333; margin-bottom: 6px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+        .note-author { display: flex; align-items: center; justify-content: space-between; }
+        .author-info { display: flex; align-items: center; gap: 4px; }
+        .author-avatar { width: 16px; height: 16px; border-radius: 50%; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); display: flex; align-items: center; justify-content: center; font-size: 10px; }
+        .author-name { font-size: 11px; color: #666; }
+        .note-likes { display: flex; align-items: center; gap: 2px; font-size: 11px; color: #999; }
+        .bottom-nav {
+            position: fixed; bottom: 0; left: 0; right: 0; height: 60px; background: #fff;
+            display: flex; justify-content: space-around; align-items: center; border-top: 1px solid #f0f0f0; z-index: 100;
+        }
+        .nav-item { display: flex; flex-direction: column; align-items: center; gap: 4px; color: #999; font-size: 10px; cursor: pointer; }
+        .nav-item.active { color: #ff2442; }
+        .nav-item i { font-size: 24px; }
+        .loading { text-align: center; padding: 40px; color: #999; }
+        .stats-bar {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #fff; padding: 12px 16px; margin: 8px; border-radius: 12px;
+            display: flex; justify-content: space-around; text-align: center;
+        }
+        .stat-box h3 { font-size: 20px; margin-bottom: 4px; }
+        .stat-box p { font-size: 12px; opacity: 0.9; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="logo"><i class="ri-flask-fill"></i><span>ProteinHub</span></div>
+        <div class="search-box"><i class="ri-search-line"></i><span>搜索蛋白质、文献、研究</span></div>
+        <i class="ri-notification-3-line" style="font-size: 22px; color: #333;"></i>
+    </div>
+    
+    <div class="tags-bar">
+        <div class="tag-item active">推荐</div>
+        <div class="tag-item">CIDEA</div>
+        <div class="tag-item">PLIN</div>
+        <div class="tag-item">ATGL</div>
+        <div class="tag-item">脂滴研究</div>
+        <div class="tag-item">代谢疾病</div>
+        <div class="tag-item">最新</div>
+    </div>
+    
+    <div class="main-content">
+        <div class="stats-bar">
+            <div class="stat-box">
+                <h3 id="paperCount">2136</h3>
+                <p>真实论文</p>
+            </div>
+            <div class="stat-box">
+                <h3 id="noteCount">10305</h3>
+                <p>科研笔记</p>
+            </div>
+            <div class="stat-box">
+                <h3>15+</h3>
+                <p>蛋白家族</p>
+            </div>
+        </div>
+        
+        <div class="waterfall" id="waterfall">
+            <div class="loading">加载中...</div>
+        </div>
+    </div>
+    
+    <div class="bottom-nav">
+        <div class="nav-item active"><i class="ri-home-fill"></i><span>首页</span></div>
+        <div class="nav-item"><i class="ri-compass-3-line"></i><span>发现</span></div>
+        <div class="nav-item" style="background: #ff2442; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center;"><i class="ri-add-fill" style="color: #fff; font-size: 24px;"></i></div>
+        <div class="nav-item"><i class="ri-message-3-line"></i><span>消息</span></div>
+        <div class="nav-item"><i class="ri-user-line"></i><span>我</span></div>
+    </div>
+
+    <script>
+        // 模拟笔记数据（实际应从后端API获取）
+        const mockNotes = [
+            { id: 1, title: "🔬 CIDEA两亲性螺旋揭秘！磷脂酸结合是脂滴融合的关键", protein: "CIDEA", author: "CIDEA研究组", avatar: "🧬", likes: "2.3k", emoji: "🧬", gradient: "linear-gradient(135deg, #667eea 0%, #764ba2 100%)" },
+            { id: 2, title: "💊 从基础到临床：CIDEA作为肥胖治疗新靶点的十年探索", protein: "CIDEA", author: "CIDEA研究组", avatar: "🧬", likes: "1.8k", emoji: "💊", gradient: "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)" },
+            { id: 3, title: "🧪 研究故事：如何通过结构生物学发现CIDEA的工作机制", protein: "CIDEA", author: "CIDEA研究组", avatar: "🧬", likes: "956", emoji: "🔬", gradient: "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)" },
+            { id: 4, title: "🐭 CIDEA敲除小鼠揭秘：为什么它们吃不胖？", protein: "CIDEA", author: "CIDEA研究组", avatar: "🧬", likes: "3.2k", emoji: "🐭", gradient: "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)" },
+            { id: 5, title: "🔥 CIDEA调控UCP1！白色脂肪褐变的新机制", protein: "CIDEA", author: "CIDEA研究组", avatar: "🧬", likes: "1.5k", emoji: "🔥", gradient: "linear-gradient(135deg, #fa709a 0%, #fee140 100%)" },
+            { id: 6, title: "🫁 CIDEB：肝脏脂肪代谢的隐形调控者", protein: "CIDEB", author: "CIDEB研究组", avatar: "🔬", likes: "1.1k", emoji: "🫁", gradient: "linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)" },
+            { id: 7, title: "📊 CIDEA在棕色vs白色脂肪中的差异化作用", protein: "CIDEA", author: "CIDEA研究组", avatar: "🧬", likes: "876", emoji: "📊", gradient: "linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%)" },
+            { id: 8, title: "🧬 CIDE家族的进化：从果蝇到人类的脂质调控", protein: "CIDEA", author: "CIDEA研究组", avatar: "🧬", likes: "654", emoji: "🧬", gradient: "linear-gradient(135deg, #667eea 0%, #764ba2 100%)" },
+            { id: 9, title: "🧬 CIDEC/FSP27：脂滴融合的另一关键调控因子", protein: "CIDEC", author: "CIDEC研究组", avatar: "🔬", likes: "1.3k", emoji: "🧬", gradient: "linear-gradient(135deg, #fa709a 0%, #fee140 100%)" },
+            { id: 10, title: "🔥 PLIN1：脂滴表面蛋白家族的开创者", protein: "PLIN1", author: "PLIN1研究组", avatar: "⚗️", likes: "2.1k", emoji: "🔥", gradient: "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)" },
+            { id: 11, title: "⚡ ATGL：脂肪分解的第一把钥匙", protein: "ATGL", author: "ATGL研究组", avatar: "💉", likes: "1.9k", emoji: "⚡", gradient: "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)" },
+            { id: 12, title: "🔍 CGI-58/ABHD5：ATGL的得力助手", protein: "ATGL", author: "ATGL研究组", avatar: "💉", likes: "987", emoji: "🔍", gradient: "linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)" },
+        ];
+
+        function renderNotes() {
+            const container = document.getElementById('waterfall');
+            container.innerHTML = mockNotes.map(note => `
+                <div class="note-card" onclick="openNote(${note.id})">
+                    <div class="note-image" style="background: ${note.gradient};">${note.emoji}</div>
+                    <div class="note-content">
+                        <div class="note-title">${note.title}</div>
+                        <div class="note-author">
+                            <div class="author-info">
+                                <div class="author-avatar">${note.avatar}</div>
+                                <span class="author-name">${note.author}</span>
+                            </div>
+                            <div class="note-likes">
+                                <i class="ri-heart-fill"></i>
+                                <span>${note.likes}</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function openNote(id) {
+            console.log('打开笔记详情:', id);
+            // 实际应跳转到笔记详情页
+        }
+
+        // 标签切换
+        document.querySelectorAll('.tag-item').forEach(tag => {
+            tag.addEventListener('click', function() {
+                document.querySelectorAll('.tag-item').forEach(t => t.classList.remove('active'));
+                this.classList.add('active');
+            });
+        });
+
+        // 初始化
+        renderNotes();
+        
+        // 加载更多（模拟）
+        window.addEventListener('scroll', () => {
+            if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 100) {
+                // 实际应从后端加载更多
+                console.log('加载更多...');
+            }
+        });
+    </script>
+</body>
+</html>
