@@ -7,7 +7,27 @@ import glob
 import re
 from pathlib import Path
 
-NOTES_DIR = Path(__file__).parent.parent.parent / 'data' / 'high_quality_notes'
+def get_notes_dir():
+    """获取笔记目录（支持多种运行环境）"""
+    # 尝试多种可能的路径
+    possible_paths = [
+        # 标准项目结构
+        Path(__file__).parent.parent.parent / 'data' / 'high_quality_notes',
+        # 测试环境（backend 目录下）
+        Path(__file__).parent.parent / 'data' / 'high_quality_notes',
+        # 当前工作目录
+        Path.cwd() / 'data' / 'high_quality_notes',
+        Path.cwd().parent / 'data' / 'high_quality_notes',
+    ]
+    
+    for path in possible_paths:
+        if path.exists():
+            return path
+    
+    # 返回默认路径（即使不存在，让调用者处理）
+    return possible_paths[0]
+
+NOTES_DIR = get_notes_dir()
 
 def get_all_notes():
     """获取所有笔记列表（不含内容）"""
@@ -60,9 +80,12 @@ def get_note_content(note_id):
 
 def search_notes(query):
     """搜索笔记"""
+    if not query or not query.strip():
+        return []
+    
     results = []
-    query_lower = query.lower()
-    md_files = sorted(NOTES_DIR.glob('*.md'))
+    query_lower = query.lower().strip()
+    md_files = sorted(get_notes_dir().glob('*.md'))
     
     for idx, md_file in enumerate(md_files):
         content = md_file.read_text(encoding='utf-8').lower()
