@@ -293,13 +293,15 @@ def init_data():
 
 # ==================== 注册笔记和互动路由Blueprints ====================
 
+from routes.notes import notes_bp
+from routes.interactions import interactions_bp
+
+app.register_blueprint(notes_bp, url_prefix='/api')
+app.register_blueprint(interactions_bp, url_prefix='/api')
+
+# 数据库初始化
+with app.app_context():
+    db.create_all()
+
 if __name__ == '__main__':
-    from routes.notes import notes_bp
-    from routes.interactions import interactions_bp
-    
-    app.register_blueprint(notes_bp, url_prefix='/api')
-    app.register_blueprint(interactions_bp, url_prefix='/api')
-    
-    with app.app_context():
-        db.create_all()
     app.run(debug=False, host='0.0.0.0', port=5000)
