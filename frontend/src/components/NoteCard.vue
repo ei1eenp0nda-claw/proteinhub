@@ -36,10 +36,8 @@
         
         <div class="card-stats">
           <span class="stat-item" @click.stop="handleLike">
-            <el-icon :size="14">
-              <StarFilled v-if="note.isLiked" />
-              <Star v-else />
-            </el-icon>
+            <el-icon :size="14" v-if="note.isLiked"><StarFilled /></el-icon>
+            <el-icon :size="14" v-else><Star /></el-icon>
             <span class="stat-num">{{ formatNumber(note.likes) }}</span>
           </span>
         </div>
