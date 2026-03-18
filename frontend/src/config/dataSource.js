@@ -8,7 +8,7 @@ export const DATA_SOURCE = {
   // 'api'  - 调用后端 API 实时读取 md 文件
   // 'batch_d' - Batch D 论文数据
   // 'batch_f' - Batch F 论文数据
-  current: 'json',
+  current: 'api',
   
   sources: {
     json: {
