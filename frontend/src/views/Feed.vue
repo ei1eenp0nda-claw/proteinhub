@@ -57,9 +57,6 @@ defineOptions({
 
 const router = useRouter()
 
-// 当前用户ID
-const currentUserId = ref('1')
-
 // 状态
 const searchQuery = ref('')
 const notes = ref([])
@@ -67,7 +64,9 @@ const loading = ref(false)
 const hasMore = ref(true)
 const page = ref(1)
 const pageSize = 10
+const allNotes = ref([])  // 存储所有高清笔记
 const userAvatar = ref('https://cube.elemecdn.com/3/7c/3ea6beec64369c2642b92c6726f1epng.png')
+const currentUserId = ref('1')
 const feedContent = ref(null)
 
 // 瀑布流列数（响应式）
@@ -82,126 +81,83 @@ const columns = computed(() => {
   return cols
 })
 
-// Mock数据生成
-const generateMockNotes = (pageNum, size) => {
-  const mockNotes = []
-  const titles = [
-    'CRISPR-Cas9技术在基因编辑中的最新进展',
-    'AlphaFold2预测蛋白质结构的突破性研究',
-    'mRNA疫苗技术原理与临床应用综述',
-    '单细胞测序技术在肿瘤研究中的应用',
-    '肠道微生物组与代谢疾病关联性研究',
-    'CAR-T细胞疗法治疗血液肿瘤的临床进展',
-    '人工智能在药物发现中的应用前景',
-    '线粒体功能障碍与神经退行性疾病',
-    '表观遗传学调控在癌症发生中的作用',
-    '干细胞治疗心脏病的最新临床试验结果'
-  ]
+// 解析markdown内容，提取标题和预览
+const parseNoteContent = (content) => {
+  if (!content) return { title: '', preview: '' }
   
-  const authors = ['张博士', '李研究员', '王教授', '陈学者', '刘博士', '赵研究员']
+  // 提取第一行作为标题（通常是 # 开头）
+  const lines = content.split('\n').filter(line => line.trim())
+  let title = ''
+  let preview = ''
   
-  for (let i = 0; i < size; i++) {
-    const id = (pageNum - 1) * size + i + 1
-    mockNotes.push({
-      id: id,
-      title: titles[Math.floor(Math.random() * titles.length)],
-      author: authors[Math.floor(Math.random() * authors.length)],
-      authorId: Math.floor(Math.random() * 3) + 1,
-      authorAvatar: `https://cube.elemecdn.com/0/88/03b0d39583f48206768a7534e55bcpng.png`,
-      cover: Math.random() > 0.3 ? `https://picsum.photos/300/${400 + Math.floor(Math.random() * 200)}?random=${id}` : null,
-      likes: Math.floor(Math.random() * 1000) + 10,
-      favorites: Math.floor(Math.random() * 500) + 5,
-      comments: Math.floor(Math.random() * 100) + 1,
-      isLiked: false,
-      isFavorited: false
-    })
-  }
-  return mockNotes
-}
-
-// 从localStorage获取当前用户ID
-const getCurrentUserId = () => {
-  try {
-    const userStr = localStorage.getItem('user')
-    if (userStr) {
-      const user = JSON.parse(userStr)
-      return user.id
+  for (const line of lines) {
+    const trimmed = line.trim()
+    if (trimmed.startsWith('# ')) {
+      title = trimmed.replace(/^#\s*/, '')
+    } else if (trimmed.startsWith('## ')) {
+      continue  // 跳过副标题
+    } else if (trimmed.length > 20 && !preview) {
+      // 找到第一段有意义的文字作为预览
+      preview = trimmed.substring(0, 100) + (trimmed.length > 100 ? '...' : '')
     }
-  } catch (e) {
-    console.error('Failed to parse user from localStorage:', e)
+    
+    if (title && preview) break
   }
-  return null
+  
+  return { title, preview }
 }
 
-// API基础URL
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:5000/api'
-
-// 获取笔记列表（支持个性化推荐）
-const fetchNotes = async () => {
-  if (loading.value || !hasMore.value) return
-  
+// 从本地JSON加载高清笔记
+const loadHighQualityNotes = async () => {
   loading.value = true
   try {
-    const userId = getCurrentUserId()
+    const response = await fetch('/notes-data.json')
+    const data = await response.json()
     
-    let url = `${API_BASE_URL}/notes/feed?page=${page.value}&per_page=${pageSize}`
-    if (userId) {
-      url += `&user_id=${userId}`
-    }
-    
-    const response = await fetch(url, {
-      method: 'GET',
-      headers: {
-        'Content-Type': 'application/json',
+    // 转换数据格式
+    allNotes.value = data.notes.map((note, index) => {
+      const { title, preview } = parseNoteContent(note.content)
+      return {
+        id: note.id || `note_${index}`,
+        title: title || '学术笔记',
+        preview: preview || '',
+        content: note.content,
+        author: 'ProteinHub',
+        authorAvatar: '',
+        likes: Math.floor(Math.random() * 500) + 10,
+        comments: Math.floor(Math.random() * 100) + 1,
+        favorites: Math.floor(Math.random() * 200) + 5,
+        isLiked: false,
+        isFavorited: false,
+        tags: ['科研', '生物'],
+        createdAt: new Date().toISOString()
       }
     })
     
-    if (!response.ok) {
-      throw new Error(`HTTP error! status: ${response.status}`)
-    }
-    
-    const result = await response.json()
-    
-    if (result.success) {
-      const newNotes = result.data.items || []
-      const pagination = result.data.pagination
-      
-      const formattedNotes = newNotes.map(note => ({
-        id: note.id,
-        title: note.title,
-        preview: note.preview,
-        author: note.author?.username || '匿名用户',
-        authorId: note.author?.id,
-        authorAvatar: note.author?.avatar_url || 'https://cube.elemecdn.com/0/88/03b0d39583f48206768a7534e55bcpng.png',
-        cover: null,
-        likes: note.like_count || 0,
-        favorites: note.favorite_count || 0,
-        comments: note.comment_count || 0,
-        tags: note.tags || [],
-        isLiked: note.is_liked || false,
-        isFavorited: note.is_favorited || false,
-        createdAt: note.created_at
-      }))
-      
-      if (formattedNotes.length < pageSize || !pagination?.has_next) {
-        hasMore.value = false
-      }
-      
-      notes.value.push(...formattedNotes)
-      page.value++
-    } else {
-      throw new Error(result.error || '获取数据失败')
-    }
+    // 初始加载前10条
+    loadMoreNotes()
   } catch (error) {
-    console.error('Fetch error:', error)
-    ElMessage.error('加载失败，请重试')
-    if (notes.value.length === 0) {
-      const mockNotes = generateMockNotes(page.value, pageSize)
-      notes.value.push(...mockNotes)
-      page.value++
-    }
+    console.error('加载笔记失败:', error)
+    ElMessage.error('加载笔记失败')
   } finally {
     loading.value = false
+  }
+}
+
+// 加载更多笔记（分页）
+const loadMoreNotes = () => {
+  const start = (page.value - 1) * pageSize
+  const end = start + pageSize
+  const newNotes = allNotes.value.slice(start, end)
+  
+  if (newNotes.length > 0) {
+    notes.value.push(...newNotes)
+    page.value++
+  }
+  
+  // 检查是否还有更多
+  if (end >= allNotes.value.length) {
+    hasMore.value = false
   }
 }
 
@@ -213,20 +169,30 @@ const refreshFeed = () => {
   if (feedContent.value) {
     feedContent.value.scrollTop = 0
   }
-  fetchNotes()
+  loadMoreNotes()
 }
 
 // 滚动加载
 const handleScroll = (e) => {
   const { scrollTop, scrollHeight, clientHeight } = e.target
-  if (scrollHeight - scrollTop - clientHeight < 100) {
-    fetchNotes()
+  if (scrollHeight - scrollTop - clientHeight < 100 && !loading.value && hasMore.value) {
+    loadMoreNotes()
   }
 }
 
 // 搜索
 const handleSearch = () => {
-  ElMessage.info(`搜索: ${searchQuery.value}`)
+  if (!searchQuery.value.trim()) return
+  
+  const query = searchQuery.value.toLowerCase()
+  const filtered = allNotes.value.filter(note => 
+    note.title.toLowerCase().includes(query) ||
+    note.preview.toLowerCase().includes(query) ||
+    note.content.toLowerCase().includes(query)
+  )
+  
+  notes.value = filtered.slice(0, 20)
+  hasMore.value = false
 }
 
 // 创建笔记
@@ -252,9 +218,7 @@ const updateColumnCount = () => {
 }
 
 onMounted(() => {
-  if (notes.value.length === 0) {
-    fetchNotes()
-  }
+  loadHighQualityNotes()
   updateColumnCount()
   window.addEventListener('resize', updateColumnCount)
 })
