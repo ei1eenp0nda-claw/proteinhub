@@ -1,38 +1,133 @@
+# ProteinHub - Production Docker Compose
+# Version: 3.8
+
 version: '3.8'
+
 services:
-  db:
-    image: postgres:15
+  # ========== PostgreSQL Database ==========
+  postgres:
+    image: postgres:15-alpine
+    container_name: proteinhub-postgres
+    restart: unless-stopped
     environment:
-      POSTGRES_DB: proteinhub
-      POSTGRES_USER: proteinhub
-      POSTGRES_PASSWORD: proteinhub123
+      POSTGRES_DB: ${POSTGRES_DB:-proteinhub}
+      POSTGRES_USER: ${POSTGRES_USER:-proteinhub}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-change_me_in_production}
+      PGDATA: /var/lib/postgresql/data/pgdata
     volumes:
       - postgres_data:/var/lib/postgresql/data
+      - ./scripts/init-db.sql:/docker-entrypoint-initdb.d/01-init.sql:ro
     ports:
-      - "5432:5432"
-  
+      - "127.0.0.1:5432:5432"  # Only accessible locally
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-proteinhub} -d ${POSTGRES_DB:-proteinhub}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - proteinhub-network
+
+  # ========== Redis Cache ==========
+  redis:
+    image: redis:7-alpine
+    container_name: proteinhub-redis
+    restart: unless-stopped
+    command: redis-server --appendonly yes --maxmemory 256mb --maxmemory-policy allkeys-lru
+    volumes:
+      - redis_data:/data
+    ports:
+      - "127.0.0.1:6379:6379"  # Only accessible locally
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - proteinhub-network
+
+  # ========== Backend API ==========
   backend:
     build:
-      context: .
-      dockerfile: Dockerfile.backend
-    ports:
-      - "5000:5000"
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: proteinhub-backend
+    restart: unless-stopped
     environment:
-      DATABASE_URL: postgresql://proteinhub:proteinhub123@db:5432/proteinhub
-      FLASK_ENV: development
+      # Database
+      DATABASE_URL: postgresql://${POSTGRES_USER:-proteinhub}:${POSTGRES_PASSWORD:-change_me_in_production}@postgres:5432/${POSTGRES_DB:-proteinhub}
+      
+      # Redis
+      REDIS_URL: redis://redis:6379/0
+      
+      # Security
+      SECRET_KEY: ${SECRET_KEY:-change_this_to_a_random_string_in_production}
+      JWT_SECRET_KEY: ${JWT_SECRET_KEY:-change_this_to_a_different_random_string}
+      
+      # Flask
+      FLASK_ENV: production
+      FLASK_DEBUG: 0
+      
+      # CORS
+      CORS_ORIGINS: ${CORS_ORIGINS:-https://proteinhub.example.com}
+      
+      # Logging
+      LOG_LEVEL: ${LOG_LEVEL:-INFO}
+      LOG_FORMAT: json
+      
+      # Gunicorn
+      WORKERS: ${WORKERS:-4}
+      WORKER_TIMEOUT: ${WORKER_TIMEOUT:-120}
+      
+      # Rate Limiting
+      RATE_LIMIT_ENABLED: ${RATE_LIMIT_ENABLED:-true}
+      RATE_LIMIT_DEFAULT: ${RATE_LIMIT_DEFAULT:-100/minute}
+      
+    volumes:
+      - ./data:/app/data:rw
+      - ./logs:/app/logs:rw
+      - backend_static:/app/static:rw
     depends_on:
-      - db
-  
-  frontend:
-    build:
-      context: .
-      dockerfile: Dockerfile.frontend
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    networks:
+      - proteinhub-network
+    # Expose port only to internal network (accessed via nginx)
+    expose:
+      - "5000"
+
+  # ========== Nginx Reverse Proxy ==========
+  nginx:
+    image: nginx:alpine
+    container_name: proteinhub-nginx
+    restart: unless-stopped
     ports:
-      - "5173:5173"
-    environment:
-      VITE_API_BASE_URL: http://localhost:5000/api
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx/conf.d:/etc/nginx/conf.d:ro
+      - ./nginx/ssl:/etc/nginx/ssl:ro
+      - ./frontend/dist:/usr/share/nginx/html:ro
+      - backend_static:/usr/share/nginx/static:ro
+      - ./logs/nginx:/var/log/nginx:rw
     depends_on:
       - backend
+    networks:
+      - proteinhub-network
 
 volumes:
   postgres_data:
+    driver: local
+  redis_data:
+    driver: local
+  backend_static:
+    driver: local
+
+networks:
+  proteinhub-network:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.20.0.0/16

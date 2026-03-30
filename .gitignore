@@ -1,23 +1,16 @@
-# Python
+# Dependencies
+node_modules/
 __pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-*.egg-info/
+*.pyc
+.env
+
+# Build outputs
 dist/
 build/
 
-# Database
-*.db
-*.sqlite
-*.sqlite3
-
-# Environment
-.env
-.venv
-venv/
-env/
+# Logs
+*.log
+logs/
 
 # IDE
 .vscode/
@@ -25,10 +18,14 @@ env/
 *.swp
 *.swo
 
-# Node
-node_modules/
-frontend/dist/
-
 # OS
 .DS_Store
 Thumbs.db
+
+# Database
+*.sqlite
+*.db
+
+# Temporary files
+tmp/
+temp/

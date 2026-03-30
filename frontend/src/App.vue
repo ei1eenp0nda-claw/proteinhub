@@ -1,17 +1,11 @@
 <template>
   <div id="app">
-    <router-view v-slot="{ Component }">
-      <keep-alive include="Feed">
-        <component :is="Component" />
-      </keep-alive>
-    </router-view>
+    <router-view />
   </div>
 </template>
 
-<script>
-export default {
-  name: 'App'
-}
+<script setup>
+// App root component
 </script>
 
 <style>
@@ -23,7 +17,10 @@ export default {
 
 body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-  background: #f5f7fa;
+  background-color: #f5f5f5;
+}
+
+#app {
   min-height: 100vh;
 }
 </style>

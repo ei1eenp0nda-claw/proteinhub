@@ -1,0 +1,14 @@
+{
+  "proteinId": "PLIN1",
+  "capturedAt": "2026-03-24T06:12:36.262Z",
+  "devices": [
+    "iPhone 14",
+    "Desktop"
+  ],
+  "pageInfo": {
+    "title": "ProteinHub - 蛋白发现平台",
+    "url": "http://localhost:5173/protein/PLIN1",
+    "proteinName": "N/A",
+    "noteCount": 0
+  }
+}
