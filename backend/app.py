@@ -347,9 +347,11 @@ def search_notes_api():
 
 from routes.notes import notes_bp
 from routes.interactions import interactions_bp
+from routes.recommendation import rec_bp
 
 app.register_blueprint(notes_bp, url_prefix='/api')
 app.register_blueprint(interactions_bp, url_prefix='/api')
+app.register_blueprint(rec_bp)
 
 # 数据库初始化
 with app.app_context():
